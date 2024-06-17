@@ -138,65 +138,66 @@
 |  data                         // 按院校进行分类的原始内容  
 |  tokenized_data               // 按院校进行分类的分词内容  
 |  unified_data                 // 统一索引的原始内容  
-|  unified_tokenized_data       // 统一索引的分词内容和对应url
-│  doc_urls.json                // 存储文档ID和对应URL的JSON文件
-│  InvertedIndex.py             // 倒排索引的实现代码
-│  inverted_index.json          // 倒排索引的JSON文件
-│  Query_search.py              // 查询搜索的实现代码
-│  README.md                    // 项目说明文档
-│  Scraper.py                   // 网页抓取脚本
-│
-├─chromedriver-win64            // ChromeDriver的文件夹
-│      chromedriver.exe         // ChromeDriver可执行文件
-│      LICENSE.chromedriver     // ChromeDriver的许可证文件
-│
-├─QueryCorrection               // 查询纠正模块
-│      char.txt                 // 字符文件
-│      Create_dict.py           // 创建词典的脚本
-│      Create_pinyinmodel.py    // 创建拼音模型的脚本
-│      dict.txt                 // 词典文件
-│      inverted_index.json      // 查询纠正模块的倒排索引
-│      pinyin2word.model        // 拼音到词的模型文件
-│
-└─search_engine                 // Django项目的根目录
-    │  db.sqlite3               // SQLite数据库文件
-    │  manage.py                // Django管理脚本
-    │  unified_data.zip         // 压缩的统一数据文件
-    │
-    ├─data                      // 查询纠正数据
-    │      char.txt             // 字符文件
-    │      dict.txt             // 词典文件
-    │      doc_urls.json        // 文档ID和URL的对应文件
-    │      inverted_index.json  // 倒排索引文件
-    │      pinyin2word.model    // 拼音到词的模型文件
-    │
-    ├─search                    // Django应用文件夹
-    │  │  admin.py              // 管理界面配置文件
-    │  │  apps.py               // 应用配置文件
-    │  │  models.py             // 数据模型定义文件
-    │  │  tests.py              // 测试文件
-    │  │  urls.py               // 路由配置文件
-    │  │  views.py              // 视图文件
-    │  │  __init__.py           // 应用初始化文件
-    │
-    ├─search_engine             // 项目的核心配置文件夹
-    │  │  asgi.py               // ASGI配置文件
-    │  │  settings.py           // 项目配置文件
-    │  │  urls.py               // 项目路由文件
-    │  │  wsgi.py               // WSGI配置文件
-    │  │  __init__.py           // 项目初始化文件
-    │
-    ├─static                    // 静态文件目录
-    │      style.css            // 样式文件
-    │
-    ├─stopwords-master          // 停用词文件夹
-    │      baidu_stopwords.txt  // 百度停用词表
-    │      cn_stopwords.txt     // 中文停用词表
-    │      hit_stopwords.txt    // 哈工大停用词表
-    │      README.md            // 停用词说明文档
-    │      scu_stopwords.txt    // 四川大学停用词表
-    │
-    └─templates                 // 模板文件夹
-            index.html          // 搜索主页模板
-            results.html        // 搜索结果页面模板
+|  unified_tokenized_data       // 统一索引的分词内容和对应url  
+│  doc_urls.json                // 存储文档ID和对应URL的JSON文件  
+│  InvertedIndex.py             // 倒排索引的实现代码  
+│  inverted_index.json          // 倒排索引的JSON文件  
+│  Query_search.py              // 查询搜索的实现代码  
+│  README.md                    // 项目说明文档  
+│  Scraper.py                   // 网页抓取脚本  
+│  
+├─chromedriver-win64            // ChromeDriver的文件夹  
+│      chromedriver.exe         // ChromeDriver可执行文件  
+│      LICENSE.chromedriver     // ChromeDriver的许可证文件  
+│  
+├─QueryCorrection               // 查询纠正模块  
+│      char.txt                 // 字符文件  
+│      Create_dict.py           // 创建词典的脚本  
+│      Create_pinyinmodel.py    // 创建拼音模型的脚本  
+│      dict.txt                 // 词典文件  
+│      inverted_index.json      // 查询纠正模块的倒排索引  
+│      pinyin2word.model        // 拼音到词的模型文件  
+│  
+└─search_engine                 // Django项目的根目录  
+    │  db.sqlite3               // SQLite数据库文件  
+    │  manage.py                // Django管理脚本  
+    │  unified_data.zip         // 压缩的统一数据文件  
+    │  
+    ├─data                      // 查询纠正数据  
+    │      char.txt             // 字符文件  
+    │      dict.txt             // 词典文件  
+    │      doc_urls.json        // 文档ID和URL的对应文件  
+    │      inverted_index.json  // 倒排索引文件  
+    │      pinyin2word.model    // 拼音到词的模型文件  
+    │  
+    ├─search                    // Django应用文件夹  
+    │  │  admin.py              // 管理界面配置文件  
+    │  │  apps.py               // 应用配置文件  
+    │  │  models.py             // 数据模型定义文件  
+    │  │  tests.py              // 测试文件  
+    │  │  urls.py               // 路由配置文件  
+    │  │  views.py              // 视图文件  
+    │  │  __init__.py           // 应用初始化文件  
+    │  
+    ├─search_engine             // 项目的核心配置文件夹  
+    │  │  asgi.py               // ASGI配置文件  
+    │  │  settings.py           // 项目配置文件  
+    │  │  urls.py               // 项目路由文件  
+    │  │  wsgi.py               // WSGI配置文件  
+    │  │  __init__.py           // 项目初始化文件  
+    │  
+    ├─static                    // 静态文件目录  
+    │      style.css            // 样式文件  
+    │  
+    ├─stopwords-master          // 停用词文件夹  
+    │      baidu_stopwords.txt  // 百度停用词表  
+    │      cn_stopwords.txt     // 中文停用词表  
+    │      hit_stopwords.txt    // 哈工大停用词表  
+    │      README.md            // 停用词说明文档  
+    │      scu_stopwords.txt    // 四川大学停用词表  
+    │  
+    └─templates                 // 模板文件夹  
+            index.html          // 搜索主页模板  
+            results.html        // 搜索结果页面模板  
+
 
