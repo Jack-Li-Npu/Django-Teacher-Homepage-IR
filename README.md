@@ -90,13 +90,14 @@
    ```
    cd QueryCorrection
    ```
+2. **将上述生成的unified_data文件夹拖入到QueryCorrection文件夹中**
 
-2. **运行Create_dict.py** 将 `inverted_index.json` 转换为 `dict.txt`：
+3. **运行Create_dict.py** 将 `inverted_index.json` 转换为 `dict.txt`：
    ```
    python Create_dict.py
    ```
 
-3. **运行Create_pinyinmodel.py** 将拼音对应term结果写入 `pinyin2word.model` 文件：
+4. **运行Create_pinyinmodel.py** 将拼音对应term结果写入 `pinyin2word.model` 文件：
    ```
    python Create_pinyinmodel.py
    ```
