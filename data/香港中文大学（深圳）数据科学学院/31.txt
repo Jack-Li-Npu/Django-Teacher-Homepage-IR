@@ -1,0 +1,102 @@
+HAVIV, Moshe
+教授
+教育背景
+耶鲁大学运筹学与管理学博士，1982-1983
+耶鲁大学行政学硕士，1979-1982
+以色列特拉维夫大学数学学士，1975-1979
+研究领域
+运筹学、排队模型、决策和队列中的战略行为、马尔可夫决策过程
+个人网站
+http://pluto.huji.ac.il/~haviv
+电子邮箱
+havivmoshe@cuhk.edu.cn
+办公室
+道远楼511b
+个人简介
+Moshe Haviv教授现为香港中文大学（深圳）数据科学学院教授。在此之前，他是耶路撒冷希伯来大学统计系教授。Moshe Haviv教授以最优等成绩从以色列特拉维夫大学获得数学学士学位，并在耶鲁大学获硕士及博士学位。
+Moshe Haviv教授是Federmann Center for the Study of Rationality成员，曾担任耶路撒冷希伯来大学统计系主任（2008-2012），以色列运筹研究学会主席（2012-2014），以及耶路撒冷希伯来大学养老基金理事会主席（2014-2017）。他目前的研究方向是运筹学、排队模型、决策和队列中的战略行为、马尔可夫决策过程、大型马尔可夫链。
+学术著作
+REFEREED PAPERS IN PROFESSIONAL JOURNALS
+1. M. Haviv and L. Van der Heyden, "Perturbation bounds for the stationary probabilities of a finite Markov chain," Advances in Applied Probability, vol. 16, pp. 804-818, 1984.
+2. M. Haviv and U.G. Rothblum, "Bounds on the distances between eigenvalues," Linear Algebra and its Applications, vol. 63, pp.101-118, 1984.
+3. R.S. Dembo and M. Haviv, "Truncated policy iteration methods," Operations Research Letters, vol. 3, pp. 243-246, 1984.
+4. M. Haviv, "Block successive approximation for a discounted Markov decision model," Stochastic Processes and their Applications, vol. 19, pp. 151-160, 1985.
+5. M. Haviv and Y. Ritov, "An approximation to the stationary distribution of a nearly completely decomposable Markov chain and its error bounds," SIAM Journal on Algebraic and Discrete Methods, vol. 7, pp.583-588, 1986.
+6. M. Haviv, "An approximation to the stationary distribution of a nearly completely decomposable Markov chain and its error analysis," SIAM Journal on Algebraic and Discrete Methods, vol. 7, pp. 589-594, 1986.
+7. M. Haviv, "Aggregation/disaggregation methods for computing the stationary distribution of a Markov chain," SIAM Journal on Numerical Analysis, vol. 24, pp. 952-966, 1987.
+8. M. Haviv, Y. Ritov and U.G. Rothblum, "Iterative methods for approximating the subdominant modulus of an eigenvalue of a nonnegative matrix," Linear Algebra and its Applications, vol. 87, pp. 61-76, 1987.
+9. M. Haviv and Y. Ritov, "The variance of the waiting time in a queuing system with jockeying," Communications in Statistics - Stochastic Models, vol. 4, pp.161-182, 1988.
+10. M. Haviv, "Error bounds on an approximation to the dominant eigenvector of a nonnegative matrix," Linear and Multilinear Algebra, vol. 23, pp. 159-164, 1988.
+11. Y. Hassin and M. Haviv, "Patterns of crime based on a Markov chain model," (in Hebrew) Crime and Social Deviances, vol. 17, pp. 83-103, 1989.
+12. M. Haviv, "More on a Rayleigh-Ritz refinement technique for nearly uncoupled stochastic matrices," SIAM Journal on Matrix Analysis and Applications, vol. 10, pp. 287-293, 1989.
+13. Assaf and M. Haviv, "Reneging from time sharing and random queues," Mathematics of Operations Research, vol. 15, pp.129-138, 1990.
+14. M. Haviv, "Stable strategies for processor sharing systems," European Journal of Operational Research, vol. 52, no.1, pp.103-106, 1991.
+15. M. Haviv and M.L. Puterman, "An improved algorithm for solving communicating average reward Markov decision processes," Annals of Operations Research, vol. 28, pp. 229-242, 1991.
+16. M. Haviv, "Two sufficient properties for the insensitivity of a class of queuing models," Journal of Applied Probability, vol. 28, pp. 664-672, 1991.
+17. M. Haviv, Y. Ritov and U. Rothblum, "Taylor expansions of eigenvalues of perturbed matrices with applications to spectral radii of nonnegative matrices," Linear Algebra and its Applications, vol. 168, pp. 159-188, 1992.
+18. R. Hassin and M. Haviv, "Mean passage times and nearly uncoupled Markov chains," SIAM Journal on Discrete Mathematics, vol. 5, pp. 386-397, 1992.
+19. M. Haviv and M.L. Puterman, "An unbiased estimator for the value of a discounted reward process," Operations Research Letters, vol. 11, pp. 267-272, 1992.
+20. M. Haviv, "An aggregation/disaggregation algorithm for computing the stationary distribution of a large Markov chain," Communications in Statistics - Stochastic Models, vol. 8, pp. 565-575, 1992.
+21. M. Haviv and Y. Ritov, "On series expansions and stochastic matrices," SIAM Journal on Matrix Analysis and Applications, vol. 14, pp. 670-677, 1993.
+22. R. Hassin and M. Haviv, "Equilibrium strategies and the value of information in a two line queuing system with threshold jockeying," Communications in Statistics - Stochastic Models, vol. 10, pp.415-436, 1994.
+23. M. Haviv and Y. Ritov, "Bounds on the angle between an invariant subspace and an approximation to it for non-self-ad joint matrices," NumerischeMathematik, vol. 67, pp. 491-500, 1994.
+24. R. Hassin and M. Haviv, "Equilibrium strategies for queues with impatient customers," Operations Research Letters, vol. 17,pp. 41-45, 1995.
+25. M. Haviv, "Consecutive amalgamations and an axiomatization of the Shapley value," Economics Letters, vol. 49, pp. 7-11, 1995.
+26. M. Haviv, "On constrained Markov decision processes," Operations Research Letters, vol. 19, pp. 25-28, 1996.
+27. R. Hassin and M. Haviv, "Optimal and equilibrium retrial rates in a queueing system," Probability in the Engineering and Informational Sciences, vol. 10, pp. 223-227, 1996.
+28. T.H. Chung and M. Haviv, "An iterative procedure for multichain closed networks of queues," Asia-Pacific Journal of Operations Research, vol. 13, pp. 133-147, 1996.
+29. R. Hassin and M. Haviv, "Equilibrium threshold strategies: The case of queues with priorities," Operations Research, vol. 45, pp. 966-973, 1997.
+30. M. Haviv and J. van der Wal, "Equilibrium strategies for processor sharing and queues with relative priorities," Probability in the Engineering and Informational Sciences, vol. 11, pp. 403-412, 1997.
+31. M. Haviv and M.L. Puterman, "Bias optimality in controlled queueing systems," Journal of Applied Probability, vol. 35, pp. 136-150, 1998.
+32. M. Haviv and Y. Ritov, "Externalities, tangible externalities and queueing disciplines," Management Science, vol. 44, pp. 850-858, 1998.
+33. M. Haviv and G.J.J.A.N. Van Houtum, "The critical traffic intensity in variants of the shortest and longest queue system," Communications in Statistics - Stochastic Models, vol. 14, pp. 1179-1196, 1998.
+34. M. Haviv, "On censored Markov chains, best augmentation and aggregation/disaggregation procedures," Computers and Operations Research, vol. 26, pp. 1125-1131, 1999. (A special issue on Aggregation/disaggregation Methods).
+35. K.E. Avrachenkov, M. Haviv and P.G. Howlett, "Inversion of analytic matrix functions that are singularly at the origin," SIAM Journal on Matrix Analysis and Applications, vol. 22, pp. 1175-1189, 2001.
+36. M. Haviv, "The Aumann-Shapley price mechanism for allocating costs in congested systems," Operations Research Letters, vol. 29,pp. 221-229, 2001.
+37. M. Haviv and Y. Ritov, "Homogeneous customers renege from invisible queues at random times under deteriorating waiting conditions," Queueing Systems: Theory and Applications, vol. 38, pp. 495-508, 2001.
+38. R. Hassin and M. Haviv, "Nash equilibrium and subgame perfection: The case of observable queues," Annals of Operations Research, vol. 113, pp. 15-26, 2002.
+39. K.E. Avrachenkov, J.A. Filar and M. Haviv, "Singular perturbations of Markov chains and decision processes," Markov Decision Processes: Models, Methods, Directions and Open Problems, edited by E. A. Feinberg and A. Shwartz, Kluwer Academic Publishers, pp. 113-152, 2002.
+40. M. Armony and M. Haviv, "Price and delay competition between two service providers," European Journal of Operational Research, vol. 147, pp.32-50, 2003.
+41. K. E. Avrachenkov and M. Haviv, "Perturbation of null spaces with applications to the eigenvalue problem and generalized inverses," Linear Algebra and Its Applications, vol. 369, pp.1-25, 2003.
+42. E. Avrachenkov and M. Haviv, "The first Laurent series coefficients for singularly perturbed stochastic matrices," Linear Algebra and Its Applications, vol. 386, pp.243-259, 2004.
+43. R. Hassin and M. Haviv, "Who should be given priority in a queue?" Operations Research Letters, vol. 34, pp. 191-198, 2006.
+44. S. Anily and M. Haviv, "Cost allocation problem for the first order interaction joint replenishment model," Operations Research, vol. 55, pp. 292-302, 2007.
+45. M. Haviv and Y. Kerner, "On balking from an empty queue," Queueing Systems: Theory and Applications, vol. 55, pp. 239-249, 2007.
+46. M. Haviv and T. Roughgarden, "The price of anarchy: the case of an exponential multi-server," Operations Research Letters, vol. 35, pp. 421-426, 2007.
+47. M. Haviv and J. van der Wal, "Waiting times in queues with relative priorities,” Operations Research Letters, vol. 35, pp. 591-594, 2007.
+48. M. Haviv and J. van der Wal, "Mean waiting times for phase type discriminatory processor sharing," European Journal of Operational Research, vol.189, pp.375-386, 2008.
+49. I. Adan and M. Haviv, "Conditional ages and residual service times in an M/G/1 queue," Stochastic Models, vol. 25, pp.110-118, 2009, (also EURANDOM Report no. 2008 – 023).
+50. M. Haviv, O. Kella and Y. Kerner, "Equilibrium strategies in queues based on time or index of arrival," Probability in the Engineering and Informational Sciences, vol. 24, pp.13-25, 2010.
+51. E. Altman and M. Haviv, "Broadcasting forever," Proceedings of the First ICST International Conference on Game Theory for Networks, pp. 484-487, 2009.
+52. S. Anily and M. Haviv, "Cooperation in service systems," Operations Research, vol. 58, pp. 660-673, 2010.
+53. M. Haviv, ''Strategic customer behavior in a single server queue'' Wiley Encyclopedia of Operations Research and Management Science .
+54. M. Haviv and Y. Kerner, "The age of the arrival process in the G/M/1 and M/G/1 queues,” Mathematical Methods in Operations Research, vol. 73, pp. 139-152, 2011 (also EURANDOM Report no. 2008 – 039).
+55. M. Haviv and R. Zlotnikov, "Computational schemes for two exponential servers where the first has a finite buffer,” RAIRO – Operations Research, vol. 45, pp. 17-66, 2011.
+56. M. Haviv and I. Milchtaich , "Auctions with a random number of identical bidders," Economics Letters, vol. 111, pp. 143-146, 2012.
+57. M. Haviv, "When to arrive at a queue with tardiness costs?" Performance Evaluation, vol. 70, pp. 387-399, 2013.
+58. M. Haviv, "Regulating an M/G/1 queue when customers know their demand," Performance Evaluation, vol. 77, pp. 57-71, 2014.
+59. M. Haviv and R.S. Randhawa, "Pricing in queues without demand information," Manufacturing & Service Operations Management, vol. 16, pp. 401-411, 2014.
+60. S. Anily and M. Haviv, "Subadditive and homogeneous of degree one games are totally balanced," Operations Research, vol. 62, pp. 788-793, 2014.
+61. L. Ravner and M. Haviv, "Equilibrium and socially optimal arrivals to a loss system," Proceedings of NetGCoop 2014, Trento, Italy. Best paper award.
+62. M. Haviv and L. Ravner, "Strategic timing of arrivals to a finite queue multi-server loss system," Queueing Systems: Theory and Applications, vol. 81, pp. 71-96, 2015.
+63. M. Haviv, "The performance of a single server queue with preemptive random priorities," Performance Evaluation, vol. 103, pp. 60-68, 2016.
+64. S. Hautphenne and M. Haviv, "On bias optimal number of waiting places in the M/M/1/K queue: An application of the deviation matrix," Probability in the Engineering and Informational Sciences, vol. 30(1), pp. 61-78, 2016.
+65. M. Haviv and B. Oz, "Regulating an observable M/M/1 queue," Operations Research Letters, vol. 44, pp. 196-198, 2016.
+66. M. Haviv and L. Ravner, "Strategic bidding in an accumulating priority queue," Annals of Operations Research, vol. 244, pp. 505-523, 2016.
+67. L. Ravner, M. Haviv and H. Vu, "A strategic timing of arrivals to a linear slowdown processor sharing system," European Journal of Operational Research, vol. 255, pp. 496-504, 2016.
+68. S. Anily and M. Haviv, "Line balancing in parallel M/M/1 lines and loss systems as cooperative games," Production and Operations Management, vol. 26, pp. 1568-1584, 2017.
+69. M. Haviv and B. Oz, "Self-regulation of an unobservable queue," Management Science, vol. 64, pp. 2380-2389, 2018.
+70. B. Oz, I. Adan and M. Haviv, "A rate balance principle and its application to queueing models," Queueing Systems: Theory and Applications, vol. 87, pp 95-111, 2017. 71. B. Oz, M. Haviv and M.L. Puterman, "The advantage of relative priority regimes in multi-class multi-server queueing systems with strategic routing," Operations Research Letters, vol. 45, pp. 498-502, 2017.
+72. M. Haviv and B. Oz, "Social cost of deviation: new and old results on optimal customer behavior in queues," Queueing Models and Service Management, vol. 1, 31-58, 2018.
+73. D. Bendel and M. Haviv, "Cooperation and Sharing Costs in a Tandem Queueing Network," European Journal of Operational Research, vol. 271, pp. 926-933, 2018.
+74. R. Abeywickrama, M. Haviv, B. Oz, and I. Ziedins, "Strategic bidding in a discrete accumulating priority queue," Operations Research Letters, vol. 47, pp. 162-167, 2019.
+75. B. Oz, I. Adan and M. Haviv, "The Mn/Gn/1 queue with vacations and exhaustive service," European Journal of Operational Research (forthcoming).
+76. T. Alon and M. Haviv, "Pooling risk games," Submitted for journal publication.
+  BOOKS
+1. To Queue or not to Queue: Equilibrium Behavior in Queueing Systems (co-authored with Refael Hassin
+   - Errata
+2. Queues–A Course in Queueing Theory 
+   - Errata
+   - Solution Manual
+3. Introduction to Descriptive Statistics and Probability (in Hebrew)
+4. Linear Programming, Network Models and Markov Decision Processes

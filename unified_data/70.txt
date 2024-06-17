@@ -1,0 +1,21 @@
+王梓丞
+助理教授
+教育背景
+博士，工业工程系，明尼苏达大学，双城分校（2015-2021）
+学士，数学系，明尼苏达大学，双城分校 （2011-2015）
+研究领域
+随机过程、癌症数据科学、运营管理
+个人网站
+https://zicheng-wang.com/
+办公室
+综合楼C711
+个人简介
+王梓丞博士现任香港中文大学（深圳）助理教授。他于2015年获明尼苏达大学数学学士学位，于2021年获明尼苏达大学工业工程博士学位。他的研究兴趣包括应用概率论及其在癌症和运营管理中的应用。
+学术著作
+B. Journal articles
+1. “Splitting Algorithms for Rare Events of Semimartingale Reflecting Brownian Motions”, Stochastic Systems, 11(4), p. 291-325, 2021 (with Kevin Leder and Xin Liu).
+2. “Large Deviations of Cancer Recurrence Timing”, Stochastic Processes and their Application, 147, p. 1-50, 2022 (with Pranav Hanagal and Kevin Leder).
+3. “Clonal Diversity at Cancer Recurrence”, In Preparation for Submission, 2023 (with Kevin Leder)
+4. “Evolving Copy Number Gains Promote Tumor Expansion and Bolster Mutational Diversification”, Submitted, 2023 (with Yunong Xia, Lauren Mills, Athanasios Nikolakopoulos, Nicole Maeser, Jason Sheltzer, and Ruping Sun)
+5. “Human in the Loop Automation: Ride-Hailing with Remote (Tele-) Drivers”, Major Revision at Management Science, 2023 (with Saif Benjaafar and Xiaotang Yang)
+6. “The Impact of Automation on Workers when Workers are Strategic: The Case of Ride-Hailing”, In Preparation for Submission, 2023 (with Saif Benjaafar and Xiaotang Yang)

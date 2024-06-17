@@ -1,0 +1,57 @@
+陈振庆
+教授（短期特邀）
+教育背景
+圣路易斯华盛顿大学数学博士，1992
+华东师范大学数理统计硕士，1987
+华东师范大学数学学士，1985
+研究领域
+随机分析及其应用、马氏过程、狄氏型理论、位势理论、扩散过程和反常亚扩散过程、随机环境中的随机过程、偏微分方程、随机最优控制
+个人网站
+https://sites.math.washington.edu/~zchen/
+个人简介
+陈振庆教授是美国华盛顿大学数学系的终身教授。陈教授1998年加入华盛顿大学，此前他曾就职于加州大学圣地亚哥分校和康奈尔大学。
+陈振庆教授是国际知名概率论学者。在包括国际顶尖数学和概率期刊《欧洲数学学会杂志》(Journal of the European Mathematical Society)、《概率年刊》(Annals of Probability)、《概率论及其相关领域》(Probability Theory and Related Fields)等学术期上发表论文200余篇，著有两本专著。被列为全球Top 2%顶尖科学家。陈振庆教授是国际数理统计学会会士和美国数学学会会士。 从2016年起任国际数学综合性期刊《位势理论》的主编, 是《美国数学学会通讯》(Proceedings of the American Mathematical Society)应用数学和概率统计方向的协调编辑(Coordinating Editor) 及多个国际数学和概率期刊的编委。
+学术著作
+A. 书籍
+1. “Symmetric Markov Processes, Time Change, and Boundary Theory”. Princeton University Press, 2012. xvi+479 pp. (with M Fukushima).
+2.“Stochastic Komatu-Loewner Evolutions”. World Scientific, 2023, 256 pp. (with M. Fukushima and T. Murayama)
+  书籍章节
+1. “Heat kernels for non-symmetric non-local operators”.  In Recent Developments in the Nonlocal Theory, 24-51, De Gruyter, Berlin, 2018. (with X. Zhang).
+  B. 期刊文章
+1. “On reflected Dirichlet spaces”. Probab. Theory Related Fields, 94 (1992), 135-162.
+2. “On reflecting diffusion processes and Skorokhod decompositions”.  Probab. Theory 
+   Related Fields, 94 (1993), 281-316.
+3. “Quasi-homeomorphisms of Dirichlet forms”.  Nagoya J. Math. 136 (1994), 1-15.
+   (with Z.M. Ma and M. Roeckner)
+4. “Estimates on Green functions and Poisson kernels of symmetric stable processes in bounded
+  domains”.  Math. Ann. 312 (1998), 465-501. (with R. Song)
+5. “Gaugeability and conditional gaugeability”. Trans. Amer. Math. Soc. 354 (2002),
+   4639--4679.
+6. “Censored stable processes”.  Probab. Theory Related Fields 127 (2003), 89--152.
+   (with K. Bogdan and K. Burdzy)
+7. “Heat kernel estimates for stable-like processes on d-sets”. Stochastic Process Appl.
+  108 (2003), 27-62. (with T. Kumagai)
+8. “Heat kernel estimates for jump processes of mixed types on metric measure spaces”.
+   Probab. Theory Related Fields 140 (2008), 277-317. (with T. Kumagai)
+9. “Non-local Dirichlet forms and symmetric jump processes”. Trans. Amer. Math. Soc. 361  
+   (2009), 1963-1999. (with M. T. Barlow, R. F. Bass and M. Kassmann)
+10. “Heat kernel estimates for Dirichlet fractional Laplacian.” J. Euro. Math. Soc. 12 (2010),
+   1307-1329. (with P. Kim and R. Song)
+11. “Stationary distributions for diffusions with inert drift”. Probab. Theory Related Fields 146
+    (2010), 1-47. (with R. Bass, K. Burdzy and M. Hairer)
+12. “Reflecting random walk in fractal domains.” Ann. Probab. 41 (2013), 2401-3050.
+     (with K. Burdzy)
+13. “Heat kernels and analyticity of non-symmetric jump diffusion semigroups”.
+    Probab. Theory Related Fields 165 (2016), 267-312. (with X. Zhang)
+14. “Stability of parabolic Harnack inequalities for symmetric non-local Dirichlet forms”.
+    J. Euro. Math. Soc. 22 (2020), 3747-3803. (with T. Kumagai and J. Wang)
+15. “Heat kernel estimates and parabolic Harnack inequalities for symmetric Dirichlet forms”.
+    Adv. Math. 374 (2020), Paper 107269. (with T. Kumagai and J. Wang)
+16. “Stability of heat kernel estimates for symmetric non-local Dirichlet forms”. Mem. Amer.  
+    Math. Soc.. 271 (2021), no. 1330. (with T. Kumagai and J. Wang)
+17. “Homogenization of symmetric stable-like processes in stationary ergodic media”.
+    SIAM J. Math. Anal. 53 (2021), 2957-3001. (with X. Chen, T. Kumagai and J. Wang)
+18. “Limit theorems for some long range random walks on torsion free nilpotent groups”.   
+    SpringerBriefs Math. Springer, Cham, 2023, xiii+139 pp.
+    (with T. Kumagai, L. Saloff-Coste, J. Wang, and T. Zheng)
+  更多已出版著作，请点击https://sites.math.washington.edu//~zqchen/bib.html查看

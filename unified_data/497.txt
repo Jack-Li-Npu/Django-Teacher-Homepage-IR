@@ -1,0 +1,17 @@
+郭云镝
+
+一、教育经历
+2012/09-2019/06 中南大学，计算机科学与技术，博士（硕博连读）
+2008/09-2012/06 中南大学，自动化，学士
+  二、工作经历
+2020/09-至今 深圳技术大学大数据与互联网学院，助理教授
+2019/07-2020/09 腾讯互动娱乐事业群TuringLab，研究员
+  三、主要研究领域
+边缘计算，计算机视觉，深度学习
+  四、主要成果及荣誉
+（1）Yundi Guo, Beiji Zou, Ju Ren, Qingqing Liu, Deyu Zhang, Yaoxue Zhang. Distributed and Efficient Object Detection via Interactions among Devices, Edge and Cloud. IEEE Transactions on Multimedia, 2019, 21(11):2903-2915 （JCR 1 区)
+（2）Ju Ren, Yundi Guo, Deyu Zhang, Qingqing Liu, Yaoxue Zhang. Distributed and Efficient Object Detection in Edge Computing: Challenges and Solutions. IEEE Network, 2018, 32(6): 137-143.（JCR 1 区)
+（3）第37届ACM-ICPC亚洲区域赛金奖
+  E-mail:guoyundi@sztu.edu.cn
+  上一篇：龙梓
+下一篇：柯笑

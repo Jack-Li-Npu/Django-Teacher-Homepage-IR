@@ -1,0 +1,33 @@
+许永庆
+
+详细介绍：  
+教学领域： 高等数学；概率统计等
+
+研究兴趣： 半参数与非参数统计理论与建模; 高维统计方法与建模；金融数学与金融工程
+
+教育经历：
+
+1998.9-2002.7 安徽师范大学 数学与计算机学院 本科生
+2002.9-2005.7 厦门大学数学科学学院  硕士研究生
+2009.9-2013.6 上海财经大学统计与管理学院  博士研究生
+
+工作经历：
+2005.7-2013.11 江苏省 淮阴工学院  教师
+2013.12-2017.7 国信证券有限公司博士后工作站 博士后研究员
+2017.8--至今 深圳技术大学
+
+研究成果：
+1. The Valuation Formulas of Reset Put Option under Jump-Diffusion Process (In Chinese), Journal of Xiamen University, Vol. 44, No. 1 (2005).
+2. Gaussian Copula under Multiscale Volatility, Applied Stochastic Models in Business and Industry, Vol. 24. No.6, pp.569-589 (2008). (SCI/EI)
+3. Capped Stock Loans, Computers and Mathematics with Application, Vol. 59. No. 11, pp. 3548-3558 (2010). (SCI/EI)
+4. Perpetual American Maximum Options With Markov-Modulated Dynamics, Lithuanian Mathematical Journal, Vol.51, No.1, pp. 106-119 (2011). (SCI)
+5. Estimation and Inference for Varying-Coefficient Regression Models with Error-Prone Covariates, Journal of system science and complexity, Vol. 27. No. 6, pp.1263-1285 (2014). (SCI)
+荣誉：
+上海财经大学研究生创新项目(CXJJ-2011-351) 2011-2013
+中国博士后基金创新项目(2015M572298) 2015-2017
+中国数量经济学会论文一等奖 2016.10
+深圳市高层次专业人才证书 2017.10
+
+  邮箱： xuyongqing@sztu.edu.cn
+
+下一篇：张金勇

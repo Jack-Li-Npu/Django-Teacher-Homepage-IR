@@ -1,0 +1,47 @@
+曾媛
+一、个人简介
+深圳技术大学副教授, 深圳市海外高层次人才。2014年获得荷兰代尔伏特理工大学信号与信息处理方向的博士学位。2015年至2018年在荷兰代尔夫特理工大学计算机视觉及模式识别课题组任博士后研究员从事机器学习与古画图像修复研究。2018年至2023年任南方科技大学前沿与交叉科学研究院副研究员,硕士生导师,长期致力于基于多模态信息融合的图像细粒度检测、面向文化保护和传播的实时视图生成与修复，面向通信受限的智能协同感知三方面的研究。在Pattern Recognition, IEEE Transactions on Wireless Communications, IEEE Transaction on Intelligent Transport Systems，IEEE ICASSP等智能信号处理领域的顶级期刊和会议发表论文30余篇。目前主要从事智能信号处理、图像修复、目标检测的研究，承担多项国家及省部级科技计划项目。长期担任研究领域内顶级期刊和会议的审稿人。
+
+二、工作经历
+2024.03-至今    深圳技术大学，大数据与互联网学院，副教授
+2023.04-2024.02  南方科技大学，斯发基斯可信自主研究院 ，研究副教授
+2017.09-2023.04  南方科技大学，前沿与交叉科学研究院 ，研究助理教授
+2015.03-2017.08  荷兰代尔伏特理工大学，模式识别与机器视觉，博士后研究员
+
+三、主要研究领域
+智能信号与信息处理，数字文化遗产重建与保护，视图生成与修复，智能协同感知
+
+四、主要研究项目
+1) 国家自然科学基金青年项目：“面向缺损绘画艺术品数字修复的绘画工作流程建模及交互式图像生成”，2022-2024，主持。
+2) 广东省基础及应用研究重大项目：“面向绘画艺术图像的视频动画生成关键技术研究”，2020-2023，主持。
+3) 广东省自然科学基金青年项目：“面向绘画艺术品的图像智能修复与重现技术研究”，2020-2022，主持。
+4) 广东省青年创新人才类项目：“复杂环境下基于深度学习的通信信号智能检测”，2020-2022，主持。
+5) 国家自然科学基金面上项目：“小样本无线信号识别关键技术研究”，2024-2027，主要参与。
+6) 深圳市可持续发展专项：“农产品质量无损检测与溯源技术研发与应用”，2022-2025，主要参与。
+7) 深圳市学科布局重点项目：“大规模超密集连接物联网的空中计算理论与关键技术研究”，2020-2023，主要参与。
+8) 深圳市工程实验室项目：“物联网智能信息处理工程实验室”， 2018-2020，主要参与。
+9) 荷兰科学研究组织NOW全额资助的科研项目Science4Arts, REVIGO: REassessing VIncent van Gogh’s use of color using digital reconstructions， 2015-2018，主要参与。
+
+五、代表性学术成果
+1) Y. Zeng, J. Liu, S. Lin, Z. Han, R. Cao, K. Huang, Y. Gong*, “Multi-Channel Attention Fusion Neural Network for Radio Frequency Fingerprinting”, IEEE Transactions on Wireless Communications, 2023.
+2) J. Wang, Y. Zeng* and Y. Gong*. “Collaborative Perception for 3D Object Detection in Automatic Vehicle Systems via Learnable Communication”, IEEE Transactions on Intelligent Transport Systems, 2023.
+3) S. Lin, Y. Zeng* and Y. Gong*. “Robust Modulation Recognition Using Signal Enhancement and Multi-Stage Attention Mechanism”, IEEE Transactions on Wireless Communications, 2023.
+4) Y. Zeng*, Y. Gong* and J. Zhang. “Feature Learning and Patch Matching for Diverse Image Inpainting”, Pattern Recognition, 108036, 2021.
+5) Y. Zeng*, Y. Gong* and X. Zeng. “Controllable Digital Restoration of Ancient Paintings using Convolutional Neural Network and Nearest Neighbor”, Pattern Recognition Letters, vol. 133, pp. 158-164, May. 2020.
+6) Y. Zeng, M. Zhang, F. Han, Y. Gong* and J. Zhang. “Spectrum Analysis and Convolutional Neural Network for Automatic Modulation Recognition”, IEEE Wireless Communication Letters, 101 pp. 1-4, Feb. 2019.
+7) Y. Zeng*, J. van der Lubbe and M. Loog. “Multi-scale Convolutional Neural Network for Pixel-wise Reconstruction of Van Gogh’s Drawings”, Machine Vision and Applications, vol. 30, pp. 1229-1241, Oct. 2019.
+8) R. Heusdens, G. Zhang, R. C. Hendriks, Y. Zeng and W. Kleijn. “Distributed Beamforming Based On Message Passing”. 美国发明专利，授权专利号：US 9584909 B2, 28 Feb, 2017.
+9) 曾媛，贡毅. “图像修复方法、电子设备及存储介质”, 中国发明专利，专利申请号：2021108964965. 2021.
+10) 曾媛，贡毅. “图像的破损检测方法、电子设备及存储介质”, 中国发明专利，专利申请号：202110914020X, 2021.
+11) 曾媛，贡毅. “一种人脸图像修复方法、系统、设备及存储介质”, 中国发明专利，专利申请号：2022112116115, 2022.
+12) 曾媛，贡毅. “一种相似图像检索方法、系统、设备及存储介质”, 中国发明专利，专利申请号：202211292551.0, 2022.
+13) 曾媛，贡毅, 汪俊永. “一种基于辅助设备特征融合的自动驾驶协作三维目标检测方法”, 中国发明专利，专利申请号：202310037085.X, 2023.
+专著：
+14） Y. Zeng. “Distributed Speech Enhancement in Wireless Acoustic Sensor Networks”, ISBN: 978-94-6186-423-9, 2015.
+15） Y. Zeng, J. Tang, J. C.A. van der Lubbe and M. Loog. “Learning Algorithms for Digital Reconstruction of Van Gogh's Drawings”, Digital Heritage. Progress in Cultural Heritage: Documentation, Preservation, and Protection, ISBN: 978-3-319-48495-2, 2016, Volume 10058.
+
+Email: zengyuan1@sztu.edu.cn
+
+
+上一篇：陈寅
+下一篇：聂黎明

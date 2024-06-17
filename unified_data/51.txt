@@ -1,0 +1,19 @@
+LOUART, Cosme（程高木）
+助理教授
+教育背景
+格勒诺布尔-阿尔卑斯大学博士
+巴黎高等师范学院硕士
+巴黎高等师范学院学士
+研究领域
+高维数据处理应用数学、机器学习
+个人网站
+https://cosmital.github.io/
+电子邮箱
+cosmelouart@cuhk.edu.cn
+个人简介
+Cosme Louart现为香港中文大学（深圳）数据科学学院助理教授。他毕业于巴黎高等师范学院（ENS），在ENS Paris Saclay获得机器学习硕士学位，在格勒诺布尔大学获得博士学位（隶属于GIPSA实验室和CEA list）。他在数学和机器学习期刊（ICML、AISTATS、IEEE、Annals of Applied Probability）上发表了多篇文章。他的主要贡献是应用集中的度量理论来研究随机矩阵和一些高维数据处理技术（ELMs, GANs, robust estimation of Scatter matrices, softmax classifiers, robust linear regression...）。
+他在EDF（法国电力公司）的北京研发中心工作了两年，担任数据工程师，为能源问题提供人工智能解决方案。
+学术著作
+Journal articles
+1. A concentration of measure and random matrix approach to large-dimensional robust statistics C Louart, R Couillet, The Annals of Applied Probability 32 (6), 4737-4762, 4, 2022.
+2. A random matrix approach to neural networks C Louart, Z Liao, R Couillet, The Annals of Applied Probability 28 (2), 2018.

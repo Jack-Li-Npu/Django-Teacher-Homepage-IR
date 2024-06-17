@@ -1,0 +1,27 @@
+陈锐（将在2024年秋季加入）
+助理教授
+教育背景
+威斯康星大学麦迪逊分校博士
+威斯康星大学麦迪逊分校硕士
+南京大学学士
+研究领域
+离散优化，不确定性下的优化，优化在数据科学及物流供应链等问题上的应用
+个人网站
+https://sites.google.com/view/rchen/home
+个人简介
+陈锐博士现为香港中文大学（深圳）助理教授。他于2021年在威斯康星大学麦迪逊分校取得工业工程博士学位（决策科学与运筹学方向）。在此之前，他于2017年在南京大学取得统计学学士学位，于2020年在威斯康星大学麦迪逊分校取得计算机科学硕士学位。他曾于2021年至2024年在康奈尔科技校区进行博士后研究，于2019年及2020年在IBM研究院进行科研实习。
+陈博士的研究致力于发展优化的理论及计算工具（特别是针对带离散结构和随机性的优化问题）。这些研究在物流供应链，数据科学与人工智能等方向上有着广泛应用。其研究成果曾在Operations Research， Mathematical Programming等高水平期刊，以及IPCO，ICML等高水平会议上发表。
+学术著作
+Journal papers
+1. R. Chen, O. Günlük and A. Lodi, "Recovering Dantzig-Wolfe bounds by cutting planes", Operations Research (Articles in Advance), 2024+
+2. R. Chen, S. Dash and O. Günlük, "Convexifying multilinear sets with cardinality constraints: structural properties, nested case and extensions", Discrete Optimization 50 100804, 2023
+3. R. Chen and J. Luedtke, "Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables", Mathematical Programming (Online First), 2023+
+4. R. Chen, S. Dash and O. Günlük, "Multilinear sets with two monomials and cardinality constraints" Discrete Applied Mathematics 324 67-79, 2023
+5. R. Chen and J. Luedtke, "On generating Lagrangian cuts for two-stage stochastic integer programs" INFORMS Journal on Computing 34(4) 2332-2349, 2022
+6. R. Chen and J. Luedtke, "On sample average approximation for two-stage stochastic programs without relatively complete recourse", Mathematical Programming 196 719-754, 2022
+  Referred conference proceedings
+1. B. van Rossum, R. Chen and A. Lodi, "A new branching rule for range minimization problems", International Conference on Integer Programming and Combinatorial Optimization (forthcoming), 2024
+2. B. van Rossum, R. Chen and A. Lodi, "Optimizing fairness over time with homogeneous workers", Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems, OASIcs 115 17:1-17:6, 2023
+3. R. Chen and J. Luedtke, "Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables", International Conference on Integer Programming and Combinatorial Optimization, LNCS 13265 98-111, 2022
+4. R. Chen, S. Dash and T. Gao, "Integer programming for causal structure learning in the presence of latent variables", International Conference on Machine Learning, PMLR 139 1550-1560, 2021
+5. R. Chen, S. Dash and O. Günlük, "Cardinality constrained multilinear sets", International Symposium on Combinatorial Optimization, LNCS 12176 54-65, 2020

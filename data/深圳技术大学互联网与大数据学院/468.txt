@@ -1,0 +1,28 @@
+齐英剑
+
+一、教育经历：
+2000年9月-2005年9月 北京交通大学，信号与信息处理，博士
+1997年9月-2000年5月 北京交通大学，计算机应用，硕士
+1990年9月-1994年7月 吉林工业大学 ，计算机应用，本科
+
+二、工作经历：
+2018年11月-至今 深圳技术大学，副教授
+2012年8月-2013年8月 加拿大多伦多大学，访问学者
+2008年8月-2009年8月 韩国首尔大学，博士后
+2005年9月-2018年10月 中国传媒大学，讲师、副教授
+1994年7月-1997年8月  沈阳金杯客车制造有限公司，助理工程师
+
+三、主要研究领域：
+机器学习、图形图像处理、灰系统
+
+四、主要成果及荣誉
+（1）国家自然科学基金面上项目：空间低温光学退化图像的超分辨图像复原理论和技术研究，排名第二，参与时间：2011-2013；
+（2）Qi,YJ; Wu,ZP; Wu, LY; A Positive Real Order Weakening Buffer Operator and Its Application in Multivariate Gray Prediction Model，International Conference on Computer and Information Science, ICIS2018, pp. 732-735(EI)；
+（3）Qi,YJ; Wu,ZP; Wu, LY; An Optimizing Model Based on Genetic Algorithm for Grey Interval Number, IEEE International Conference on Systems, Man, and Cybernetics ,SMC2016,pp.1686-1690(EI).
+
+E-mail：qiyingjian@sztu.edu.cn
+
+
+
+上一篇：袁明川
+下一篇：蔡天星

@@ -1,0 +1,34 @@
+黄铠
+校长讲座教授
+教育背景
+博士（加利福尼亚大学伯克利分校）
+硕士（夏威夷大学）
+学士（台湾大学）
+研究领域
+计算机体系结构、并行处理、网络安全、云计算和物联网
+个人网站
+https://myweb.cuhk.edu.cn/hwangkai
+电子邮箱
+hwangkai@cuhk.edu.cn
+办公室
+道远楼507b
+个人简介
+黄铠教授现为香港中文大学（深圳）校长讲座教授。他毕业于美国加利福尼亚大学伯克利分校，获电子工程和计算机科学博士学位。黄教授先后任教于普度大学和南加州大学 45 年，获终身教授职位。他还曾任清华大学，香港大学等校杰出讲座教授多年。目前，他也兼任深圳市人工智能与机器人研究院的智能云计算与物联网研究中心主任，他领导的团队研究项目主要是开发智能医疗云平台与数字城市的多体智能应用。
+黄教授是世界并行处理计算机结构的先驱学者之一。多年来，黄教授在计算机与互联网方面出版了十本英文专著，其中六本曾被翻译为四国文字，在全球被广泛采用。他发表了280 篇论文。目前Google 学者引用率超过20500 次，h‐index 为62。他1983 年出版国际上第一本经典著作《计算机系统结构与并行计算》并多次回国讲学，推动了高性能计算的研发热潮，促进了国内银河、曙光、天河超算系统的建立。
+黄教授获得诸多奖项，其中包括2012 IEEE 世界云计算大会终身成就奖，2019 年获得建国70 周年70 人科技创新成就奖，2020 年获得吴文俊人工智能自然科学奖。他为中国计算机领域培养了几千名专业人才，包括6位院士、10 位IEEE/CCF 会士、30 多位计算机高科技领军骨干。中国计算机学会（CCF）向黄教授颁授首届2005 海外杰出学者贡献奖以表彰他对中国工程科技事业的巨大贡献。海外杰出学者贡献奖是CCF 为海外学者颁发的最高奖项。
+学术著作
+K. Hwang, Cloud Computing for Machine Learning and Cognitive Applications, The MIT Press,  June   2017 (601 pages).  Chinese translation will appear in April 2018.
+K. Hwang and M. Chen, Big Data Analytics for Cloud, IoT and Cognitive Computing , John Wiley Publisher, U. K. , May  2017.  (410 pages).  Chinese edition appeared Jan. 2018.
+K. Hwang, G. Fox, and J. Dongarra,  Distributed and Cloud Computing : from Parallel Processing to The  Internet of Things,  Morgan Kaufmann, Oct. 2013 (648 pages), (ISBN 978-0-12-385880-1).  Chinese translation,  Huazhang Publisher, China, Jan. 2013.
+K. Hwang and Z. Xu, Scalable Parallel Computing: Technology, Architecture, Programming, a graduate-level textbook co-authored with Z. Xu, McGraw-Hill Book Company, Feb. 1998  (825 pages). (ISBN 0-07-031798-4.), Chinese translation by Shanghai Jiaotong University 2000.
+K. Hwang, Advanced Computer Architecture: Parallelism, Scalability, Programmability,
+McGraw-Hill Book Co., New York, April 1993. (770 Pages). Chinese translation by
+Tsinghua University Press, China, August, 1995. Korea translation in Sept. 1997. Second Edition, McGraw-Hill Tata, India, 2012.
+K. Hwang and F. A.  Briggs, Computer Architecture and Parallel Processing, a graduate-level textbook by McGraw-Hill Book Co., New York, 1984, (846 pages). Chinese translation by Science Press, China, in 1987.  Spanish translation by A. B. Paloma and J. Ruz Ortiz, Univ. of Madrid, Libros McGraw-Hill De Mexico, Spain 1988.
+K. Hwang, Computer Arithmetic: Principles, Architecture and Design, John Wiley & Sons, Inc., Publishers, New York, N. Y. 1979, (423 pages).  Chinese translation by Science Press, China, in 1980. Japanese translation by Modern Science Press, Tokyo, Japan, 1980.
+K. Hwang and D. DeGroot  (Editors and Authors), Parallel Processing for Supercomputers and Artificial Intelligence, a research reference book, McGraw-Hill Book Co., N. Y.,
+March 1989, (673 pages).
+K. Hwang (Editor and author), Supercomputers: Design and Applications, A tutorial text by IEEE Computer Society Press, Silver Spring, Maryland, August 1984. (640 pages)
+C. K. Yuen (EIC) and K. Hwang (Co-EIC)), Annual Review of Scalable Computing,
+Singapore University  Press and World Scientific Pub. Co., Volumes 1- 7, 1999 - 2005.
+   

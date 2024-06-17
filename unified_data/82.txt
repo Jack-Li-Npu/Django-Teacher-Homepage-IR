@@ -1,0 +1,23 @@
+余旻晨
+助理教授
+教育背景
+香港科技大学博士
+南京大学学士
+研究领域
+云计算和分布式系统、服务器无感知计算、大数据和机器学习系统
+个人网站
+https://mincyu.github.io/
+电子邮箱
+yuminchen@cuhk.edu.cn
+办公室
+道远楼420c
+个人简介
+余旻晨博士是香港中文大学（深圳）数据科学学院的助理教授。他博士毕业于香港科技大学，此前于南京大学获得学士学位。他的研究方向是云计算和分布式系统、服务器无感知计算、大数据和机器学习系统。近年来他在系统领域高水平会议上发表多篇论文，包括USENIX NSDI, USENIX ATC, IEEE INFOCOM, IEEE ICDCS等。他的工作获得了IEEE ICDCS 2021最佳论文奖提名。
+学术著作
+1. Minchen Yu, Tingjia Cao, Wei Wang, Ruichuan Chen, “Following the Data, Not the Function: Rethinking Function Orchestration in Serverless Computing,” in the Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI ’23), Boston, MA, April 2023.
+2. Minchen Yu, Zhifeng Jiang, Hok Chun Ng, Wei Wang, Ruichuan Chen, Bo Li, “Gillis: Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning,” in the Proceedings of the 41st IEEE International Conference on Distributed Computing Systems (ICDCS’21), Virtual Conference, July 2021. (Best Paper Runner Up)
+3. Huangshi Tian, Minchen Yu, Wei Wang, “CrystalPerf: Resource-Centric Performance Characterization for Dataflow Computation,” in the proceedings of USENIX Annual Technical Conference (ATC’21), Virtual Conference, July 2021.
+4. Minchen Yu, Yinghao Yu, Yunchuan Zheng, Baichen Yang, Wei Wang, “RepBun: Load-Balanced, Shuffle-Free Cluster Caching for Structured Data,” in the proceedings of IEEE INFOCOM’20, July 2020.
+5. Chengliang Zhang, Minchen Yu, Wei Wang, Feng Yan, “Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud,” in IEEE Transactions on Cloud Computing (TCC), June 2020.
+6. Chengliang Zhang, Minchen Yu, Wei Wang, Feng Yan, “MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving,” in the proceedings of USENIX Annual Technical Conference (ATC’19), Renton, WA, July 2019.
+7. Huangshi Tian, Minchen Yu, Wei Wang, “Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning,” in the proceedings of ACM Symposium on Cloud Computing (SoCC’18), Carlsbad, CA, October 2018.

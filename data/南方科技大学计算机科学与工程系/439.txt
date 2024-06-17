@@ -1,0 +1,54 @@
+Home Teaching Publications Patents Awards Professional Activities
+Yepang Liu (刘烨庞, CV)
+Associate Professor (博导, 研究员)
+Department of Computer Science and Engineering
+Southern University of Science and Technology
+Office: Room 609, CoE Building (South), SUSTech
+Email: liuyp1 AT sustech DOT edu DOT cn
+Tel: +86-0755-88015159
+I am a tenured associate professor with the CSE Department of SUSTech. I lead the Software Quality Lab. I am also the director of the Trustworthy Software Research Center of the Research Insititute of Trustworthy Autonomous Systems. My research interests mainly include software testing and analysis, empirical software engineering, cyber-physical systems, software security, and trustworthy AI. I obtained my B.Sc. degree in Computer Science with honor from Nanjing University in 2010, and my Ph.D. degree in Computer Science and Engineering from HKUST in 2015. Prior to joining SUSTech, I worked at the CASTLE Lab and Cybersecurity Lab of HKUST as a postdoc, under the supervision of Prof. Shing-Chi Cheung and Prof. Charles Zhang.
+Call for papers: Please consider submitting your work to ICSE 2025, ASE 2024, TASE 2024, COMPSAC 2024, FORGE 2024.
+We are hiring research assistant professors, postdocs, and research assistants (job post). We are also looking for PhD students with strong programming skills and good English ability. Please send me an email with your CV if you are interested and have relevant background. For undergraduate students who are interested in joining our group, please send me a copy of your transcript.
+Latest News (more)
+December 15, 2023: Our study on UAV log anomalies has been accepted to ICSE 2024.
+October 28, 2023: Our paper on detecting front-running vulnerabilities in smart contracts has been accepted to S&P 2024.
+September 23, 2023: Two papers have been accepted to QRS 2023. One studies how ChatGPT compares to Stack Overflow in terms of assisting programmers. The other studies the adoption of the AndroidX library.
+August 23, 2023: Our work on real-time anomaly detection for microservice systems has been accepted to APSEC 2023.
+August 18, 2023: Our deep learning project compatibility analysis work has been accepted to ISSRE 2023.
+July 28, 2023: Two papers accepted by ESEC/FSE 2023: one on the detection of compatibility issues in deep learning systems and the other on the evaulation of code generation techniques.
+July 23, 2023: Our stub code generation and repair work has been accepted by TOSEM.
+July 10, 2023: Our empirical evaluation of Q-learning based web testing techniques has been accepted by DSA 2023.
+July 1, 2023: Our work on GAN-based code generation and code search has been accepted by OOPSLA 2023.
+Awards and Honors (more)
+Junior Faculty of the Year (2021年度青年教授奖, SUSTech）
+Top-10 Most Active Early-Stage Software Engineering Researcher (2013-2020, according to an independent Elsevier bibliometric assessment)
+ACM SIGSOFT Distinguished Paper Award x 3 (received at ICSE 2021, ASE 2016, ICSE 2014 )
+南方科技大学优秀教学奖 (2020)
+南方科技大学优秀书院导师奖 (2020)
+深圳市南山区领航人才 (C类, 2019)
+ACM SIGSOFT Distinguished Artifact Award (received at ICSE 2019)
+2019全国大学生软件测试大赛卓越指导老师奖 (photo)
+2018全国大学生软件测试大赛杰出指导老师奖
+深圳市海外高层次人才 (C类, 2018)
+ACM SIGSOFT Service Award (received at FSE 2014)
+Teaching (more)
+CS323 Compilers (Fall 2019-2023)
+CS102A Introduction to Computer Programming (Spring 2018-2022)
+CS102B Introduction to Computer Programming (Fall 2018)
+CSE5008 Advanced Software Engineering (Fall 2018)
+Selected Recent Publications (full list, Google Scholar)
+[TSE 2023, CCF-A] Wuqi Zhang, Lili Wei, Shing-Chi Cheung, Yepang Liu, Shuqing Li, Lu Liu, and Michael R. Lyu. Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation. In IEEE Transactions on Software Engineering, to appear. [preprint]
+[TOSEM 2023, CCF-A] Shangwen Wang, Ming Wen, Bo Lin, Yepang Liu, Tegawende Bissyande, and Xiaoguang Mao. Pre-Implementation Method Name Prediction for Object-Oriented Programming. In ACM Transactions on Software Engineering and Methodology, 2023, to appear.
+[ISSTA 2023, CCF-A] Jiajun Hu, Lili Wei, Yepang Liu, and Shing-Chi Cheung. wTest: WebView-Oriented Testing for Android Applications. In the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2023, to appear.
+[ISSTA 2023, CCF-A] Linlin Li, Ruifeng Wang, Xian Zhan, Ying Wang, Cuiyun Gao, Sinan Wang, and Yepang Liu. What You See Is What You Get? It Is Not the Case! Detecting Misleading Icons for Mobile Applications. In the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2023, July 2023, pp. 538-550. [pdf]
+[ISSTA 2023, CCF-A] Huaxun Huang, Chi Xu, Ming Wen, Yepang Liu, and Shing-Chi Cheung. ConfFix: Repairing Configuration Compatibility Issues in Android Apps. In the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, 2023, to appear.
+[WWW 2023, CCF-A] Yanjie Zhao, Tianming Liu, Haoyu Wang, Yepang Liu, John Grundy, and Li Li. Are Mobile Advertisements in Compliance with App’s Age Group? In the ACM Web Conference, 2023, to appear.
+[ICST 2023, CCF-C] Jiayuan Liang, Sinan Wang, Xiangbo Deng, and Yepang Liu. RIDA: Cross-App Record and Replay for Android. In the 16th IEEE International Conference on Software Testing, Verification and Validation, 2023, to appear. [preprint]
+[ICSE 2023, CCF-A] Hao Guan, Ying Xiao, Jiaying Li, Yepang Liu, and Guangdong Bai. A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization. In the 45th International Conference on Software Engineering, 2023, to appear.
+[ICSE 2023, CCF-A] Jiwei Yan, Miaomiao Wang, Yepang Liu, Jun Yan, and Long Zhang. Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set. In the 45th International Conference on Software Engineering, 2023, to appear. [pdf]
+[ICSE 2023, CCF-A] Kaifa Zhao, Xian Zhan, Lei Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, and Yepang Liu. Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps. In the 45th International Conference on Software Engineering, 2023, to appear.
+[MICRO 2022, CCF-A] Xueliang Li, Zhuobin Shi, Junyang Chen, and Yepang Liu. Realizing Emotional Interactions to Learn User Experience and Guide Energy Optimization for Mobile Architectures. In the 55th IEEE/ACM International Symposium on Microarchitecture, 2022, to appear.
+[CSUR 2022, JCR-Q1] Yue Liu, Chakkrit Tantithamthavorn, Li Li, and Yepang Liu. Deep Learning for Android Malware Defenses: a Systematic Literature Review. In ACM Computing Surveys, 2022, to appear.
+[TSE 2022, CCF-A] Ying Wang, Yibo Wang, Sinan Wang, Yepang Liu, Chang Xu, Shing-Chi Cheung, Hai Yu, and Zhiliang Zhu. Runtime Permission Issues in Android Apps: Taxonomy, Practices, and Ways Forward. In IEEE Transactions on Software Engineering, to appear.
+[ICSE 2022, CCF-A] Sinan Wang, Yibo Wang, Xian Zhan, Ying Wang, Yepang Liu, Xiapu Luo, and Shing-Chi Cheung. Aper: Evolution-Aware Runtime Permission Misuse Detection for Android Apps. In the 44th International Conference on Software Engineering, pp. 125-137, May 2022, to appear. [pdf][tool]
+Site maintained by yepangliu, last updated: 2023-12-22 11:33:11 +0800

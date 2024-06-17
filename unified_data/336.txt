@@ -1,0 +1,118 @@
+个人简介 Personal Profile
+陈清财教授，博导，哈尔滨工业大学(深圳)智能计算研究中心主任，哈工大计算学部自然语言处理研究所副所长、计算学部智慧医疗研究所副所长，中国中文信息学会理事、医疗健康与生物信息处理专委会主任、语言与知识计算专委会医疗知识图谱工作组召集人，哈工大（深圳）–腾讯互联网+“人工智能联合实验室”主任。CCF中文信息技术专委会委员、人工智能学会青年工作委员会学术委员、中文信息学会语言与知识计算专业委员会委员， Bioinformatics、IEEE Trans. SMC、Neurocomputing、ACM TALIP、Pattern Recognition等国际期刊审稿人，第九届全国自然语言处理青年学者研讨会召集人，NLPCC2014国际会议组委会联合主席，CIPS2017学术年会承办人。2003年9月获哈尔滨工业大学计算机应用专业博士学位；2003年9月至2004年8月任职于英特尔（中国）有限公司高级软件工程师；2004年9月至今在哈工大深研院任教，香港理工大学访问学者。
+国内最早开展深度学习研究的研究人员之一，在深度学习、自然语言处理、医学文本处理、多模态信息处理、人机交互等领域从事了多年的研究工作，在包括PR、Neurocomputing、JBI、IEEE Trans. SMC Part B等在内的国际国内期刊以及NIPS、ACL、EMNLP等重要国际会议发表论文150余篇，谷歌引用7400余次，h-index39，参编国际专著1部，以第一发明人申请专利17项，其中已授权11项，主持国家自然科学基金4项和省市级科研项目5项；参与国家重点研发计划、国家自然科学基金及国家863项目7项；参与省科技计划1项，研究成果获黑龙江省科学技术发明奖一等奖（2011年）；黑龙江省高校科学技术奖一等奖（2009年）；中华人民共和国教育部科学技术发明奖二等奖（2008年）；深圳市科技创新奖二等奖（2009）；深圳市科技进步奖二等奖（2018年），所指导的博士生户保田获2018年度中国中文信息学会优秀博士论文提名奖（每两年评一次，优博奖+优博提名奖共10人）。带领的团队参加2014年I2B2医学文本处理国际评测，在两项任务中获得国际第二(国内第一)的成绩。与华为诺亚方舟实验室（香港）、腾讯互联网加、阿里巴巴、中兴通讯、微众银行、招商银行等开展了深入合作。与诺亚方舟实验室合作论文单篇引用次数560余次，获NIPS近5年论文引用前50名，构建的大规模中文生成式短文本摘要语料库获包括CMU在内的全球近120余家著名机构申请使用。近年来带领团队参加了多界医疗健康领域相关国际公开评测成绩，在2014年参加SemEval-2014 Task 7关于“临床医疗文本分析”的国际评测，在信息抽取和语义编码任务上均获得第一名，2014年参加i2b2关于“去隐私化”和“随时间变迁的心脏病风险因子识别”的国际评测，在两个任务上均获得了第二名（国内第一）；2015年参加BioCreative V Track 3关于“药物和疾病关系抽取”的国际评测，在药物实体识别任务上获得第一名，2017年CCKS中文实体与关系抽取评测第一名，2019年CCKS 金融事件主体抽取评测第一名。
+研究方向 Research Interests
+自然语言处理、人工智能、机器学习、金融和医疗信息处理
+学术兼职 Academic Service
+中国中文信息学会理事、医疗健康与生物信息处理专委会主任、语言与知识计算专委会医疗知识图谱工作组召集人，CCF中文信息技术专委会委员、人工智能学会青年工作委员会学术委员、中文信息学会语言与知识计算专业委员会委员，TNNLS、 Bioinformatics、IEEE Trans. SMC、Neurocomputing、ACM TALIP、Pattern Recognition等国际期刊审稿人，第九届全国自然语言处理青年学者研讨会召集人，NLPCC2014国际会议组委会联合主席，CIPS2017学术年会承办人，中国健康信息处理大会(CHIP2019)联合主席。
+教育经历 Education
+2003年09月 获博士学位（计算机应用软件），哈尔滨工业大学
+1998年07月 获硕士学位（固体力学），哈尔滨工业大学
+1996年07月 获学士学位（工程力学），哈尔滨工业大学
+工作经历 Employment
+2012.10-至今，哈尔滨工业大学（深圳）；教授
+2011.04-至今，哈尔滨工业大学（深圳）；博士生导师
+2004.09-2012.09， 哈尔滨工业大学深圳研究生院；副教授
+2003.09-2004.08， 英特尔（中国）有限公司； 高级软件工程师
+科研项目 Academic Project
+纵向代表：
+2019.01 – 2022.12 国家自然科学基金（面上项目），基于多模态融合的语义表示学习方法，主持
+2015.01 – 2018.12 国家自然科学基金（面上项目），构式语法的计算模型研究，主持
+2012.01 – 2015.12 国家自然科学基金（面上项目），网络信息自主整合的关键技术研究，主持
+2008.01 – 2010.12 国家自然科学基金（青年基金）， 异构信息互动模型中的关键技术研究，主持
+2015.12 – 2020.09 深圳市发改委，深圳市中国书法数字仿真技术工程实验室，主持
+2006.12 – 2008.12 国家863项目（目标导向类）子项目，跨媒体网络信息采集与索引，主持
+2011.01 – 2012.12 深圳市基础研究计划项目，篇章级分布式智能手写编辑与识别方法，主持
+横向代表：
+2017.09 – 2021.09 腾讯互联网加（深圳）有限公司，哈工大（深圳）–腾讯人工智能联合实验室，主持
+2018.05 – 2022.05 深圳市图灵机器人有限公司，哈工大（深圳）–图灵“人工智能联合实验室，主持
+2021.02 – 2022.03 华为技术有限公司，基于弱监督预训练模型的多模态语义表示与检索，主持
+2019.05 – 2020.05 北京百度网讯科技有限公司，复杂医疗知识图谱构建，主持
+2016.01 – 2016.07 阿里巴巴（中国）有限公司，基于深度学习的智能问答，主持
+2011.11 – 2012.10 中兴通讯股份有限公司合作项目，新媒体智能分析关键技术研究，主持
+2017.09 – 2018.09 招商银行股份有限公司，哈工大智能问答系统技术授权服务，主持
+2017.03 – 2017.08 深圳前海微众银行股份有限公司，微众银行机器人问答系统项目，主持
+授权专利 Authorized patents
+陈清财；吴湘平. 一种可擦除顶层局部区域笔画的 橡皮擦实现方法及系统. 2022.06.07,中国, ZL202010878382.3
+陈清财；潘囿丞；王晓龙；郑志辉；刘乐. 一种基于时间轴的历史题解题方法、系统及介质. 2020.04.21,中国，ZL201710888726.7
+陈清财；刘欣；吴湘平.汉语拼音键盘布局及其滑动拼音输入消岐方法与系统.2017.12.05，中国，ZL201510025408.9
+陈清财；刘胜宇；王晓龙；汤斌.一种基于微博的知识推荐方法与系统.2017.06.06，中国，ZL201410216252.8
+陈清财；张亮；王丹丹；王晓龙.一种借助互联网自动构建文本分类语料库的方法及系统，2017.04.05，中国，ZL201310314269.2
+陈清财；黄佳；刘欣；吴湘平；操苏立.手写序列可编辑的连续手写输入方法与系统，2017.08.08，中国，ZL201410295010.2
+陈清财，粱乃臣，王晓龙，尤凤凯，冯交交. 手写信息快速编辑排版方法，2010.12.08，中国，ZL200810009074.6
+陈清财，王晓龙，郭鸿志，马天明，翁家才. 一种被动式网络信息自动高效采集系统及方法，2010.9.01， 中国， ZL200810066892.X
+陈清财，王晓龙等. 一种直接写入手写信息的方法，2010.01.06， 中国，ZL200810144531.2
+陈清财，李慧，王晓龙等，一种交互式篇章级手写识别方法及系统，授权日：2012.12.09，中国，ZL201010583025.0
+所获奖项 Awards
+2018年 基于深度学习的中文信息处理与基础资源构建，深圳市科学进步奖，二等奖，深圳市人民政府
+2011年 网络环境的拼音语句输入技术，黑龙江省科学技术发明奖，一等奖，黑龙江省人民政府人民政府
+2009 面向网络环境的拼音语句输入技术，黑龙江省高校科学技术奖，一等奖，黑龙江省高校科学技术奖励委员会
+2008年 语句级智能拼音输入技术，教育部高等学校科学研究优秀成果奖（科学技术）技术发明奖，二等奖，中国人民共和国教育部
+2009年 中国手势语言表达系统，深圳市科技创新奖，深圳市人民政府
+
+发表论文 Paper
+会议论文选摘：
+Tiantian Zhu, Yang Qin, Qingcai Chen*, Baotian Hu and Yang Xiang*. Enhancing Entity Representations with Prompt Learning for Biomedical Entity Linking. IJCAI 2022（CCF-A）
+Dongfang Li, Baotian Hu, Qingcai Chen*, et al. "Unifying Model Explainability and Robustness for Joint Text Classification and Rationale Extraction", In AAAI Conference on Artificial Intelligence (AAAI) , 2022. (CCF A)
+Junying Chen, Dongfang Li, Qingcai Chen*, Wenxiu Zhou, and Xin Liu. "Diaformer: Automatic Diagnosis via Symptoms Sequence Generation." Proceedings of AAAI. 2022. (AAAI,CCF-A)
+Xin Liu, Qingcai Chen*, Junying Chen, Wenxiu Zhou, Tingyu Liu, Xinlan Yang, Weihua Peng: Leveraging Capsule Routing to Associate Knowledge with Medical Literature Hierarchically. EMNLP 2021: 3518-3532
+Shuoran Jiang, Qingcai Chen*, Xin Liu, Baotian Hu, Lisai Zhang, Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning, ACL-IJCNLP 2021
+Kai Chen, Guanyu Fu, Qingcai Chen*, Baotian Hu. A Large-Scale Chinese Long-text Extractive Summarization Corpus. //[C] 2021 IEEE International Conference on Acoustics, Speech and Signal Processing. 2021. CCF B
+Meng Niu, Kai Chen, Qingcai Chen*, Lufeng Yang. HCAG: A Hierarchical Context-Aware Graph Attention Model For Depression Detection. //[C] 2021 IEEE International Conference on Acoustics, Speech and Signal Processing. 2021. CCF B
+Lisai Zhang, Qingcai Chen*, Joanna Siebert, Buzhou Tang. Semi-supervised Visual Feature Integration for Language Models through Sentence Visualization. ICMI 2021: 682-686(CCF-C)
+Xiangping Wu, Qingcai Chen*, Wei Li, Yulun Xiao, Baotian Hu. 2020. AdaHGNN: Adaptive Hypergraph Neural Networks for MultiLabel Image Classification. In Proceedings of the 28th ACM International Conference on Multimedia (MM ’20), 2020
+Lisai Zhang, Qingcai Chen*, Baotian Hu, Shuoran Jiang. 2020. Text-Guided Neural Image Inpainting. In Proceedings of the 28th ACM International Conference on Multimedia (MM ’20), 2020
+Dongfang Li, Baotian Hu,Qingcai Chen*, Weihua Peng, Anqi Wang. Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text. EMNLP 2020
+Pan Y, Hu B, Chen Q, et al. Learning to Generate Diverse Questions from Keywords[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
+Pan Y, Chen Q, Peng W, et al. MedWriter: Knowledge-Aware Medical Text Generation[C]//Proceedings of the 28th International Conference on Computational Linguistics. 2020.
+Feng Y, Fu G, Chen Q*, et al. SED-MDD: Towards Sentence Dependent End-to-end Mispronunciation Detection and Diagnosis[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
+Liu, Xin. Chen, Qingcai*. Deng, Chong. Zeng, Huajun. Chen, Jing. Li, Dongfang. Tang, Buzhou. LCQMC: A Large-scale Chinese Question Matching Corpus. COLING 2018.
+Chen, Jing. Chen, Qingcai*. Liu, Xin. Yang, Haijun. Lu, Daohe. Tang, Buzhou. The BQ Corpus: A Large-scale Domain-specific Chinese Corpus For Sentence Semantic Equivalence Identification. EMNLP 2018.
+Li, Haodi. Chen, Qingcai*. Tang, Buzhou. Wang, Xiaolong. Chemical-induced disease extraction via convolutional neural networks with attention. Bioinformatics and Biomedicine (BIBM), 2017
+Baotian Hu, Qingcai Chen*, Fangze Zhu. LCSTS: A Large Scale Chinese Short Text Summarization Dataset [C]. EMNLP 2015
+Xiaoqiang Zhou, Baotian Hu, Qingcai Chen*, Xiaolong Wang. Answer Sequence learning with Neural Networks for Answer Selection in Community Question Answering. In ACL-IJCNLP 2015.
+Baotian Hu, Zhengdong Lu, Hang Li, Qingcai Chen*, Convolutional Neural Network Architectures for Matching Natural Language Sentences, NIPS 2014, Dec.11, 2014
+Dandan Wang, Qingcai Chen*, Xiaolong Wang, Bingyang Yu. Automatic Corpora Construction for Text Classification. IJCNLP2013, Nagoya, Japan, 14-18 October 2013.
+Liu S, Chen Q, Guan S, et al. Mining Recipes in Microblog[C]//Asian Language Processing (IALP), 2013 International Conference on. IEEE, 2013: 29-32.
+Shusen Zhou, Qingcai Chen*, and Xiaolong Wang. Active Deep Networks for Semi-Supervised Sentiment Classification, COLING 2010, August 23-27, Beijing, China, 2010 (EI)
+Shusen Zhou, Qingcai Chen* and Xiaolong Wang. HIT-OR3C: A Opening Recognition Corpus for Chinese Characters, June 9-11, 2010, Boston, MA, USA, 2010 (EI)
+Shusen Zhou, Qingcai Chen*, and Xiaolong Wang. Deep Quantum Networks for Classification. ICPR 2010. August 23-26, 2010, Istanbul, Turkey, 2010 (EI)
+Jun Xu, Qing-Cai Chen, Xiao-LongWang, Zhong-Yu Wei. One-Class Classification Models For Financial Industry Information Recommendation, ICMLC 2010, Qingdao, China, 2010 (EI)
+Bo Yuan, Qingcai Chen, Xiaolong Wang, Liwei Han. Extracting Event Temporal Information based on Web, 2009 Second International Symposium on Knowledge Acquisition and Modeling, Nov 30-Dec 01,2009, pp.346-350, Wuhan, China (EI)
+Bo Yuan, Qing-cai Chen*, Xiao-long Wang, Li-bo Liu. Semantic Annotation Based Financial Web Information Reorganization, IWWIP 2010, Qingdao, China, 2010 (EI)
+Hongzhi Guo, Qingcai Chen, Xiaolong Wang, Zhiyong Wang, Yonghui Wu. STRank: A SiteRank Algorithm using Semantic Relevance and Time Frequency, In Proceeding of the 2009 IEEE International Conference on Systems Man and Cybernetics (SMC 2009), October 11-14, 2009, San Antonio, Texas, USA, 2009 (EI)
+Hongzhi Guo, Qingcai Chen, Lei Cui, Xiaolong Wang. An Interactive Semantic Knowledge Base Unifying Wikipedia and HowNet, In Proceeding of the Seventh International Conference on Information, Communications and Signal Processing 2009, December 8-10, 2009, Macau, China, 2009 (EI)
+Yang, Xiaohong, Qingcai Chen, Shusen Zhou, and Xiaolong Wang. "Deep belief networks for automatic music genre classification." In Twelfth Annual Conference of InterSpeech. 2011.
+Chen Qingcai, Shusen Zhou, Dandan Wang, and Xiaohong Yang. "Adaptive Filter Based Prosody Modification Approach." In Ninth Annual Conference of InterSpeech. 2008.
+部分期刊论文：
+Tiantian Zhu, Yang Qin, Yang Xiang, Baotian Hu*, Qingcai Chen*, Weihua Peng. Distantly supervised biomedical relation extraction using piecewise attentive convolutional neural network and reinforcement learning. JAMIA. 2021
+Dongfang Li; Ying Xiong; Baotian Hu*; Buzhong Tang; Weihua Peng; Qingcai Chen*. Drug knowledge discovery via multi-task learning and pre-trained models. BMC Medical Informatics And Decision Making 2021.11(21:9). IF=2.796(JCR3,中科院4区)
+Yanghua Fan ; Dongfang Li; Yifan Liu; Ming Feng; Qingcai Chen*; Renzhi Wang*， Toward better prediction of recurrence for Cushing’s Disease: a factorization-machine based neural approach， International Journal of Machine Learning and Cybernetics. JCR Q2，SEP 2020/ IF=3.375,中科院3区,SCIE. DOI: 10.1007/s13042-020-01192-6.
+Xin Liu, Qingcai Chen*, Yan Liu, Baotian Hu, Joanna Siebert, XiangpingWu, Buzhou Tang.. Decomposing Word Embedding with the Cap-sule Network. Knowledge-based Systems(KBS)， 2020.（JCR Q1，中科院1 区，SCI 录用，IF=5.921）
+Dongfang Li, Baotian Hu, Qingcai Chen*, Xiao Wang, Quanchang Qi, Liubin Wang, Haishan Liu. Attentive capsule network for click-through rate and conversion rate prediction in online advertising. Knowledge-Based Systems. 2020. SCI,IF=5.921(中科院二区)
+Xiangping Wu, Qingcai Chen*, Yulun Xiao, Wei Li, Xin Liu, and Baotian Hu. LCSegNet: An Efficient Semantic Segmentation Network for Large-Scale Complex Chinese Character Recognition . IEEE Transactions on Multimedia. JCR一区，中科院一区, IF score：6.051，2020.09（1520-9210/ 1-1）
+Xin Liu, Qingcai Chen*, Xiangping Wu, Yang Hua, Jing Chen, Dongfang Li, Buzhou Tang, Xiaolong Wang. Gated Semantic Difference based Sentence Semantic Equivalence Identification. IEEE Transactions on Audio, Speech and Language Processing. CCF B类. JCR-Q2， IF score： 3.398
+Jun Zhang, Qingcai Chen, Bin Liu*. iDRBP_MMC: identifying DNA-binding proteins and RNA-binding proteins by using multi-label learning model and motif-based convolutional neural network. Journal of Molecular Biology, doi: 10.1016/j.jmb.2020.09.008. (IF: 4.76，Top期刊，中科院二区)
+Jun Zhang, Qingcai Chen and Bin Liu*. NCBRPred: predicting nucleic acid binding residues in proteins based on multilabel learning. Briefings in Bioinformatics.(Accepted, 中科院一区，JCR一区，影响因子：8.99）
+Liu, Xin; Hu, Baotian; Chen, Qingcai; Wu, Xiangping; You, Jinghan, Stroke Sequence-Dependent Deep Convolutional Neural Network for Online Handwritten Chinese Character Recognition. TNNLS 2019 , DOI: 10.1109/TNNLS.2019.2956965, (SCI, JCR1, IF 11.68).
+Ying Xiong, Xue Shi, Shuai Chen, Dehuan Jiang, Buzhou Tang, Xiaolong Wang, Qingcai Chen, Jun Yan, Cohort selection for clinical trials using hierarchical neural network, Journal of the American Medical Informatics Association, Volume 26, Issue 11, November 2019, Pages 1203–1208, https://doi.org/10.1093/jamia/ocz099 （SCI，JCR 1区，IF=4.2）
+J. Zhang, Q. Chen and B. Liu, "DeepDRBP-2L: a new genome annotation predictor for identifying DNA binding proteins and RNA binding proteins using Convolutional Neural Network and Long Short-Term Memory," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, doi: 10.1109/TCBB.2019.2952338.(SCI，JCR3区，IF=2.896)
+Li Haodi. Chen, Qingcai. Tang, Buzhou. Wang, Xiaolong. Xu, Hua. Wang, Baohua. Huang, Dong. CNN-based ranking for biomedical entity normalization. BMC bioinformatics. 2017.vol.18.
+Li, Haodi. Yang, Ming. Chen, Qingcai*. Tang, Buzhou. Wang, Xiaolong. Yan, Jun. Chemical-induced disease extraction via recurrent piecewise convolutional neural networks. BMC Medical Informatics and Decision Making. 2018.vol.18
+Zhou, Xiaoqiang. Hu, Baotian. Chen, Qingcai*. Wang, Xiaolong. Recurrent convolutional neural network for answer selection in community question answering, Neurocomputing 2018, vol. 274:8-18 (SCI, JCR I)
+Qingcai Chen, Haodi Li, Buzhou Tang, Xiaolong Wang, Xin Liu, Zengjian Liu, Shu Liu, Weida Wang, Qiwen Deng, Suisong Zhu, Yangxin Chen, Jingfeng Wang. An automatic risk factor identification system for heart disease in clinical texts over time. Journal of Biomedical Informatics. 2015. doi:10.1016/j.jbi.2015.09.002 (SCI, IF: 3.398).
+Shengyu Liu, Buzhou Tang, Qingcai Chen, Xialong Wang, Xiaoming Fan. Feature Engineering for Drug Name Recognition in Biomedical Texts: Feature Conjunction and Feature Selection. Computational and Mathematical Methods in Medicine. Volume 2015, dio:10.1155/2015/913489. 2015. (SCI, IF: 0.756).
+Shengyu Liu, Buzhou Tang, Qingcai Chen*, Xiaolong Wang. Drug-drug Interaction Extraction via Convolutional Neural Networks. Computational and Mathematical Methods in Medicine. Volume 2016, 10.1155/2016/6918381. 2016 (SCI, IF: 0.756)
+Hu B, Tang B, Chen Q*, et al. A Novel Word Embedding Learning Model Using the Dissociation between Nouns and Verbs [J]. Neurocomputing, 2015.(SCI, JCR I)
+Liu S, Tang B, Chen Q*, et al. Feature Engineering for Drug Name Recognition in Biomedical Texts: Feature Conjunction and Feature Selection[J]. Computational and mathematical methods in medicine, 2015.
+Buzhou Tang, Hongxin Cao, Xiaolong Wang, Qingcai Chen, Hua Xu. Evaluating Word Representation Features in Biomedical Named Entity Recognition Tasks. Biomed Research International, 2015, SCI
+Shusen Zhou, Qingcai Chen, and Xiaolong Wang. Active deep learning method for semi-supervised sentiment classification. Neurocomputing. 2014.05.05, Vol. 131, 312–322. SCI: 2.005
+Shusen Zhou, Qingcai Chen, and Xiaolong Wang. Active Semi-Supervised Learning Method with Hybrid Deep Belief Networks. PLOS ONE. 2014.09, Vol.9(No.9), SCI: 3.534
+Hongzhi. Guo, Qincai Chen*, Lei Cui, Xiaolong Wang. Tolerance Rough Set Based Attribute Extraction Approach for Multiple Semantic Knowledge Base Integration, International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems,19(4), 2011(SCI,IF:1.147)
+Shusen Zhou*, Qingcai Chen, and Xiaolong Wang. Convolutional Deep Networks for Visual Data Classification, Neural Processing Letters (NEPL), 2013, Vol.38(1), pp 17-27 (SCI, IF: 0.75)
+Shusen Zhou, Qingcai Chen*, and Xiaolong Wang. Handwritten ChineseText Editing and Recognition System, Multimedia Tools and Applications (MTA), 2014, Vol.71 (3), pp.1363-1380 (SCI, IF: 0.617)
+Yan Liu, Shusen Zhou, Qingcai Chen*. Discriminative deep belief networks for visual data classification, Pattern Recognition, 2010 (SCI, IF:3.0)
+Qingcai Chen*, Xialong Wang, Pengfei Su, Yi Yao. Auto adapted English Pronunciation Evaluation: A Fuzzy Integral Approach, IJPRAI, 22(1), 153-168 (SCI, IF: 0.6)
+Xianjun Meng*, Qingcai Chen, Xiaolong Wang. Contextual Frequent Words Mining for Chinese Text Clustering. International Journal of Computer Sciences and Engineering Systems, 3(3), 2009
+Wang Xiaolong, Chen Qingcai, Daniel S.Yeung. Mining Chinese Pinyin-to-character Conversion Rules from Large-scale Corpus: A Rough Set Approach. IEEE Trans. on SMC PartB. Vol.34 (2), 2004: 834-844 (SCI, IF: 2.2)
+苏冲，陈清财*，王晓龙，孟宪军，基于最大频繁项集的搜索引擎查询结果聚类算法，中文信息学报，2010.

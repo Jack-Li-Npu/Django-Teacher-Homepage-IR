@@ -1,0 +1,24 @@
+张海伦
+助理教授
+教育背景
+博士（香港科技大学)
+硕士（北京大学）
+学士（北京大学） 
+研究领域
+数据驱动的排队网络、在线算法设计、供应链管理和应用
+个人网站
+https://myweb.cuhk.edu.cn/zhanghailun
+电子邮箱
+zhanghailun@cuhk.edu.cn
+办公室
+道远楼502b
+个人简介
+张海伦教授现为香港中文大学（深圳）数据科学学院助理教授。在此之前，他是香港科技大学工业工程与决策分析系的一位博士后，他也于2018年7月在港科大获得了博士学位。他的研究兴趣包括数据驱动的排队网络，在线算法设计与应用。在就读港科大之前，他在北京大学数学系获得了他的学士及硕士学位。
+学术著作
+PUBLISHED PAPERS
+1. Xu, Z., H. Zhang*, J. Zhang and R. Zhang. “Online Demand Fulfillment under Limited Flexibility,” Mgt. Sci., 66(10), 4667-4685, 2020/10/01 
+2. Long Z., N. Shimkin, H. Zhang* and J. Zhang. “Dynamic Scheduling for Multiclass Many-server Queues with Abandonment: the Generalized c =h Rule,” Oper.Res.,68(4),1218-1230. 2020/07/01 
+3. Zhang, H., J. Zhang and R. Zhang. “Simple Policies with Provable Bounds for Managing Perishable Inventory”. Production and Operations Management, 29(11), 2637-2650. 2020/07/13
+4. Wang G., H. Zhang* and J. Zhang. “On-demand Matching in a Spatial Model with Abandonment and Cancellation,” Oper. Res.. 2022/11/18. 
+5. Long Z., H. Zhang*, G. Zhang, J. Zhang. "The Generalized c/μ Rule for Queues with Heterogeneous Server Pools," accepted, Oper. Res..
+6. Li, L., Li, M., Zhang, H., and Zhang, L. (2023). Price optimization under the extended nested logit model. Operations Research Letters, 51(1), 54-59. 2023/01/01

@@ -1,0 +1,27 @@
+杨浩翔
+助理教授
+教育背景
+博士（西北大学）
+学士（佐治亚理工学院）
+研究领域
+不确定性下的优化、整数规划、能源系统
+个人网站
+http://sites.google.com/view/haoxiangyang
+电子邮箱
+yanghaoxiang@cuhk.edu.cn
+办公室
+道远楼417a
+个人简介
+杨浩翔教授于 2014 年获得佐治亚理工学院的学士学位；后在美国西北大学获得工业工程和管理科学博士学位。目前的研究领域为：不确定性下的优化、大规模优化和分解方法、混合整数规划、非线性优化，应用于能源系统、救灾和人道主义援助、公共卫生、航空运输、供应链与体育数据分析等方面。
+在2021年夏季加入香港中文大学（深圳）之前，杨教授在美国洛斯阿拉莫斯国家实验室担任博士后研究员，致力于对不确定性下非线性优化的模型与算法的研究，并对电网应急分析，量子计算与传染病控制等领域的应用进行了探索。杨教授曾在西北太平洋国家实验室，兰德公司和沃尔玛百货等公司积累了丰富的工业界研究经验。
+学术著作
+1. P. J. Rathouz, V. Valencia, P. Chang, D. P. Morton, H. Yang, Ö. Sürer, S. J. Fox, E. C. Matsui, A. B. Haynes, L. A. Meyers. "Survival analysis methods for analysis of hospitalization data: Application to COVID-19 patient hospitalization experience". Submitted.
+2. H. Yang, D. Morton. "Optimal Crashing of an Activity Network with Disruptions". Accepted at Mathematical Programming.
+3. H. Yang, Ö. Sürer, D. Duque, D. P. Morton, B. Singh, S. J. Fox, R. Pasco, K. Pierce, P. Rathouz, Z. Du, M. Pignone, M. E. Escott, S. I. Adler, S. C. Johnston, L. A. Meyers. "Design of COVID-19 Staged Alert Systems to Ensure Healthcare Capacity with Minimal Closures". Accepted at Nature Communications.
+4. H. Yang, D. Duque, D. Morton, "Optimizing Diesel Fuel Supply Chain Operations for Hurricane Relief". Under revision at IISE Transactions.
+5. H. Yang, H. Nagarajan, "Optimal Power Flow in Distribution Networks under N-1 Disruptions: A Multi-stage Stochastic Programming Approach". Accepted at INFORMS Journal on Computing.
+6. H. Yang, C. Bandi, K. Dvijotham, D. Morton. (2021) "Robust Optimization for Electricity Generation". INFORMS Journal on Computing, 33:1, 336-351
+7. H. Yang, D. Morton, Y. Hu. (2020) "Analyzing Client Behavior in a Syringe Exchange Program". Analyzing client behavior in a syringe exchange program. IISE Transactions on Healthcare Systems Engineering, 10:2, 142-157.
+8. P. Verhaeghen, S. Geigerman, H. Yang, A. C. Montoya, D. Rahnev. (2019) "Resolving age-related differences in working memory: Equating perception and attention makes older adults remember as well as younger adults". Experimental aging research, 45:2, 120-134.
+9. J. Yu, H. Baroud, H. Yang. "Two-stage Stochastic Programming Approach for the Integrated Preparedness and Response of Interdependent Infrastructure Networks Under Uncertainty". Working Paper.
+10. H. Yang. "Multi-stage Distributionally Robust Optimization under Stochastic Disruptions". Working Paper.

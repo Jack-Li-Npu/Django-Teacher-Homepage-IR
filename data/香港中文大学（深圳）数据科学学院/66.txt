@@ -1,0 +1,27 @@
+孙若愚
+副教授
+教育背景
+明尼苏达大学博士
+北京大学学士
+研究领域
+深度学习理论和算法、生成模型、大规模优化算法、学习优化、图神经网络、人工智能在通信网络的应用、通信网络容量理论、通信网络优化算法
+个人网站
+https://ruoyus.github.io/
+电子邮箱
+sunruoyu@cuhk.edu.cn
+办公室
+道远楼412
+个人简介
+孙若愚现为香港中文大学（深圳）数据科学学院副教授、博士生导师。此前他于2017年至2022年任伊利诺伊大学香槟分校（UIUC）助理教授、博士生导师，2016年任脸书人工智能研究所（由LeCun领导）全职访问科学家，2015-2016年任斯坦福大学博士后研究员。他2015年在美国明尼苏达大学电子与计算机工程系获得博士学位，2009年在北京大学数学科学学院基础数学系获得本科学位。他的主要研究领域为人工智能和机器学习、数学优化理论与算法、无线通信和信号处理等，具体研究方向包括神经网络理论和算法、生成模型、大数据优化算法、学习优化、通信网络容量理论与优化算法等。他曾获得INFORMS(国际运筹与管理协会) George Nicolson学生论文竞赛第二名，以及INFORMS优化协会学生论文竞争荣誉奖。在人工智能与机器学习会议NeurIPS, ICML, ICLR, AISTATS，顶尖信息论与通信杂志IEEE transaction on information theory, IEEE Signal Processing Magazine, Journal of Selected Areas in Communications，顶尖数学优化与运筹杂志Mathematical Programming, SIAM Journal on Optimization, Math of Operations Research等会议与杂志发表数十篇文章。目前担任NeurIPS, ICML, ICLR, AISTATS等人工智能会议的领域主席。
+学术著作
+N. Shi, D. Li, M. Hong, R. Sun, “RMSprop Converges with Proper Hyper-parameter”, ICLR (International Conference on Learning Representations) (Spotlight, 3.3% of 3000+ submissions),2021.
+R. Sun, T. Fang, A. Schwing, “Towards a Better Global Loss Landscape of GANs”, NeurIPS (Annual Conference on Neural Information Processing System) (Oral, 1.1% of 9500+ submissions), 2020.
+D. Li, T. Ding, R. Sun, “On the Benefit of Width for Neural Networks: Disappearance of Basins”, accepted to SIAM Journal on Optimization, 2022.
+S. Liang, R. Sun, R. Srikant, “Revisiting Landscape Analysis in Deep Neural Networks: Eliminating Decreasing Paths to Infinity”, accepted to SIAM Journal on Optimization, 2021.
+R. Sun, D. Li, S. Liang, T. Ding, R. Srikant, “The Global Landscape of Neural Networks: An Overview”, IEEE Signal Processing Magazine, 2020.
+R. Sun, “Optimization for Deep Learning: an Overview”, Journal of Operations Research Society of China, 2020.
+R. Sun, Z.-Q. Luo, Y. Ye, "On the Efficiency of Random Permutation for ADMM and Coordinate Descent", Mathematics of Operations Research, 2019.
+Second Place, 2015 INFORMS George Nicholson Student Paper Competition.
+R. Sun, Z.-Q. Luo, “Guaranteed Matrix Completion via Nonconvex Factorization”, IEEE Transaction on Information Theory, 2016.
+--A shorter version appeared at IEEE FOCS (IEEE Annual Symposium on Foundations of Computer Science) 2015.
+--Honorable mention, 2015 INFORMS Optimization Society student paper prize.

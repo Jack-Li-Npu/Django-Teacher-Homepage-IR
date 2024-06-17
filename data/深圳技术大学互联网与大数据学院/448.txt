@@ -1,0 +1,27 @@
+梁立新
+一、教育经历
+1997/08-1998/11 美国伊利诺伊理工大学，硕士研究生
+1996/09-1997/07 美国纽约州立大学石溪分校，博士候选人
+1993/09-1996/07 中国科学技术大学，硕士研究生
+1988/09-1993/07 中国科学技术大学，学士
+
+二、工作经历
+2017/09-至今   深圳技术大学大数据与互联网学院、教授/副院长
+2015/03-2017/03  Canada GainFortune Consulting Inc.、副总经理/首席技术官
+2003/10-2015/02  北京亚思晟科技有限公司（后被国内最大的软件服务企业文思海辉技术有限公司并购）、总经理/创办人
+2000/06-2003/09  加拿大多伦多证券交易所、系统分析师
+1999/03-2000/03  美国华尔街咨询服务公司、软件工程师
+
+三、主要研究领域
+大数据分析、人工智能、软件理论及技术
+
+四、主要成果及荣誉
+1. 教材、第一作者、Java程序设计与项目案例教程、2020.5、清华大学出版社
+2. 教材、独立作者、Java高级框架应用开发与项目案例教程-Spring+SpringMVC+MyBatis、2021.08、清华大学出版社
+3. 教材、第一作者、软件工程与项目案例教程、2020.10、清华大学出版社
+4. 论文、通讯作者、Towards more efficient ophthalmic disease classification and lesion location via convolution transformer、Computer Methods and Programs in Biomedicine（SCI JCR Q1）、 2022.6
+5. 论文、第一作者、A Joint Learning Model to Extract Entities and Relations for Chinese Literature Based on Self-Attention、MATHEMATICS（SCI JCR Q1）、2022.7
+
+E-mail:lianglixin@sztu.edu.cn
+上一篇：曹建民
+下一篇：许强华

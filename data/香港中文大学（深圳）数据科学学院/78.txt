@@ -1,0 +1,32 @@
+严明
+副教授
+助理院长（本科生事务）
+教育背景
+加利福利亚大学洛杉矶分校博士
+中国科学技术大学硕士
+中国科学技术大学学士
+研究领域
+分布式优化、稀疏优化、机器学习、大规模优化算法
+个人网站
+https://mingyan08.github.io/
+电子邮箱
+yanming@cuhk.edu.cn
+办公室
+道远楼410
+个人简介
+严明现为香港中文大学（深圳）数据科学学院助理院长（本科生事务）。他于2005和2008年在中国科学技术大学获得数学本科和硕士学位，2012年在加州大学洛杉矶分校获得数学博士学位。2012-2015年，他先后在莱斯大学的计算与应用数学系和加州大学洛杉矶分校的数学系担任博士后研究员。2015-2022年，他在密西根州立大学的计算数学、科学与工程系和数学系担任助理教授（2015-2021）和副教授（2021-2022）。
+他的研究方向为大规模优化算法及其在图像处理、机器学习和其他数据科学问题中的应用。他在人工智能与机器学习会议（包括ICML、ICLR、NeurIPS 和 AISTATS）以及 IEEE杂志（TPAMI、TSP） 和 SIAM 杂志（包括SIIMS、SISC、MMS）等发表文章超过50篇。他于2020年获得脸书教授奖（Facebook Faculty Award）。
+学术著作
+Z. Song, L. Shi, S. Pu, and M. Yan, Compressed gradient tracking for decentralized optimization over general directed networks, IEEE Transactions on Signal Processing, 70(2022), 1775–1787.
+H. Tang, Y. Li, J. Liu, and M. Yan, ErrorCompensatedX: error compensation for variance reduced algorithms, In: Proceedings of the Conference on Neural Information Processing Systems (NeurIPS 2021).
+X. Liu, W. Jin, Y. Ma, Y. Li, H. Liu, Y. Wang, M. Yan, and J. Tang, Elastic graph neural networks, In: Proceedings of International Conference on Machine Learning (ICML 2021), PMLR 139 (2021), 6837–6849, 2021.
+Y. Li and M. Yan, On linear convergence of two decentralized algorithms, Journal of Optimization Theory and Applications, 189 (2021), 271–290.
+X. Liu, Y. Li, R. Wang, J. Tang, and M. Yan, Linear convergent decentralized optimization with compression, In: Proceedings of the International Conference on Learning Representations (ICLR 2021).
+J. Liu, M. Yan, and T. Zeng, Surface-aware blind image deblurring, IEEE Transactions on Pattern Analysis and Machine Intelligence, 43 (2021), 1041–1055.
+X. Liu, Y. Li, J. Tang, and M. Yan, A double residual compression algorithm for efficient distributed learning, In: Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS 2020), 133–143.
+Z. Li, W. Shi, and M. Yan, A decentralized proximal-gradient method with network independent stepsizes and separated convergence rates, IEEE Transactions on Signal Processing, 67 (2019), 4494–4506.
+H. Tang, X. Lian, M. Yan, Ce Zhang, and Ji Liu, D2: Decentralized training over decentralized data, In: Proceedings of International Conference on Machine Learning (ICML 2018), PMLR 80 (2018), 4848–4856.
+M. Yan, A new primal-dual algorithm for minimizing the sum of three functions with a linear operator, Journal of Scientific Computing, 76 (2018), 1698–1717.
+Z. Peng, Y. Xu, M. Yan, and W. Yin, ARock: an algorithmic framework for asynchronous parallel coordinate updates, SIAM Journal on Scientific Computing, 38 (2016), A2851–A2879.
+M. Yan, Restoration of images corrupted by impulse noise and mixed Gaussian impulse noise using blind inpainting, SIAM Journal on Imaging Sciences, 6 (2013), 1227–1245.
+更多已出版著作，请点击https://mingyan08.github.io/ 查看

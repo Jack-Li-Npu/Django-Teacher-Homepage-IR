@@ -1,0 +1,25 @@
+官永涛
+校长讲座教授
+副院长（拓展）
+教育背景
+德克萨斯农工大学统计学博士
+北京大学概率与统计学学士，辅修经济学
+研究领域
+时空数据分析及其在金融 、社交网络、 流行病学等领域中的应用
+电子邮箱
+guanyongtao@cuhk.edu.cn
+办公室
+综合楼C709
+个人简介
+官永涛是校长讲座教授，美国统计协会会士。曾任美国迈阿密大学赫伯特商学院莱斯利·巴恩斯讲席教授，管理科学系系主任，德勤研究与实践分析所主任。
+学术著作
+1. Fang, G., Xu, G., Xu, H., Zhu, X., and Guan, Y. (2023+), “Group Network Hawkes Process,” Journal of the American Statistical Association, Theory and Methods, to appear.
+2. Xu, G., Zhang, J., Li, Y., and Guan, Y. (2023+), “Bias-correction and Test for Mark-point Dependence with Replicated Marked Point Processes,” Journal of the American Statistical Association, Theory and Methods, to appear.
+3. Cai, B., Zhang, J. and Guan, Y. (2023+), “Latent Network Structure Learning from High Dimensional Multivariate Point Processes,” Journal of the American Statistical As[1]sociation, Theory and Methods, to appear.
+4. Xu, G., Waagepetersen, R. and Guan, Y. (2023+), “Semi-parametric Goodness-of-Fit Test for Clustered Point Processes with a Shape-Constrained Pair Correlation Function,” Journal of the American Statistical Association, Theory and Methods, to appear.
+5. Liang, D., Huang, H., Guan, Y. and Yao, F. (2023+), “Test of Weak Separability for Spatial Functional Field,” Journal of the American Statistical Association, Theory and Methods, to appear.
+6. Zhang, J., Cai, B., Zhu, X., Wang, H., Xu, G. and Guan, Y. (2023), “Learning Hu[1]man Activity Patterns using Clustered Point Processes with Active and Inactive States,” Journal of Business and Economics Statistics, 41(2), 388–398.
+7. Hessellund, K., Xu, G., Guan, Y. and Waagepetersen, R. (2022), “Semi-parametric Multi[1]nomial Logistic Regression for Multivariate Point Pattern Data,” Journal of the American Statistical Association, Theory and Methods, 117(539), 1500–1515.
+8. Moghaddassa, R. and Guan, Y. (2022), “Optimal Frameworks for Detecting Anomalies in Sensor-Intensive Heterogeneous Networks,” INFORMS Journal on Computing, 34(5), 2383–2865.
+9. Yin, L., Xu, G., Sang, H. and Guan, Y. (2021), “Row-clustering of a Point Process-valued Matrix,” NeurIPS 2021.
+10. Wang, W., Xu, G., Bian, J., Burch, B., Andrade, S., Huang, H., Zhang, J. and Guan, Y. (2020), “Semi-Parametric Modeling of Structured Point Processes Using Multi-Level Log-Gaussian Cox Processes,” Journal of Machine Learning Research, 21(192),1–39.

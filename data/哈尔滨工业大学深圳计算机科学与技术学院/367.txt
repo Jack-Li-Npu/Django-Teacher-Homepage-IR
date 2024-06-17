@@ -1,0 +1,2 @@
+个人简介
+现为哈尔滨工业大学（深圳）教授、博士生导师。主要研究方向为模式识别、生物特征识别、图像处理、深度学习、生物信息学；为2014年度黑龙江省自然科学二等奖获得者，2008年度教育部新世纪优秀人才获得者，广东省“特支计划人才”，深圳市鹏城学者，深圳高层次人才地方级人才；已获得省部级科技进步奖两项，已主持包括国家自然科学基金在内的国家级项目三项、省市级项目两项。出版学术专著三部、译著两部；发表SCI检索论文130余篇，近年连续入选爱思唯尔发布的中国高被引论文。担任的社会兼职包括IEEE高级会员、IEEE SMC TC on Biometrics and Applications 共同主席、国际学术期刊《International Journal of Image and Graphics》主编、多个国际学术期刊（IEEE Transactions on Cybernetics, Patten Recognition, Neurocomputing，International Journal of Pattern Recognition and Artificial Intelligence等）审稿人，多个国际会议论文审阅人。

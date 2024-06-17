@@ -1,0 +1,26 @@
+蔡天星
+   一、教育经历
+1988.9 – 1990.7  浙江师范大学物理系，本科
+1990.9 – 1992.7 北京应用物理和计算数学研究所研究生部，理学硕士
+1997.9 – 2001.1 北方交通大学计算机与信息学院，工学硕士
+
+二、工作经历
+2021.09 – 至今 深圳技术大学大数据与互联网学院，副教授
+2006.7 – 2019.5： 北京工商大学嘉华学院基础部，讲师
+2003.1 – 2004.12：Institute of Technology and Electrics (新加坡)，主讲教师
+1996.8 – 1997.7：East Machine Pte. Ltd., Singapore，行政助理
+1993.3 – 1995.5 北京科智技术信息有限公司科研部，系统工程师
+  三、主要研究领域
+非线性神经网络、数据库技术
+
+四、主要成果及荣誉
+（1）T.X.Cai and C.T.Zhou “A Unified Description in Squeezed Effects in A Generalized Jaynes-Cumming Model”, Annual Report in IAPCM, 2, 46-54(1994).
+（2）T.X.Cai, and T.F.Cai “Signal processing of high-noisy chaotic data”, PHYS. SCR, 61,46-48(2000).
+（3）T.X.Cai, and Z.Han “Extracting Signal Frequency from Chaotic Circuit Clutter”, IEEE international conference signal processing, July 2000, Singapore.
+（4）C.T.Zhou, T.X.Cai, C.H.Lai,, X.G. Wang and Y.C.Lai, "Model-based detector and extraction of weak signal frequencies from chaotic data", CHAOS 18, 013104 (2008)。
+（5）教材：唐济波，尤传华，蔡天星，徐慧，《大学计算机基础》，普通高等教育“十三五”规划教材，中国铁道出版社，2016年8月第1版，ISDN 978-7-113-21453-1。
+
+E-mail:caitianxing@sztu.edu.cn
+
+        上一篇：齐英剑
+下一篇：张红梅

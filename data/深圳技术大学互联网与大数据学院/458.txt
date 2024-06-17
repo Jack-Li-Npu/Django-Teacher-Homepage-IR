@@ -1,0 +1,52 @@
+李强
+李强博士2010年博士毕业于中科院沈阳自动化研究所，随后在德国及欧洲知名高校和研究中心从事智能机器人领域科研工作，现任深圳技术大学大数据与互联网学院教授，中科院合肥物质研究院特聘研究员。他是期刊-人形机器人(International Journal of Humanoid Robotics), 复杂与智能系统(Complex & Intelligent Systems)，工业机器人(Industrial robot)副主编，机器人领域国际会议IEEE ICRA, IROS, Humanoids副主编，在机器人领域顶会上，他多次组织了关于触觉及灵巧操作的国际研讨会。李强博士是现任中国留德学者计算机学会主席，奠基了中德智能机器人论坛。被全欧华人专业协会联合会评为2018年度“欧洲华人10大科技领军人才”。
+
+主要研究兴趣 (Research interest):
+触感机器人学(Tactile robotics)
+基于多模态的人机交互(Multi-modality for Human-Robot-Interaction)
+机器人技能学习(Robotic skill learning)
+机器人运动建模，规划与控制(Robotic model, planning and control)
+自主系统的感知与数据融合(Perception and data fusion in autonomous systems)
+
+教育经历 (Education background)
+2005.09—2009.09, 模式识别与智能系统博士, 水下机器人研究中心, 中科院沈阳自动化研究所
+2004.09—2005.07, 硕士课程， 自动化系, 中国科学技术大学, 合肥
+1997.09—2001.07, 机械电子工程学士, 机电控制工程系, 北京理工大学
+
+研究经历(Research experience)
+2023.10—现在: 教授, 深圳技术大学
+2023.02—2023.09: 研究员, 汉堡大学
+2023.07—2023.09：访问学者，清华大学，中国
+2019.12—2022.12: 研究员(PI), 比勒费尔德大学，德国
+2020.03—2023.3: 高级顾问, 腾讯Robotics X 实验室
+2019.01—2020.03: T4专家研究员, 腾讯Robotics X 实验室
+2012.10—2018.12: 研究员, 比勒费尔德大学
+2014—2018: 访问科学家, 德国宇航局机器人和机电研究所/慕尼黑工业大学/意大利理工学院/卡尔斯鲁厄理工学院/布拉格公立大学
+2009.10—2012.10: 博士后, 比勒费尔德大学，德国
+2001.07—2004.07: 助理研究员, 中科院沈阳自动化所
+
+部分典型研究工作(Representative research lines and publications, done by Qiang or supervised students)
+1. 触觉感知与控制：
+Qiguang Lin, Chaojie Yan, Qiang Li, Yonggen Ling, Wangwei Li, Yu Zheng, Bidan Huang, Xiaofeng Liu, "Tracking Object's Pose via Dynamic Tactile Interaction", International Journal of Humanoid Robotics, 2023
+Hanzhong Liu, Bidan Huang, Yu Zheng, Yonggen Ling, Wang Wei Lee, Yi Liu, Ya-Yen Tsai, Chenguang Yang, Qiang Li, “Multi-finger Tactile Servoing for Grasping Adjustment under Partial Observation ”, IROS2022
+Liangliang Wang, Qiang Li, James Lam, Zheng Wang, "Tactual recognition of soft objects from deformation cues" , IEEE Robotics and Automation Letters (RA-L),2021
+Qiang Li, Oliver Kroemer, Zhe Su, Filipe Fernandes Veiga, Mohsen Kaboli, Helge Joachim Ritter, "A Review of Tactile Information: Perception and Action Through Touch", IEEE Transaction on Robotics, 2020
+Qiang Li, Andre Ückermann, Robert Haschke and Helge Ritter, "Estimating an articulated tool's kinematics via visuo-tactile based robotic interactive manipulation ", IROS2018
+Qiang Li, Robert Haschke, Helge Ritter, "A Visuo-Tactile Control Framework for Manipulation and Exploration of Unknown Objects", Humanoids2015
+Qiang Li, CarstenSchürmann, Robert Haschke, Helge Ritter, "A control framework for tactile servoing", Oral presentation by Robotics: Science and Systems 2013
+2. 多模态人机交互：
+Guanghui Liu, Qiang Li, Lijin Fang and Hualiang Zhang, “Towards Robust Physical Human Robot Interaction by an Adaptive Admittance Controller”, Journal of Intelligent & Robotic Systems, 2023
+Liangliang Wang, Qiang Li, James Lam, Zheng Wang and Zhengyou Zhang, "Intent inference in shared-control teleoperation system in consideration of user behavior", Complex & Intelligent System, 2021
+Dong Wei, Bidan Huang and Qiang Li, "Multi-view Merging for Robot Teleoperation with Virtual Reality", IEEE Robotics and Automation Letters (RA-L), 2021
+3. 机器人技能学习：
+Dandan Zhang, Qiang Li, Yu Zheng, Lei Wei, Dongsheng Zhang and Zhengyou Zhang, “ Explainable Hierarchical Imitation Learning for Robotic Drink Pouring”, IEEE Transactions on Automation Science and Engineering (T-ASE), 2022
+Abdeldjallil Naceri, Tobias Schumacher, Qiang Li, Sylvain Calinon, Helge Joachim Ritter, "Learning optimal impedance control during 3D arm movements", IEEE Robotics and Automation Letters (RA-L), 2021
+Chao Zeng, Shuang Li, YIMING JIANG, Qiang Li, Zhaopeng Chen, Chenguang Yang, Jianwei Zhang, "Learning compliant grasping and manipulation by teleoperation with adaptive force control", IROS2021
+
+联系方式(Contact data)
+地址：广东省深圳市坪山区兰田路3002号大数据与物联网学院
+办公室：C1-1601
+电话：0755-23256601
+Email：liqiang1@sztu.edu.cn
+上一篇：李晖
+下一篇：彭小江

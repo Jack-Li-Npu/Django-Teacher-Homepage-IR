@@ -1,0 +1,24 @@
+张广怡
+助理教授，师从Prof. Aristides Gionis，主要从事数据挖掘方向的算法研究，擅长算法分析和近似优化，在数据挖掘顶会及顶刊以第一作者身份发表多篇论文，并以第一作者身份获得 SDM 2023 最佳论文奖。
+个人主页：https://www.scholat.com/guangyizhang
+邮箱：zhangguangyi@sztu.edu.cn
+
+教育经历
+2020 - 2023 瑞典皇家理工学院（KTH Royal Institute of Technology），计算机科学，博士
+2017 - 2019 芬兰阿尔托大学（Aalto University），机器学习，硕士
+2011 - 2015 华南理工大学，软件工程，学士
+
+工作经历
+2024/03 - 至今 深圳技术大学，助理教授
+2023 - 2024 深圳计算科学研究院，研究员
+2015 - 2017 腾讯，工程师
+
+学术论文
+Zhang, Guangyi, Nikolaj Tatti, and and Aristides Gionis. "Finding favourite tuples on data streams with provably few comparisons." Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023. (KDD 2023, CCF A类会议)
+Zhang, Guangyi, Nikolaj Tatti, and Aristides Gionis. "Ranking with submodular functions on the fly." Proceedings of the 2023 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2023. (SDM 2023, 最佳论文奖, CCF B类会议)
+Zhang, Guangyi, Nikolaj Tatti, and Aristides Gionis. "Coresets remembered and items forgotten: submodular maximization with deletions." 22nd IEEE International Conference on Data Mining, 2022. (ICDM 2022, CCF B类会议)
+Zhang, Guangyi, and Aristides Gionis. "Regularized impurity reduction: Accurate decision trees with complexity guarantees." Data Mining and Knowledge Discovery (2022). (DMKD 2022, Journal Track of ECML PKDD 2022, CCF B类期刊/会议)
+Zhang, Guangyi, Nikolaj Tatti, and Aristides Gionis. "Ranking with submodular functions on a budget." Data Mining and Knowledge Discovery (2022). (DMKD 2022, Journal Track of ECML PKDD 2022, CCF B类期刊/会议)
+Zhang, Guangyi, and Aristides Gionis. "Diverse Rule Sets." Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020. (KDD 2020, CCF A类会议)
+Zhang, Guangyi, and Aristides Gionis. "Maximizing diversity over clustered data." Proceedings of the 2020 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2020. (SDM 2020, CCF B类会议)
+上一篇：何志坚

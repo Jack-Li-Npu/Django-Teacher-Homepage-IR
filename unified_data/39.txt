@@ -1,0 +1,31 @@
+JENTZEN, Arnulf
+校长讲座教授
+教育背景
+博士（法兰克福大学）
+学士（法兰克福大学）
+研究领域
+机器学习近似算法、计算随机学、高维偏微分方程的数值分析、随机分析和计算金融
+个人网站
+http://www.ajentzen.de
+电子邮箱
+ajentzen@cuhk.edu.cn
+办公室
+道远楼405
+个人简介
+Arnulf Jentzen现为香港中文大学（深圳）数据科学学院校长讲座教授。他分别于2007年与2009年获德国法兰克福大学数学学士学位与博士学位。
+Arnulf Jentzen教授的核心研究课题是机器学习近似演算法、计算随机学、高维偏微分方程的数值分析、随机分析和计算金融学。他对基于深度学习的高维优化、控制问题的算法和各种微分方程的随机近似演算法特别感兴趣。
+Arnulf Jentzen教授在研究方面获得了许多奖项。于2020年，他被欧洲数学学会授予菲利克斯克莱因奖项；2022年，他获得了约瑟夫 · 特劳布基于信息复杂性研究成就奖。不仅如此，他的研究活动已经吸引了无数研究资助。Arnulf Jentzen教授曾受邀担任多部国际顶尖杂志的编辑，比如《应用概率论年报》（AAP）、《计算物理通讯》（CMS）、《复杂学杂志》（JoC）、《数学分析与应用杂志》（JMAA）、SIAM/ASA《不确定性量化期刊》（JUQ）、SIAM《科学计算期刊》（SISC）、SIAM《数值分析期刊》（SINUM）。自2009年10月获得博士学位以来，他已经受邀讲授超过100场研究讲座和5门小型课程，合作组织了一系列研讨会。
+学术著作
+1. Hutzenthaler, M. & Jentzen, A., On a perturbation theory and on strong convergence rates for stochastic ordinary and partial differential equations with non-globally monotone coefficients. Ann. Probab. 48 (2020), no. 1, 53–93. arXiv:1401.0295 (2014), 41 pages, http://arxiv.org/abs/1401.0295.
+2.  Hutzenthaler, M., Jentzen, A., Kruse, T., Nguyen, T., A proof that rectified deep neural networks  overcome the curse of dimensionality in the numerical approximation of semilinear heat equations. SN PDE 1 (2020), no. 10, 1–34. arXiv:1901.10854 (2019), 29 pages,  https://arxiv.org/abs/1901.10854.
+3.  Fehrman, B., Gess, B., Jentzen, A., Convergence rates for the stochastic gradient descent method for non-convex objective functions. J. Mach. Learn. Res. 21 (2020), Paper No. 136, 1–48. arXiv:1904.01517 (2019), 52 pages, https://arxiv.org/abs/1904.01517.
+4.  Hutzenthaler, M., Jentzen, A., Kruse, T., Nguyen, T. A., & von Wurstemberger, P., Overcoming the curse of dimensionality in the numerical approximation of semilinear parabolic partial differential equations. Proc. R. Soc. A 476 (2020), no. 2244, 20190630, 25 pp. arXiv:1807.01212 (2018), 27 pages, https://arxiv.org/abs/1903.05985.
+5.  Becker, S., Cheridito, P., & Jentzen, A., Deep optimal stopping. J. Mach. Learn. Res. 20 (2019), Paper No. 74, 1–25. arXiv:1804.05394 (2018), 18 pages, https://arxiv.org/abs/1804.05394.
+6.  Grohs, P., Hornung, F., Jentzen, A., von Wurstemberger, P., A proof that artificial neural networks overcome the curse of dimensionality in the numerical approximation of Black-Scholes partial differential equations. arXiv:1807.01212  (2018), 124 pages, https://arxiv.org/abs/1809.02362. Accepted in Mem. Amer. Math. Soc.
+7.  Han, J., Jentzen, A., & E, W., Solving high-dimensional partial differential equations using deep learning. Proc. Natl. Acad. Sci. USA 115 (2018), no. 34, 8505–8510. arXiv:1707.02568 (2017), 13 pages, https://arxiv.org/abs/1707.02568.
+8.  E, W., Han, J., & Jentzen, A., Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations. Commun. Math. Stat. 5 (2017), no. 4,  349–380.  arXiv:1706.04702  (2017), 39 pages, https://arxiv.org/abs/1706.04702.
+9.  Hairer, M., Hutzenthaler, M., & Jentzen, A., Loss of regularity for Kolmogorov equations. Ann. Probab. 43 (2015), no. 2, 468–527. arXiv:1209.6035 (2015), 62 pages, https://arxiv.org/abs/1209.6035.
+10.  Hutzenthaler, M., Jentzen, A., & Kloeden, P. E., Strong convergence of an explicit numerical method for SDEs with non-globally Lipschitz continuous  coefficients. Ann. Appl. Probab. 22 (2012), no. 4, 1611-1641. arXiv:1010.3756 (Awarded a second prize of the 15th Leslie Fox Prize in Numerical Analysis (Manchester, UK, June 2011).) arXiv:1010.3756 (2012), 32 pages, https://arxiv.org/abs/1010.3756.
+11.  Hutzenthaler, M., Jentzen, A., & Kloeden, P. E., Strong and weak divergence in finite time of Euler’s method for stochastic differential equations with non-globally Lipschitz continuous coefficients. Proc. R. Soc. A 467 (2011), no. 2130, 1563–1576. arXiv:0905.0273 (2011), 32 pages, https://arxiv.org/abs/0905.0273.
+  更多已出版著作，请点击此处查看。
+ 

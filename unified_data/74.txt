@@ -1,0 +1,82 @@
+吴均峰
+副教授
+教育背景
+博士（香港科技大学）
+学士（浙江大学）
+研究领域
+分布式系统、网络控制系统、卡尔曼滤波、信号处理、信息物理系统安全与隐私
+个人网站
+https://lias-cuhksz.github.io/
+电子邮箱
+junfengwu@cuhk.edu.cn
+办公室
+道远楼402
+个人简介
+吴均峰教授现为香港中文大学（深圳）副教授。吴教授于2009年获得浙江大学控制科学与工程系学士学位。之后，他进入香港科技大学，于2013年获得电子与计算机工程系博士学位。
+2013年，吴教授在香港科技大学担任博士后；2014-2017年担任瑞典皇家理工学院研究员。自2017年到2021年，他在浙江大学任特聘研究员。
+吴教授的研究兴趣主要在网络安全和隐私、优化、分布式系统、控制网络系统、卡尔曼滤波、信号处理等方面。他被授予了多个奖项，2019年，获得了日本JSPS Invitational Fellowship。2014年，他被 Automatica, IEEE Trans. Control of Network Systems授予杰出审稿人的荣誉。2015年，获得了第34届中国控制会（CCC2015）关肇直奖。2016年，获得了澳大利亚政府的澳大利亚政府Endeavour Research Fellowship。
+学术著作
+JOURNAL PAPERS
+[1] Guangyang Zeng, Xiaoqiang Ren, and JunfengWu ∗ , “Low-complexity Distributed Detection with One-bit Memory Under Neyman-Pearson Criterion”, IEEE Transactions on Control of Network Sys-tems, accepted.
+[2] Lingying Huang, JunfengWu, Yilin Mo, and Ling Shi, “Joint Sensor and Actuator Placement for Infinite-Horizon LQG Control”, IEEE Transactions on Automatic Control, accepted.
+[3] Yuqing Ni, JunfengWu, Li Li, and Ling Shi, “Multi-Party Dynamic State Estimation That Preserves Data and Model Privacy”, IEEE Transactions on Information Forensics and Security, vol. 16, pp. 2288-2299, 2021.
+[4] Kemi Ding, JunfengWu, Lihua Xie, ”Minimum-Degree Distributed Graph Filter Design”, IEEE Transactions on Signal Processing, vol. 69, pp. 1083-1096, 2021.
+[5] Yuchi Wu, JunfengWu ∗ , Mingyi Huang, and Ling Shi, “Mean-Field Transmission Power Control in Dense Networks”, IEEE Transactions on Control of Network Systems,vol. 8, pp.99-110, 2020.
+[6] Takuya Iwaki, JunfengWu ∗ , Yuchi Wu, Henrik Sandberg, Karl H. Johansson, “Multi-hop Sensor Network Scheduling for Optimal Remote Estimation”, Automatica , vol. 127, 109498, 2021.
+[7] Lingying Huang, Jiazheng Wang, Enoch Kung, Yilin Mo, JunfengWu, and Ling Shi, “Stochastic Event-based Sensor Schedules for Remote State Estimation in Cognitive Radio Sensor Networks”, IEEE Transactions on Automatic Control , vol. 66, pp. 2407-2414, 2020.
+[8] Tao Yang, Jemin George, Jiahu Qin, Xinlei Yi, and JunfengWu, “Distributed Finite-time Least Squares Solver for Network Linear Equations”, Automatica, vol. 113 108798, 2020.
+[9] Jiahu Qin, Weiming Fu, JunfengWu, Wei Xing Zheng, and Yu Kang, “Interval Consensus over Random Networks”, Automatica , vol. 111, 108603, 2020.
+[10] Enoch Kung, Jiazheng Wang, JunfengWu ∗ , Dawei Shi, and Ling Shi, “On the Nonexistence of Event Triggers that preserve Gaussian State in Presence of Packet-Drop”, IEEE Transactions on Automatic Control , vol. 65, pp. 4302-4307, 2019.
+[11] Yuan Huang, Junzheng Wang, Dawei Shi, JunfengWu, and Ling Shi, “Event-triggered Sampled-data Control: an Active Disturbance Rejection Approach”, IEEE/ASME Transactions on Mechatronics , vol. 24, pp. 2052-2063, 2019.
+[12] Tao Yang, Xinlei Yi, JunfengWu, Ye Yuan, Di Wu, Ziyang Meng, Yiguang Hong, Hong Wang, ZongliLin, and Karl H Johansson, “A survey of Distributed Optimization”, Annual Reviews in Control , vol. 47, pp. 278-305, 2019.
+[13] Xinlei Yi, Tao Yang, JunfengWu ∗ , and Karl H. Johansson, “Distributed Event-Triggered Control for Global Consensus of Multi-Agent Systems with Input Saturation”, Automatica , vol. 100, pp. 1-9, Feb., 2019, (regular paper).
+[14] JunfengWu, Guodong Shi, Brian D. O. Anderson, and Karl H. Johansson, “Kalman Filtering over Fading Channels: Zero-One Laws and Almost Sure Stabilities”, IEEE Transactions on Information Theory , vol. 64, pp. 6731-6742, Oct., 2018, (regular paper).
+[15] JunfengWu, Guodong Shi, Brian D. O. Anderson, and Karl H. Johansson, “Kalman Filtering over Gilbert-Elliott Channels: Stability Conditions and the Critical Curve”, IEEE Transactions on Auto- matic Control , vol. 64, pp. 1003-1017, Apr., 2018, (regular paper).
+[16] Heng Zhang, Yifei Qi, JunfengWu, Lingkun Fu, and Lidong He, “DOS Attack Energy Management against Remote State Estimation”, IEEE Transactions on Control of Network Systems, vol. 5, pp. 383-394, Mar. 2018.
+[17] Xiaoqiang Ren, Junfeng Wu ⋆ , Karl Henrik Johansson, Guodong Shi, and Ling Shi, “Infinite Hori- zon Optimal Transmission Power Control for Remote State Estimation over Fading Channels”, IEEE Transactions on Automatic Control , vol. 63, pp. 85-100, Jan., 2018, (regular pa- per).
+[18] Xiufang Shi, and JunfengWu ∗ , “To Hide Private Position Information in Localization Using Time Difference of Arrival”, IEEE Transactions on Signal Processing , vol.66, issue.18, pp. 4946 - 4956, Sep., 2018, (regular paper).
+[19] Bo Li, JunfengWu ∗ , Hongsheng Qi, Alexandre Proutiere, and Guodong Shi, “Boolean Gossiping Networks”, IEEE Transactions on Networking, vol. 26, pp. 118-130, Feb., 2018, (regular paper).
+[20] Xiaoqiang Ren, JunfengWu ∗ , Subhrakantim Dey, and Ling Shi, “Attack Allocation on Remote State Estimation in Multi-Systems: Structural Results and Asymptotic Solution”, Automatica , vol. 87, pp. 184-194, Jan., 2018, (regular paper).
+[21] Yuzhe Li, JunfengWu ∗ , and Tongwen Chen, “Transmit Power Control and Remote State Estimationwith Sensor Networks: A Bayesian Inference Approach”, Automatica , vol. 97. pp. 292-300, Nov., 2018.
+[22] Duo Han, Junfeng Wu, Yilin Mo, and Lihua Xie, “On Stochastic Sensor Network Scheduling for Multiple Processes”, IEEE Transactions on Automatic Control , vol. 62, pp. 6633- 6640, Dec., 2017.
+[23] JunfengWu, Tao Yang, Di Wu, Karanjit Kalsi, and Karl H. Johansson, “Distributed Optimal Dispatch for Distributed Energy Resources over Networks with Packet Drops ”, IEEE Transactions on Smart Grid, vol. 8, pp. 3125-3137, Jun., 2017, (regular paper).
+[24] Tao Yang, Jie Lu, Di Wu, Junfeng Wu, Guodong Shi, Ziyang Meng, and Karl H. Johansson, “Dis- tributed Algorithm for Economic Dispatch over Time-Varying Directed Networks with Delays”, IEEE Transactions on Industrial Electronics , vol. 64, pp. 5095-5106, Jun., 2017, (regular paper).
+[25] Junfeng Wu, Yuzhe Li, Daniel E. Quevedo, and Ling Shi, “Improved Results on Data-Driven Power Control for State Estimation”, Systems & Control Letters , vol. 107, pp. 44-48, Sep., 2017.
+[26] Duo Han, Junfeng Wu ⋆ , Huanshui Zhang, and Ling Shi, “Optimal sensor scheduling for multiple linear dynamical systems”, Automatica , vol. 75, pp. 260-270, Jan., 2017, (regular paper).
+[27] Junfeng Wu, Ziyang Meng, Tao Yang, Guodong Shi, and Karl H. Johansson, “Sampled-data Consen- sus over Random Networks”, IEEE Transactions on Signal Processing , vol. 61, no. 17, pp. 4479-4492, Sep., 2016, (regular paper).
+[28] Duo Han, Yilin Mo, Junfeng Wu, and Ling Shi, “An Opportunistic Sensor Scheduling Solution to Remote State Estimation over Multiple Channels”, IEEE Transactions on Signal Processing , vol. 64, no. 18, pp. 4905-4917, Sep., 2016, (regular paper).
+[29] Junfeng Wu, Xiaoqiang Ren, Duo Han, Dawei Shi, and Ling Shi, “Finite-horizon Gaussianity-Preserving Event-based Sensor Scheduling in Kalman Filter Applications”, Automatica, vol. 72, pp. 100-107, Oct., 2016.
+[30] Duo Han, Keyou You, Lihua Xie, Junfeng Wu ⋆ , and Ling Shi, “Optimal Parameter Estimation under Controlled Communication over Sensor Networks”, IEEE Transactions on Signal Processing, vol.63, no.24, pp.6473-6485, Dec., 2015, (regular paper).
+[31] Junfeng Wu, Ling Shi, Lihua Xie, and Karl H. Johansson, “An Improved Stability Condition for Kalman Filtering with Bounded Markovian Packet Losses”, Automatica , vol. 62, pp. 32-38, Dec., 2015.
+[32] Junfeng Wu, Yuzhe Li, Daniel E. Quevedo, Vincent Lau, and Ling Shi, “Data-driven Power Control for State Estimation: A Bayesian Inference Approach”, Automatica , vol. 54, pp. 332-339, 2015.
+[33] Chao Yang, Junfeng Wu, Xiaoqiang Ren, Wen Yang, Hongbo Shi, and Ling Shi, “Deterministic Sensor Scheduling for Centralized State Estimation under Limited Communication Resources”, IEEE Trans- actions on Signal Processing , vol. 63, no.9, pp. 2336 - 2348, 2015, (regular paper).
+[34] Duo Han, Yilin Mo, Junfeng Wu, Sean Weerakkody, Bruno Sinopoli, and Ling Shi, “Stochastic Event- triggered Sensor Schedule for Remote State Estimation”, IEEE Transactions on Automatic Control, vol. 60, issue 10, pp. 2661-2675, 2015, (regular paper).
+[35] Junfeng Wu, Karl H. Johansson, and Ling Shi, “A Stochastic Online Sensor Scheduler for Remote State Estimation with Time-out Condition”, IEEE Transactions on Automatic Control , vol. 59, no. 11, pp. 3110-3116, 2014.
+[36] Junfeng Wu, Ye Yuan, Huanshui Zhang, and Ling Shi, “How Can Online Schedules Improve Com- munication and Estimation Tradeoff?”, IEEE Transactions on Signal Processing , vol. 61, no. 7, pp. 1625-1631, 2013, (regular paper).
+[37] Junfeng Wu, Qing-Shan Jia, Karl H. Johansson, and Ling Shi, “Event-based Sensor Data Scheduling: Trade-off Between Communication Rate and Estimation Quality”, IEEE Transactions on Automatic Control , vol. 58, no. 4, pp. 1041-1046, 2013.
+[38] Chao Yang, Junfeng Wu, Wei Zhang, and Ling Shi, “Schedule Communication for Decentralized State Estimation”, IEEE Transactions on Signal Processing , vol. 61, no. 10, pp. 2525-2535, 2013, (regular paper).
+  SELECTED PEER-REVIEWED CONFERENCE PAPERS
+[1] Yan Leng, Xiaowen Dong, Junfeng Wu, Alex Pentland, “Learning Quadratic Games on Networks”, The 37th International Conference on Machine Learning,ICML 2020.
+[2] Jieqiang Wei, Ehsan Nekouei, Junfeng Wu, Vladimir Cvetkovic, Karl H. Johansson, “Steady-state Analysis of a Human-social Behavior Model: a Neural-cognition Perspective”, 2019 American Control Conference (ACC), July 10-12, 2019.
+[3] Kam Fai Elvis Tsang, Junfeng Wu, Ling Shi, “Zeno-Free Stochastic Distributed Event-Triggered Consensus Control for Multi-Agent Systems”, 2019 American Control Conference (ACC), July 10-12, 2019.
+[4] Yang Liu, Junfeng Wu, Ian R. Manchester, and Guodong Shi, “Gossip Algorithms that Preserve Privacy for Distributed Computation Part II: Performance Against Eavesdroppers”, The 2018 IEEE Conference on Decision and Control, Miami, USA, 2018.
+[5] Yang Liu, Junfeng Wu, Ian R. Manchester, and Guodong Shi, “Gossip Algorithms that Preserve Privacy for Distributed Computation Part I: The Algorithms and Convergence Conditions”, The 2018 IEEE Conference on Decision and Control, Miami, USA, 2018.
+[6] Takuya Iwaki, Junfeng Wu, and Karl Henrik Johansson, “Event-triggered Feedforward Control subject to Actuator Saturation for Disturbance Compensation”, The 2018 European Control Conference, Limassol, Cyprus, 2018.
+[7] Jieqiang Wei, Christos Verginis, Junfeng Wu, Dimos V Dimarogonas, Henrik Sandberg, and Karl H Johansson, “Asymptotic and finite-time almost global attitude tracking: representations free approach”, Limassol, Cyprus, 2018.
+[8] Yuchi Wu, Takuya Iwaki, Junfeng Wu, Karl Henrik Johansson, and Ling Shi, “Sensor selection and routing design for state estimation over wireless sensor networks”, The 36th Chinese Control Conference, Dalian, China, 2017.
+[9] Takuya Iwaki, Yuchi Wu, Junfeng Wu, Henrik Sandberg, and Karl Henrik Johansson, “Wireless sensor network scheduling for remote estimation under energy constraints”, The 56th IEEE Conference on Decision and Control, Melbourne, Australia, 2017.
+[10] Enoch Kung, Junfeng Wu, Dawei Shi, and Ling Shi, “On the nonexistence of event-based triggers that preserve Gaussian state in presence of package-drop”, American Control Conference, Seattle, USA, 2017.
+[11] Heng Zhang, Yifei Qi, and Junfeng Wu, “Optimal jamming power allocation against remote state estimation”, American Control Conference, Seattle, USA, 2017.
+[12] Duo Han, Junfeng Wu, Yilin Mo, and Lihua Xie, “Stochastic Sensor Scheduling for Multiple Dynamical Processes over a Shared Channel”, The 55th IEEE Conference on Decision and Control, Las Vegas, USA, 2016.
+[13] Junfeng Wu, Ziyang Meng, Tao Yang, Guodong Shi, and Karl H. Johansson, “Critical Sampling Rate for Sampled-Data Consensus over Random Networks”, The 54th IEEE Conference on Decision and Control, Osaka, Japan, 2015.
+[14] Duo Han, Keyou You, Lihua Xie, Junfeng Wu, and Ling Shi “Stochastic Packet Scheduling for Optimal Parameter Estimation”, The 54th IEEE Conference on Decision and Control, Osaka, Japan, 2015.
+[15] Junfeng Wu, Guodong Shi, Brain D. O. Anderson, and Karl H. Johansson, “Stability Conditions and Phase Transition for Kalman Filtering over Markovian Channel”, The 34th Chinese Control Conference, Hangzhou, China, 2015. (Guan Zhao-Zhi Best Paper Award).
+[16] Junfeng Wu, and Karl H. Johansson, “Peak Covariance Stability of Kalman Filtering with Markovian Packet Losses”, The 2nd IEEE International Conference on Cyber-Physical Systems, Networks, and Applications, Hong Kong, 2014.
+[17] Junfeng Wu, Guodong Shi, and Karl H. Johansson, “Probabilistic Convergence of Kalman Filtering over Nonstationary Fading Channel”, The 53rd IEEE Conference on Decision and Control, Los Angeles, USA, 2014.
+[18] Heng Zhang, Peng Cheng, Junfeng Wu, and Jiming Chen, “Online Deception Attack Against Remote State Estimation”, The 19th IFAC World Congress, Cape Town, South Africa, 2014.
+[19] Duo Han, Yilin Mo, Junfeng Wu, Bruno Sinopoli, and Ling Shi, “Stochastic Event-triggered Sensor Scheduling for Remote State Estimation”, The 52nd IEEE Conference on Decision and Control, Florence, Italy, 2013.
+[20] Junfeng Wu, Yilin Mo, and Ling Shi, Stochastic Online Sensor Scheduler for Remote State Estimation, The 1st IEEE International Conference on Cyber-Physical Systems, Networks, and Applications, Taipei, 2013.
+[21] Junfeng Wu, Karl H. Johansson, and Ling Shi, “An Improved Hybrid Sensor Schedule for Remote State Estimation under Limited Communication Resources”, The 51st IEEE Conference on Decision and Control, Maui, USA, 2012.
+[22] Chao Yang, Junfeng Wu, Wei Zhang, and Ling Shi, “Communication Scheduling for Decentralized State Estimation”, The 12th International Conference on Control, Automation, Robotics and Vision, Guangzhou, China, 2012.
+[23] Chao Yang, Junfeng Wu, Wei Zhang, and Ling Shi, “Communication Topology Design under Limited Bandwidth”, The 20th International Symposium on Mathematical Theory of Networks and Systems, Melbourne, Australia, 2012.
+[24] Junfeng Wu, Lihua Xie, and Ling Shi, “An Innovative Packet-Splitting Approach for Kalman Filtering over Lossy Networks”, The American Control Conference, San Francisco, USA, 2011.

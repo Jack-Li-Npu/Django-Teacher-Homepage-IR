@@ -1,0 +1,27 @@
+潘毅
+一、教育经历
+2014-2019 重庆邮电大学 信息与通信工程 博士
+2017-2018 美国俄勒冈州立大学 电子工程与计算机科学 联合培养博士
+
+二、工作经历
+2020-2022 清华大学深圳国际研究生院，先进传感器件与集成系统重点实验室，博士后/助理研究员
+2022-至今 深圳技术大学，大数据与互联网学院，助理教授
+
+三、主要研究领域
+主要从事多源融合定位算法研究，面向通信开展物联网操作系统研究，图像及运动传感信息处理算法研究，并已实现项目成果的千万元量级的产业转化。
+
+四、主要成果及荣誉
+[1] Pan Y, Zhang S, Wang X, Liu M H, Luo Y R. A fine acquisition algorithm based on fast three-time FRFT for dynamic and weak GNSS signals[J].Journal of Systems Engineering and Electronics, 2023, 99: 1-11.
+[2] Pan Y, Zhang T Q, Zhang G, Luo Z T. A Novel Acquisition Algorithm Based on Two-Dimensional Delay Estimation for BOC Signals[J]. Physical Communication, 2019, 37(12): 100875-100875.8.
+[3] Pan Y, Zhang T Q, Zhang G, Luo Z T. A Novel Acquisition Algorithm Based on PMF-apFFT for BOC Modulated Signals[J]. IEEE Access, 2019, 7: 46686-46694.
+[4]潘毅, 张天骐, 张刚, 马宝泽. 高动态BOC信号捕获算法[J]. 通信学报, 2019, 40(6): 82-89.
+[5] Pan Y, Zhang T Q, Zhang G, Luo Z T. Analysis of An Improved Acquisition Method for High-dynamic BOC Signal[J]. Journal of Systems Engineering and Electronics, 2016, 27(6): 1158-1167.
+[6] Luo Y R, Hsu L T, Pan Y. A Super-Resolution Algorithm with FRFT Towards GNSS TOA Estimation for Multipath Channel[C]. Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation, 2021: 1-10.
+[7] Liu M H, Zhang S, Pan Y. UWB-based Real-Time 3D High Precision Localization System[C]. International Conference on Electrical, Electronic Information and Communication Engineering, 2022.
+
+E-mail: panyi@sztu.edu.cn
+
+
+
+上一篇：杨柳莎
+下一篇：李青

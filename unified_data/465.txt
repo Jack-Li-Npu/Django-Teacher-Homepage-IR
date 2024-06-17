@@ -1,0 +1,24 @@
+黄海漩
+
+一、教育经历
+2010/09-2015/07 深圳大学，光学工程，博士
+2004/09-2007/07  深圳大学，光学，硕士
+2000/09-2004/07  深圳大学，电子科学与技术，学士
+
+二、工作经历
+2018/07-至今 深圳技术大学大数据与互联网学院，副教授
+2007/09-2018/06 深圳大学电子科学与技术学院，实验师
+  三、主要研究领域
+人工智能在光学超表面器件设计应用、微纳光电子器件、太赫兹功能器件研究
+  四、主要成果及荣誉
+(1) Haixuan Huang，Shuangchen Ruan，Tuo Yang，Ping Xu*，Novel even beam splitters based on subwavelength binary simple periodic rectangular structure，Nano-Micro Lett，2015，7（2）:177-182（SCI一区）
+(2)Pan Yao#, Huang H.X. #, Lei Lei, Zou Yang , Xiao Y.F. , Yang Tuo and Xu Ping. Terahertz Wideband Filter Based on Sub-Wavelength Binary Simple Periodic Structure , Appl. Sci., 2019, 9, 407（SCI三区）
+(3)Ping Xu, Xiongchao Li, Tuo Yang, Zhilong Sun, Haixuan Huang* ,Jun Yu and Guanxiao Cheng. Research on distortion invariant recognition based on lensless coaxial integrated microoptic correlator， Journal of Optics, 2018, 20(8): 085801. （SCI三区）
+(4) Ping Xu，Haixuan Huang，Kai Wan，Shuangchen Ruan，Jing Yang，Xiangxian Chen，Jiayong Liu，Realization of optical perfect shuffle with microoptical array element, Optics Express，2007，15（3）:809--816（SCI二区）
+(5) Ping Xu, Xia Yuan, Haixuan Huang,Tuo Yang, Yanyan Huang, Tengfei Zhu, Shaotuo Tang, Wenda Peng，Research on design of tri-color shift device, Nanoscale Research Letters, 2016, 11(1): 485-1~8（SCI二区）
+
+E-mail:huanghaixuan@sztu.edu.cn
+
+
+上一篇：徐渊
+下一篇：林霖

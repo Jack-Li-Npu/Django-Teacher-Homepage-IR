@@ -1,0 +1,39 @@
+刘瑾
+副教授
+教育背景
+爱荷华大学博士
+爱荷华大学硕士
+大连理工大学学士
+研究领域
+统计遗传、单细胞/空间组学、孟德尔随机、全转录组关联性分析（TWAS）、机器学习
+个人网站
+https://sites.google.com/view/liujinlab/home
+电子邮箱
+liujinlab@cuhk.edu.cn
+办公室
+综合楼C707
+个人简介
+刘瑾教授自 2023 年起担任香港中文大学（深圳）数据科学学院副教授。刘瑾教授于 2004年毕业于大连理工大学电子信息学院，分别于2007和2011年在爱荷华大学统计和精算科学系获得统计学硕士和博士学位，之后在美国耶鲁大学生物统计系任博士后（2011-2013）。 在加入香港中文大学（深圳）之前，刘瑾教授是美国伊利诺伊大学芝加哥分校流行病和生物统计系的终身轨助理教授（2013-2014）和新加坡国立大学Duke-NUS医学院定量医学中心的终身轨助理教授（2015-2022）。
+刘瑾教授的研究主要集中在统计遗传学/基因组学、生物信息学和机器学习。 其研究兴趣包括解决单细胞/空间组学的实际问题，开发考虑实际问题的孟德尔随机方法进行因果推理，以及对汇总级 GWAS 和单/多组织 eQTL 数据开发统一的TWAS方法。 他的合作研究包括癌症基因组学、癌症免疫学、新陈代谢和端粒长度测量中的生物技术。
+2015年以来，刘瑾教授四次获得新加坡教育部学术研究基金（AcRF Tier 2，PI），2019年获得新加坡国立大学数学科学研究所专题项目基金，用于组织统计遗传学/基因组学的国际研讨会，以及2021年Duke-NUS 颁发的Khoo Bridge基金奖。
+学术著作
+Methodology:
+1. Liu, W., Liao, X., Luo, Z., Yang, Y., Lau, M. C., Jiao, Y., ... & Liu, J.* (2023). Probabilistic embedding and clustering with alignment for spatial transcriptomics data integration with PRECAST. Nature Communications, accepted.
+2. Cheng, Q., Zhang, X., Chen, L. S.*, & Liu, J.* (2022). Mendelian randomization accounting for complex correlated horizontal pleiotropy while elucidating shared genetic etiology. Nature Communications, 13(1), 1-13.
+3. Liu, W., Liao, X., Yang, Y., Lin, H., Yeong, J., Zhou, X., ... & Liu, J.* (2022). Joint dimension reduction and clustering analysis of single-cell RNA-seq and spatial transcriptomics data. Nucleic Acids Research, 50(12), e72-e72.
+4. Yang, Y., Shi, X., Liu, W., Zhou, Q., Chan Lau, M., Chun Tatt Lim, J., ... & Liu, J.* (2022). SC-MEB: spatial clustering with hidden Markov random field using empirical Bayes. Briefings in bioinformatics, 23(1), bbab466.
+5. Zhou, X., Jiao, Y., Liu, J., & Huang, J. (2022). A deep generative approach to conditional sampling. Journal of the American Statistical Association, 1-12.
+6. Liu, W., Lin, H., Zheng, S., & Liu, J. (2021). Generalized factor model for ultra-high dimensional correlated variables with mixed types. Journal of the American Statistical Association, 1-17.
+7. Shi, X., Chai, X., Yang, Y., Cheng, Q., Jiao, Y., Chen, H., ... & Liu, J.* (2020). A tissue-specific collaborative mixed model for jointly analyzing multiple tissues in transcriptome-wide association studies. Nucleic acids research, 48(19), e109-e109.
+8. Yang, Y., Shi, X., Jiao, Y., Huang, J., Chen, M., Zhou, X., ... & Liu, J. (2020). CoMM-S2: a collaborative mixed model using summary statistics in transcriptome-wide association studies. Bioinformatics, 36(7), 2009-2016.
+9. Cheng, Q., Yang, Y., Shi, X., Yeung, K. F., Yang, C., Peng, H., & Liu, J.* (2020). MR-LDP: a two-sample Mendelian randomization for GWAS summary statistics accounting for linkage disequilibrium and horizontal pleiotropy. NAR genomics and bioinformatics, 2(2), lqaa028.
+10. Yang, C., Wan, X., Lin, X., Chen, M., Zhou, X., & Liu, J.* (2019). CoMM: a collaborative mixed model to dissecting genetic contributions to complex traits by leveraging regulatory information. Bioinformatics, 35(10), 1644-1652.
+Collaborative:
+11. Tham, C.Y., Poon, L., Yan, T., Koh, J.Y., Ramlee, M.K., Teoh, V.S., ...& Li, S. (2023) High-throughput telomere length measurement at nucleotide resolution using the PacBio high fidelity sequencing platform. Nature Communications, accepted.
+12. Kaya, N. A., Chen, J., Lai, H., Yang, H., Ma, L., Liu, X., ... & Zhai, W. (2022). Genome instability is associated with ethnic differences between Asians and Europeans in hepatocellular carcinoma. Theranostics, 12(10), 4703.
+13. Goh, D., Lee, J. N., Tien, T., Lim, J. C. T., Lim, S., Tan, A. S., ... & Yeong, J. (2022). Comparison between non-pulmonary and pulmonary immune responses in a HIV decedent who succumbed to COVID-19. Gut, 71(6), 1231-1234.
+14. Zhou, Q., Wan, Q., Jiang, Y., Liu, J., Qiang, L., & Sun, L. (2020). A landscape of murine long non-coding RNAs reveals the leading transcriptome alterations in adipose tissue during aging. Cell reports, 31(8), 107694.
+15. Chen, J., Yang, H., Teo, A. S. M., Amer, L. B., Sherbaf, F. G., Tan, C. Q., ... & Zhai, W. (2020). Genomic landscape of lung adenocarcinoma in East Asians. Nature genetics, 52(2), 177-186.
+16. Yeong, J., Tan, T., Chow, Z. L., Cheng, Q., Lee, B., Seet, A., ... & Tan, P. H. (2020). Multiplex immunohistochemistry/immunofluorescence (mIHC/IF) for PD-L1 testing in triple-negative breast cancer: a translational assay compared with conventional IHC. Journal of Clinical Pathology, 73(9), 557-562.
+17. Yuan, Z., Zhu, H., Zeng, P., Yang, S., Sun, S., Yang, C., ... & Zhou, X. (2020). Testing and controlling for horizontal pleiotropy with probabilistic Mendelian randomization in transcriptome-wide association studies. Nature communications, 11(1), 1-14.
+18. Yeong, J., Lim, J. C. T., Lee, B., Li, H., Ong, C. C. H., Thike, A. A., ... & Tan, P. H. (2019). Prognostic value of CD8+ PD-1+ immune infiltrates and PDCD1 gene expression in triple negative breast cancer. Journal for immunotherapy of cancer, 7(1), 1-13.

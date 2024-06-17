@@ -1,0 +1,25 @@
+个人简介
+李穆于2015年在哈尔滨工业大学获得学士学位，2020年在香港理工大学获得博士学位，2022年6月至今在哈尔滨工业大学（深圳）计算机科学与技术学院工作，任助理教授。主要从事计算机视觉、人工智能、深度学习图像编码、虚拟现实等方面的研究，在本领域知名国际期刊（如IEEE TPAMI、IEEE TIP等）和会议（CVPR、ECCV等）上发表论文10余篇，论文Google学术引用超过1300次。作为负责人主持国自然青年基金1项，深圳市稳定支持面上基金和创新人才项目博士启动项目各1项，中国博士后基金站前特别资助和面上项目各1项。实验室拥有VR眼镜、GPU服务器若干，可以为对虚拟现实、“元宇宙”、计算机视觉感兴趣的同学提供硬件支持。
+教育经历
+2011-09 至 2015-06, 哈尔滨工业大学, 计算机科学与技术, 学士
+2015-09 至 2020-03, 香港理工大学, 计算机科学与技术, 博士
+工作经历
+2020-06 至 2022-06, 香港中文大学（深圳）, 博士后
+2022-06 至 今, 哈尔滨工业大学, 哈尔滨工业大学（深圳）, 助理教授
+代表性成果
+Fan Kanglong, Wen Wen, Li Mu*, Peng Yifan, Ma Kede. Learned Scanpaths Aid Blind Panoramic Video Quality Assessment[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+Wen Wen, Li Mu, Zhang Yabin, Liao Yiting, Li Junlin, Zhang Li, Ma Kede, Modular Blind Video Quality Assessment[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+Li Mu, Zuo Wangmeng, Gu Shuhang, You Jane, Zhang David. Learning content-weighted deep image compression[J], IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021, 43(10): 3446-3461.
+Li Mu, Ma Kede, You Jane, Zhang David, Zuo Wangmeng. Efficient and Effective Context-Based Convolutional Entropy Modeling for Image Compression[J]. IEEE Transactions on Image Processing (TIP), 2020, 29: 5900-5911.
+Li Mu, Zhang Kai, Li Jinxing, Zuo Wangmeng, Timofte Radu, Zhang David. Learning Context-Based Non-local Entropy Modeling for Image Compression[J]. IEEE Transactions on Neural Networks and Learning System (TNNLS), 2023, 34:1132-1145.
+Li Mu, Zuo Wangmeng, Gu Shuhang, Zhao Debin, Zhang David. Learning convolutional networks for content-weighted image compression[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+Li Mu, Li Jinxing, Gu, Shuhang, Wu Feng, Zhang David. End-to-end optimized 360-degree image compression[J], IEEE Transactions on Image Processing (TIP), 2022.
+Li, Mu; Ma, Kede; Li, Jinxing; Zhang, David; Pseudocylindrical Convolutions for Learned Omnidirectional Image Compression, submitted to IEEE Transactions on Image Processing (TIP), 2023.
+Li Jinxing, Liang Beicheng, Lu Xiangwei, Li Mu*, Lu Guangming, Xu Yong. From Global to Local: Multi-Patch and Multi-Scale Contrastive Similarity Learning for Unsupervised Defocus Blur Detection[J]. IEEE Transactions on Image Processing, 2023, 32: 1158-1169.
+Peng Tianhao, Li Mu*, Chen Fangmei, Xu Yong, Xie Yuan, Sun Yahan, Zhang David*. ISFB-GAN: Interpretable semantic face beautification with generative adversarial network[J]. Expert Systems with Applications, 2024, 236: 121131.
+Peng Tianhao, Li Mu, Chen Fangmei, Xu Yong, Zhang David. Learning efficient facial landmark model for human attractiveness analysis[J]. Pattern Recognition, 2023, 138: 109370.
+Li Jinxing, Zhou Chuhao, Ji Xiaoqiang, Li Mu, Lu Guangming, Xu Yong, Zhang David. Multi-view Instance Attention Fusion Network for classification[J]. Information Fusion, 2024, 101: 101974.
+Li Jinxing, Yong Hongwei, Wu Feng, Li Mu. Online multi-view subspace learning with mixed noise[C]//Proceedings of the 28th ACM International Conference on Multimedia. 2020: 3838-3846.
+Li Jinxing, Li Mu, Lu Guangming, Zhang Bob, Yin Hongpeng, Zhang David, Similarity and diversity induced paired projection for cross-modal retrieval[J]. Information Sciences, 2020, 539: 215-228.
+Yan Zhaoyi, Li Xiaoming, Li Mu, Zuo Wangmeng, Shan Shiguang. Shift-net: Image inpainting via deep feature rearrangement[C]//Proceedings of the European conference on computer vision (ECCV). 2018: 1-17.
+Li Mu, Wang Qilong, Zhang David, Li Peihua, Zuo Wangmeng. Joint distance and similarity measure learning based on triplet-based constraints[J]. Information Sciences, 2017, 406: 119-132.

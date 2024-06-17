@@ -1,0 +1,34 @@
+张寅
+校长讲座教授
+教育背景
+博士（纽约州立大学石溪分校）
+理学学士（重庆大学）
+研究领域
+最优化算法的设计分析以及数值实现、最优化算法在各领域的应用，特别是在数据科学、图像与信号处理、机器学习等领域的应用
+个人网站
+https://www.caam.rice.edu/~zhang/
+电子邮箱
+yinzhang@cuhk.edu.cn
+办公室
+道远楼602
+个人简介
+张寅教授现为香港中文大学（深圳）数据科学学院校长讲座教授，2021年之前是美国莱斯大学计算与应用数学系终身正教授。张寅教授的主要研究领域为最优化算法设计、分析、实现，以及各类实际应用和相应的计算机软件开发。张寅教授对线性规划、半定规划和非线性规划的内点法做出了开创性贡献，近年来在图像恢复和压缩感知等数据的理论和算法方面也做出了杰出贡献。
+张寅教授在国际顶尖的同行评审学术杂志上发表过近百篇学术论文，在国内国外多次获得相关学会协会和杂志颁发的最佳论文奖。他的研究项目长期受到美国国国家自然基金和其他政府与非政府机构的资助。他的主要学术成就包括：第一，在最优化算法领域中近三十年来最重要的进展之一是内点法的研究。该方法现已成为解决一般性凸优化问题最可靠和最精确的算法。张寅教授在内点法的研究方面做出了一系列世界领先的工作，包括首创内点法超线性收敛速度理论和非可行点迭代收敛理论等重大理论突破。第二，他设计开发的线性规划软件LIPSOL被最权威的科学和工程计算平台MATLAB选为官方软件并购买版权，从而被世界各国成千上万的MATLAB用户长期广泛运用。第三，张寅教授带领的团队在图像与信号处理算法和数据压缩感知算法方面均做出了世界领先的成果，其中最有影响力的三篇论文的被引用数在2017年已达到平均千次以上。张寅教授将最优化应用于实践中的一个成功案例是与美国航天局“航天器无推进剂最优旋转路径”项目的合作。航天器无推进旋转是用于执行航天器旋转控制而不需要使用燃料推进器的最佳姿态与轨迹。张寅教授的学生在他和合作者的指导下，成功解决了这个最优控制轨迹的计算，使无推进旋转在2006年和2007年两次在国际空间站上实现，节省了将燃料运送至国际空间站的费用。
+张寅教授在在莱斯大学是首个获得“优秀导师校长奖”的教授。他曾指导了近三十名硕博士研究生和博士后，其中有多位目前正活跃在国内外数学优化领域，如北京大学文再文教授、中国科学院数学与系统科学研究院刘歆研究员，南京大学杨俊锋教授等等；紧密合作过的年轻学者还有原加州大学洛杉矶分校印卧涛教授（现阿里巴巴达摩院决策智能实验室负责人）。 
+学术著作
+1. Lijun Xu, Bo Yu and Yin Zhang. An Alternating Direction and Projection Algorithm for Structure-enforced Matrix Factorization. Computational Optimization and Applications (2017). First Online: 24 April, 2017. doi: 10.1007/s10589-017-9913-x.
+2. Zaiwen Wen and Yin Zhang. Accelerating Convergence by Augmented Rayleigh-Ritz Projections For Large-Scale Eigenpair Computation. SIAM Journal on Matrix Analysis and Applications. Vol. 38-2, pp. 273-296. 2017.
+3. Junyu Zhang, Zaiwen Wen and Yin Zhang. Subspace Methods With Local Refinements for Eigenvalue Computation Using Low-Rank Tensor-Train Format. Journal of Scientific Computing (First online 2016). doi: 10.1007/s10915-016-0255-0. February 2017, Volume 70, Issue 2, pp. 478-499.
+4. Zaiwen Wen, Chao Yang, Xin Liu and Yin Zhang. Trace-Penalty Minimization for Large-scale Eigenspace Computation. Journal of Scientific Computing. March 2016, Volume 66, Issue 3, pp. 1175-1203.
+5. Xin Liu, Zaiwen Wen and Yin Zhang. An Efficient Gauss-Newton Algorithm for Symmetric Low-Rank Product Matrix Approximations. SIAM Journal on Optimization. 25-3 (2015), pp. 1571-1608. http://dx.doi.org/10.1137/140971464.
+6. Yuan Shen, Zaiwen Wen, and Yin Zhang. Augmented Lagrangian Alternating Direction Method for Matrix Separation Based on Low-Rank Factorization. Optimization Methods and Software. Vol. 29 (2), pp. 239-263. 2014.
+7. Yin Zhang. Theory of Compressive Sensing via L1-Minimization: A Non-RIP Analysis and Extensions. Journal of the Operations Research Society of China. Vol. 1, Issue 1, pp. 79-105. 2013.
+8. Junfeng Yang and Yin Zhang, Alternating direction algorithms for L1-problems in compressive sensing. SIAM Journal on scientific computing. 33(1), 250-278. 2011.
+9. Yilun Wang, Junfeng Yang, Wotao Yin and Yin Zhang. A new alternating minimization algorithm for total variation image reconstruction. SIAM Journal on Imaging Sciences. 1(3), 248-272. 2008. 
+10. Elaine T. Hale, Wotao Yin and Yin Zhang. Fixed-point continuation for L1-minimization: Methodology and convergence. SIAM Journal on Optimization. 19 (3), 1107-1130. 2008.
+11. Renato Monteiro and Y Zhang. A unified analysis for a class of long-step primal-dual path-following interior-point algorithms for semidefinite programming. Mathematical Programming, Series A.81 (3), 281-299. 1998.
+12. Yin Zhang. Solving large-scale linear programs by interior-point methods under the MATLAB environment. Optimization Methods and Software. 10 (1), 1-31. 1998.
+13. Amer El-Bakry, Richard Tapia, T Tsuchiya and Yin Zhang. On the formulation and theory of the Newton interior-point method for nonlinear programming. Journal of Optimization Theory and Applications. 89 (3), 507-541. 1996.
+14. Yin Zhang. On the convergence of a class of infeasible interior-point methods for the horizontal linear complementarity problem. SIAM Journal on Optimization. 4 (1), 208-227. 1994.
+15. Yin Zhang, Richard Tapia, and John Dennis. On the superlinear and quadratic convergence of primal-dual interior point linear programming algorithms. SIAM Journal on Optimization. 2 (2), 304-324. 1992. 
+   

@@ -1,0 +1,27 @@
+王小航
+
+
+一、教育经历
+2011/09 – 2017/11 香港大学 统计学 博士
+2007/09 – 2011/07 中国人民大学 统计学 本科
+
+二、工作经历
+2022/09 – 至今 深圳技术大学 大数据与互联网学院 助理教授
+2020/09 – 2022/08 珠海复旦创新研究院 大数据平台 博士后
+2017/09 – 2020/08 北京师范大学-香港浸会大学联合国际学院 理工科技学院 助理教授
+2016/04 – 2017/06 LIM Advisors Limited 量化分析师
+
+三、主要研究领域
+贝叶斯张量补全，核物理数据挖掘，多元时间序列
+
+四、主要成果
+1. Wang, Xiaohang, L. H. Philip*, Weidong Yang, and Jun Su. "Bayesian robust tensor completion via CP decomposition." Pattern Recognition Letters 163 (2022): 121-128.
+2. Wang, Xiaohang, Long Zhu, and Jun Su*. "Providing physics guidance in Bayesian neural networks from the input layer: The case of giant dipole resonance predictions." Physical Review C 104.3 (2021): 034317.
+3. Wang, Xiaohang, Long Zhu, and Jun Su*. "Modeling complex networks of nuclear reaction data for probing their discovery processes." Chinese Physics C 45.12 (2021): 124103.
+4. Lu, Renjie, Philip LH Yu*, and Xiaohang Wang. "Sparse vector error correction models with application to cointegration‐based trading." Australian & New Zealand Journal of Statistics 62.3 (2020): 297-321.
+5. Philip, L. H.*, Xiaohang Wang, and Yuanyuan Zhu. "High dimensional covariance matrix estimation by penalizing the matrix-logarithm transformed likelihood." Computational Statistics & Data Analysis 114 (2017): 12-25.
+
+E-mail: wangxiaohang@sztu.edu.cn
+
+上一篇：姜婧妍
+下一篇：杨柳莎

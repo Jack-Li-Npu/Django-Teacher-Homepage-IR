@@ -1,0 +1,47 @@
+杨余久
+教授，博士生导师
+学科：
+人工智能，大数据，Open FIESTA联系信息
+电话： 0755-26032552
+邮箱： yang.yujiu@sz.tsinghua.edu.cn
+地址： 广东省深圳市西丽深圳大学城清华校区信息大楼1910
+个人简历
+教学
+研究领域
+研究成果
+奖励荣誉
+概况
+本人主要从Open FIESTA IID和数信院的人工智能、大数据三个方向招生
+教育经历
+2008中国科学院自动化所模式识别与智能系统博士
+2002中国矿业大学控制工程硕士
+1995中国矿业大学应用地球物理专业学士
+
+工作经历
+2023.12–至今 清华大学深圳国际研究生院，教授
+2016.12–2023.11 清华大学深圳国际研究生院，副教授
+2010.10–2016.12 清华大学深圳研究生院讲师，副教授
+2008.07-2010.09 清华大学博士后
+2002.07-2008.07 中国科学院自动化研究所助理研究员
+
+学术兼职
+2011.05 － 现在   Association for Computing Machinery（ACM）Member
+2009.07 － 现在   Institute of Electrical and Electronics Engineers（IEEE）Member
+2009.09 － 现在   中国计算机学会（CCF）       会员
+2010.09 － 现在   CCF-YOCSEF深圳            AC委员
+2010.04 － 现在   深圳市科技专家委员会         评审专家，
+ 为下列期刊和国际会议担任程序委员会委员或审稿人：NeurIPS、ICML、ACL、EMNLP、NAACL、SIGKDD、CVPR、ECCV、AAAI
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+IEEE Transactions on Multimedia ( TMM )
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+SCIENCE CHINA Information Sciences
+IEEE Transactions on Knowledge and Data Engineering (TKDE)
+IEEE Internet of Things Journal
+IEEE Transactions on Parallel and Distributed Systems （TPDS）
+IEEE Internet Computing
+IEEE Computing in Science \& Engineering
+IEEE Computer  
+International Journal of Machine Learning and Cybernetics
+《计算机学报》
+《自动化学报》
+《电子与信息学报》

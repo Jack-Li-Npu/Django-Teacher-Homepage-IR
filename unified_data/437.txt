@@ -1,0 +1,101 @@
+Ran Cheng (程然)
+Home
+Accomplishments
+Publications
+Ran Cheng
+Associate Professor
+Evolving Machine Intelligence Group
+Biography
+As the founder of the Evolving Machine Intelligence (EMI) Group and co-founder of the EvoX Project, I am currently a tenured Associate Professor with the Southern University of Science and Technology (SUSTech), China. Within the expansive realm of artificial intelligence (AI), my research delves into the intriguing study of how evolution fosters complexity, diversity, and intelligence through computational means. Specifically, my primary research interests lie at the intersection of Evolutionary Computation and pivotal AI domains such as representation learning and reinforcement learning. The ultimate goal is to deliver high-performance computational solutions that address optimization and modeling challenges in contemporary science and engineering.
+I am the Founding Chair of IEEE Computational Intelligence Society (CIS) Shenzhen Chapter. I am serving as an Associated Editor/Editorial Board Member for several journals, including: ACM Transactions on Evolutionary Learning and Optimization, IEEE Transactions on Evolutionary Computation, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Transactions on Cognitive and Developmental Systems, IEEE Transactions on Artificial Intelligence, etc. I am the recipient of the IEEE Transactions on Evolutionary Computation Outstanding Paper Awards (2018, 2021), the IEEE CIS Outstanding PhD Dissertation Award (2019), the IEEE Computational Intelligence Magazine Outstanding Paper Award (2020). I have been featured as among the World’s Top 2% Scientists (2021 - 2023) and the Clarivate Highly Cited Researchers (2023). I am a Senior Member of IEEE.
+Interests
+Computational Intelligence
+Evolutionary Computation
+Representation Learning
+Education
+PhD, Computer Science, 2013 - 2016
+University of Surrey, UK
+Postgraduate, Computer Science and Technology, 2010 - 2012
+Zhejiang University, China
+BEng, Computer Science and Technology, 2006 - 2010
+Northeastern University, China
+Work Experiences
+     Associate Professor (Tenured), Southern University of Science and Technology, China
+Southern University of Science and Technology
+2020-12-01 – Present China
+     Assistant Professor, Southern University of Science and Technology, China.
+Southern University of Science and Technology
+2018-09-07 – 2020-11-30 China
+     Research Fellow, University of Birmingham, UK.
+University of Birmingham
+2016-04-01 – 2018-08-31 UK
+     Visiting Scholar, Honda Research Institute Europe, Germany.
+Honda
+2013-01-01 – 2016-03-31 Germany
+Committee Services
+Founding Chair
+IEEE 2021-07-01
+IEEE CIS Shenzhen Chapter
+Chair
+IEEE 2020-01-01
+IEEE CIS Task Force on Data-Driven Evolutionary Optimization of Expensive Problems
+Committee Member
+IEEE 2020-01-01
+IEEE CIS Evolutionary Computation Technical Committee
+Editorial Services
+Associate Editor
+ACM Transactions on Evolutionary Learning and Optimization 2023-01-01
+Associate Editor
+IEEE Transactions on Emerging Topics in Computational Intelligence 2023-01-01
+Associate Editor
+IEEE Transactions on Evolutionary Computation 2022-01-01
+Associate Editor
+IEEE Transactions on Cognitive and Developmental Intelligence 2021-08-01
+Associate Editor
+IEEE Transactions on Artificial Intelligence 2020-04-01
+Editorial Board Member
+Applied Soft Computing 2018-01-01
+Editorial Board Member
+Complex & Intelligent Systems 2017-01-01
+Conference Organizers
+Publicity Chair
+CISCE 2023 2023-04-14 – 2023-04-16
+2023 5th International Conference on Communications, Information System and Computer Engineering, Guangzhou, China
+Program Co-Chair
+CSAI 2022 2022-12-09 – 2022-12-11
+2022 6th International Conference on Computer Science and Artificial Intelligence, Beijing, China
+Organizing Chair
+EMO 2021 2021-03-28 – 2021-03-31
+2021 International Conference on Evolutionary Multi-Criterion Optimization, Shenzhen, China
+Founding Chair
+IEEE MBEA 2016-12-06
+IEEE Symposium on Model-Based Evolutionary Algorithms
+Awards
+Highly Cited Researcher
+Clarivate/Web of Science 2023-11-15
+Clarivate Highly Cited Researcher
+Outstanding Paper Award
+IEEE 2021-07-01
+IEEE Transactions on Evolutionary Computation Outstanding Paper Award
+Outstanding Paper Award
+IEEE 2020-07-01
+IEEE Computational Intelligence Magazine Outstanding Paper Award
+Outstanding PhD Dissertation Award
+IEEE 2019-07-01
+IEEE Computational Intelligence Society (CIS) Outstanding PhD Dissertation Award
+Outstanding Paper Award
+IEEE 2018-07-01
+IEEE Transactions on Evolutionary Computation Outstanding Paper Award
+Recent Publications
+Quickly discover relevant content by filtering publications.
+Cheng He, Lianghao Li, Ran Cheng, Yaochu Jin (2023). Evolutionary multiobjective optimization via efficient sampling-based offspring generation. Complex & Intelligent Systems.
+Cite DOI URL
+Xiaoshu Xiang, Ye Tian, Ran Cheng, Xingyi Zhang, Shengxiang Yang, Yaochu Jin (2022). A benchmark generator for online dynamic single-objective and multi-objective optimization problems. Information Sciences.
+Cite DOI URL
+Shihua Huang, Cheng He, Ran Cheng (2022). SoloGAN: Multi-domain Multimodal Unpaired Image-to-Image Translation via a Single Generative Adversarial Network. IEEE Transactions on Artificial Intelligence.
+Cite DOI
+Changwu Huang, Lianghao Li, Cheng He, Ran Cheng, Xin Yao (2022). Adaptive multiobjective evolutionary algorithm for large-scale transformer ratio error estimation. Memetic Computing.
+Cite DOI URL
+Lei Cao, Chun-ming Ye, Ran Cheng, Zhen-kun Wang (2022). Memory-based variable neighborhood search for green vehicle routing problem with passing-by drivers: a comprehensive perspective. Complex & Intelligent Systems.
+Cite DOI URL
+SEE ALL PUBLICATIONS

@@ -1,0 +1,25 @@
+查宏远
+校长学勤讲座教授
+副院长（科研）
+计算机科学学科负责人
+教育背景
+博士（斯坦福大学）
+学士（复旦大学）
+研究领域
+机器学习及应用
+电子邮箱
+zhahy@cuhk.edu.cn
+办公室
+道远楼604
+个人简介
+查宏远教授现为香港中文大学（深圳）校长学勤讲座教授、数据科学学院副院长（科研）。
+查宏远教授1984年毕业于复旦大学数学系， 并于1993年获得斯坦福大学科学计算专业博士学位。查教授于2006年至2020年任职于佐治亚理工学院计算机学院，1992年至2006年任职于宾州州立大学计算机科学与工程系，他也曾于1999年至2001年任职于 Inktomi 公司。他目前的研究方向是机器学习及应用。
+查教授在计算机等相关领域的主流科技期刊和顶级学术会议上发表400多篇论文，据谷歌学术统计，截止2024年04月，谷歌H-index 90，总引用率超36703次。曾荣获多项重要学术奖项，如 Institute of Mathematics and Applications（IMA）授予的“莱斯利福克斯奖（Leslie Fox Prize）”二等奖（1991年），第34届ACM SIGIR国际信息检索会议（SIGIR 2011）最佳学生论文奖（指导教授）（2011年），第26届NeurIPS“最佳论文奖” (2013年)。
+学术著作
+1. J. Yang, A. Li, M. Farajtabar, P. Sunehag, E. Hughes and Hongyuan Zha. Learning to Incentivize Other Learning Agents. NeurIPS, 2020.
+2. R. Trivedi, J. Yang and Hongyuan Zha. Learning Strategic Network Emergence Games. NeurIPS, 2020.
+3. S. Zuo, H. Jiang, Z. Li,  T. Zhao and Hongyuan Zha. Transformer Hawkes Process.  ICML, 2020.
+4. R. Trivedi, J. Yang and Hongyuan Zha. GraphOpt: Learning Optimization Models of Graph Formation. ICML, 2020.
+5. X. Chen, L. Wang, Y. Hang, H. Ge and Hongyuan Zha. Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies. ICLR, 2020.
+  更多已出版著作，请至谷歌学术。
+ 

@@ -1,0 +1,26 @@
+高品
+助理教授
+教育背景
+香港科技大学工业工程及决策分析博士，2015-2021
+香港科技大学理论物理硕士，2013-2015
+武汉大学物理学学士，2009-2013
+研究领域
+收益管理、推荐系统、算法设计、机制设计
+个人网站
+https://myweb.cuhk.edu.cn/gaopin
+电子邮箱
+gaopin@cuhk.edu.cn
+办公室
+道远楼503b
+个人简介
+高品教授现为香港中文大学（深圳）助理教授。高教授于2021年获得香港科技大学的博士学位。在此之前，他在业界待了两年，并分别于2013年和2015年在武汉大学和香港科技大学获得物理学学士和硕士学位。高教授目前的研究兴趣包括收益管理、推荐系统、算法设计和机制设计。
+学术著作
+[1] Gao, Pin, Yuhang Ma, Ningyuan Chen, Guillermo Gallego, Anran Li, Paat Rusmevichientong and Huseyin Topaloglu, “Assortment Optimization and Pricing under the Multinomial Logit Model with Impatient Customers”, Operations Research. Accepted.
+[2] Gao, Pin, Xiaoshuai Fan, Sunny Huang and Ying-Ju Chen, “Resource Allocation Among Competing Innovators”, Management Science. Accepted.
+[3] Chen, Ningyuan, Pin Gao and Steven Kou, “Does the Prohibition of Trade-Through Hurt Liquidity Demanders?”, under Major revision at Operations Research.
+[4] Chen, Ningyuan, Guillermo Gallego, Pin Gao and Steven Kou, “Dealership or Marketplace: A Dynamic Comparison”, R&R at Management Science.
+[5] Chen, Ying-Ju, Guillermo Gallego, Pin Gao and Yang Li, “A Mechanism Design Perspective of Live-streaming Commerce: The Role of Information Provision”, to be soon submitted to Management Science.
+[6] Chen, Kanglin, Ying-Ju Chen, Guillermo Gallego, Pin Gao and Haoyu Liu, “Multi-armed Exponential Bandits”, to be soon submitted to Operations Research.
+[7] Chen, Ningyuan, Pin Gao and Yang Li, “Personalized Product Recommendation in Presence of Privacy Constraint”, in preparation for submission.
+[8] Gao, Pin, Yingping He and Xiongjun Liu, “Symmetry Protected Non-Abelian Braiding of Majorana Kramers’ Pairs”, Phys. Rev. B 94, 224509 (2016).
+ 

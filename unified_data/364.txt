@@ -1,0 +1,23 @@
+个人简介
+夏文，教授，博士生导师，国家级青年人才，IEEE/ACM/USENIX/CCF会员，中国计算机学会信息存储专委会常委、中国计算机学会系统软件专委会委员、ACM ChinaSys青年执委、中国计算机学会YOCSEF深圳学术委员、深圳市科创委项目评审专家、深圳市经信委项目评审专家、广东省科技项目评审专家等。
+研究经历：2014年博士毕业于华中科技大学（师从冯丹教授），博士论文曾荣获"中国电子学会优秀博士学位论文奖"、"湖北省优秀博士学位论文奖"、"中国计算机学会优秀博士论文提名"；先后在华中科技大学、NEC美国实验室、美国内布拉斯加大学林肯分校、深信服科技等单位从事研究工作，有着丰富的国内外高校和企业工作研究经历。
+研究方向：云存储、云计算、大数据、去重压缩等，在相关领域发表论文70余篇（含中国计算机学会推荐A/B类50余篇），其中包括FAST/USENIX ATC等存储领域顶会、IEEE历史最悠久期刊PIEEE封面论文1篇；申请中国和美国发明专利40余项（含授权专利35项）；并长期担任IEEE TC/TPDS/TKDE/TDSC/TCAD、ACM TOS/TACO等顶刊审稿人。
+科研荣誉：曾获得教育部自然科学一等奖、湖北省科技进步一等奖、教育部重大人才工程青年学者、ACM ChinaSys新星奖、ACM ChinaSys优秀博士论文指导教师、广东省“珠江人才计划”青年拔尖人才、深圳市计算机学会科学技术一等奖、湖北省优秀学士论文指导教师、深圳市“孔雀计划”海外高层次人才，ACM TOS杰出审稿人等荣誉。
+研究项目：主持国家自科基金项目（青年、面上）、省市级科研项目、企业合作项目等十余项，针对所在研究方向与EMC、NEC、腾讯、中兴、华为、南大通用等知名IT公司开展了广泛的合作研究以及技术推广工作，部分研究成果也已被谷歌、Facebook、思科等开源的多个知名GitHub项目采纳（比如Zstd、Ceph、CDCrsync、rdedup、SZ、PuzzleFS等）。
+教书育人：主讲《操作系统》、《计算机系统》等核心课程，获评广东省一流本科线下课程（负责人），获全国计算机教育大会最佳论文奖、省级教学成果二等奖1项、校级教学成果一等奖3项，华为鸿蒙生态人才建设春雨奖，指导课程学生获得全国大学生操作系统设计赛、全国大学生物联网大赛等国家级学科竞赛总决赛奖20余项，其中一等奖11项。
+个人主页：https://cswxia.github.io/
+Wen Xia is a professor at the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. He received his Ph.D. degree in Computer Science from Huazhong University of Science and Technology in June 2014. He was a visiting scholar at the University of Nebraska, USA, and a research assistant at NEC American Labs, in 2011-2013. His research interests include storage systems, operating systems, and cloud storage. He publishes over 80 papers in major journals and conferences including Proceedings of the IEEE (PIEEE), IEEE Transactions on Computers (TC), IEEE Transactions on Parallel and Distributed Systems (TPDS), FAST, USENIX ATC, DAC, ICDE, MSST, HotStorage, etc. He serves as PC Member of several Systems conferences such as FAST, EuroSys, HotStorage, etc. He is a member of ACM, CCF, IEEE, and USENIX.
+课题组每年招生名额：
+博士生1-2人
+硕士生3-4人（硕博连读/推荐攻博优先）
+诚招博士后2-3人（待遇优厚，年薪40万起）
+
+研究方向：存储系统、去重压缩、操作系统、云计算等（可参考我的论文列表），部分工作已被谷歌、Facebook等开源的多个项目采纳，也与华为、腾讯等公司展开了广泛的技术合作和应用推广，这些方向主要考察计算机系统编程和思维能力。
+
+欢迎对我的研究方向感兴趣的同学报考研究生，具体要求：为人正直，勤奋踏实，有较强的编程、数学、英语能力，以及较为独立的思考能力，也可以提前进入课题组实习，感兴趣的同学email联系。
+
+也欢迎动手能力强悍，有较为充足课余时间的本科同学提前参与课题组科研学习，并参与具体高水平科研项目和学术论文工作，为今后出国深造OR读研OR就业提前打好基础，感兴趣的同学email联系。
+
+课题组研究经费充裕，与国内外知名企业和高校研究所等保持有紧密的合作，也欢迎有读博意向的同学前来，优秀者可推荐校内读博/硕博连读/直博，或直接推荐去美国/日本/香港等境外高校深造。
+
+课题组长期招聘相关方向博士后，待遇优厚（年薪40万起），有意向者email详聊。

@@ -1,0 +1,35 @@
+韩俊
+助理教授
+教育背景
+圣母大学计算机科学与技术博士，2017-2022
+西安电子科技大学计算机软件与理论硕士，2014-2017
+西安电子科技大学软件工程学士，2010-2014
+研究领域
+可视化、用户界面与交互、人机交互、深度学习
+个人网站
+https://stevenhan1991.github.io/
+电子邮箱
+hanjun@cuhk.edu.cn
+办公室
+综合楼C613
+个人简介
+韩俊教授是香港中文大学（深圳）数据科学学院助理教授。他博士毕业于美国圣母大学计算机科学与工程系。在此之前，他分别于2014年和2017年从西安电子科技大学获得软件工程学士学位和计算机软件与理论硕士学位。他的研究方向是可视化、用户界面和交互、人机交互和深度学习。目前，他的研究兴趣在于如何应用深度学习技术来增强可视化过程以及开发智能界面来帮助用户更好地与计算机交互。
+韩教授已在可视化领域重要期刊和会议上发表文章20多篇，其中包括在可视化顶级期刊IEEE TVCG上发表文章6篇，在可视化领域三大会议 (IEEE VIS、EuroVIS、 PacificVis) 上发表长文6篇。他受邀担任IEEE VIS短文2021和2022程序委员会委员。
+学术著作
+A. Book chapters
+1. Sebastian Weiss, Jun Han, Chaoli Wang, and Rüdiger Westermann. Deep Learning-Based Upscaling for In Situ Volume Visualization. In Hank Childs, Janine Bennett, and Christoph Garth (Eds.) In Situ Visualization for Computational Science, Springer.
+B. Journal articles
+1. Chaoli Wang and Jun Han. DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization. IEEE Transactions on Visualization and Computer Graphics, Accepted.
+2. Jun Han and Chaoli Wang. SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization. IEEE Transactions on Visualization and Computer Graphics, Accepted.
+3. Jun Han and Chaoli Wang. SurfNet: Learning Surface Representations via Graph Convolutional Network. Computer Graphics Forum (EuroVis 2022), 41(3), Jun 2022.
+4. Jun Han, Hao Zheng, Danny Z. Chen, and Chaoli Wang. STNet: An End-to-End Generative Framework for Synthesizing Spatiotemporal Super-Resolution Volumes. IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021), 28(1):270-280, Jan 2022.
+5. Jun Han, Hao Zheng, Yunhao Xing, Danny Z. Chen, and Chaoli Wang. V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data. IEEE Transactions on Visualization and Computer Graphics (IEEE SciVis 2020), 27(2):1290-1300, Feb 2021.
+6. Jun Han, Jun Tao, and Chaoli Wang. FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces. IEEE Transactions on Visualization and Computer Graphics, 26(4):1732-1744, Apr 2020.
+7. Jun Han, Jun Tao, Hao Zheng, Hanqi Guo, Danny Z. Chen, and Chaoli Wang. Flow Field Reduction via Reconstructing Vector Data from 3D Streamlines Using Deep Learning. IEEE Computer Graphics and Applications (Special Issue on Deep Learning in Visualization and Image Processing), 39(4):54-67, Jul/Aug 2019.
+8. Sicong Liu, Zimu Zhou, Junzhao Du, Longfei Shangguan, Jun Han, and Xin Wang. UbiEar: Bringing Location-independent Sound Awareness to the Hard-of-hearing People with Smartphones. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 1(2):17:1-17:24, Sep 2017.
+C. Conference articles
+1. Reshika P. Velumani, Meng Xia, Jun Han, Chaoli Wang, Alexis K.-H. Lau, and Huamin Qu. AQX: Explaining Air Quality Forecast for Verifying Domain Knowledge Using Feature Importance Visualization. In Proceedings of ACM International Conference on Intelligent User Interfaces, Virtual, pages 720-733, Mar 2022.
+2. Hao Zheng, Jun Han, Hongxiao Wang, Lin Yang, Zhuo Zhao, Chaoli Wang, and Danny Z. Chen. Hierarchical Self-Supervised Learning for Medical Image Segmentation Based on Multi-Domain Data Aggregation. In Proceedings of International Conference on Medical Image Computing and Computer Assisted Interventions, Virtual, pages 622-632, Sep 2021.
+3. Li Guo, Shaojie Ye, Jun Han, Hao Zheng, Han Gao, Danny Z. Chen, Jian-Xun Wang, and Chaoli Wang. SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization. In Proceedings of IEEE Pacific Visualization Symposium, Virtual, pages 71-80, Jun 2020.
+4. Hao Zheng, Lin Yang, Jianxu Chen, Jun Han, Yizhe Zhang, Peixian Liang, Zhuo Zhao, Chaoli Wang, and Danny Z. Chen. Biomedical Image Segmentation via Representative Annotation. In Proceedings of AAAI Conference on Artificial Intelligence, Honolulu, HI, pages 5901-5908, Jan 2019.
+更多已出版著作，请点击https://scholar.google.com/citations?user=8i3v-a8AAAAJ&hl=en 查看

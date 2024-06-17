@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>面向教师个人主页的信息检索系统</h1>
+        <form action="{% url 'search:results' %}" method="get">
+            <input type="text" name="query" placeholder="输入要查询的内容">
+            <button type="submit">搜索</button>
+        </form>
+    </div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,38 @@
+中   |   EN
+教师主页
+团队成员
+科研项目
+学术成果
+加入我们
+唐珂
+Google Scholar
+ResearcherID
+教授
+计算机科学与工程系   课题组网站
+唐珂，南方科技大学计算机科学与工程系教授、IEEE Fellow、教育部特聘教授、”国家高层次人才特殊支持计划“青年拔尖人才。主要研究领域为人工智能的共性原理、算法（如演化计算、强化学习、机器学习等）研究。研究成果曾获教育部一等奖、二等奖、中国电子学会自然科学一等奖。更多详情请见实验室主页 NICAL。更多详情请见实验室主页 NICAL 。
+个人简介
+研究领域
+My work is, in general, about fundamental research on Machine Learning and Optimization, two most important problems in Artificial Intelligence. I'm also frequently attracted by other relevant domains, such as Smart Logistics, Structural and Multi-Disciplinary Optimization and Computational Finance, for which applied research is required to produce application-oriented learning and optimization techniques.
+  More specifically, most of my research could also be viewed as arising from Evolutionary Computation, which is essentially a distributed heuristic search framework widely applicable for modelling, learning and optimization problems, especially for hard problems such as Black-Box Optimization, Multi-Objective Optimization and Dynamic Optimization.
+  Details regarding my research could be found at NICAL
+教学
+已培养毕业博士生 18 人，硕士生 40 余人。讲授（或曾讲授）人工智能、算法基础、计算机导论、创新实践、研究方法、智能数据分析、模式识别等本科或研究生课程。
+学术成果
+查看更多
+发表学术论文 190 余篇，谷歌学术引用 10000 余次。代表性成果详情请见 NICAL
+团队成员
+查看更多
+加入团队
+
+若您加入本实验室攻读硕士/博士，开展博士后研究，或担任研究序列岗位，请将简历+1～2个代表性工作发送至本人邮箱。其中，代表性工作可以是论文，也可以是之前做过的项目/研究的简要描述（1～2 页纸）或技术报告。
+ 
+更多详情请见NICAL。
+查看更多
+联系我们
+联系地址
+南方科技大学-工学院南楼-616室
+办公电话
+/
+电子邮箱
+tangk3@sustech.edu.cn
+Copyright © 2018 All Rights Reserved.

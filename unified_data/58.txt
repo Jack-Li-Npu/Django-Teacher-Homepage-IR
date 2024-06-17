@@ -1,0 +1,26 @@
+MILZAREK, Andre
+助理教授
+教育背景
+博士（慕尼黑工业大学）
+硕士（慕尼黑工业大学）
+学士（慕尼黑工业大学）
+研究领域
+非光滑优化、大规模随机优化、二阶方法和理论
+电子邮箱
+andremilzarek@cuhk.edu.cn
+办公室
+道远楼417c
+个人简介
+Andre Milzarek教授现为香港中文大学（深圳）数据科学学院助理教授。他曾在北京大学北京国际数学研究中心担任博士后研究员。2013年和2016年，Andre Milzarek教授在德国慕尼黑工业大学Michael Ulbrich教授的指导下，以优异的成绩获得硕士学位和博士学位。
+Andre Milzarek教授主要的研究方向和兴趣包括非光滑优化、大规模随机优化、二阶方法和理论。他曾受邀在工业和应用数学学会（AISM）、数学编程国际研讨会（ISMP）等国际会议上发表报告，并在多份期刊上发表论文。Andre Milzarek教授从2010年至2012年获德国巴伐利亚州Max-Weber项目资助，2017年获北京大学博雅博士后奖学金。
+学术著作
+PEER-REVIEWED JOURNAL PAPERS
+1.  Z. Wen, A. Milzarek, M. Ulbrich, and H. Zhang: Adaptive Regularized Self-Consistent Field Iteration with Exact Hessian for Electronic Structure Calculation, SIAM J. Sci.Comput., 35 (2013), pp. A1299-A1324
+2.  A. Milzarek and M. Ulbrich: A Semismooth Newton Method with Multi-Dimensional Filter Globalization for `1-Optimization, SIAM J. Optim., 24 (2014), no.1, pp. 298-333
+3.  J. Hu, A. Milzarek, Z. Wen, and Y. Yuan: Adaptive Quadratically Regularized Newton Method for Riemannian Optimization, SIAM J. Matrix Anal. & Appl., 39 (2018), pp.1181-1207
+PREPRINTS
+1. A. Milzarek, X. Xiao, S. Cen, Z. Wen, and M. Ulbrich: A Stochastic Semismooth Newton Method for Nonsmooth Nonconvex Optimization, submitted to SIAM J.Optim. (April 2018)
+2.  A. Milzarek, X. Xiao, S. Cen, Z. Wen, and M. Ulbrich: On the Local Convergence of a Stochastic Semismooth Newton Method for Nonsmooth Nonconvex Optimization, submitted to SIAM J. Optim. (June 2018)
+DISSERTATION
+1.  A. Milzarek: Numerical Methods and Second Order Theory for Nonsmooth Problems, Technical University of Munich, January 2016
+ 

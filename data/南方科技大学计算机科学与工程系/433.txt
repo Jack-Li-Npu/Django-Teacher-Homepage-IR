@@ -1,0 +1,21 @@
+中   |   EN
+教师主页
+Pietro S. Oliveto
+Google Scholar
+教授
+计算机科学与工程系   课题组网站
+Pietro Oliveto received the Laurea degree and PhD degree in computer science respectively from the University of Catania, Italy in 2005 and from the University of Birmingham, UK in 2009. He has been EPSRC PhD+ Fellow (2009-2010) and EPSRC Postdoctoral Fellow (2010-2013) at the University of Birmingham, UK and Vice-Chancellor’s Fellow (2013-2016) and EPSRC Early Career Fellow (2015-2020) at the University of Sheffield, UK. Before moving to SUSTech he was Chair in Algorithms at the Department of Computer Science, University of Sheffield, UK.
+His main research interest is the performance analysis, in particular the time complexity, of bio-inspired computation techniques including evolutionary algorithms, genetic programming, artificial immune systems, hyper-heuristics and algorithm configuration. He is currently building a Theory of Artificial Intelligence Lab at SUSTech.
+He has guest-edited journal special issues of Computer Science and Technology, Evolutionary Computation, Theoretical Computer Science, IEEE Transactions on Evolutionary Computation and Algorithmica. He has co-Chaired the IEEE symposium on Foundations of Computational Intelligence (FOCI) from 2015 to 2021 and has been co-program Chair of the ACM Conference on Foundations of Genetic Algorithms (FOGA 2021) and Theory Track co-chair at GECCO 2022 and GECCO 2023. He is part of the Steering Committee of the annual workshop on Theory of Randomized Search Heuristics (ThRaSH), was Leader of the Benchmarking Working Group of the EU-COST Action ImAppNIO, is member of the EPSRC Peer Review College and is Associate Editor of IEEE Transactions on Evolutionary Computation.
+个人简介
+研究领域
+学术成果
+查看更多
+联系我们
+联系地址
+工学院南楼113室
+办公电话
+88011211
+电子邮箱
+olivetop@sustech.edu.cn
+Copyright © 2018 All Rights Reserved.

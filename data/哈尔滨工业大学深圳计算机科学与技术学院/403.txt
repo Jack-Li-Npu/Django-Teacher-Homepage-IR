@@ -1,0 +1,16 @@
+基本信息
+陈新阳，哈尔滨工业大学（深圳）计算机科学与技术学院助理教授，硕士生导师。清华大学3字班，本科（13-17）、博士（17-22，导师：清华大学龙明盛长聘副教授）。主要研究领域为机器学习核心算法及应用，核心算法涉及迁移学习、半监督学习、多任务学习、分布外泛化、生成模型，应用主要面向多模态学习，特别聚焦于多模态内容生成。以第一作者身份在CCF A类会议上发表一作文章多篇，包括机器学习顶级会议ICML、NeurIPS等，其中单篇最高引用300余次，于2021年5月入选全球首份AI华人新星百强榜单，机器学习方向（https://xueshu.baidu.com/usercenter/index/aischolar）。
+个人主页：https://chenxinyang123.github.io/
+
+代表性成果
+1. Representation Subspace Distance for Domain Adaptation Regression
+Xinyang Chen, Sinan Wang, Jianmin Wang, Mingsheng Long*
+International Conference on Machine Learning (ICML), 2021 (CCF-A, TH-CPL-A)
+2. Catastrophic Forgetting Meets Negative Transfer: Batch Spectral Shrinkage for Safe Transfer Learning
+Xinyang Chen, Sinan Wang, Bo Fu, Mingsheng Long*, Jianmin Wang
+Neural Information Processing Systems (NeurIPS), 2019 (CCF-A, TH-CPL-A)
+3. Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
+Xinyang Chen, Sinan Wang, Mingsheng Long*, Jianmin Wang
+International Conference on Machine Learning (ICML), 2019 (CCF-A, TH-CPL-A, 300+citations)
+
+每年招收硕士生2名，欢迎对相关方向感兴趣的同学邮件联系我。

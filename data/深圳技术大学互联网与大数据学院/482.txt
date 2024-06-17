@@ -1,0 +1,28 @@
+谷也
+个人简介：
+谷也，副教授，深圳市高层次人才。本科、硕士毕业于哈尔滨工业大学测控技术与仪器专业。博士毕业于俄克拉荷马州立大学电气工程专业。主要研究方向包括机器人技能学习，人机交互，深度学习应用，图像处理等。作为项目负责人，累计主持与机器人和图像处理领域相关的各类科研项目6项，累计经费221万，其中主持国家级项目2项（国自然青年基金，中国博士后科学基金）。累计发表学术论文27篇，其中以第一作者或通讯作者身份发表学术论文13篇，包含SCI期刊论文6篇、会议论文7篇，其中机器人领域顶级会议论文2篇。曾3次获得最佳会议论文奖。
+
+工作经历：
+2024/01--至今 深圳技术大学，大数据与互联网学院，副教授
+2019/07--2023/12 深圳技术大学，大数据与互联网学院，助理教授
+2016/11--2019/06 深圳市智能机器人研究院，服务机器人技术研究所，副研究员
+2017/02--2019/01 深圳虚拟大学园，计算机科学与技术学科，博士后
+2015/06--2016/11 Zebra Technologies（美国），未来技术研发中心，研发工程师
+
+主要项目：
+1. 国家自然科学基金青年基金，基于示教与自主学习的机器人类人技能学习关键技术研究，2020/01-2022/12，24万元，主持，结题
+2. 深圳市科研项目，智能服务机器人异常行为识别技术研究，2020/01-2022/12，30万元，主持，结题
+3. 中国博士后科学基金，智能陪护机器人的多模态动作识别关键技术研究，2018/05-2018/12，5万元，主持，结题
+
+主要科研论文：
+1. Y Gu, D Wei, Y Du, J Cao, Cooperative Grasp Detection using Convolutional Neural Network, Journal of Intelligent&Robotic Systems, 2024, 110(1)
+2. Y Gu, R Ruan, Y Yan, J Zhao, W Sheng, L Liang, B Huang, Glomerulus Semantic Segmentation Using Ensemble of Deep Learning Models, Arabian Journal for Science and Engineering, 2022, 47(11), 14013-14024
+3. G Chen, W Sheng, Y Li, Y Ou, Y Gu*, Humanoid Robot Portrait Drawing Based on Deep Learning Techniques and Efficient Path Planning, Arabian Journal for Science and Engineering, 2022, 47 (8), 9459-9470
+4. Y Gu, M Liu, W Sheng, Y Ou, Y Li, Sensor fusion based manipulative action recognition, Autonomous Robots, 2021, 45 (1), 1-13
+5. Y Gu, X Ye, W Sheng, Y Ou, Y Li, Multiple stream deep learning model for human action recognition, Image and Vision Computing, 2020, 93, 103818
+6. Y Gu, W Sheng, C Crick, Y Ou, Automated assembly skill acquisition and implementation through human demonstration, Robotics and Autonomous Systems, 2018, 99, 1-16
+7. W Sheng, A Thobbi, Y Gu, An integrated framework for human-robot collaborative manipulation, IEEE transactions on cybernetics, 2015, 45 (10), 2030-2041
+
+E-mail:guye@sztu.edu.cn
+上一篇：史诗洁
+下一篇：何俊锋

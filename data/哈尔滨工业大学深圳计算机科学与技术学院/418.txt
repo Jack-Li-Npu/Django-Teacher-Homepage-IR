@@ -1,0 +1,19 @@
+招生信息
+本人现任哈尔滨工业大学（深圳）副教授，可招收博士后、博士生、硕士生，在读硕博生优秀者有机会去清华大学或法国巴黎理工学院短暂访问。
+
+
+欢迎大三学生进组科研，优秀且具有保外名额的学生可帮忙联系清华大学导师。
+Research（研究兴趣）
+His current research majorly focuses on the theoretical analysis and design of evolutionary algorithms. Comparing with the wide applications of evolutionary algorithms, the theoretical research falls behind. He devotes his effort to the theory analysis on evolutionary algorithms, and hopes that with the theoretical analysis, especially the runtime analysis, of evolutionary algorithms, researchers and practitioners could better understand the working principles, advantages and drawbacks of these black-box optimization algorithms so that they could design efficient algorithms for practical usage.
+
+
+Selected Publications（代表性工作）
+Zheng, W. & Doerr, B. (2023). Mathematical runtime analysis for the non-dominated sorting genetic algorithm II (NSGA-II). Artificial Intelligence, 325, 104016. https://doi.org/10.1016/j.artint.2023.104016
+Doerr, B.#*, & Zheng, W.#* (2020). Working principles of binary differential evolution. Theoretical Computer Science, 801, 110-142. https://doi.org/10.1016/j.tcs.2019.08.025 (Alphabetical order as common in theoretical computer science. #: First authors；*: Corresponding authors)
+Zheng, W., Chen, H., & Yao, X. (2021). Analysis of evolutionary algorithms on fitness function with time-linkage property. IEEE Transactions on Evolutionary Computation, 25(4), 696-709. https://doi.org/10.1109/TEVC.2021.3061442
+Zheng, W.& Doerr, B. (2023). From understanding genetic drift to a smart-restart mechanism for estimation-of-distribution algorithms. Journal of Machine Learning Research, 24(292):1-40.
+https://www.jmlr.org/papers/v24/22-0628.html
+Wang, S., Zheng, W.* & Doerr, B.* (2024). Choosing the right algorithm with hints from complexity theory. Information and Computation, 296, 105125. (Wang is an intern student advised by Doerr and Zheng)
+https://doi.org/10.1016/j.ic.2023.105125
+
+If you are interested in theory of randomized search heuristics, and have strong mathematical skills, just contact me.

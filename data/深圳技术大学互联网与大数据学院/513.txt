@@ -1,0 +1,43 @@
+张彻
+一、教育经历
+2008.09-2012.07 西安交通大学，自动化，本科
+2012.09-2014.07 西安交通大学，计算科学与技术，工程硕士
+2014.09-2018.07 香港城市大学，计算科学与技术，博士
+
+二、工作经历
+2018.05.15-2021.04.13 南方科技大学，未来网络研究院，助理研究员
+鹏城实验室，网络通信研究中心，双聘助理研究员
+2021.04.14-2022.06.30 百度，系统部，资深研发工程师
+2022.07.04-2022.08.19 Shopee Engineering Infra Expert Engineer
+2022.09-至今    深圳技术大学，大数据与互联网学院，助理教授
+
+三、主要研究领域
+AIOps、网络仿真、图同构、SDN、流量工程、网络故障定位、数据中心网络拓扑、Network Embedding
+
+四、主要成果及荣誉
+（1）Che Zhang, Zhen Wang, Shiwei Zhang, Weichao Li, Qing Li, Yi Wang
+Large Scale Symmetric Network Malfunction Detection
+ACM SIGCOMM Conference Posters and Demos, 2020
+（2）Che Zhang, Shiwei Zhang, Yi Wang, Weichao Li, Bo Jin, Ricky K. P. Mok, et al.
+Scalable Traffic Engineering for Higher Throughput in Heavily-loaded Software Defined Networks
+IEEE/IFIP Network Operations and Management Symposium mini, 2020
+（3）Che Zhang, Shiwei Zhang, Bo Jin, Weichao Li, Zhen Wang, Yi Wang
+A3: An Automatic Malfunction Detection and Fixation System in FatTree Data Center Networks ACM SIGCOMM Conference Posters and Demos, 2019
+（4）Che Zhang, Hong Xu, Libin Liu, Zhixiong Niu, Peng Wang
+Kuijia: Traffic Rescaling in Software-Defined Data Center WANs
+Security and Communication Networks, 2018
+（5）Che Zhang, Hong Xu, Chengchen Hu
+Performance Impact Inference with Failures in Data Center Networks
+IEEE/CIC International Conference on Communications in China (ICCC), 2016
+（6）Xingyu Ma, Chengchen Hu, Kai Chen, Che Zhang, Hongtao Zhang, et al.
+Error Tolerant Address Configuration for Data Center Networks with Malfunctioning Devices IEEE International Conference on Distributed Computing Systems (ICDCS), 2012
+
+五、其他信息
+https://www.linkedin.cn/incareer/in/zhangche
+
+E-mail: zhangche@sztu.edu.cn
+
+
+
+上一篇：卫易辰
+下一篇：姜婧妍

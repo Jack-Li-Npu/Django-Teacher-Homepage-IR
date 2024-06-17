@@ -1,0 +1,27 @@
+董丽
+董丽，博士，助理教授。 2022年毕业于哈尔滨工业大学，主要研究方向为：图像及视频计数。其在包括《IEEE Transactions on Neural Networks and Learning Systems》、《Information Sciences》和《IEEE Transactions on Consumer Electronics》等重要学术期刊上发表了7篇论文。目前，主持深圳市高等院校稳定支持项目一项。欢迎感兴趣的同学加入研究组，有意请发简历到邮箱：dongli@sztu.edu.cn。
+
+一、教育经历
+2017.03-2022.11  哈尔滨工业大学 计算机应用技术  博士
+2009.09-2011.12  哈尔滨工业大学 计算机科学与技术 硕士
+2005.09-2009.07  哈尔滨理工大学 网络工程   学士
+
+二、工作经历
+2023.02-今  深圳技术大学 大数据与互联网学院 助理教授
+2015.03-2017.02 深圳咔嚓移动科技有限公司 联合创始人
+2012.02-2014.01 百度国际科技有限公司 开发测试工程师
+
+三、主要研究领域
+计算机视觉、图像及视频计数
+
+四、主要成果及荣誉
+[1] Li Dong, Haijun Zhang, Jianghong Ma, Xiaofei Xu, Yimin Yang, and Q. M. JonathanWu. CLRNet: A Cross Locality Relation Network or Crowd Counting in Videos [J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. DOI: 10.1109/TNNLS.2022.3209918. (中科院1区，Top期刊，JCR 1区，CCF-B，IF: 14.255，入选深圳市科协主办的 “第三届深圳市优秀科技学术论文”)
+[2] Li Dong, Haijun Zhang, Yuzhu Ji, and Yuxin Ding. Crowd Counting by Using Multi-level Density-based Spatial Information: A Multi-scale CNN Framework [J]. Information Sciences, 2020, 528: 79-91. DOI: 10.1016/j.ins.2020.04.001.(中科院1区，Top期刊，JCR 1区，CCF-B，IF：8.233)
+[3] Li Dong, Haijun Zhang, Kai Yang, Dongliang Zhou, Jianyang Shi, and Jianghong Ma. Crowd Counting by Using Top-k Relations: A Mixed Ground-Truth CNN Framework [J]. IEEE Transactions on Consumer Electronics, 2022, 68(3): 307-316. DOI: 10.1109/TCE.2022.3190384. (中科院2区，JCR 2区，IF：4.414)
+[4] Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, and Jianghong Ma. CCTwins: A Weakly-Supervised Transformer-based Crowd Counting Method with Adaptive Scene Consistency Attention. IEEE Transactions on Consumer Electronics, 2023, DOI:10.1109/TCE.2023.3274651.(中科院2区，JCR 2区，IF：4.414)
+[5] Haijun Zhang, Qingji Ren, Li Dong, and Kim Fung Tsang. FastPlane: A Fully Convolutional Network for Real-time 3D Plane Segmentation[C]//2024 IEEE International Conference on Consumer Electronics (ICCE). IEEE, 2024: 1-6. (唯一通讯)
+[6] Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong. PaaRPN: Probabilistic Anchor Assignment with Region Proposal Network for Visual Tracking [J]. Information Sciences, 2022, 598:19-36. (中科院1区, JCR 1区, CCF B类, IF:8.233)
+[7] Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong and Jianghong Ma. IASA: An IoU-aware Tracker with Adaptive Sample Assignment [J]. Neural Networks, 2023, DOI: https://doi.org/10.1016/j.neunet.2023.01.038. (中科院1区, JCR 1区, CCF B类, IF:9.657)
+[8] 张海军，董丽。基于空间信息融合与卷积神经网络的人群计数方法。发明专利,授权,2020-04-13, 中国, ZL202010287687.7
+上一篇：李青
+下一篇：戴戈南

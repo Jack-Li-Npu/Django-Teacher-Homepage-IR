@@ -1,0 +1,39 @@
+樊继聪
+助理教授
+教育背景
+香港城市大学电子工程博士，2015-2018
+北京化工大学控制科学与工程硕士，2010-2013
+北京化工大学自动化学士，2006-2010
+研究领域
+人工智能、机器学习
+个人网站
+https://jicongfan.github.io/
+电子邮箱
+fanjicong@cuhk.edu.cn
+办公室
+道远楼502a
+个人简介
+樊继聪教授现为香港中文大学（深圳）数据科学学院助理教授。樊教授于2018年在香港城市大学电子工程系获得博士学位，并分别于2013年和2010年在北京化工大学获得控制科学与工程硕士学位和自动化学士学位。在加入香港中文大学（深圳）之前，他是康奈尔大学的博士后。他还曾在美国威斯康星大学麦迪逊分校和香港大学担任研究职位。
+樊教授的研究方向是人工智能和机器学习，他在矩阵/张量方法、聚类算法、异常/离群点/故障检测、深度学习和推荐系统等方面做了大量研究工作。他的研究成果曾在多个知名学术期刊与著名国际会议上发表，如IEEE TSP/TNNLS/TII、KDD、NeurIPS、CVPR、ICLR和AAAI等。 他是IEEE高级会员，目前担任期刊Neural Processing Letters的副编辑，主持国家自然科学基金青年项目一项、面上项目一项。他获得2023年中国自动化学会自然科学奖一等奖(第二完成人)，入选斯坦福大学2023年“全球Top 2% 科学家”榜单。
+樊教授目前招收博士生、博士后、研究助理以及访问学生。感兴趣的同学可通过邮件联系。
+学术著作
+Selected publications:
+Yunhe Zhang, Yan Sun, Jinyu Cai, Jicong Fan*. Deep Orthogonal Hypersphere Compression for Anomaly Detection. ICLR 2024 (Spotlight, acceptance rate=5%).
+Yan Sun, Jicong Fan*. MMD Graph Kernel: Effective Metric Learning for Graphs via Maximum Mean Discrepancy. ICLR 2024 (Spotlight, acceptance rate=5%).
+Jicong Fan, Rui Chen, Zhao Zhang, Chris Ding. Neuron-Enhanced AutoEncoder Matrix Completion and Collaborative Filtering: Theory and Practice. ICLR 2024.
+Ziheng Sun, Chris Ding, Jicong Fan*. Lovász Principle for Unsupervised Graph Representation Learning. NeurIPS 2023. (acceptance rate=26%)
+Zhihao Wu, Zhao Zhang, Jicong Fan*. Graph Convolutional Kernel Machine versus Graph Convolutional Networks. NeurIPS 2023. (acceptance rate=26%)
+Dong Qiao, Chris Ding, Jicong Fan*. Federated Spectral Clustering via Secure Similarity Reconstruction. NeurIPS 2023. (acceptance rate=26%)
+Jicong Fan, Lijun Ding, Chengrun Yang, Zhao Zhang, Madeleine Udell. Euclidean-Norm-Induced Schatten-p Quasi-Norm Regularization for Low-Rank Tensor Completion and Tensor Robust Principal Component Analysis. Accepted by Transactions on Machine Learning Research. 2023.
+Jicong Fan, Yiheng Tu, Zhao Zhang, Mingbo Zhao, Haijun Zhang.  A Simple Approach to Automated Spectral Clustering. 2022. NeurIPS 2022. (acceptance rate=25.6%)
+Jinyu Cai, Jicong Fan*. Perturbation Learning Based Anomaly Detection. NeurIPS 2022. (acceptance rate=25.6%)
+Jinyu Cai, Jicong Fan*, Wenzhong Guo, Shiping Wang, Yunhe Zhang, Zhao Zhang.  Efficient Deep Embedded Subspace Clustering.  In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR),  June 2022.  (acceptance rate=24%)
+Jicong Fan. Multi-Mode Deep Matrix and Tensor Factorization.  The International Conference on Learning Representations (ICLR) 2022. (acceptance rate=32.3%)
+Jicong Fan. Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation. In The Thirty-Six AAAI Conference on Artificial Intelligence (AAAI-22), February 2022. (acceptance rate=15%)
+Jicong Fan, Tommy W.S. Chow,  S.  Joe Qin.  Kernel Based Statistical Process Monitoring and Fault Detection in the Presence of Missing Data.  IEEE Transactions on Industrial Informatics, vol. 18, no. 7, pp. 4477-4487, July 2022.
+Jicong Fan. Large-Scale Subspace Clustering via k-Factorization. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’ 21). (acceptance rate=15.4%)
+Jicong Fan, Chengrun Yang, Madeleine Udell. Robust Non-Linear Matrix Factorization for Dictionary Learning, Denoising, and Clustering. IEEE Transactions on Signal Processing, 2021(69): 1755-1770.
+Jicong Fan, Yuqian Zhang, Madeleine Udell (2019). Polynomial Matrix Completion for Missing Data Imputation and Transductive Learning. AAAI 2020. (Oral, acceptance rate=6%).
+Jicong Fan, Lijun Ding, Yudong Chen, Madeleine Udell (2019). Factor group sparse regularization for efficient low-rank matrix recovery. NeurIPS 2019. (acceptance rate=21.1%)
+Jicong Fan, Madeleine Udell (2019). Online high-rank matrix completion. CVPR 2019. (Oral, acceptance rate=5.6%).
+Jicong Fan, Tommy W.S. Chow (2019). Exactly robust kernel principal component analysis. IEEE Transactions on Neural Networks and Learning System 31 (3), 749-761.

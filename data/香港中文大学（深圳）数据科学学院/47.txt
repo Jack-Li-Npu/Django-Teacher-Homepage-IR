@@ -1,0 +1,29 @@
+李文烨
+研究副教授
+教育背景
+博士（香港中文大学）
+硕士（中国科学院）
+学士（山东大学）
+研究领域
+机器学习、人工智能、凸优化、概率推理
+个人网站
+http://mypage.cuhk.edu.cn/academics/wyli
+电子邮箱
+wyli@cuhk.edu.cn
+办公室
+道远楼413
+个人简介
+李文烨博士1995到1999年就读于山东大学计算机科学系，获得理学学士学位；1999到2003年就读于中国科学院软件研究所，获得工学硕士学位；2003到2007年就读于香港中文大学计算机科学与工程学系，获得哲学博士学位。2007到2009年，他在香港中文大学和加拿大阿尔伯塔大学从事博士后研究，2009到2016年在澳门理工学院任教。2016年8月，李博士加入香港中文大学（深圳）和深圳市大数据研究院，从事计算机和信息科学领域的教学科研工作。
+李博士在机器学习和人工智能领域发表了30余篇第一作者论文，获得了IEEE-ICAL会议一项最佳论文奖和一项最佳论文提名。在澳门工作期间，他主持并完成了4项政府委托的基础研究项目，总资助金额逾百万港币。他常年担任NIPS、IJCAI、AAAI等多个学术会议的组织者和审稿人。
+学术著作
+1. Li W. (2015) Estimating Jaccard Index with Missing Observations: A Matrix Calibration Approach. Advances in Neural Information Processing Systems 28 (NIPS'2015).
+2. Li W. (2015) Visualizing Network Communities with A Semi-Definite Programming Method. Information Sciences, vol. 321, pp. 1--13, 2015.
+3. Li W. (2015) Highlighting Data Clusters by Graph Embedding. Neurocomputing, vol. 165, pp. 75--80, 2015.
+4. Li W. (2013) Revealing Network Communities with a Nonlinear Programming Method. Information Sciences, vol. 229, pp. 18-28, 2013.
+5. Li W. and Schuurmans D. (2011) Modular Community Detection in Networks. Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI'2011).
+6. Li W., Xu L. and Schuurmans D. (2010) Facility Locations Revisited: An Efficient Belief Propagation Approach. Proceedings of IEEE-ICAL'2010.
+7. Xu L., Li W. and Schuurmans D. (2009) Fast Normalized Cut with Linear Constraints. IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2009).
+8. Li W., Lee K.H. and Leung K.S. (2007) Large-scale RLSC Learning Without Agony. Proceedings of the 24th International Conference on Machine Learning (ICML'2007).
+9. Li W., Leung K.S. and Lee K.H. (2007) Generalizing the Bias Term of Support Vector Machines. Proceedings of the 20th International Joint Conference on Artificial Intelligence (IJCAI'2007).
+10. Li W., Lee K.H. and Leung K.S. (2006) Generalized Regularized Least-Squares Learning with Predefined Features in a Hilbert Space. Advances in Neural Information Processing Systems 19 (NIPS'2006).
+   

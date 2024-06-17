@@ -1,0 +1,40 @@
+贾奎
+教授
+教育背景
+伦敦大学玛丽女王学院计算机科学博士，2004~2007
+新加坡国立大学电子与计算机工程硕士，2001~2004
+西北工业大学测控技术及仪器学士，1997~2001
+  研究领域
+可泛化深度学习、几何深度学习、深度学习与机器人灵巧操作、生成式三维建模、三维语义感知
+个人网站
+http://kuijia.site/
+电子邮箱
+kuijia@cuhk.edu.cn
+办公室
+综合楼C607
+个人简介
+贾奎教授现就职于香港中文大学（深圳）数据科学学院。他分别于西北工业大学、新加坡国立大学、伦敦大学玛丽女王学院获得学士、硕士、和博士学位。博士毕业后，他曾先后于中科院深圳先进技术研究院、香港中文大学、伊利诺伊大学香槟分校新加坡高等研究院、澳门大学及华南理工大学从事教学和科研工作。他的主要研究领域是机器学习与计算机视觉，近期主要聚焦深度学习及其泛化、生成式三维建模与学习、三维感知大模型等方向。他的研究受到国家自然科学基金、广东省科技厅、华为、微软等机构和企业的资助，他的研究成果应用于奥比中光三维传感器产品及三星（美国）无人驾驶系统中。贾奎教授是跨维智能创始人，目前担任Trans. on Machine Learning Research, IEEE Trans. on Image Processing等期刊副主编。
+学术著作
+1.     Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation, Rui Chen, Yongwei Chen, Ningxin Jiao, and Kui Jia, IEEE International Conference on Computer Vision (ICCV), 2023.
+2.     On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion, Yushu Li, Xun Xu, Yongyi Su, and Kui Jia, IEEE International Conference on Computer Vision (ICCV), 2023. Oral Presentation
+3.     VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations, Jiehong Lin, Zewei Wei, Yabin Zhang, and Kui Jia, IEEE International Conference on Computer Vision (ICCV), 2023.
+4.     Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models, Jiabao Lei, Jiapeng Tang, and Kui Jia, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+5.     A New Benchmark: On the Utility of Synthetic Data with Blender for Bare Supervised Learning and Downstream Domain Adaptation, Hui Tang and Kui Jia, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+6.     HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization, Zhihao Liang, Zhangjin Huang, Changxing Ding, and Kui Jia, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+7.     TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition, Yongwei Chen, Rui Chen, Jiabao Lei, Yabin Zhang, and Kui Jia, Neural Information Processing Systems (NeurIPS), 2022.
+8.     Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering, Yongyi Su, Xun Xu, and Kui Jia, Neural Information Processing Systems (NeurIPS), 2022.
+9.     Towards Discovering the Effectiveness of Moderately Confident Samples for Semi-Supervised Learning, Hui Tang and Kui Jia, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+10.  Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization, Yabin Zhang, Minghan Li, Ruihuang Li, Kui Jia, and Lei Zhang, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. Oral Presentation
+11.  VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention, Shengheng Deng, Zhihao Liang, Lin Sun, and Kui Jia,  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+12.  Learning and Meshing from Deep Implicit Surface Networks Using an Efficient Implementation of Analytic Marching, Jiabao Lei, Kui Jia, and Yi Ma, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2021.
+13.  Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space, Jiehong Lin, Hongyang Li, Ke Chen, Jiangbo Lu, and Kui Jia, Neural Information Processing Systems (NeurIPS), 2021.
+14.  Towards Uncovering the Intrinsic Data Structures for Unsupervised Domain Adaptation using Structurally Regularized Deep Clustering, Hui Tang, Xiatian Zhu, Ke Chen, Kui Jia, and C. L. Philip Chen, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2021.
+15.  SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images, Jiapeng Tang, Xiaoguang Han, Mingkui Tan, Xin Tong, and Kui Jia, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2021.
+16.  3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding, Shengheng Deng, Xun Xu, Chaozheng Wu, Ke Chen, and Kui Jia, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+17.  Geometry-Aware Generation of Adversarial Point Clouds, Yuxin Wen, Jiehong Lin, Ke Chen, C. L. Philip Chen, and Kui Jia, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2020.
+18.  Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice, Yabin Zhang, Bin Deng, Hui Tang, Lei Zhang, and Kui Jia, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2020.
+19.  Grasp Proposal Networks: An End-to-End Solution for Visual Learning of Robotic Grasps, Chaozheng Wu, Jian Chen, Qiaoyu Cao, Jianchi Zhang, Yunxin Tai, Lin Sun, and Kui Jia, Neural Information Processing Systems (NeurIPS), 2020.
+20.  Unsupervised Domain Adaptation via Structurally Regularized Deep Clustering, Hui Tang, Ke Chen, and Kui Jia, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. Oral Presentation
+21.  Orthogonal Deep Neural Networks, Shuai Li, Kui Jia, Yuxin Wen, Tongliang Liu, and Dacheng Tao, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Accepted, 2019.
+22.  A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images, Jiapeng Tang, Xiaoguang Han, Junyi Pan, Kui Jia, and Xin Tong, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. Oral Presentation, Best Paper Finalists
+  更多论文参考 http://kuijia.site/

@@ -1,0 +1,88 @@
+方一向
+副教授
+教育背景
+香港大学博士，2013-2017
+哈尔滨工业大学硕士，2010-2013
+哈尔滨工程大学学士，2006-2010
+研究领域
+大数据管理、挖掘、人工智能
+个人网站
+https://fangyixiang.github.io/
+电子邮箱
+fangyixiang@cuhk.edu.cn
+办公室
+道远楼521a
+个人简介
+方一向教授现为香港中文大学（深圳）数据科学学院副教授。他于2010年获哈尔滨工程大学工学学士学位，2013年获哈尔滨工业大学工学硕士学位，2017年获香港大学计算机科学系哲学博士学位，之后在香港大学和澳大利亚新南威尔士大学继续从事学术研究工作。他曾于 2016年，作为访问学者在新加坡南洋理工大学学习。
+方博士主要研究大数据管理、挖掘、人工智能等相关课题，具体包括面向大规模图数据的数据管理、数据挖掘、图神经网络、表达学习等，以及面向大规模空间数据的学习型索引构建、关键字搜索、地理社交网络挖掘、轨迹查询等。他已在数据库、数据挖掘、人工智能等领域的国际顶级会议/期刊（如VLDB、SIGMOD、ICDE、NeurIPS 、WWW、IJCAI、TODS、VLDBJ、TKDE等）上累计发表论文70余篇，包括中国计算机学会认定的A类论文（即CCF-A）40余篇，第一/通讯作者CCF-A论文20多篇。其中一项代表性研究成果的论文被评为SIGMOD 2020会议的最佳论文之一（~4/458），并荣获2021 ACM SIGMOD Research Highlight Award。方博士目前担任国际知名期刊《Information Processing & Management》（CCF-B类期刊）的编委。他曾是多个数据库和数据挖掘领域顶级会议（例如PVLDB、ICDE、KDD、AAAI、IJCAI等）的程序委员会成员以及顶级期刊（例如TKDE、VLDBJ等）的审稿人。
+学术著作
+1. Haoxuan Xie, Yixiang Fang*, Yuyang Xia, Wensheng Luo, Chenhao Ma. "On Querying Connected Components in Large Temporal Graphs", ACM International Conference on Management of Data (SIGMOD), 2023.
+2. Yichen Xu, Chenhao Ma, Yixiang Fang, Zhifeng Bao. "Efficient and Effective Algorithms for Generalized Densest Subgraph Discovery", ACM International Conference on Management of Data (SIGMOD), 2023.
+3. Yufan Sheng, Xin Cao, Yixiang Fang, Kaiqi Zhao, Jianzhong Qi, Gao Cong, Wenjie Zhang. "WISK: A Workload-aware Learned Index for Spatial Keyword Queries", ACM International Conference on Management of Data (SIGMOD), 2023.
+4. Yingli Zhou, Yixiang Fang*, Wensheng Luo, Yunming Ye. "Influential Community Search over Large Heterogeneous Information Networks", Proceedings of the VLDB Endowment (PVLDB), 16(8):2047-2060, 2023.
+5. Yankai Chen, Yixiang Fang*, Yifei Zhang, Irwin King. "Bipartite Graph Convolutional Hashing for Effective and Efficient Top-N Search in Hamming Space", The ACM Web Conference (formerly known as International World Wide Web Conference (WWW)), pages 3164-3172, 2023.
+6. Wensheng Luo, Zhuo Tang, Yixiang Fang, Chenhao Ma, Xu Zhou. "Scalable Algorithms for Densest Subgraph Discovery", IEEE International Conference on Data Engineering (ICDE), pages 285-298, 2023.
+7. Tongfeng Weng, Xu Zhou, Yixiang Fang, Kian-Lee Tan, Kenli Li. "Finding Top-k Important Edges on Bipartite Graphs: Ego-betweenness Centrality-based Approaches", IEEE International Conference on Data Engineering (ICDE), pages 2406-2419, 2023.
+8. Linhao Luo, Yixiang Fang*, Moli Lu, Xin Cao, Xiaofeng Zhang, Wenjie Zhang. "GSim: A Graph Neural Network based Relevance Measure for Heterogeneous Graphs", IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.
+9. Yixiang Fang, Kai Wang, Xuemin Lin, Wenjie Zhang. "Cohesive Subgraph Search over Big Heterogeneous Information Networks" [Book]. Springer Briefs in Computer Science, Springer, ISBN 978-3-030-97567-8, pages 1-63, 2022.
+10. Chenhao Ma, Yixiang Fang*, Reynold Cheng, Laks V.S. Lakshmanan, Xiaolin Han. "A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery", ACM International Conference on Management of Data (SIGMOD), pages 845-859, 2022.
+11. Yixiang Fang, Wensheng Luo, Chenhao Ma. "Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques", Proceedings of the VLDB Endowment (PVLDB), 15(12): 3766-3769, 2022.
+12. Yangqin Jiang, Yixiang Fang*, Chenhao Ma, Xin Cao, Chunshan Li. "Effective Community Search over Large Star-Schema Heterogeneous Information Networks", Proceedings of the VLDB Endowment (PVLDB), 15(11): 2307-2320,2022.
+13. Chenji Huang, Yixiang Fang*, Xuemin Lin, Xin Cao, Wenjie Zhang, Maria Orlowska. "Estimating Node Importance Values in Heterogeneous Information Networks", IEEE International Conference on Data Engineering (ICDE), pages 846-858, 2022.
+14. Xuefeng Chen, Xin Cao, Yifeng Zeng, Yixiang Fang, Sibo Wang, Xuemin Lin, Liang Feng. "Constrained Path Search with Submodular Function Maximization", IEEE International Conference on Data Engineering (ICDE), pages 325-337, 2022.
+15. Chenji Huang, Yixiang Fang*, Xuemin Lin, Xin Cao, Wenjie Zhang. "ABLE: Meta-Path Prediction in Heterogeneous Information Networks", ACM Transactions on Knowledge Discovery from Data (TKDD), 16(4):73:1-73:21, 2022.
+16. Reynold Cheng, Chenhao Ma, Xiaodong Li, Yixiang Fang, Ye Liuy, Victor Y.L. Wong, Esther Lee, Tai Hing Lam, Sai Yin Ho, Man Ping Wang, Weijie Gong, Wentao Ning, Ben Kao. "The Social Technology and Research (STAR) Lab in the University of Hong Kong", ACM SIGMOD Record, 51(2):63-68, 2022.
+17. Yixiang Fang, Kai Wang, Xuemin Lin, Wenjie Zhang.  "Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions". ACM International Conference on Management of Data (SIGMOD), pages 2829-2838, 2021.
+18. Chenhao Ma, Yixiang Fang*, Reynold Cheng, Laks V.S. Lakshmanan, Wenjie Zhang, Xuemin Lin. "On Directed Densest Subgraph Discovery", ACM Transactions on Database Systems (TODS), 46(3):13:1-13:45, 2021.
+19. Yixing Yang, Yixiang Fang*, Maria Orlowska, Wenjie Zhang, Xuemin Lin. "Efficient Bi-triangle Counting for Large Bipartite Networks", Proceedings of the VLDB Endowment (PVLDB), 14(6): 984-996, 2021.
+20. Yu Hao, Xin Cao, Yufan Sheng, Yixiang Fang, Wei Wang. "KS-GNN: Keywords Search over Incomplete Graphs via Graphs Neural Network", The Annual Conference on Neural Information Processing Systems (NeurIPS), pages 1700-1712, 2021.
+21. Chenhao Ma, Yixiang Fang, Reynold Cheng, Laks V.S. Lakshmanan, Wenjie Zhang, Xuemin Lin. "Efficient Directed Densest Subgraph Discovery", ACM SIGMOD Record, 50(1):33-40, 2021.
+22. Linhao Luo, Yixiang Fang, Xin Cao, Xiaofeng Zhang, Wenjie Zhang. "Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph Neural Network Model". ACM Conference on Information and Knowledge Management (CIKM), 2021.
+23. Han Zhang, Yu Hao, Xin Cao, Yixiang Fang, Won-Yong Shin, Wei Wang. Relation Prediction via Graph Neural Network in Heterogeneous Information Networks with Missing Type Information. ACM Conference on Information and Knowledge Management (CIKM), 2021.
+24. Bolong Zheng, Lingfeng Ming, Qi Hu, Yixiang Fang, Kai Zheng, Guohui Li. "Dynamic Taxi Route Planning based on Deep Reinforcement Learning", International Conference on Spatial Data and Intelligence (SpatialDI), 2021. (Best Paper Award)
+25. Linhao Luo, Yixiang Fang*, Xin Cao, Xiaofeng Zhang, Wenjie Zhang. "CP-GNN: A Software for Community Detection in Heterogeneous Information Networks", Software Impacts, 2021.
+26. Yixiang Fang, Yixing Yang, Wenjie Zhang, Xuemin Lin, Xin Cao. "Effective and Efficient Community Search over Large Heterogeneous Information Networks", Proceedings of the VLDB Endowment (PVLDB), 13(6): 854-867, 2020.
+27. Yixiang Fang, Xin Huang, Lu Qin, Ying Zhang, Wenjie Zhang, Reynold Cheng, Xuemin Lin. "A Survey of Community Search Over Big Graphs", The VLDB Journal (VLDBJ), 29(1): 353-392, 2020.
+28. Chenhao Ma, Yixiang Fang*, Reynold Cheng, Laks V.S. Lakshmanan, Wenjie Zhang, Xuemin Lin. "Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs", ACM International Conference on Management of Data (SIGMOD), pages 1051-1066, 2020. (One of the Best Papers in SIGMOD 2020, rate: 4/458)
+29. Yixing Yang, Yixiang Fang*, Xuemin Lin, Wenjie Zhang. "Effective and Efficient Truss Computation Over Large Heterogeneous Information Networks", IEEE International Conference on Data Engineering (ICDE), pages 901-912, 2020.
+30. Boxuan Li, Reynold Cheng, Jiafeng Hu, Yixiang Fang, Min Ou, Ruibang Luo, Kevin C.C. Chang, Xuemin Lin. "MC-Explorer: Analyzing and Visualizing Motif-Cliques on Large Networks", IEEE International Conference on Data Engineering (ICDE), pages 1722-1725, 2020.
+31. Hongmei Chen, Yixiang Fang, Ying Zhang, Wenjie Zhang, Lizhen Wang. "ESPM: Efficient Spatial Pattern Matching (Extended Abstract)", IEEE International Conference on Data Engineering (ICDE), pages 2038-2039, 2020.
+32. Yankai Chen, Jie Zhang, Yixiang Fang*, Xin Cao, Irwin King. "Efficient Community Search over Large Directed Graph: An Augmented Index-based Approach", International Joint Conferences on Artificial Intelligence (IJCAI), pages 3544-3550, 2020.
+33. Yu Hao, Xin Cao, Yixiang Fang*, Xike Xie, Sibo Wang. "Inductive Link Prediction for Nodes with Only Attribute Information", International Joint Conferences on Artificial Intelligence (IJCAI), pages 1209-1215, 2020.
+34. Xuefeng Chen, Xin Cao, Yifeng Zeng, Yixiang Fang, Bin Yao. "Optimal Region Search with Submodular Maximization", International Joint Conferences on Artificial Intelligence (IJCAI), pages 1216-1222, 2020.
+35. Xiaojun Chen, Renjie Chen, Qingyao Wu, Yixiang Fang, Feiping Nie, Joshua Zhexue Huang. "LABIN: Balanced Min Cut for Large-scale Data", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 31(3): 725-736, 2020.
+36. Hongmei Chen, Yixiang Fang, Ying Zhang, Wenjie Zhang, Lizhen Wang. "ESPM: Efficient Spatial Pattern Matching", IEEE Transactions on Knowledge and Data Engineering (TKDE), 32(6): 1227-1233, 2020.
+37. Yixiang Fang, Kaiqiang Yu, Reynold Cheng, Laks V.S. Lakshmanan, Xuemin Lin. "Efficient Algorithms for Densest Subgraph Discovery", Proceedings of the VLDB Endowment (PVLDB), 12(11): 1719-1732, 2019.
+38. Yixiang Fang, Yun Li, Reynold Cheng, Nikos Mamoulis, Gao Cong. "Evaluating Pattern Matching Queries for Spatial Databases", The VLDB Journal (VLDBJ), 28(5): 649-673, 2019.
+39. Yixiang Fang, Zhongran Wang, Reynold Cheng, Hongzhi Wang, Jiafeng Hu. "Effective and Efficient Community Search over Large Directed Graphs", IEEE Transactions on Knowledge and Data Engineering (TKDE), 31(11): 2093-2107, 2019.
+40. Yixiang Fang, Zheng Wang, Reynold Cheng, Xiaodong Li, Siqiang Luo, Jiafeng Hu, Xiaojun Chen. "On Spatial-Aware Community Search", IEEE Transactions on Knowledge and Data Engineering (TKDE), 31(4): 783-798, 2019.
+41. Yixiang Fang, Zhongran Wang, Reynold Cheng, Hongzhi Wang, Jiafeng Hu. "Effective and Efficient Community Search over Large Directed Graphs (Extended Abstract)", IEEE International Conference on Data Engineering (ICDE), pages 2157-2158, 2019.
+42. Yankai Chen, Yixiang Fang*, Reynold Cheng, Yun Li, Xiaojun Chen, Jie Zhang. "Exploring Communities in Large Profiled Graphs (Extended Abstract)", IEEE International Conference on Data Engineering (ICDE), pages 2159-2160, 2019.
+43. Yun Li, Yixiang Fang*, Reynold Cheng, Wenjie Zhang. "Spatial Pattern Matching: A New Direction for Finding Spatial Objects", ACM SIGSPATIAL Newsletter (invited paper), 11(1): 1-12, 2019.
+44. Yankai Chen, Yixiang Fang*, Reynold Cheng, Yun Li, Xiaojun Chen, Jie Zhang. "Exploring Communities in Large Profiled Graphs", IEEE Transactions on Knowledge and Data Engineering (TKDE), 31(8): 1624-1629, 2019.
+45. Chenhao Ma, Reynold Cheng, Laks V.S. Lakshmanan, Tobias Grubenmann, Yixiang Fang*, Xiaodong Li. "LINC: A Motif Counting Algorithm for Uncertain Graphs", Proceedings of the VLDB Endowment (PVLDB), 13(2): 155-168, 2019.
+46. Jiafeng Hu, Reynold Cheng, Kevin C.C. Chang, Aravind Sankar, Yixiang Fang*, Brian Y. H. Lam. "Discovering Maximal Motif Cliques in Large Heterogeneous Information Networks", IEEE International Conference on Data Engineering (ICDE), pages 746-757, 2019.
+47. Ran Wang, Yixiang Fang*, Xing Feng. "Efficient Parallel Computing of Graph Edit Distance", LSGDA Workshop in ICDE, 2019.
+48. Xiaojun Chen, Chao Guo, Yixiang Fang, Rui Mao. "Structured Spectral Clustering of PurTree Data", International Conference on Database Systems for Advanced Applications (DASFAA), pages 485-501, 2019.
+49. Yixiang Fang, Reynold Cheng, Gao Cong, Nikos Mamoulis, Yun Li. "On Spatial Pattern Matching", IEEE International Conference on Data Engineering (ICDE), pages 293-304, 2018.
+50. Yixiang Fang, Reynold Cheng, Jikun Wang, Budiman, Gao Cong, and Nikos Mamoulis. "SpaceKey: Exploring Patterns in Spatial Databases", IEEE International Conference on Data Engineering (ICDE), pages 1577-1580, 2018.
+51. Yixiang Fang, Xiaoqin Xie, Xiaofeng Zhang, Reynold Cheng, Zhiqiang Zhang. "STEM: A Suffix Tree Based Method for Web Data Records Extraction", Knowledge and Information Systems (KAIS), 55(2): 305-331, 2018.
+52. Xiaodong Li, Reynold Cheng, Yixiang Fang, Jiafeng Hu, Silviu Maniu. "Scalable Evaluation of k-NN Queries on Large Uncertain Graphs", International Conference on Extending Database Technology (EDBT), pages 181-192, 2018.
+53. Xiaojun Chen, Yixiang Fang, Min Yang, Feiping Nie, Zhou Zhao, Joshua Zhexue Huang. "PurTreeClust: A Clustering Algorithm for Customer Segmentation from Massive Customer Transaction Data", IEEE Transactions on Knowledge and Data Engineering (TKDE), 30(3): 559-572, 2018.
+54. Yixiang Fang, Reynold Cheng, Xiaodong Li, Siqiang Luo, Jiafeng Hu. "Effective Community Search over Large Spatial Graphs", Proceedings of the VLDB Endowment (PVLDB), 10(6): 709-720, 2017.
+55. Yixiang Fang, Reynold Cheng, Siqiang Luo, Jiafeng Hu, Kai Huang. "C-Explorer: Browsing Communities in Large Graphs", Proceedings of the VLDB Endowment (PVLDB), 10(12): 1885-1888, 2017.
+56. Yixiang Fang, Reynold Cheng, Yankai Chen, Siqiang Luo, Jiafeng Hu. "Effective and Efficient Attributed Community Search", The VLDB Journal (VLDBJ), 26(6): 803-828, 2017.
+57. Yixiang Fang, Reynold Cheng. "On Attributed Community Search", MATES Workshop in PVLDB, 2017.
+58. Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixiang Fang, Siqiang Luo. "On Embedding Uncertain Graphs", ACM Conference on Information and Knowledge Management (CIKM), pages 157-166, 2017.
+59. Jiafeng Hu, Xiaowei Wu, Reynold Cheng, Siqiang Luo, Yixiang Fang. "On Minimal Steiner Maximum-Connected Subgraph Queries", IEEE Transactions on Knowledge and Data Engineering (TKDE), 29(11): 2455-2469, 2017.
+60. Yixiang Fang, Reynold Cheng, Wenbin Tang, Silviu Maniu, Xuan Yang. "Scalable Algorithms for Nearest-Neighbor Joins on Big Trajectory Data", IEEE Transactions on Knowledge and Data Engineering (TKDE), 28(3): 785-800, 2016.
+61. Yixiang Fang, Reynold Cheng, Siqiang Luo, Jiafeng Hu. "Effective Community Search for Large Attributed Graphs", Proceedings of the VLDB Endowment (PVLDB), 9(12): 1233-1244, 2016.
+62. Yixiang Fang, Reynold Cheng, Wenbin Tang, Silviu Maniu, Xuan Yang. "Scalable Algorithms for Nearest-Neighbor Joins on Big Trajectory Data (Extended Abstract)", IEEE International Conference on Data Engineering (ICDE), pages 1528-1529, 2016.
+63. Jiafeng Hu, Xiaowei Wu, Reynold Cheng, Siqiang Luo, Yixiang Fang. "Querying Minimal Steiner Maximum-Connected Subgraphs in Large Graphs", ACM Conference on Information and Knowledge Management (CIKM), pages 1241-1250, 2016.
+64. Zhenguo Li, Yixiang Fang, Qin Liu, Jiefeng Cheng, Reynold Cheng, John C.S. Lui. "Walking in the Cloud: Parallel SimRank at Scale", Proceedings of the VLDB Endowment (PVLDB), 9(1): 24-35, 2015.
+65. Yixiang Fang, Haijun Zhang, Yunming Ye, Xutao Li. "Detecting Hot Topics from Twitter: A Multi-view Approach", Journal of Information Science (JIS), 40(5): 578-593, 2014.
+66. Reynold Cheng, Yixiang Fang, Matthias Renz. Uncertain Data Classification. In Data Classification: Algorithms and Applications, C. C. Aggarwal (eds.), Chapman & Hall / CRC Data Mining and Knowledge Discovery Series, ISBN: 978-1466586741, 2014.
+67. Xiaoqin Xie, Yixiang Fang, Zhiqiang Zhang, Li Li. "Extracting Data Records from Web Using Suffix Tree", ACM SIGKDD Workshop on Mining Data Semantics, 2012.
+68. Xiaoqin Xie, Li Li, Zhiqiang Zhang, Yixiang Fang. "Back-buy Prediction Based on TriFG", ACM SIGKDD Workshop on Mining Data Semantics, 2012.
+69. Zhiqiang Zhang, Lixia Liu, Xiaoqin Xie, Haiwei Pan, Yixiang Fang. "Information Evaluation Based on Sources Dependence", Chinese Journal of Computer Science, 35(11): 2392-2402, 2012.
+* indicates corresponding author.

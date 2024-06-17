@@ -1,0 +1,14 @@
+Contact
+hisao_AT_sustech.edu.cn
+诚邀您加入
+硕士、博士招生信息
+博士后、研究助理招聘信息
+Hisao Ishibuchi
+IEEE Fellow, Chair Professor
+Southern University of Science and Technology (SUSTech)
+Research Group
+Computational Intelligence Group @ SUSTech
+Biography
+Prof. Hisao Ishibuchi was born in Kumamoto, Kyushu, Japan. After completing his MS studies on Precision Mechanics in Kyoto University in 1987, he had been with Osaka Prefecture University for 30 years. His research interests include evolutionary multi-objective and many-objective optimization, fuzzy genetics-based machine learning, and fuzzy rule-based classifier design.
+  He received a Best Paper Award from GECCO 2004, HIS-NCEI 2006, FUZZ-IEEE 2009, WAC 2010, SCIS & ISIS 2010, FUZZ-IEEE 2011, ACIIDS 2015, GECCO 2017, GECCO 2018, EMO 2019 and GECCO 2020. He also received 2007 JSPS Prize, 2019 IEEE CIS Fuzzy Systems Pioneer Award, and 2020 IEEE Transactions on Evolutionary Computation Outstanding Paper Award. He was the IEEE CIS Vice-President for Technical Activities (2010-2013) and an IEEE CIS Distinguished Lecturer (2015-2017). He was the Editor-in-Chief of IEEE Computational Intelligence Magazine (2014-2019) and Journal of Japanese Society for Evolutionary Computation (2014-2020), and an IEEE CIS AdCom member (2014-2019). He is an Associate Editor of IEEE Trans. on Evolutionary Computation, IEEE Trans. on Cybernetics, and IEEE Access.
+  He is an IEEE Fellow (2014). He is included in the Guide 2 Researcher list of the Top Computer Science Researchers in China.

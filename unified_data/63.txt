@@ -1,0 +1,34 @@
+SIMCHI-LEVI, David
+教授（短期特邀）
+教育背景
+特拉维夫大学博士
+特拉维夫大学硕士
+以色列理工学院学士
+研究领域
+统计学习和决策、运输和物流系统、供应链管理、收入和收益管理、基于优化的决策支持系统、运筹学、灵活性和风险管理
+个人网站
+http://slevi1.mit.edu/
+个人简介
+David Simchi-Levi是麻省理工学院系统工程学教授，也是麻省理工学院数据科学实验室的负责人。他被认为是供应链管理和业务分析领域首屈一指的思想领袖之一。
+他的博士生曾在加州大学伯克利分校、卡内基梅隆大学、哥伦比亚大学、康奈尔大学、杜克大学、佐治亚理工学院、哈佛大学、伊利诺伊大学厄巴纳-香槟分校、密歇根大学、普渡大学和弗吉尼亚理工大学等领先学术机构担任教职。
+Simchi-Levi教授曾任INFORMS的两大旗舰期刊之一的《Management Science》（2018-2023）的主编。2006-2012年，他担任INFORMS的另一本旗舰期刊《Operations Research》（2006-2012年）和《Naval Research Logistics》（2003-2005年）的主编。
+2023年，他当选为美国国家工程院院士。2020年，他被授予享有盛誉的INFORMS影响力奖，以表彰他在开发和传播一种新的极具影响力的范式以识别和缓解全球供应链风险方面发挥的主导作用。
+他是INFORMS研究员和MSOM杰出研究员，并荣获2020年INFORMS Koopman奖以表彰他在军事行动研究方面的杰出出版物。他还荣获福特汽车公司2015年度工程卓越奖、2014 INFORMS Daniel H. Wagner运筹学实践卓越奖、2014年INFORMS收入管理和定价部分实践奖以及2009年INFORMS收入管理和定价部分奖。
+他是LogicTools的创始人，该公司为供应链优化提供软件解决方案和专业服务。LogicTools于2009年成为IBM的一部分。2012年，他与他人共同创立了运营分析咨询公司OPS Rules。该公司于2016年成为埃森哲的一部分。2014年，他与他人共同创立了Opalytics，这是一家专注于运营和供应链决策的云分析平台公司。该公司于2018年成为埃森哲应用智能的一部分。
+学术著作
+Books
+1. Simchi-Levi, D., P. Kaminsky and E. Simchi-Levi, Designing and Managing the Supply Chain: Concepts, Strategies and Case Studies, McGraw-Hill, 2021 (4th Edition). The book received the Book-of-the-year award and the Outstanding IIE Publication award given in 2000 by the Institute of Industrial Engineering.
+2. Simchi-Levi, D., X. Chen and J. Bramel, The Logic of Logistics: Theory, Algorithms and Applications for Logistics Management, Springer, 2013 (3rd Edition).
+3. Simchi-Levi, D., P. Kaminsky and E. Simchi-Levi,  Managing the Supply Chain: The Definitive Guide for the Supply Chain Professional, McGraw-Hill, 2004.
+4. Simchi-Levi, D, Operations Rules: Delivering Customer Value through Flexible Operations, MIT Press, 2010.
+Papers in Refereed Journals
+1. Simchi-Levi D. and C. Wang (2024), "Multi-armed Bandit Experimental Design: Online Decision-making and Adaptive Inference." To appear in Management Science.
+ 
+2. Simchi-Levi D., Z. Zheng and F. Zhu (2023), "Stochastic Multi-armed Bandits: Optimal Trade-off among Optimality, Consistency, and Tail Risk." NeurIPS 2023 Spot-
+light (top 3%).
+ 
+3. Cheung W. C., D. Simchi-Levi and R. Zhu (2023), "Non-Stationary Reinforcement Learning: The Blessing of (More) Optimism." To appear in Management Science.
+ 
+4. Gong X. and D. Simchi-Levi (2023), "Bandits atop Reinforcement Learning: Tackling Online Inventory Models with Cyclic Demands." To appear in Management Science.
+ 
+5. Simchi-Levi D. and Y. Xu (2022), "Bypassing the Monster: A Faster and Simpler Optimal Algorithm for Contextual Bandits under Realizability." Mathematics of Operations Research, Volume 47, No 3, pp. 1904-1931.

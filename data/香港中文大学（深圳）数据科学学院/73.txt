@@ -1,0 +1,47 @@
+吴保元
+副教授
+助理院长（科研）
+教育背景
+中国科学院自动化研究所博士
+北京科技大学学士
+  研究领域
+人工智能安全隐私、计算机视觉、机器学习与最优化
+个人网站
+https://sites.google.com/site/baoyuanwu2015/
+电子邮箱
+wubaoyuan@cuhk.edu.cn
+办公室
+道远楼411
+个人简介
+吴保元教授现为香港中文大学（深圳）数据科学学院副教授。吴教授于2009年毕业于北京科技大学自动化学院，2011至2013年以访问学生身份赴美国伦斯勒理工学院研究机器学习和计算机视觉，2014年6月在中国科学院自动化研究所模式识别国家实验室获得模式识别和智能系统博士学位。其后，吴教授在2014至2016年在沙特阿拉伯的阿卜杜拉国王科技大学担任博士后研究员，在2016至2018年在腾讯AI lab担任高级研究员一职，并于2019年1月荣升为专家研究员。
+吴教授的研究领域集中于机器学习、计算机视觉和优化，包括对抗样本、模型压缩、视觉推理、图像标注、弱监督或无监督学习、结构化预测、概率图形模型、视频处理和整数规划。
+学术著作
+Selected Journal Publications:
+1. Baoyuan Wu, Bernard Ghanem, “Lp-Box ADMM: A Versatile Framework for Integer Programming”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Volume 41(7), Page 1695-1708, 2019. (CCF A, IF 17.73)
+2. Zechun Liu, Wenhan Luo, Baoyuan Wu, Xin Yang, Wei Liu and Kang-Ting Cheng, “Bi-Real Net: Binarizing Deep Network Towards Real-Network Performance”, accepted to International Journal of Computer Vision (IJCV), 2019. (CCF A, IF 11.541)
+3.  Baoyuan Wu, Li Shen, Bernard Ghanem and Tong Zhang, “MAP Inference via L2-Sphere Linear Program Reformulation”, accepted to International Journal of Computer Vision (IJCV) (CCF A, IF 11.541, under review, major revision)
+4. Baoyuan Wu, Fan Jia, Wei Liu, Bernard Ghanem and Siwei Lyu, “Multi-label Learning with Missing Labels using Mixed Graphs”, International Journal of Computer Vision (IJCV), Volume 126 (8), Page 875-896, 2018. (CCF A, IF 11.541)
+5.  Shibiao Xu, Xingjia Pan, Er Li, Baoyuan Wu, Shuhui Bu, Weiming Dong, Shiming Xiang, Xiaopeng Zhang, “Automatic Building Rooftop Extraction From Aerial Images via Hierarchical RGB-D Priors”, IEEE Transactions on Geoscience and Remote Sensing, Volume 56 (12), Page 7369-7387, 2018. (CCF B, IF 5.63)
+6. Baoyuan Wu, Bao-Gang Hu, Qiang Ji, “A coupled hidden markov random field model for simultaneous face clustering and tracking in videos", Pattern Recognition, Volume 64, Page 361-373, 2017. (CCF B, IF 5.898)
+7. Yifan Zhang, Zhiqiang Tang, Baoyuan Wu (corresponding author), Qiang Ji, Hanqing Lu, “A coupled hidden conditional random field model for simultaneous face clustering and naming in videos", IEEE Transactions on Image Processing, Volume 25 (12), Page 5780-5792, 2016. (CCF A, IF 6.79)
+8. Yongqiang Li, Baoyuan Wu (corresponding author), Bernard Ghanem, Yongping Zhao, Hongxun Yao, Qiang Ji, “Facial action unit recognition under incomplete data based on multi-label learning with missing labels", Pattern Recognition, Volume 60, Page 890-900, 2016. (CCF B, IF 5.898)
+9. Baoyuan Wu, Siwei Lyu, Bao-Gang Hu, Qiang Ji, “Multi-label learning with missing labels for image annotation and facial action unit recognition”, Pattern Recognition, Volume 48, Page 2279-2289, 2015. (CCF B, IF 5.898)
+
+Selected Conference Papers:
+1. Yong Zhang, Haiyong Jiang, Baoyuan Wu (corresponding author), Yanbo Fan and Qiang Ji. "Context-aware Feature and Label Fusion for Facial Action Unit Intensity Estimation with Partially Labeled Data", ICCV 2019. (CCF A)
+2. Yan Xu*, Baoyuan Wu* (co-first authors, corresponding author), Fumin Shen, Yanbo Fan, Yong Zhang, Heng Tao Shen and Wei Liu. "Exact Adversarial Attack to Image Captioning via Structured Output Learning with Latent Variables", CVPR 2019. (CCF A)
+3. Tuanhui Li, Baoyuan Wu (corresponding author), Yujiu Yang, Yanbo Fan, Yong Zhang, and Wei Liu. "Compressing Convolutional Neural Networks via Factorized Convolutional Filters", CVPR 2019. (CCF A)
+4. Yong Zhang, Baoyuan Wu (corresponding author), Weiming Dong, Zhifeng Li, Wei Liu, Bao-Gang Hu and Qiang Ji. "Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation", CVPR 2019. (CCF A)
+5. Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang and Jun Zhu. "Efficient Decision-based Black-box Adversarial Attacks on Face Recognition", CVPR 2019. (CCF A)
+6. Kaihua Tang, Hanwang Zhang, Baoyuan Wu, Wenhan Luo and Wei Liu. "Learning to Compose Dynamic Tree Structures for Visual Contexts", CVPR 2019 (Best Paper Finalist). (CCF A)
+7.  Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He and Ming-Hsuan Yang. "Target-Aware Deep Tracking", CVPR 2019. (CCF A)
+8. Jia Wan, Wenhan Luo, Baoyuan Wu, Antoni Chan and Wei Liu. "Residual Regression with Semantic Prior for Crowd Counting", CVPR 2019. (CCF A)
+9. Baoyuan Wu, Weidong Chen, Wei Liu, Peng Sun, Bernard Ghanem and Siwei Lyu, “Tagging Like Humans: Diverse and Distinct Image Annotation”, CVPR, 2018. (CCF A)
+10.  Linchao Bao, Baoyuan Wu and Wei Liu, “Video Object Segmentation via Inference inA Higher-Order Spatio-Temporal MRF”, CVPR, 2018. (CCF A)
+11. Zechun Liu, Baoyuan Wu, Wenhan Luo, Xin Yang, Wei Liu and Kang-Ting Cheng, “Bi-Real Net: Enhancing the Performance of 1-bit CNNs with Improved Representational Capability and Advanced Training Algorithm”, ECCV, 2018. (CCF B)
+12.  Baoyuan Wu, Fan Jia, Wei Liu and Bernard Ghanem, “Diverse Image Annotation”, CVPR, 2017. (CCF A)
+13. Baoyuan Wu, Siwei Lyu, Bernard Ghanem, “Constrained Submodular Minimization for Missing Labels and Class Imbalance in Multi-label Learning”, AAAI, 2016. (CCF A)
+14. Baoyuan Wu, Siwei Lyu, Bernard Ghanem, “ML-MG: Multi-label Learning with Missing Labels Using a Mixed Graph”, ICCV, 2015. (CCF A)
+15.  Baoyuan Wu, Siwei Lyu, Baogang Hu, Qiang Ji, “Simultaneous Clustering and Tracklet Linking for Multi-Face Tracking in Videos”, ICCV, 2013. (CCF A)
+16.  Baoyuan Wu, Yifan Zhang, Baogang Hu and Qiang Ji, “Constrained Clustering and Its Application to Face Clustering in Videos”, CVPR, 2013. (CCF A)
+   

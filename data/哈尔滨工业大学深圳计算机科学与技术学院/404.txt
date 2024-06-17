@@ -1,0 +1,31 @@
+基本信息
+付希明，哈尔滨工业大学（深圳）计算机科学与技术学院助理教授，硕士生导师，哈工大（深圳）-树轮零知识证明联合实验室主任，“鹏城孔雀”特聘人才。2011年和2018年分别于清华大学电子系和计算机系获得本科和博士学位，2019年至2021年在香港中文大学（深圳）从事博士后研究。主要研究方向为密码与编码理论、区块链。在CRYPTO、TIT等国际顶级会议和期刊发表论文多篇，并担任多个国际会议和期刊的审稿人。申请发明专利12项，授权6项。
+立志做顶天立地的研究。实验室有充足的科研经费，与国内外高等院校和企业有紧密的联系，成绩优异的同学可推荐到清华等学府深造，也可推荐到百度、字节等头部企业实习和工作。欢迎成绩优异的同学报考实验室硕士生、博士生（联合培养）、博士后和访问学生，也欢迎成绩优异、具有较好数学基础的本科生参与科研工作：fuximing@hit.edu.cn
+
+教育和工作经历
+2022.2-至今，哈尔滨工业大学（深圳），助理教授
+2019.3-2022.2，香港中文大学（深圳），博士后
+2013.9-2018.7，清华大学计算机系，博士
+2007.9-2011.7，清华大学电子工程系，学士
+项目和平台
+[1] 哈工大（深圳）-树轮零知识证明校企联合实验室，2023.3-2026.3，主持
+[2] 国家自然科学基金青年项目，2024.1-2026.12，主持
+[3] 深圳市技术攻关重点项目，2022.12-2025.12，子项目负责人
+[4] 新引进高精尖缺人才科研启动经费，2023.01-2025.12，主持
+近期代表性论文和专利
+
+论文
+[1] Congming Wei, Xiaoyang Dong, Willi Meier, Lingyue Qin, Ximing Fu. Differential-Aided Preimage Attacks On Round-Reduced Keccak. Comput. J. 66(12): 3069-3091 (2023)
+[2] Ximing Fu, Chenhao Wu, Yuanxin Guo and Shenghao Yang: Two-tone Shift-XOR Storage Codes. ISIT 2021: 2996-3001
+[3] Congming Wei, Chenhao Wu, Ximing Fu, Xiaoyang Dong, Kai He, Jue Hong, Xiaoyun Wang: Preimage Attacks on 4-Round Keccak by Solving Multivariate Quadratic Systems. ICISC 2021: 195-216
+[4] Yiheng Zhang, Ximing Fu, Xuanchen Wu, Shenghao Yang and Kenneth W. Shum: Solving Monoshift Systems and Applications in Random Coding. ISIT 2021: 1296-1301
+[5] Xiaopeng Cheng, Ximing Fu, Yuanxin Guo, Kenneth W. Shum and Shenghao Yang: Successively Solvable Shift-Add Systems—a Graphical Characterization. ISIT 2021: 946-951
+[6] Ximing Fu, Shenghao Yang, Zhiqing Xiao: Decoding and Repair Schemes for Shift-XOR Regenerating Codes. IEEE Trans. Inf. Theory 66(12): 7371-7386 (2020)
+
+专利
+[1] 付希明、李墨：基于安全多方计算的数据处理方法及电子设备、存储介质，专利号：ZL2022112310677。
+[2] 付希明、郭沅鑫、杨升浩：分布式存储方法和传输译码方法，专利号：ZL2020101619457。
+[3] 付希明、刘川意、韩培义、庄荣飞：针对表格数据的仿真数据生成方法、装置及电子设备，申请号：2022110296745
+[4] 付希明、李墨、张日和、韩培义、刘川意：区块链的共识方法、设备及存储介质，申请号：202210620853X
+[5] 付希明、张逸衡、杨升浩：数据编码方法、数据译码方法、电子设备及存储介质，申请号：2021106288366
+[6] 付希明、杨升浩：编码方法、译码方法、电子设备及存储介质，申请号：202011325637X

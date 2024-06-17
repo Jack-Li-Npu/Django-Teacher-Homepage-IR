@@ -1,0 +1,20 @@
+陈寅
+一、教育经历
+2014年 香港城市大学 系统工程与工程管理系 博士毕业
+
+二、工作经历
+2024.01—至今    深圳技术大学大数据与互联网学院 副教授
+2020.08—2023.12  深圳技术大学大数据与互联网学院 助理教授
+
+三、主要研究领域
+博弈论、最优化
+  四、主要成果及荣誉
+1.国家自然科学基金青年项目，计算鲁棒博弈中恰当均衡的优化算法研究，30万元，2023/01-2025/12，项目负责人
+2. 广东省基础与应用基础研究基金青年项目，计算鲁棒博弈中完美均衡的算法设计与应用，10万元，2021/10-2023/09，项目负责人
+3. Yin Chen and Chuangyin Dang, “A Differentiable Homotopy Method to Compute Perfect Equilibria”, Mathematical Programming, 185: 77-109, 2021.
+4. Yin Chen and Chuangyin Dang, “An Extension of Quantal Response Equilibrium and Determination of Perfect Equilibrium”, Games and Economic Behavior, 124: 659-670, 2020.
+5. Yin Chen and Chuangyin Dang, “A Reformulation-Based Simplicial Homotopy Method for Approximating Perfect Equilibria”, Computational Economics 54(3): 877-891, 2019.
+6. 深圳市海外高层次人才
+  E-mail：chenyin@sztu.edu.cn
+上一篇：何俊锋
+下一篇：曾媛

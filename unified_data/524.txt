@@ -1,0 +1,20 @@
+安晓欣
+一、教育经历
+2022年 美国弗吉尼亚理工大学 计算机工程系 博士毕业
+
+二、工作经历
+2023.06–至今 深圳技术大学 助理教授
+
+三、主要研究领域
+1. 形式化验证、二进制可执行文件分析
+2. 可视化与图形学
+
+四、主要成果
+1. An, Xiaoxin, Freek Verbeek, and Binoy Ravindran. “DSV: Disassembly Soundness Validation Without Assuming a Ground Truth.” NASA Formal Methods: 14th International Symposium, NFM 2022, Proceedings. Cham: Springer International Publishing, 2022.
+2. An, Xiaoxin, Amer Tahat, and Binoy Ravindran. “A Validation Methodology for OCaml-to-PVS Translation.” NASA Formal Methods: 12th International Symposium, NFM 2020, Proceedings 12. Springer International Publishing, 2020.
+3. Sun, Yankui, Xiaoxin An, Zi Ye, and Zhongyang Sun. “Efficient terrain data coding for rendering on mobile devices.” In Signal Processing and Information Technology (ISSPIT), 2015 IEEE International Symposium on, pp. 221-226. IEEE, 2015.
+
+Email: anxiaoxin@sztu.edu.cn
+
+上一篇：赵天鸿
+下一篇：王维坤

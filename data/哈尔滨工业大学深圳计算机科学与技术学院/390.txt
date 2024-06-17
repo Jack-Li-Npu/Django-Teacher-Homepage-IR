@@ -1,0 +1,38 @@
+简介
+Dr. Jie Wen is an Associate Professor at the School of Computer Science & Technology, Harbin Institute of Technology, Shenzhen. He served as deputy director of Shenzhen Key Laboratory of visual object detection and recognition and director of CMSemicon-HITSZ AI Chip Lab. His main research interests include data mining and machine learning.
+Dr. Jie Wen obtained the Ph.D degree of Computer Application Technology from Harbin Institute of Technology in 2019, supervised by Changjiang Scholars Distinguished Professor Yong Xu. He obtained the honors of ‘China National Postdoctoral Program for Innovative Talents’ in 2019, Shenzhen Excellent Postdoctoral in 2020, and Excellent Postdoctoral of Harbin Institute of Technology, Shenzhen in 2021.
+Dr. Jie Wen presided over five projects, including the National Natural Science Foundation of China, China National Postdoctoral Program for Innovative Talents, China Postdoctoral Science Foundation, Guangdong Basic and Applied Basic Research Foundation, and Shenzhen Fundamental Research Fund. He has published more than 50 papers on the TOP journals and conferences, such as IEEE TCYB, IEEE TMM, IEEE TNNLS, IEEE TIP, IEEE TSMC-S, IEEE TCSVT, Pattern Recognition, Neural Networks, AAAI, IJCAI, ACM MM, and ECCV, where 2 papers are ESI highly cited papers. In addition, Dr. Jie Wen served as the Associate Editor of the 'International Journal of image and graphics' and the area chair of ACM MM & ICML & FASTA . He joined the Editorial Board of SCI journal 'Mathematics'. He served as the reviewer of more than 30 international journals and conferences, including IEEE TPAMI, TNNLS, TIP, TMM, AAAI, IJCAI, CVPR, ICCV, ACM MM, etc. He is an IEEE/CCF Senior Member.
+Research Interests
+Computer Vision: Image Recognition, Image Clustering, Image Processing
+Machine Learning: Deep Representation Learning, Sparse/Low-rank Representation, multi-view clustering
+Email Address: jiewen_pr@126.com Google Scholar Github Chinese Homepage【中文主页】
+
+
+
+文杰，博士/博士后，IEEE/CCF高级会员，哈尔滨工业大学（深圳）副教授，硕士生导师；深圳市视觉目标检测与判识重点实验室副主任、中微半导-哈工大（深圳）人工智能芯片实验室主任。曾获“中国博士后创新人才支持计划”。主持国家自然科学基金面上和青年基金、广东省自然科学基金——青年提升项目、广东省粤深青年基金、深圳市基础研究项目、深圳市优秀人才科技创新培养项目及“CAAI-华为mindspore学术奖励基金”等多个项目。近年来主要从事不完备多模态学习、多标签学习、异常检测、目标检测等方面的研究。
+发表论文100多篇，近两年在NeurIPS、CVPR、AAAI、ACM MM、TCYB、TMM、TNNLS、TIP、TCSVT、等人工智能和模式识别领域国际顶级期刊和会议发表论文近70篇。担任会议ICML（#2024）、ACM MM（#2021、#2022、#2024）领域主席，担任国际期刊《mathematics》和《International Journal of Image and Graphics》编委，会议ACAIT（#2021）广东省区域主席，担任TPAMI和NIPS、CVPR等多个CCF A类期刊和会议审稿人。2篇论文获ACAIT会议最佳论文奖。1篇论文入选CCF A类会议AAAI 2023的Distinguished paper. 入选斯坦福大学发布的全球前2%顶尖科学家榜单。近两年指导学生发表CCF A类、Trans.论文近20篇。
+
+主要研究方向
+计算机视觉: 目标检测、异常检测、图像识别、图像处理
+机器学习: 深度表征学习、多视图学习、分类
+
+
+指导/协助指导的在读学生 （论文成果仅列一作/学生一作/通讯）
+2020级博士刘成亮（1 NIPS、1 ICML、1 CVPR、3 AAAI、2 TNNLS等、AAAI优秀论文奖）
+2022级硕士许戈辉 （1 AAAI、1 ACMMM、1 TCSVT）
+2023级硕士刘毅成 （1 ICML、1 CCF C会议）
+2023级硕士唐瞻雁
+2023级硕士唐宜冰
+2021级本科生谭新、赵策 （1 AAAI）
+华农21级硕士傅雨露 （2 TNNLS）
+华农22级硕士李雨霆 (1 ACMMM)
+华农22级硕士谢雅姿
+华农22级硕士何志鹏 （1 NN）
+贵大 龙江 （1 PR）
+贵大 谢武林
+
+指导/协助指导的已毕业学生
+2021级硕士邓世杰 （2篇TNNLS、1 ICML）：北京百度
+
+
+论文和代码信息见个人英文主页 Personal Homepage！

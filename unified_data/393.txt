@@ -1,0 +1,22 @@
+个人简介
+Joanna Siebert, senior lecturer, received the MSc(Eng) degree from the Poznan University of Technology in control engineering and robotics in Poland. She received the PhD degree from Hong Kong Polytechnic University, in 2014. Her research interests include deep learning, federated learning, medical applications. She has served as a reviewer for several international journals and conference proceedings. From 2014 to 2018 she worked as a teaching fellow at the Department of Computing, the Hong Kong Polytechnic University. In 2019 she worked as an external teacher in the School of Software, the South China University of Technology in Guangzhou as well as the College of Computer Science and Software Engineering, Shenzhen University in Shenzhen.
+
+Journal Publications
+G. Yao, J. Cao, X. Liu, J. Siebert, “Enabling fast handoff in dense 802.11 WMNs via temporal-spatial knowledge and opportunistic probing”, Journal of Reliable Intelligent Environments, 2018
+C. Dong, H. Li, X. Luo, L. Ding, J. Siebert, H. Luo, “Proactive struck-by risk detection with movement patterns and randomness”, Automation in Construction, vol. 91, 2018
+H. Li, X. Li, X. Luo, J. Siebert, “Investigation of the causality patterns of non-helmet use behavior of construction workers”, Automation in Construction, vol. 80, 2017
+J. Siebert, J. Cao, Y. Lai, P. Guo, and W. Zhu, “LASEC: A localized approach to service composition in pervasive computing environments,” IEEE Transactions on Parallel and Distributed Systems, vol. PP, no. 99, 2014
+
+Book Chapters
+Joanna Siebert, Jiannong Cao, “Scalable Service Composition in Pervasive Computing Environments”, Scalable Computing and Communications: Theory and Practice, Samee U. Khan, Lizhe Wang, and Albert Y. Zomaya (Eds.), John Wiley & Sons, Ltd., 2013
+Jiannong Cao, Joanna Siebert, and Vaskar Raychoudhury, “Service Management in Pervasive Computing Environments”, Pervasive Computing and Networking, Mohammad S. Obaidat, Mieso Denko, and Isaac Woungang (Eds.), John Wiley & Sons, Ltd., 2011
+
+Conference Papers/Talks
+G. Yao, J. Cao, X. Liu, J. Siebert. Fast Handoff based on Enhancement of Network-assisted Radio Signature in 802.11 Dense WMNs. 19th International Conference on Distributed Computing and Networking, 2018
+G. Yao, J. Cao, X. Liu, J. Siebert. OppoScan: Enabling Fast Handoff in Dense 802.11 WMNs via Opportunistic Probing with Virtual Radio.IEEE 14th International Conference on Mobile Ad Hoc and Sensor Systems, 2017
+J. Siebert, J. Cao, L. Cheng, E. Wei, C. Chen, J. Ma. Decentralized Service Composition in Pervasive Computing Environments. In International Wireless Communications and Mobile Computing Conference, 2010
+J. Siebert, J. Cao. Service Composition in Pervasive Computing Environments: a Survey. III International Interdisciplinary Technical Conference of Young Scientists, 2010
+L. Cheng, J. Cao, C. Chen, H. Chen, J. Ma, J. Siebert. Cooperative Contention-Based Forwarding for Wireless Sensor Networks. In International Wireless Communications and Mobile Computing Conference, 2010
+J. Siebert, J. Cao, Y. Zhou, M. Wang, V. Raychoudhury. Universal Adaptor: A Novel Approach to Supporting Multi-protocol Service Discovery in Pervasive Computing. In Proceedings of International Conference on Embedded and Ubiquitous Computing, 2007
+M. Wang, J. Cao, J. Siebert, V. Raychoudhury, and J. Li. Ubiquitous Intelligent Object: Modeling and Applications. In Proceedings of International Conference on Semantics, Knowledge and Grid, 2007
+Y. Zhou, J. Cao, V. Raychoudhury, J. Siebert, and J. Lu. A Middleware Support for Agent-Based Application Mobility in Pervasive Environments. 27th International Conference on Distributed Computing Systems Workshops, 2007

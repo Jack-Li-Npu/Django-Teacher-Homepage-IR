@@ -1,0 +1,24 @@
+戴戈南
+戴戈南，博士毕业于中山大学计算机学院，现任深圳技术大学大数据与互联网学院讲师。研究兴趣为时空数据挖掘、城市计算、交通预测、人群流量预测等，在 Frontiers of Computer Science、International Joint Conference on Artificial Intelligence等国际期刊、会议发表相关论文十余篇，Google Scholar被引230+次，发明专利2项。欢迎具有较强的英文阅读写作和计算机编程能力的硕士生、本科生联系 (daigenan@sztu.edu.cn)。
+
+一、教育经历
+2015/09 - 2022/12  中山大学，计算机科学与技术，博士（硕博连读）
+2011/09 - 2015/07  东北师范大学，软件工程，学士
+
+二、工作经历
+2023/03 - 至今 深圳技术大学大数据与互联网学院，讲师
+
+三、主要研究领域
+时空数据挖掘，城市计算，交通预测，人群流量预测
+
+四、主要成果
+1. Dai G, Kong W, Liu Y, et al. Multi-perspective convolutional neural networks for citywide crowd flow prediction[J]. Applied Intelligence, 2023, 53(8): 8994-9008.
+2. Dai G, Hu X, Ge Y, et al. Attention based Simplified Deep Residual Network for Citywide Crowd Flows Prediction. Frontiers of Computer Science, 2021, 15(2): 1-12.
+3. Dai G. Deep Learning Method for Citywide Crowd Flows Prediction. 2019 20th IEEE International Conference on Mobile Data Management. IEEE, 2019: 373-374.
+4. Huang R, Huang C, Liu Y, Dai G, et al. LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks. International Joint Conference on Artificial Intelligence (IJCAI). 2020: 2355-2361.
+5. Huang C, Kong W, Dai G, et al. LTPHM: Long-term Traffic Prediction based on Hybrid Model. Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM). 2021: 3093-3097.
+6. Zhang Y, Hu C, Dai G, et al. Self-adaptive Graph Neural Networks for Personalized Sequential Recommendation. International Conference on Neural Information Processing (ICONIP). 2021: 608-619.
+
+Email: daigenan@sztu.edu.cn
+上一篇：董丽
+下一篇：孟幻

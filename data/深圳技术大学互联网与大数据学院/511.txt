@@ -1,0 +1,45 @@
+樊小毛
+樊小毛，博士，香港城市大学博士后，硕士生导师，毕业于中国科学院大学，获计算机应用技术专业博士学位，研究方向为深度学习与医学大数据挖掘。近年来在IEEE Transactions on Industrial Informatics、IEEE Journal of Biomedical and informatics、IEEE Transactions on Big Data、IEEE Transactions on Network and Service Management等国际权威期刊发表多篇论文。申请专利40余项，其中授权专利20余项，主持参与项目多项。目前实验室项目经费充足，计算资源丰富，并与弗吉尼亚理工大学、香港大学、香港理工大学、香港城市大学、中山大学、北京邮电大学、电子科技大学、江南大学等国内外诸多著名高校具有良好的合作关系，欢迎具有较强的英文阅读写作和计算机编程能力的硕士生/高年级本科生联系 (fanxiaomao@sztu.edu.cn)。详细信息请参考个人主页：https://www.scholat.com/fanxiaomao。
+
+部分获批项目：
+[1] 深圳市高端人才引进项目，基于便携监测的诊断级智能化OSA检测方法研究，GDRC202318，2023.1-2025.12，300万元。
+[2] 广州市研发重点项目，骨髓细胞形态智能化诊断关键技术及其临床转化应用, 2023B03J0172，2023.1-2025.12，15万元。
+[3] 医学内窥镜图像自动分析与辅助诊断的优化建模方法及大规模应用示范，2022B1515130009，2022.10-2026.9，40万元。
+
+部分公开发表文章：
+[1] Li, P., Ma, W.*, Yue, H., Lei, W., Fan, X.*, & Li, Y. (2024). Sleep apnea detection from single-lead electrocardiogram signals using effective deep-shallow fusion network. Physiological Measurement, 45(2), 025002. (通讯作者)
+[2] Zheng, W., Li, Y., Hong, M., Zhao, G.*, & Fan, X.* (2024). Network traffic matrix prediction with incomplete data via masked matrix modeling. Information Sciences, 657, 119835. (通讯作者)
+[3] Ma, W., Zhao, Y., & Fan, X.* (2023). Cascaded Knowledge-Level Fusion Network for Online Course Recommendation System. IEEE Transactions on Big Data. (通讯作者)
+[4] Zheng, W., Hong, M., Ye, R., Fan, X.*, Liang, Y.*, Zhao, G.*, & Zimmermann, R. (2023). End-to-End Delay Modeling via Leveraging Competitive Interaction Among Network Flows. IEEE Transactions on Network and Service Management. (通讯作者)
+[5] Chen, X., Ma, W., Gao, W., & Fan, X.* (2023). Bafnet: bottleneck attention based fusion network for sleep apnea detection. IEEE Journal of Biomedical and Health Informatics. (通讯作者)
+[6] Fan, X.*, Qiu, M., Gao, W.*, Ma, W., Cai, Y., Zhou, H., ... & Huang, J. (2023). Multimodal fusion technologies and applications in the context of neuroscience. Frontiers in Neuroscience, 17, 1213207. (第一作者)
+[7] Chen, Y., Yue, H., Zou, R., Lei, W., Ma, W., & Fan, X.* (2023). RAFNet: Restricted attention fusion network for sleep apnea detection. Neural Networks, 162, 571-580. (通讯作者)
+[8] Chen, J., Dai, Y., Chen, X., Shen, Y., Luximon, Y., Wang, H., ... & Fan, X.* (2023). StAGN: Spatial-Temporal Adaptive Graph Network via Contrastive Learning for Sleep Stage Classification. In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM) (pp. 199-207). Society for Industrial and Applied Mathematics. (通讯作者)
+[9] Chen, J., Li, Y., Xiao, J., Ge, R., Ma, W.*, & Fan, X.* (2022, December). Msf-sleepnet: Multi-stream fusion network with contrastive learning for sleep stage classification. In 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1493-1496). IEEE. (通讯作者)
+[10] Li, Y., Chen, J., Ma, W.*, Zhao, G.*, & Fan, X.* (2022). MVF-sleepnet: Multi-view fusion network for sleep stage classification. IEEE Journal of Biomedical and Health Informatics. (通讯作者)
+[11] Fan, X., Wang, H., Zhao, Y.*, Huang, K. H., Wu, Y. T., Sun, T. L., & Tsui, K. L. (2022). Automatic fall risk assessment with Siamese network for stroke survivors using inertial sensor‐based signals. International journal of intelligent systems, 37(9), 6168-6184. (第一作者)
+[12] Li, Y., Shen, Y., Fan, X.*, Huang, X., Yu, H., Zhao, G., & Ma, W. (2022). A novel EEG-based major depressive disorder detection framework with two-stage feature selection. BMC Medical Informatics and Decision Making, 22(1), 209. (通讯作者)
+[13] Chen, X., Chen, Y., Ma, W., Fan, X.*, & Li, Y. (2022). Toward sleep apnea detection with lightweight multi-scaled fusion network. Knowledge-Based Systems, 247, 108783. (通讯作者)
+[14] Lin, H., Jian, C., Cao, Y., Ma, X., Wang, H., Miao, F., Fan, X.*, ...& Zhou, H. (2022). MDD-TSVM: A novel semisupervised-based method for major depressive disorder detection using electroencephalogram signals. Computers in biology and medicine, 140, 105039. (通讯作者)
+[15] Chen, X., Chen, Y., Ma, W., Fan, X.*, & Li, Y. (2021, December). SE-MSCNN: a lightweight multi-scaled fusion network for sleep apnea detection using single-lead ECG signals. In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1276-1280). IEEE. (通讯作者)
+[16] Fan, X., Wang, H., Xu, F., Zhao, Y., & Tsui, K. L. (2019). Homecare-oriented intelligent long-term monitoring of blood pressure using electrocardiogram signals. IEEE Transactions on Industrial Informatics, 16(11), 7150-7158. (第一作者)
+[17] Fan, X., Zhao, Y., Wang, H., & Tsui, K. L. (2019). Forecasting one-day-forward wellness conditions for community-dwelling elderly with single lead short electrocardiogram signals. BMC Medical Informatics and Decision Making, 19, 1-14. (第一作者)
+[18] Fan, X., Hu, Z., Wang, R., Yin, L., Li, Y., & Cai, Y. (2020). A novel hybrid network of fusing rhythmic and morphological features for atrial fibrillation detection on mobile ECG signals. Neural Computing and Applications, 32(12), 8101-8113. (第一作者)
+[19] Fan, X., Yao, Q., Cai, Y., Miao, F., Sun, F., & Li, Y. (2018). Multiscaled fusion of deep convolutional neural networks for screening atrial fibrillation from single lead short ECG recordings. IEEE journal of biomedical and health informatics, 22(6), 1744-1753. (第一作者)
+
+部分授权专利:
+[1] 李烨; 樊小毛; 何晨光; 杨玉洁; 家庭健康云服务平台V1.0, 2012SR132897, 原始取得, 全部权利, 2012-3-2 (软件著作权，授权中兴物联科技有限公司，授权费50万元)
+[2] 李烨; 樊小毛; 上官卫华; 苗芬; 健康笔记本检测分析软件V1.0, 2012SR132905, 原始取得, 全部权利, 2012-1-2 (软件著作权, 授权中国普天信息技术有限公司，授权费90万元)
+[3] 李烨; 樊小毛; 蔡云鹏; 姚启航; 杨玉洁; ECG信号の並行解析装置、方法及び移動端末, 2019-9-13, 日本, JP2017245039 (发明专利, 专利转让给株式会社日本健康研究所，转让费60万元)
+[4] 樊小毛; 赵淦森; 容积脉搏波信号处理方法、血压测量装置和存储介质, 2023-9-5, 中国, ZL 20201 1129244.1 (发明专利)
+[5] 樊小毛; 蓝连涛; 马文俊; 一种连续血压测量方法、系统、装置及存储介质, 2023-5-2, 中国, ZL2021 1 0495728.6 (发明专利)
+[6] 樊小毛; 黄杏贤; 蔡云鹏; 李烨; 辛宗贵; 于海波; 基于脑电数据的中医辨证分型系统, 2018-09-04, 中国, ZL201511033619.3 (发明专利)
+[7] Ye Li; Xiaomao Fan; Yunpeng Cai; Fen Miao; GPU-BASED PARALLEL ELECTROCARDIOGRAM SIGNAL ANALYSIS METHOD, COMPUTER READABLE STORAGE MEDIUM AND DEVICE, 2019-4-16, 美国, US010258250B2 (发明专利)
+
+部分科研奖励：
+[1] 面向穿戴式终端的低功耗设计与生命信息解析技术及应用, 深圳市技术发明二等奖, 2016.
+[2] 穿戴式健康信息连续监测与分析技术及系统, 广东省技术发明二等奖, 2018.
+[3] 基于时空大数据的网格化城市管理系统, 深圳市科技进步二等奖, 2018.
+
+上一篇：曹劲舟
+下一篇：卫易辰

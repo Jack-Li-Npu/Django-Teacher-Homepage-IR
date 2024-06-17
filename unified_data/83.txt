@@ -1,0 +1,33 @@
+于天舒
+助理教授
+教育背景
+亚利桑那州立大学博士
+卡尔加里大学硕士
+沈阳工业大学学士
+研究领域
+机器学习、组合问题优化、图学习和优化、循环神经网络、行列式点过程
+个人网站
+https://mypage.cuhk.edu.cn/academics/yutianshu/
+电子邮箱
+yutianshu@cuhk.edu.cn
+办公室
+综合楼B615
+个人简介
+于天舒博士现为香港中文大学（深圳）助理教授。于博士于2012年毕业于沈阳工业大学并取得学士学位。其后前往加拿大卡尔加里大学攻读地理信息工程专业并于2016年获得硕士学位。在此之前，他曾于2012至2014年间任飞利浦医疗算法工程师。于博士将于2021年从亚利桑那州立大学计算机科学专业毕业并取得博士学位。
+于博士主要研究兴趣涵盖多个机器学习和组合问题优化相关领域。他对利用机器学习解决传统组合问题，图学习和优化，以及在深度学习框架内寻求结构扩展特别感兴趣。循环神经网络，行列式点过程也是他开展的研究之一。于博士也是多个顶级会议（例如ICLR 2021, NIPS 2020, CVPR 2019-2021, ICCV 2019, ECCV 2020等）以及期刊（例如IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Pattern Recognition Letters等）的审稿人。
+学术著作
+1. Tianshu Yu*, Yikang Li*, Baoxin Li. RhyRNN: Rhythmic RNN for Recognizing Events in Long and Complex Videos. ECCV2020 (*equal contribution)
+2. Tianshu Yu, Junchi Yan, Baoxin Li. Determinant Regularization for Gradient-Efficient Graph Matching. CVPR2020
+3. Tianshu Yu, Runzhong Wang, Junchi Yan, Baoxin Li. Learning Deep Graph Matching via Channel-Independent Embedding and Hungarian Attention. ICLR2020
+4. Tianshu Yu, Yikang Li, Baoxin Li. Deep Learning of Determinantal Point Processes via Proper Spectral Sub-gradient. ICLR2020
+5. Tianshu Yu, Junchi Yan, Yilin Wang, Wei Liu, Baoxin Li. Generalizing graph matching beyond quadratic assignment model. NeurIPS2018
+6. Yikang Li*, Tianshu Yu*, Baoxin Li. Simultaneous event localization and recognition for surveillance video. AVSS2018 (*equal contribution)      
+7. Tianshu Yu, Junchi Yan, Wei Liu, Baoxin Li. Incremental multi-graph matching via diversity and randomness based graph clustering. ECCV2018
+8. Tianshu Yu, Junchi Yan, Jieyi Zhao, Baoxin Li. Joint cuts and matching of partitions in one graph. CVPR2018
+9. Zhiyuan Fang, Shu Kong, Tianshu Yu, Yezhou Yang. Weakly Supervised Attention Learning for Textual Phrases Grounding. CVPR2018 workshop
+10. Tianshu Yu, Ruisheng Wang. Enhancing scene parsing by transferring structures via efficient low-rank graph matching. ACM SIGSPATIAL2016
+11. Tianshu Yu, Ruisheng Wang. Graph matching with low-rank regularization. WACV2016
+12. Tianshu Yu, Ruisheng Wang. Scene parsing using graph matching on street-view data. CVIU 145:70-80, 2016
+13. Hong Shao, Shuang Chen, Jieyi Zhao, Wencheng Cui, Tianshu Yu. Face recognition based on subset selection via metric learning on manifold. FITEE 16:1046-1058, 2015
+14. Tianshu Yu*, Hong Shao*, Mengjia Xu, Wencheng Cui. Image region duplication detection based on circular window expansion and phase correlation. Forensic Science International 222:71-82, 2012 (*equal contribution)
+ 

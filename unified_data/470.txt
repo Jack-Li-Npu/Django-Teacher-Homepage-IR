@@ -1,0 +1,26 @@
+张红梅
+
+一、教育经历
+2000/09-2004/12 哈尔滨工业大学，导航制导与控制，博士
+1998/09-2000/07  哈尔滨工业大学，应用数学，硕士
+1992/09-1996/07  吉林大学，计算数学与应用软件，学士
+
+二、工作经历
+2019/10-至今   深圳技术大学，大数据与互联网学院，副教授
+2005/09-2019/10  哈尔滨工程大学，自动化学院，副教授
+1996/07-2005/09  东北林业大学，理学院，讲师
+
+三、主要研究领域
+最优估计、滤波、导航技术、声学信号处理
+
+四、主要成果及荣誉
+（1）张红梅，刘胜，孙明健. 最优状态估计理论及应用[M]. 哈尔滨工业大学出版社，2019；
+（2）张红梅，刘胜. 最优估计理论[M]. 科学出版社，2011；
+（3）Zhang Hongmei, Deng Zhenglong. A UKF-based Attitude Determination Method for Gyroless Satellite．Journal of Systems Engineering and Electronics [J]．2004, 15(2): 105-109；
+（4）Hongmei Zhang, Xiwei Sun, Mingjie Chen. Research on Linear Sparse Sonar Array for Targets Azimuth Bearing Estimation [C]. IEEE ICMA 2016. pp.122-127；
+（5）张红梅，刘胜. 基于压缩感知的无人水下航行器探测方法 (zl 2011 1 0170828.8) 2013.02.27。
+
+E-mail:zhanghongmei@sztu.edu.cn
+
+上一篇：蔡天星
+下一篇：张红平

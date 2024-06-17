@@ -1,0 +1,45 @@
+濮实
+助理教授
+教育背景
+博士（弗吉尼亚大学）
+学士（北京大学）
+研究领域
+分布式机器学习、大规模优化、多智能体网络
+个人网站
+https://pu-shi.github.io/
+电子邮箱
+pushi@cuhk.edu.cn
+办公室
+道远楼506b
+个人简介
+濮实博士现任香港中文大学（深圳）数据科学学院助理教授。在此之前, 曾任佛罗里达大学、亚利桑那州立大学和波士顿大学博士后研究员。2012年取得北京大学工学学士学位, 2016年取得弗吉尼亚大学系统工程博士学位。主要研究方向为分布式机器学习和大规模优化算法。2017年获弗吉尼亚大学Louis T. Rader杰出毕业生荣誉称号。以第一或通讯作者身份在Mathematical Programming、IEEE Transactions on Automatic Control、SIAM Journal on Control and Optimization、Operations Research等运筹优化和控制领域的权威期刊发表10余篇论文，其中一篇代表作入选ESI高被引论文。正在主持国家自然科学基金青年项目、深圳市优秀科技创新人才培养项目（优秀青年基础研究）等。入选2021年度广东省青年人才计划。2022年以来担任IEEE Control Systems Society会议编委。
+  学术著作
+Preprints
+Kun Huang*, Linli Zhou* and Shi Pu, Distributed Random Reshuffling Methods with Improved Convergence, submitted.
+Kun Huang*, Xiao Li and Shi Pu, Distributed Stochastic Optimization under a General Variance Condition, submitted.
+Kun Huang* and Shi Pu, CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence, submitted.
+Yiwei Liao*, Zhuorui Li and Shi Pu, A Linearly Convergent Robust Compressed Push-Pull Method for Decentralized Optimization, submitted.
+Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, Provably Accelerated Decentralized Gradient Method Over Unbalanced Directed Graphs, submitted.
+  Journal Papers
+Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, Optimal Gradient Tracking for Decentralized Optimization, Mathematical Programming, accepted.
+Kun Huang*, Xiao Li, Andre Milzarek, Shi Pu and Junwen Qiu, Distributed Random Reshuffling over Networks, IEEE Transactions on Signal Processing, accepted.
+Yijie Zhou* and Shi Pu, Private and Accurate Decentralized Optimization via Encrypted and Structured Functional Perturbation, IEEE Control Systems Letters, 7:1339 - 1344, 2023.
+Kun Huang* and Shi Pu, Improving the Transient Times for Distributed Stochastic Gradient Methods, IEEE Transactions on Automatic Control, accepted.
+Zhuoqing Song*, Lei Shi, Shi Pu and Ming Yan, Compressed Gradient Tracking for Decentralized Optimization over General Directed Networks, IEEE Transactions on Signal Processing, 70:1775 - 1787, 2022.
+Yiwei Liao*, Zhuorui Li*, Kun Huang* and Shi Pu, A Compressed Gradient Tracking Method for Decentralized Optimization with Linear Convergence, IEEE Transactions on Automatic Control, 67(10):5622-5629, 2022.
+Shi Pu, Alex Olshevsky and Ioannis Ch. Paschalidis, A Sharp Estimate on the Transient Time of Distributed Stochastic Gradient Descent, IEEE Transactions on Automatic Control, 67(11):5900-5915, 2022.
+Shi Pu and Angelia Nedić. Distributed Stochastic Gradient Tracking Methods. Mathematical Programming, 187(1):409-457, 2021. [arXiv]
+Shi Pu, Wei Shi (co-first), Jinming Xu and Angelia Nedić. Push-Pull Gradient Methods for Distributed Optimization in Networks. IEEE Transactions on Automatic Control, 66(1):1-16, 2021. [arXiv]
+Ran Xin, Shi Pu, Angelia Nedić and Usman Khan. A General Framework for Decentralized Optimization with First-order Methods. Proceedings of the IEEE, 108(11):1869-1889, 2020.
+Shi Pu, Alex Olshevsky and Ioannis Ch. Paschalidis, Asymptotic Network Independence in Distributed Stochastic Optimization for Machine Learning: Examining Distributed and Centralized Stochastic Gradient Descent. IEEE Signal Processing Magazine, 37(3):114-122, 2020. [arXiv].
+Shi Pu, J. Joaquin Escudero-Garzás, Alfredo Garcia and Shahin Shahrampour. An Online Mechanism for Resource Allocation in Networks. IEEE Transactions on Control of Network Systems, 7(3):1140-1150, 2020.
+Shi Pu and Alfredo Garcia. Swarming for Faster Convergence in Stochastic Optimization. SIAM Journal on Control and Optimization, 56(4):2997-3020, 2018. [arXiv]
+Shi Pu and Alfredo Garcia. A Flocking-based Approach for Distributed Stochastic Optimization. Operations Research, 66(1):267-281, 2018. [arXiv]
+Shi Pu, Alfredo Garcia and Zongli Lin. Noise Reduction by Swarming in Social Foraging. IEEE Transactions on Automatic Control, 61(12):4007-4013, 2016.
+  Book Chapter
+Alfredo Garcia, Bingyu Wang* and Shi Pu. Distributed Optimization. In: Pardalos, P.M., Prokopyev, O.A. (eds) Encyclopedia of Optimization. Springer, Cham.
+  Conference Papers
+Shi Pu, A Robust Gradient Tracking Method for Distributed Optimization over Directed Networks, 2020 IEEE 59th Conference on Decision and Control (CDC).
+Shi Pu and Angelia Nedić. A Distributed Stochastic Gradient Tracking Method. 2018 IEEE 57th Conference on Decision and Control (CDC).
+Shi Pu, Wei Shi, Jinming Xu and Angelia Nedić. A Push-Pull Gradient Method for Distributed Optimization in Networks. 2018 IEEE 57th Conference on Decision and Control (CDC).
+  *(co-)supervised student/postdoc

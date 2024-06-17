@@ -1,0 +1,43 @@
+个人简介
+顾崇林，博士，哈尔滨工业大学（深圳）计算机科学与技术学院，助理教授，硕士生导师。
+本科毕业于哈尔滨工程大学计算机科学与技术专业，硕士和博士毕业于哈尔滨工业大学（深圳）计算机科学与技术专业，并获得哈工大（深圳）百年校庆优秀博士论文（计算机学科仅8人）。
+2018年5月-2018年8月，深圳市大数据研究院，访问学生。
+2018年9月-2020年8月，香港中文大学（深圳），博士后。
+2020年9月-至今，哈尔滨工业大学（深圳），助理教授。
+研究方向：云计算，绿色数据中心调度。
+目前，已发表学术论文30余篇（包括云计算领域权威期刊IEEE Transactions on Cloud Computing、Future Generation Computing Systems，以及CCF推荐的ICC、ISCC、ICA3PP、IPCCC、ISPA等会议论文，并获得ISPA2016 Best Student Paper Award）。此外，已授权发明专利2项，出版英文专著章节1章。
+作为项目负责人，已获得基金资助3项，其中包括2019年中国博士后科学基金第65批面上一等资助（计算机学科一等资助人数/所有学科一等资助人数/获得资助总人数：6/285/3981）和2020年中国博士后科学基金第13批站中特别资助（计算机学科获得资助人数/所有学科获得资助总人数：15/768）。
+2023年招生（硕士生还剩2个名额，欢迎加入云计算研究小组）
+科研项目
+[1] 云数据中心服务器弹性伸缩建模与算法设计. 中国博士后科学基金第65批面上资助(一等), 2019M650148. (主持)
+[2] 云计算环境下服务器计算能力高可伸缩性关键技术研究. 广东省基础与应用基础研究基金项目(区域联合基金-青年基金项目), 2019A1515110214. (主持)
+[3] 面向弹性云的服务器实时调度研究. 中国博士后科学基金第13批站中特别资助, 2020T130633. (主持）
+专著章节
+[1] Chonglin Gu, Hejiao Huang, Xiaohua Jia. Chapter 2: Energy Management for Green Big Data Centers, Big Data Management and Processing [M], 2017: 17-44. Taylor & Francis Group, CRC Press. (ISBN: 978-1-4987-6807-8)
+发表论文
+期刊论文：
+[1] Chonglin Gu, Zhenlong Li, Hejiao Huang, Xiaohua Jia. Energy Efficient Scheduling of Servers with Multi-Sleep Modes for Cloud Data Center [J]. IEEE Transactions on Cloud Computing, 2020, 8(3):833-846. (SCI, IF=4.714, JCR Q1)
+[2] Chonglin Gu, Longxiang Fan, Wenbin Wu, Hejiao Huang, Xiaohua Jia. Greening Cloud Data Centers in An Economical Way by Energy Trading with The Power Grid [J]. Future Generation Computer Systems, 2018, 78(1): 89-101. (SCI, IF=6.125, JCR Q1)
+[3] Chonglin Gu, Shi Chen, Jiangtao Zhang, Hejiao Huang, Xiaohua Jia. Reservation Schemes for IaaS Cloud Broker: A Time-multiplexing Way for Different Rental Time [J]. Concurrency and Computation: Practice & Experience, 2017, 29(16): 1-11. (SCI， IF=1.447, JCR Q2)
+[4] Chonglin Gu, Hejiao Huang, Xiaohua Jia. Power Metering for Virtual Machine in Cloud Computing-Challenges and Opportunities [J]. IEEE Access, 2014, 2: 1106-1116. (Survey论文, SCI, IF=3.745, JCR Q1)
+
+会议论文：
+[1] Chonglin Gu, Wenye Li, Cong Shen, Shuguang Cui. GreenFlowing: A Green Way of Reducing Electricity Cost for Cloud Data Center Using Heterogeneous ESDs [C].//IEEE Symposium on Computers and Communications (ISCC), Barcelona, Spain, 2019. (CCF C, EI)
+[2] Changyi Ma, Chonglin Gu, Wenye Li, and Shuguang Cui, "Large scale Image Retrieval with Sparse Binary Projections," ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Xi'an, China, 2020. (CCF A, Short Paper, EI)
+[3] Chonglin Gu, Yi Chen, Wenye Li, Chunyan Liu. To Shift Tasks or To Shift Energy by ESDs? An Economical Scheduling for Cloud Data Center [C].//IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Xiamen, China, 2019. (CCF C, EI)
+[4] Sankui Sun, Chonglin Gu, Qian Wan, Hejiao Huang, Xiaohua Jia. CROTPN Based Collision-free and Deadlock-free Path Planning of AGVs in Logistic Center [C]. International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, 2018. (EI)
+[5] Qian Wan, Chonglin Gu, Sankui Sun, Mengxia Chen, Hejiao Huang, Xiaohua Jia. Lifelong Multi-Agent Path Finding in A Dynamic Environment[C]. International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, 2018. (EI)
+[6] Zhenyu Fan, Chonglin Gu, Xiao Yin, Chunyan Liu, Hejiao Huang. Time Window Based Path Planning of Multi-AGVs for Auto-Sorting in Logistics Center [C]. International Symposium on Computational Intelligence and Design (ISCID), Hangzhou, China, 2017. (EI)
+[7] Xiao Yin, Chonglin Gu, Zhenyu Fan, Hejiao Huang. Routing Optimization in Distribution of Cold Chain Logistics [C]. International Symposium on Computational Intelligence and Design (ISCID), Hangzhou, China, 2017. (EI)
+[8] Chonglin Gu, Hejiao Huang, Xiaohua Jia. Green Scheduling for Cloud Data Centers Using ESDs to Store Renewable Energy [C]. IEEE International Conference on Communications (ICC), Kuala Lumpur, , Malaysia. 2016. (CCF C, EI)
+[9] Chonglin Gu, Zhenlong Li, Chunyan Liu, Hejiao Huang. Planning for Green Cloud Data Centers Using Sustainable Energy [C]. IEEE Symposium on Computers and Communication (ISCC), Messina, Italy. 2016. (CCF C, EI)
+[10] Longxiang Fan, Chonglin Gu, Lining Qiao, Wenbin Wu, Hejiao Huang. GreenSleep: A Multi-sleep Modes Based Scheduling of Servers for Cloud Data Center [C]. The 3rd International Conference on Big Data Computing and Communications (BigCom), Chengdu, China, 2017. (EI)
+[11] Chonglin Gu, Ke Hu, Zhenlong Li, Qiang Yuan, Hejiao Huang, Xiaohua Jia. Lowering Down The Cost for Green Cloud Data Centers by Using ESDs and Energy Trading [C]. IEEE International Symposium on Parallel and Distributed Processing with Applications Conference (ISPA), Tianjin, China, 2016. (CCF C, EI)
+[12] Chongin Gu, Shuai Shi, Pengzhou Shi, Hejiao Huang, Xiaohua Jia. Towards VM Power Metering: A Decision Tree Method and Evaluations [C]. Algorithms and Architectures for Parallel Processing (ICA3PP), Springer, Zhangjiajie, China, 2015. (CCF C, EI)
+[13] Chongin Gu, Chunyan Liu, Jiangtao Zhang, Hejiao Huang, Xiaohua Jia. Green Scheduling for Cloud Data Centers using Renewable Resources [C]. IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Hong Kong, 2015. (CCF A WORKSHOP, EI)
+[14] Jiangtao Zhang, Zhixiang He, Hejiao Huang, Xuan Wang, Chonglin Gu, Lingmin Zhang. SLA Aware Cost Efficient Virtual Machines Placement in Cloud Computing [C]. IEEE Performance Computing and Communications Conference (IPCCC), Austin, USA, 2014. (CCF C, EI)
+发明专利
+[1] 顾崇林, 黄荷姣, 梁良. 能耗监控方法及装置. 授权号: CN105264457B, 2018.
+[2] 黄荷姣, 顾崇林, 梁良. 虚拟机能耗确定方法、物理机和网络系统. 授权号: CN106170744B, 2019.
+[3] 黄荷姣, 赵芥, 顾崇林, 闫德开, 孙在省, 周洪亮, 闫志平. 一种具有激励机制的条件身份匿名隐私保护公共审计方法. 授权号: CN112866990B.
+[4] 顾崇林, 马畅翼, 李文烨, 崔曙光. 一种数据稀疏投影算法、系统、电子装置及存储介质. 申请号: 202010644569.7. (实审中)

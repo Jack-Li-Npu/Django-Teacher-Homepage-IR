@@ -1,0 +1,15 @@
+江声（将在2024年秋季加入）
+助理教授
+教育背景
+杜克大学统计学博士
+研究领域
+贝叶斯统计、高斯过程、变分贝叶斯、海洋流式细胞术数据分析
+个人网站
+https://sites.google.com/view/shengjiang/
+个人简介
+江声是香港中文大学（深圳）数据科学学院的助理教授（终身轨）。他的研究兴趣是贝叶斯（非参数）方法的理论和应用，以识别数据内在的结构信息。他目前致力于研究变分贝叶斯方法的不确定性量化，以及贝叶斯分层专家模型对海洋浮游植物流式细胞术数据建模。他以前关于贝叶斯非参数方法和高斯过程先验的研究已经发表在AOS和JASA等顶级统计学期刊上。在加入香港中文大学（深圳）之前，他曾是加利福尼亚大学圣克鲁兹分校统计学系的访问助理教授，在杜克大学从事博士后研究（导师Surya Tokdar和Alexander Volfovsky），并在杜克大学获得统计学博士学位（导师Surya Tokdar）。
+学术著作
+1. Surya T Tokdar, Sheng Jiang, and Erika L Cunningham. (2024) Heavy-tailed density estimation. Journal of the American Statistical Association. 119 (545): 163-175
+2. Sheng Jiang, and Surya T Tokdar. (2021) Variable selection consistency of Gaussian process regression. The Annals of Statistics 49(5):2491–2505.
+3. Rachel M Coyte, Kristen L McKinley, Sheng Jiang, Jonathan Karr, Gary S Dwyer, Amy J Keyworth, Christina C Davis, Andrew J Kondash, and Avner Vengosh. (2020) Occurrence and distribution of hexavalent chromium in groundwater from North Carolina, USA.Science of the Total Environment, 711:135135.
+4. Yi Chen, Sheng Jiang, and Li-An Zhou. Estimating returns to education in urban China: Evidence from a natural experiment in schooling reform.Journal of Comparative Economics, 48(1):218–233.

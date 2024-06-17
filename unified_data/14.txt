@@ -1,0 +1,29 @@
+陈昕韫
+副教授
+教育背景
+哥伦比亚大学运筹学博士，2010-2014
+哥伦比亚大学运筹学硕士，2009-2010
+北京大学数学学士，2005-2009
+研究领域
+随机模拟、蒙特卡罗方法、排队论、强化学习
+个人网站
+https://myweb.cuhk.edu.cn/chenxinyun
+电子邮箱
+chenxinyun@cuhk.edu.cn
+办公室
+道远楼404
+个人简介
+陈昕韫教授于2014年取得哥伦比亚大学运筹学博士学位。毕业后先后任教于美国纽约州立大学石溪分校和武汉大学，2018年10月加入香港中文大学（深圳）。陈昕韫博士的主要研究领域为随机模拟、排队模型和强化学习，以及它们在医疗服务与通讯网络中的应用。在大规模随机排队网络的高效模拟算法和随机服务系统上的在线学习算法研究中取得多项开创性成果。她的研究工作多次发表在 Annals of Applied Probability、Mathematics of Operations Research、Operations Research 和 ICLR 等知名期刊和会议上。先后主持多项美国自然科学基金（NSF）项目、中国国家自然科学基金项目以及企业合作研究项目。
+学术著作
+ARTICLES IN JOURNALS
+1. Two-parameter Sample Path Large Deviations for Infinite Server Queues, with Jose Blanchet and Henry Lam (2014). Stochastic Systems 4:206-249 
+2. Steady-state simulation of reflected Brownian motion and related stochastic networks, with Jose Blanchet (2015). Annals of Applied Probability 25:3209-3250
+3. ε-Strong Simulation for Multidimensional Stochastic Differential Equations via Rough Path Analysis, with Jose Blanchet and Jing Dong (2017). Annals of Applied Probability 27: 275-336.
+4. Does the T+1 Rule Really Reduce Speculation? Evidence from Chinese Stock Index ETF， with Yan Liu and Tao Zeng (2018), Accounting and Finance 57:1287–1313.
+5. Many-server Gaussian limits for overloaded non-Markovian queues with customer abandonment, with A. Korhan Aras and Yunan Liu, Queueing Systems: Theory and Applications, forthcoming.
+6. Perfect Sampling for Generalized Jackson Networks, with Jose Blanchet, Mathematics of Operations Research, forthcoming.
+  CONFERENCE PROCEEDINGS
+1. Exact gradient simulation for stochastic fluid networks in steady state. Simulation Conference (WSC), 2014 Winter (Vol.2015, pp.586-594). IEEE. 
+ 2. Modeling inter-trade durations in the limit order market, with Jianzhao Yang, Zhicheng Li and Haipeng Xing. 2016 Symposium of the International Chinese Statistical Association Series: Springer Proceedings in Mathematics & Statistics, Vol. 57. Springer-Verlag, New York.
+3. Infinite-horizon off-policy policy evaluation with multiple behavior policies, with Lu Wang, Yizhe Hang, Heng Ge and Hongyuan Zha. Accepted to ICLR 2020.
+ 

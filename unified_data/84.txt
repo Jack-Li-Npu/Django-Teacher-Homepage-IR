@@ -1,0 +1,36 @@
+于天维
+教授
+副院长（学生事务）
+院务办公室主任（代）
+教育背景
+博士（加利福尼亚大学洛杉矶分校）
+硕士（清华大学，加利福尼亚大学洛杉矶分校）
+学士（清华大学）
+研究领域
+生物信息学、统计学、机器学习
+个人网站
+https://mypage.cuhk.edu.cn/academics/yutianwei/
+电子邮箱
+yutianwei@cuhk.edu.cn
+办公室
+道远楼408
+个人简介
+于天维教授现任香港中文大学（深圳）数据科学学院副院长及教授一职。于教授于1997年毕业于清华大学生物系，2000年获得清华大学生物化学与分子生物学硕士学位，2004年获得加利福尼亚大学洛杉矶分校生物化学与分子生物学硕士学位，并于2005年获得加利福尼亚大学洛杉矶分校的统计学博士学位。在加入香港中文大学（深圳）之前，于天维教授为埃默里（Emory）大学生物统计学和生物信息学系终身教授。 于天维教授的研究重点集中于生物信息学，统计学与机器学习；其研究兴趣也包括代谢组学，药物基因组学和系统生物学的应用。在他的合作研究中，他致力于环境卫生、病毒学/疫苗学，营养学和癌症研究。
+于天维教授现任Biology和Scientific Reports编委。曾任Frotiers in Genetics (Bioinformatics section) 和 Current Metabolomics and Systems Biology编委。他曾于2021年获教育部高等学校科学研究优秀成果（科学技术）二等奖（参与），指导的学生曾获得 David P. Byar Young Investigator Travel Award和ENAR Distinguished Student Paper Award。
+学术著作
+代表性学术著作
+1. Cai Q*, Fu Y*, Lyu C*, Wang Z, Rao S, Alvarez JA, Bai Y, Kang J#, Yu T#. (2024) A New Framework for Exploratory Network Mediator Analysis in Omics Data. Genome Research. (Accepted)
+2. Ma G, Kang J#, Yu T#. (2024) Bayesian Functional Analysis for Untargeted Metabolomics Data with Matching Uncertainty and Small Sample Sizes. Briefings in Bioinformatics. 25(3), bbae141.
+3. Tian L, Yu T (2023) An integrated deep learning framework for the interpretation of untargeted metabolomics data. Briefings in Bioinformatics. 24(4):bbad244.
+4. Yu T. (2022) AIME: Autoencoder-based integrative multi-omics data embedding that allows for confounder adjustments. PLoS Computational Biology. 18(1):e1009826.
+5. Jin Z, Kang J#, Yu T#. (2022) Feature Selection and Classification over the network with Missing Node Observations. Statistics in Medicine. 41(7):1242-1262.
+6. Tian L, Li Z, Ma G, Zhang X, Tang Z, Wang S, Kang J, Liang D#, Yu T#. (2022) Metapone: a Bioconductor package for joint pathway testing for untargeted metabolomics data. Bioinformatics.38(14):3662-3664.
+7. Kong Y, Yu T (2020) forgeNet: a graph deep neural network model using tree-based ensemble classifiers for feature graph construction. Bioinformatics. 36(11):3507-3515.
+8. Fei T, Yu T (2020) scBatch: Batch Effect Correction of RNA-seq Data through Sample Distance Matrix Adjustment. Bioinformatics. 36(10):3115-3123.
+9. Kong Y, Yu T (2019) A hypergraph-based method for large-scale dynamic correlation study at the transcriptomic scale. BMC Genomics. 20:397.
+10. Yu T (2018) A new dynamic correlation algorithm reveals novel functional aspects in single cell and bulk RNA-seq Data. PLoS Computational Biology. 14(8):e1006391.
+11. Kong Y, Yu T (2018) A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data. Bioinformatics. 34(21):3727-3737.
+12. Yu T (2018) Nonlinear variable selection with continuous outcome: a fully nonparametric incremental forward stagewise approach. Statistical Analysis and Data Mining. 11(4):188-197.
+13. Fei T, Zhang T, Shi W#, Yu T# (2018) Mitigating the adverse impact of batch effects in sample pattern detection. Bioinformatics. 34, 2634-2641.
+14. Jin Z, Kang J#, Yu T# (2018) Missing value imputation for LC-MS metabolomics data by incorporating metabolic network and adduct ion relations. Bioinformatics. 34(9):1555-1561.
+15. Liao P, Wu H#, Yu T# (2017) ROC Curve Analysis in the Presence of Imperfect Reference Standards. Statistics in Biosciences, 9(1):91-104.

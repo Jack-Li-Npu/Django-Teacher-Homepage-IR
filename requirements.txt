@@ -1,0 +1,7 @@
+Django==3.2.25
+numpy==1.21.2
+requests==2.28.1
+jieba==0.42.1
+nltk==3.6.3
+selenium==3.141.0
+pypinyin==0.42.0

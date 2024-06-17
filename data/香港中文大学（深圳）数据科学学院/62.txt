@@ -1,0 +1,21 @@
+施家晟
+助理教授
+教育背景
+香港中文大学统计学博士
+浙江大学学士
+研究领域
+传染病学模型、医疗电子病历、分布式统计理论、Meta分析、高维统计推断、自正则极限理论、概率与统计模型中的极限理论
+个人网站
+http://Jiasheng-Shi.github.io
+电子邮箱
+shijiasheng@cuhk.edu.cn
+办公室
+Room 417d, Daoyuan Building
+个人简介
+施家晟现任香港中文大学（深圳）数据科学学院助理教授。在此之前，他于香港中文大学获得统计学博士学位，并在宾夕法尼亚大学生物统计系及费城儿童医院Policy La做博士后研究。他曾在一些统计学顶级期刊，如Annals of Statistics上发表文章。
+学术著作
+A. Journal articles
+1. “Refined Cramer Type Moderate Deviation Theorems for General Self normalized Sums with Applications to Dependent Random Variables and Winsorized Mean". Annals of Statistics, 2022, 50(2), 673-697, with Lan Gao, Qi-Man Shao.
+2. “Distributed Proportional Likelihood Ratio Model with Application to Data Integration Across Clinical Sites". Annals of Applied Statistics, to appear in 2023. Chongliang Luo, Rui Duan, Jiasheng Shi, Mackenzie Edmondson, Mitchell Maltenfort, Jeffrey S. Morris, Christopher Forrest, Rebecca Hubbard and Yong Chen.
+3. “The Effectiveness of Government Masking Mandates on SARS-CoV-2 County level Case Incidence Across the United States". Health Affairs, 2022, 41(3), 445-453. Jing Huang, Brian T.Fisher, Vicky Tam, Zi Wang, Lihai Song, Jiasheng Shi, Xi Wang, Jeffrey S. Morris, Susan E. Coffn, David Rubin.
+4. “Missing data matter: an empirical evaluation of the impacts of missing EHR data in comparative effectiveness research”. Journal of the American Medical Informatics Association, 2023, ocad066. Yizhao Zhou, Jiasheng Shi, Ronen Stein, Xiaokang Liu, Robert N Baldassano, Christopher B Forrest, Yong Chen, Jing Huang.

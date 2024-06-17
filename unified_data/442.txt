@@ -1,0 +1,66 @@
+中   |   EN
+教师主页
+团队成员
+科研项目
+学术成果
+新闻动态
+加入我们
+唐博
+Google Scholar
+ResearcherID
+助理教授
+计算机科学与工程系
+唐博曾在微软亚洲研究院（MSRA）和荷兰国家数学与计算机科学研究院（CWI）担任访问研究员，在2017年加入南科大后，创立了南科大数据库课题组。课题组研究成果一贯发表于数据工程与数据管理顶尖国际会议和期刊上（如SIGMOD,PVLDB,SIGIR,TKDE等），研发技术广泛应用于Microsoft Power BI产品和开源列式存储数据库Monet DB系统中，目前主持国家自然科学基金，广东省自然科学基金和深圳市基础研究自由探索项目各一项。唐博入选2019年海德堡获奖者论坛（Heidelberg Laureate Forum）和全球数学与计算机领域年轻研究者一同受邀与图灵奖、阿贝尔奖、奈望林纳奖和菲尔兹奖等数学与计算机领域国际顶级奖项获奖者在德国海德堡进行为期一周的研讨。
+个人简介
+研究领域
+我的研究兴趣在数据管理领域（如高维数据的相似性搜索、多维数据集的数据探索技术）。我特别注重提高查询时间效率和查询结果准确性。我做研究是因为我真的很喜欢研究。尤其是，我想做顶尖的研究工作，这将对我们的生活产生影响。
+教学
+在2017年创立南方科技大学算法设计竞赛队并担任竞赛教练，在2018年指导竞赛队为我校取得国际大学生程序设计竞赛亚洲区域赛金牌零突破，截至目前竞赛队累计取得亚洲区，国家级、省级金银铜奖36项、108人次。此外唐博主持广东省教学质量工程一项，还担任2015级、2017级树礼书院计算机学生班主任，指导数据课题组多名本科生在CCF-A类会议上（PVLDB,SIGIR,ICDE）发表科研论文，数据库课题组多名本科生获得十佳毕业生和优秀毕业生等荣誉，唐博于2019年获评南方科技大学优秀教学奖。
+学术成果
+查看更多
+唐博教授研究成果一贯发表于数据工程与数据管理顶尖国际会议和期刊上（如SIGMOD,PVLDB,SIGIR,TKDE等)
+[1] Bo Tang, Kyriakos Mouratidis, Mingji Han.
+On m-Impact Regions and Standing Top-k Influence Problems .
+Proceedings of the ACM Conference on Management of Data (SIGMOD), Xi’an, Shannxi, China, June 2021.
+[2] Kyriakos Mouratidis, Keming Li, Bo Tang.
+Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size.
+Proceedings of the ACM Conference on Management of Data (SIGMOD), Xi’an, Shannxi, China, June 2021.
+[3] Bo Tang, Kyriakos Mouratidis, Man Lung Yiu.
+Determining the Impact Regions of Competing Options in Preference Space.
+Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017.
+[4] Bo Tang, Shi Han, Man Lung Yiu, Rui Ding, Dongmei Zhang.
+Extracting Top-K Insights from Multi-dimensional Data.
+Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017.
+[5] Bo Tang, Kyriakos Mouratidis, Man Lung Yiu, Zhenyu Chen.
+Creating Top Ranking Options in the Continuous Option and Preference Space.
+45th International Conference on Very Large Data Bases (PVLDB), Los Angeles, California, USA, August 2019.
+[6] Kyriakos Mouratidis, Bo Tang.
+Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings.
+44th International Conference on Very Large Data Bases (PVLDB), Rio de Janeiro, RJ, Brazil, August 2018.
+[7] Jiahao Zhang*, Man Lung Yiu, Bo Tang, Qing Li.
+Fast Error-Bounded Distance Distribution Computation .
+IEEE Transactions on Knowledge and Data Engineering (TKDE) , to appear, 2021.
+[8] Bo Tang, Man Lung Yiu, Kien A Hua.
+Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search.
+IEEE Transactions on Knowledge and Data Engineering(TKDE), pages 1175-1188, 2016.
+  新闻动态
+更多新闻
+南科大举行2019年教师节表彰大会
+2019-09-09
+南科大2019届毕业典礼 | 本科毕业生代表曾歆勋发言
+2019-06-28
+南方科技大学首届程序设计竞赛成功举办
+2018-12-29
+团队成员
+查看更多
+加入团队
+We always welcome brillant people to join our group. However, I have limited PhD and Master quota per year. If you want to join my research group (DBGroup@SUSTech), please fill this form and drop an email to me as soon as possible. Until now, the next positions of DBGroup members include CMU, Yale, UCSD, Gatech, UNSW, HKUST, NUS, HKPolyU, Univ. of Tokyo (academic), Tencent (industry).
+  查看更多
+联系我们
+联系地址
+深圳市南山区学苑大道1001号工学院南楼
+办公电话
+Please E-mail
+电子邮箱
+tangb3@sustech.edu.cn
+Copyright © 2018 All Rights Reserved.

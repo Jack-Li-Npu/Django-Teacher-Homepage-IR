@@ -1,0 +1,226 @@
+ 团队成员
+ 南科大智能交通中心
+ 开源项目主页(GitHub)
+ hao.q@sustech.edu.cn
+
+教育背景
+工作经历
+主要学术业绩
+教授课程
+荣誉奖项
+主持或参加项目情况
+科研类
+教育类
+发表论文及个人著作
+发表期刊论文
+发表会议文章
+编写著作
+郝祁
+南方科技大学，计算机科学与工程系，教授，系副主任，斯发基斯可信自主系统研究院执行院长、无人驾驶中心主任、研究员, 深圳市机器人视觉与导航重点实验室副主任, 南科大海梁智能交通中心执行主任，南科大风向标智能网联汽车教育联合实验室主任,南科大计算机系昆易无人驾驶智能仿真测试联合实验室主任
+教育背景
+2001.09 — 2006.05 美国杜克大学，电子与计算机工程，博士
+1994.09 — 1997.04 上海交通大学，电机工程，硕士
+1990.09 — 1994.07 上海交通大学，电机工程，学士
+工作经历
+2023.12 — 至今 南方科技大学，计算机科学与工程系，教授
+2014.05 — 2023.11 南方科技大学，计算机科学与工程系，副教授
+2007.08 — 2014.05 美国阿拉巴马大学，电子与计算机工程系，助理教授
+2006.07 — 2007.07 美国肯塔基大学, 虚拟环境与可视化中心, 博士后
+1998.08 — 2001.08 新加坡国立数据研究所，助研
+1997.05 — 1998.06 上海电动工具研究所, 工程师
+主要学术业绩
+郝祁博士是南方科大计算机科学与工程系教授、系副主任。研究领域包括：智能感知、机器学习与无人自主系统。于2006年在美国杜克大学获得计算机工程博士学位，于美国肯塔基大学虚拟环境与可视化中心进行博士后研究。曾在美国阿拉巴马大学电子与计算机工程系担任助理教授, 主持两项、共同主持一项美国国家科学基金项目。加入南科大后，主持一项国家自然科学基金重点合作项目、一项国家自然科学基金面上项目（已结题），参与一项国家自然科学基金重点项目（已结题），共同主持深圳市机器人视觉与导航重点实验室，主持深圳市可信自主系统研究院无人驾驶中心，深圳南山区领航团队、南科大海梁智能交通中心、南科大工学院人工智能无人驾驶公共科研平台、南科大风向标智能网联汽车教育联合实验室、Intel自动驾驶数据集项目、南科大计算机系昆易无人驾驶智能仿真测试联合实验室、华为2012实验室无人驾驶仿真测试项目与安全驾驶决策项目，以及多项深圳科创委重点基础研究、中外合作、创客平台项目和省市级教改项目。曾多次担任过美国国家科学基金会(NSF)、美国能源部先进科研项目(DOE ARPA-E)、国自然基金、科技部评委，已经发表了50篇SCI学术论文、71篇EI学术论文，获批20项国家专利，以及合作编写专著一本。
+教授课程
+《机器学习》- CS405 Fall 2020
+《智能机器人》- CS401 Spring 2018
+荣誉奖项
+IEEE智能系统多传感器融合与整合会议“最佳论文”入围奖，2012年
+IEEE传感器会议“最佳学生论文”（指导教授），2013年
+IEEE智能系统多传感器融合与整合会议“最佳论文”入围奖，2016年
+IEEE 智能系统多传感器融合与整合会议“最佳论文”入围奖，2016年
+IEEE传感器会议“最佳学生论文”第三名（指导教授），2018年
+IEEE通信会议“最佳论文”，2020年
+IEEE 应用并行和分布式处理会议“最佳论文”，2021年
+深圳市海外高层次人才，2017年
+深圳市先进教育工作者，2017年
+广东省南粤优秀教师，2021年
+国家工信部”绽放杯“– 5G应用公共安全全国一等奖, 2022年
+深圳市科技进步奖二等奖, 2023年
+深圳市南山区领航人才，2023年
+校内荣誉:
+（1）2017-2021年南科大优秀书院导师奖
+（2）2017年南科大青年教学竞赛二等奖
+（3）2017年南科大杰出服务奖
+（4）2018年南科大杰出科研奖
+（5）2015-2023年南科大招生先进个人
+（6）2017年南科大海外招生荣誉奖
+（7）2019年南方科技大学优秀服务奖
+（8）2021年南科大国际招生杰出贡献奖
+（9）2021年南科大名师中学讲座天问奖
+（10）2022年教育部-企业“智能基座”栋梁之师
+主持或参加项目情况
+科研类
+美国阿拉巴马大学科研启动基金, “Intelligent Wireless Sensor Networks,” 2007~2008, 主持
+美国阿拉巴马大学科研基金委员会, “无线人体行为热传感器测试平台，” 2009~2011, 主持
+美国国家科学基金, “Intelligent Compressive Multi-Walker Recognition and Tracking (iSMART) through Pyroelectric Sensor Networks,” 2009-2013年, 主持
+美国国家科学基金, “A Building-Block Approach to Tele-healthcare Engineering Education,” 2010~2014年, 共同主持
+美国国家科学基金, “Cognitive Sensing Research Infrastructure for Distributed Behavioral Biometrics,” 2011~2015年, 主持
+美国东南电气教育发展基金, “A Geometric Approach to Human Behavioral Information Acquisition,” 2011~2012年, 主持
+南方科技大学科研启动基金, “用于研究个人及群体活动和行为特征的一体化、可穿戴、可移动、分布式无线传感器网络系统,” 2014~2019年, 主持
+南方科技大学基础研究基金, “智能无人机关键技术研究”、“智能无人飞行器网络研究”与“无人机智能云台与高精度传感器研究,” 2014~2016年, 主持
+南方科技大学校级共享实验平台, “全球定位系统与惯性传感器测试、校准、设计以及系统集成平台,”主持
+深圳市基础研究计划, “面向智能人体行为特征辨识的分布式二进制感知技术研究,” 主持
+深圳市创客服务平台, “南科大智能感知与虚拟现实创客服务平台, ” 2016~2018, 主持
+国家自然科学基金与深圳市机器人联合基金项目, U1613206, “辅助老年行走的内穿型柔性助力外骨骼,” 2017~2020, 参与
+深圳市中外联合研究项目, “南科大-杜克大学面向下一代智能机器人相机阵列技术联合研究,” 2017~2019, 主持
+国家自然科学基金面上项目, “面向多目标定位、动作捕捉与行为分析的智能二进制感知技术研究,” 2017~2020, 主持
+深圳市南山区领航团队, “下一代智能超高清相机阵列系统研究及产业化,” 2018~2022, 主持
+横向经费, 深圳市海梁科技有限公司, “南方科技大学海梁智能交通研究中心,” 2018~2020, 主持
+横向经费, 英特尔智能网联汽车大学合作研究中心, “Development of Open Datasets for Autonomous Transportation with Smart Samples and Multi-agent Benchmarks,” 2019~2021, 主持
+横向经费，南科大企业可信化人工智能联合实验室, 2020~2022, 子项目主持
+南科大工学院人工智能与无人驾驶创新平台, 2019-2021, 主持
+深圳国家自然科学基金机器人基础研究中心, “机器人关键基础零部件及基础软件核心技术分析研究”, 2019年, 参与
+横向经费，深圳市风向标教育资源科技有限公司, “南科大计算机系风向标智能网联汽车国际工程教育联合实验室,” 2020~2022, 主持
+深圳市基础研究重点项目，“自主无人驾驶数据集与仿真平台一体化关键技术研究,” 2020~2023, 主持
+企业2012研究院，“自动驾驶虚拟仿真技术,” 2021-2026, 主持
+深圳市科创委，“深圳市可信自主研究院（图灵奖实验室）无人驾驶中心,” 2021~2025, 主持
+深圳市科创委，深圳市机器人视觉与导航重点实验室 (筹), 2022-2026, 共同主持
+广东省科技厅公益研究与能力建设学科类省重点实验室建设，广东省类脑智能计算重点实验室，2020-2022，参与
+深圳市基础研究重点项目，“汽车智能感知系统研究,” 2023-2025, 共同主持
+国自然基金重点合作项目，“可信自主无人驾驶仿真与测试关键技术研究，” 2023-2025，主持
+横向经费, 昆易电子科技(上海)有限公司, “南科大计算机系昆易无人驾驶智能仿真测试联合实验室,” 2023~2028, 主持
+教育类
+广东省教育厅，广东省高等教育教学研究和改革项目，“机器学习与智能机器人一体化教学改革与探索,” 2017~2019，主持
+深圳市教育局，深圳市教育科学规划，“大学智能机器人教学与创客实践一体化教学探索,” 2018~2020，主持
+南科大工学院，新工科教学创新项目，“人工智能背景下移动机器人的新工科教学探索与实践,” 2019~2020，主持
+南科大工学院，工学院本科人才培养改革与创新项目，“基于ABET标准的人工智能与机器人线上线下一体化教学的探索与实践,” 2020~2021，主持
+教育部高等教育司，产学合作协同育人项目，“面向新工科教育的智能网联汽车实践基地,” 2021~2022，主持
+南方科技大学专项人才培养计划，“立足湾区产学结合面向国际：南方科技大学图灵班人才培养探索与实践,”2021-2023，主持
+发表论文及个人著作
+发表期刊论文
+[51] H. Li, R. Han, Z. Zhao, W. Xu, Q. Hao, S. Wang, C. Xu，“Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving，” IEEE Robotics and Automation Letters, 2024.
+[50] D. Li, B. Liu, Z. Huang, Q. Hao, K. Pei, D. Zhao, B. Tian, “Safe motion planning forautonomous vehicles by quantifying uncertainties of deep learning-enabledenvironmentperception,”IEEE Trans. on Intelligent Vehicles, 2023. (correspondence author)
+[49] W. Lan, D. Li, Q. Hao, D. Zhao, and B. Tian “Implicit scene context-aware interactive trajectory prediction for autonomous driving,” IEEE Transactions on Intelligent Vehicles, 2023. (correspondence author)
+[48] S. Wang, R. Gao, R. Han, Q. Hao, “3DSF-MixNet: Mixer-based symmetric scene flow estimation from 3d point clouds,” IEEE Robotics and Automation Letters, vol. 9, no. 1, pp. 611 - 618. 2024.
+[47] S. Wang, R. Gao, R. Han, J. Chen, Z. Zhao, Z. Lyu, Q. Hao, “Active scene flow estimation for autonomous driving via real-time scene prediction and optimal decision,” IEEE Transactions on Intelligent Transportation Systems, 2023, In press.
+[46] G. Lan, Q. Lai, B. Bai, Z. Zhao, Q. Hao, “A virtual reality training system for automotive engines assembly and disassembly,” IEEE Transactions on Learning Technologies, 2023, In press.
+[45] G. Lan, Y. Wu, Q. Lai, Q. Hao, “DIR-BHRNet: A lightweight network for real-time vision-based multi-person pose estimation on smartphones,” IEEE Transactions on Industrial Informatics, 2023, In press.
+[44] R. Han, S. Wang, S. Wang, Z. Zhang, Q. Zhang, Y. C. Eldar, Q. Hao, and J. Pan, “RDA: An accelerated collision-free motion planner for autonomous navigation in cluttered environments,” IEEE Robotics and Automation Letters, vol. 8, pp. 1715 - 1722, Feb. 2023.（correspondence author）(Q1, Cited 0)
+[43] S. Wang, C. Li, D. W. K. Ng, Y. C. Eldar, H. V. Poor, Q. Hao, and C. Xu, “Federated deep learning meets autonomous vehicle perception: Design and verification,” IEEE Magazine on Network, pp. 1 – 10, Dec. 2022. (correspondence author)(Q1, Cited 0)
+[42] G. Lan, Y. Wu, F. Hu, Q. Hao, “Vision-based Human Pose Estimation via Deep Learning: A Survey, ” IEEE Transactions on Human-Machine Systems, 2022. (accepted)(correspondence author)
+[41] R. Han, S. Chen, S. Wang, Z. Zhang, R. Gao, Q. Hao, J. Pan, “Reinforcement learned distributed multi-robot navigation with reciprocal velocity obstacle shaped rewards,” IEEE Robotics and Automation Letters, vol.7, no.3, pp. 5896-5903, Mar. 2022. (correspondence author)
+[40] X. Zheng, R. Ma, R. Gao, Q. Hao, “Phase-SLAM: Phase based simultaneous localization and mapping for mobile structured light illumination systems,” IEEE Robotics and Automation Letters, vol.7, no.3, pp. 6203-6210, Mar. 2022. (correspondence author)
+[39] S. Wang, R. Han, Y. Hong, Q. Hao, M. Wen, L. Musavian, S. Mumtaz, and D. W. K. Ng,” Robotic wireless energy transfer in dynamic environments: system design and experimental validation,” IEEE Communication Magazine, vol.60, no.3, pp. 40-46, Mar. 2022.
+[38] S. Wang, Y. Hong, R. Wang, Q. Hao, Y. Wu, D. W. K. Ng, “Edge Federated Learning Via Unit-Modulus Over-The-Air Computation,” IEEE Transactions on Communications, Feb. 2022. (correspondence author)
+[37] S. Zhang, L. Zhao, S. Huang, Q. Hao, Menglong Ye, “A template-based 3D reconstruction of colon structures and textures from stereo colonoscopic images,” IEEE Transactions on Medical Robotics and Bionics, vol. 3, no. 1, pp. 85 – 95, Dec. 2020.（Correspondence author）
+[36] L. Zhou, Y. Hong, S. Wang, R. Han, D. Li, R. Wang, and Q. Hao, “Learning centric wireless resource allocation for edge computing: algorithm and experiment,” IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 1035 – 1040, Dec. 2020. (Q1, Cited 2)
+[35] S. Wang, M. Wen, M. Xia, R. Wang, Q. Hao, Y. Wu, “Angle aware user cooperation for secure massive MIMO in Rician fading channel,” IEEE Journal on Selected Areas in Communications, vol. 38, no. 9, pp. 2182 – 2196, Jun. 2020. (Q1, Cited 2)
+[34] R. Ma, G. Lan, Q. Hao, “Enabling cognitive pyroelectric infrared sensing: from reconfigurable signal conditioning to sensor mask design,” IEEE Transactions on Industrial Informatics, vol. 16, no. 7, Jul, 2020, pp. 4436 – 4446, Sep. 2019. (Q1, Cited 20) (Correspondence author)
+[33] S. Wang, F. Jiang, R. Ma, and Q. Hao, “Development of UAV based target tracking and recognition systems,” IEEE Transactions on Intelligent Transportation Systems, vol. 21, no. 8, pp. 3409 – 3422, Jun. 2020. (Q1, Cited 3) (Correspondence author)
+[32] F. Navan, Y. Shi, C. Lim, Q. Hao, C. Tan, “Feature selection based on brain storm optimization for data classification,” Applied Soft Computing Journal, vol. 80, pp. 761-775, Jul. 2019.（Q1, Cited 20）
+[31] F. Jiang, F. Navan, Q. Hao, “Design, implementation and evaluation of a neural network based quadcopter UAV system,” IEEE Transactions on Industrial Electronics, vol. 67, no. 3, pp. 2076 – 2085, Mar. 2019. (Q1, Cited 9) (Correspondence Author)
+[30] F. Navan, C. Lim, Q. Hao, “A reinforced fuzzy ARTMAP model for data classification,” International Journal of Machine Learning and Cybernetics, pp. 1–13, Jun., 2018. (Q1, Cited 14)(Correspondence author)
+[29] Q. Miao, F. Hu, Q. Hao, “Deep learning for intelligent wireless networks: a comprehensive survey,” IEEE Communications Surveys & Tutorials, vol. 20, no. 4, pp. 2595 – 2621, Jun. 2018. (Q1, Cited 196) (Correspondence author)
+[28] R. Ma, Q. Hao, X. Hu, and C. Wang, “Space coding schemes for multiple human localization with Fiber-optic sensors,” IEEE Sensors Journal, vol. 12, no. 8, pp. 4643 – 4653, Mar. 2018. (Q2, Cited 2) (Correspondence author)
+[27] J. Lu, T. Zhang, Q. Sun, F. Hao, and Q. Hao, “Binary compressive tracking,” IEEE Transactions on Aerospace and Electronic Systems, vol. 53, no. 4, pp.1755 – 1768, Aug. 2017. (Q2, Cited 9)
+[26] R. Ma, F. Hu, and Q. Hao, “Active compressive sensing via pyroelectric infrared sensor for human situation recognition,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 47, no. 12, 3340 – 3350, Dec. 2017. (Q1, Cited 23)
+[25] F. Hu, and Q. Hao, “Cyber-physical system with virtual reality for intelligent motion recognition and training,” IEEE Transactions Systems, Man, and Cyber: Systems, vol. 47, no. 2, pp. 347-363, Feb. 2017. (Q1, Cited 26)
+[24] J. Lu, T. Zhang, Fei Hu, and Q. Hao, “Preprocessing design in pyroelectric infrared sensor-based human-tracking system: on sensor selection and calibration,” IEEE Transactions Systems, Man, and Cyber.：Systems, vol. 47, no.2, pp. 263-275, Feb. 2017. (Q1, Cited 31)
+[23] F. Hu, Y. Lu, A. V. Vasilakos, Q. Hao, R. Ma, Y. Patil, T. Zhang, J. Lu, X. Li, N. N. Xiong, “Robust cyber-physical systems: concept, models, and implementation,” Future Generation Computer Systems, vol. 16, no. 4, pp. 449-475, Mar. 2016. (Q1, Cited 132)
+[22] B. Zan, F. Hu, K. Bo, and Q. Hao, “Dual-resolution friend locator system with privacy enhancement through polygon decomposition,” IEEE Trans. Vehicular Technol, vol. 65, no. 2, pp. 837-847, Feb. 2016. (Q1, Cited 2)
+[21] F. Hu, Q. Hao, and K. Bo, “A survey on software defined networking (SDN) and openflow: from concept to implementation,” IEEE communications Surveys and Tutorials, vol. 16, no. 4, pp. 2181-2206, Nov. 2014. (Q1, Cited 602)
+[20] Q. Sun, F. Hu, and Q. Hao, “Human movement modeling and activity perception based on fiber-optic sensing system,” IEEE Transactions Human-Machine Systems, vol. 44, no. 6, pp. 743-754, Dec. 2014. (Q2, Cited 19)
+[19] Q. Sun, F. Hu, and Q. Hao, “Mobile targets scenario recognition via low-cost pyroelectric sensing system: towards a context-enhanced accurate identification,” IEEE Transactions on Systems, Man, and Cybernetics, vol. 44, no. 3, pp. 375-384, Mar. 2014. (Q1, Cited 49)
+[18] Y. Wang, K. Liu, Q. Hao, D. L. Lau, and L. G. Hassebrook, “Robust active stereo vision using Kullback-Leibler divergence,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 34, no. 3, pp. 548-563, Mar. 2012. (Q1, Cited 65)
+[17] Y. Wang, K. Liu, Q. Hao, D. L. Lau, and L. G.Hassebrook, “Period coded phase shifting strategy for real–time 3-D structured light illumination,” IEEE Transactions on Image Processing, vol. 20, no. 11, pp. 3001-3013, Nov. 2011. (Q1, Cited 66)
+[16] F. Hu, Q. Hao, M.Lukowiak, Q. Sun, K. Wilhelm, S. Radziszowski, and Y. Wu, “Trustworthy data collection from implantable medical devices via high-speed security implementation based on IEEE1363,” IEEE Transactions on Information Technology in Biomedicine, vol.14, no. 6, pp. 1397-1404, Nov. 2010. (Q1, Cited 26) (Correspondence author)
+[15] K. Liu, Y. Wang, D. L. Lau, Q. Hao, and L. G. Hassebrook, “Maximum SNR pattern strategy for phase shifting methods in structured light illumination,” Journal of the Optical Society of America A, vol. 27, no. 9, pp. 1962-1971, Sept. 2010. (Q3, Cited 44)
+[14] Y. Wang, Q. Hao, A. Fatehpuria, L. G. Hassebrook, and D. L. Lau, “Quality and matching performance analysis of three-dimensional unraveled fingerprints,” Optical Engineering, vol. 49, no. 7, pp. 077202(1-10), Jul. 2010. (Q3, Cited 5)
+[13] K. Liu, Y. Wang, D. L. Lau, Q. Hao, and L. G. Hassebrook, “Dual-frequency pattern scheme for high-speed 3-D shape measurement,” Optics Express, vol. 18, no. 5, pp. 5229-5244, Mar. 2010. (Q1, Cited 277)
+[12] K. Liu, Y.Wang, D. L. Lau, Q. Hao, and L. G. Hassebrook, “Gamma model and its analysis for phase measuring profilometry,” Journal of the Optical Society of America A, vol. 27, no. 3, pp. 553-562, Feb. 2010. (Q3, Cited 156)
+[11] Q.Hao, F. Hu, and Y. Xiao, “Multiple human tracking and identification with wireless distributed pyroelectric sensor systems,” IEEE Systems Journal, vol. 3, no. 4, pp. 428-439, Dec. 2009. (Q1, Cited 143)
+[10] F. Hu, S. Lakdawala, Q. Hao, and M. Qiu, “Low-power, intelligent sensor hardware interface for medical data pre-processing,” IEEE Transactions on Information Technology in Biomedicine, vol. 13, no. 4, pp. 656-663, Jul. 2009. (Q1, Cited 26)
+[9] F. Hu, Y. Xiao, and Q. Hao, “Congestion-aware, loss-resilient bio-monitoring sensor networking for mobile health applications,” IEEE Journal on Selected Areas in Communications, vol. 27, no. 4, pp. 450-465, May 2009. (Q1, Cited 107)
+[8] J.-S. Fang, Q. Hao, D. J. Brady, B. D. Guenther, and K. Y. Hsu, “A pyroelectric infrared biometric system for real-time walker recognition by use of a maximum likelihood principal components estimation (MLPCE) method,” Optics Express, vol. 15, no. 6, pp. 3271-3284, Mar. 2007. (Correspondence author)(Q1, Cited 49)
+[7] Q. Hao, D. J. Brady, B. D. Guenther, J. Burchett, M. Shankar, and S. Feller, “Human tracking with wireless distributed pyroelectric sensors,” IEEE Sensors Journal, vol. 6, no. 6, pp. 1683-1696, Dec. 2006. (Q2, Cited 200)
+[6] J.-S. Fang, Q. Hao, D. J. Brady, B. D. Guenther, and K. Y. Hsu, “Real-time human identification using a pyroelectric infrared detector array and hidden Markov models,” Optics Express, vol. 14, no. 15, pp. 6643-6658, Jul. 2006.(Q2, Cited 86)
+[5] J.-S. Fang, Q. Hao, D. J. Brady, M. Shankar, B. D. Guenther, N. P. Pitsianis, and K. Y. Hsu, “Path-dependent human identification using a pyroelectric infrared sensor and Fresnel lens arrays,” Optics Express, vol. 14, no. 2, pp. 609-624, Jan. 2006. (Q1, Cited 104)
+[4] M. Shankar, J. Burchett, Q. Hao, B. D. Guenther, and D. J. Brady, “Human-tracking systems using pyroelectric infrared detectors,” Optical Engineering, no. 45, vol. 10, pp. 106401(1-10), Dec. 2006. (Q3, Cited 147)
+[3] Q. Hao, R. Cheng, G. Guo, S. Chen, and T.-S. Low, “A gradient based track-following controller optimization for hard disk drive,”IEEE Transactions on Industrial Electronics, vol. 50, no. 1, pp. 108-115, Feb. 2003. (Q1, Cited 11)
+[2] G. Guo, Q. Hao, and T.-S. Low, “A dual-stage control design for high track per inch hard disk drives,” IEEE Transactions on Magnetics, vol. 37, no. 2, Mar., pp. 860-865, Feb. 2001. (Q3, Cited 50)
+[1] Q. Hao, “A genetic algorithm with tabu list and sharing scheme for optimal design of electrical machines,” Electrical Machines and Power Systems, vol. 27, pp. 543-552, May 1999. (Q4, Cited 6)
+发表会议文章
+[71] S. Zhang, L. Zhao, S. Huang, H. Wang, L. Qi, and Q. Hao,”SLAM-TKA: Real-time intra-operative measurement of tibial resection plane in conventional total knee arthroplasty,” In Proc. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2022), Singapore, September 2022.
+[70] S. Wang, R. Gao, R. Han, S. Chen, C. Li, and Q. Hao,“Adaptive environment modeling based reinforcement learning for collision avoidance in complex scenes,” in Proc. in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, October 2022.
+[69] M. Xu, L. Zhao, S. Huang, Q. Hao, “Active SLAM in 3D deformable environments,” in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, October 2022. (Corresponding author)
+[68] C. Li, D. Parker, and Q. Hao, “A Value-based dynamic learning approach for vehicle dispatch in ride-sharing,” in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022), Kyoto, Japan, Oct 2022. (Correspondence author)
+[67] S. Chen, Y. Sun, D. Li, Q. Wang, Q. Hao and J. Sifakis,”Runtime safety assurance for learning-enabled control of autonomous driving vehicles,” in Proc. IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA, USA, May 2022. (Correspondence author)
+[66] G. Ding, M. Zhang, E. Li, and Q. Hao, “JST: Joint self-training for unsupervised domain adaptation on 2D&3D object detection,” in Proc. IEEE International Conference on Robotics and Automation (ICRA 2022), Philadelphia, PA, USA, May 2022. (Correspondence author)
+[65] S. Chen, R. Han, L. Zhao, S. Hang, Q. Hao, “Multi-robot feature-based slam using submap joining,” in Proc. Australasian Conference on Robotics and Automation (ACRA 2021), Dec. 2021.
+[64] L. Ding, D. Li, B. Liu, W. Lan, B. Bai, Q. Hao, W. Cao and K. Pei, “Capture uncertainties in deep neural networks for safe operation of autonomous driving vehicles,” in Proc. IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA 2021), New York, NY, USA, Oct. 2021. (best paper) (Correspondence author)
+[63] R. Ma and Q. Hao, “CS-Fnet: A Compressive sampling frequency neural network for simultaneous image compression and recognition,” in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2021), Karlsruhe, GER, Nov. 2021. (Correspondence author)
+[62] R. Ma, Y. Ding, and Q. Hao, “Compressive detection for camera array images,” in Proc IEEE Conference on Sensors, Sydney, SYD, AUS, Oct. 2021. (Corresponding author)
+[61] K. Huang and Q. Hao, “Joint multi-object detection and tracking with camera-LiDAR Fusion for autonomous driving,” in Proc. IEEE International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Oct 2021. (Correspondence author)
+[60] X. Zheng, R. Gao, R. Ma, and Q. Hao, “Phase-SLAM: mobile structured light illumination for full body 3D scanning,” in Proc. IEEE International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Oct 2021. (Correspondence author)
+[59] C. Li, D. Parker, and Q. Hao, “Vehicle dispatch in on-demand ride-sharing with stochastic travel time,” in Proc. IEEE International Conference on Intelligent Robots and Systems (IROS 2021), Prague, Oct 2021. (Correspondence author)
+[58] M. Xu, Y. Song, Y. Chen, S. Huang, and Q. Hao, “Invariant EKF based 2D active slam with exploration task,” in Proc. IEEE International Conference on Robotics and Automation (ICRA 2021), Xi’an, May 2021.
+[57] S. Zhang, L. Zhao, S. Huang, R. Ma, B. Hu, Q. Hao, “3D Reconstruction of deformable colon structures based on preoperative model and deep neural network”, in Proc. IEEE International Conference on Robotics and Automation (ICRA 2021), Xi’an, May 2021. (Correspondence author)
+[56] Z. Zhang, S. Wang, Y. Hong, L. Zhou, and Q. Hao, “ Distributed dynamic map fusion via federated learning for intelligent networked vehicles, “ in Proc. IEEE International Conference on Robotics and Automation (ICRA 2021), Xi’an, May 2021. (Correspondence author)
+[55] C. Li, D. Parker, and Q. Hao, “Optimal online dispatching for high-capacity shared autonomous mobility-on-demand systems,” in Proc. IEEE International Conference on Robotics and Automation (ICRA 2021) , Xian, May 2021. (Correspondence author)
+[54] R. Han, S. Chen, Q. Hao, “A distributed range-only collision avoidance approach for low-cost large-scale multi-robot systems,” in Proc. International Conference on Intelligent Robots and Systems (IROS 2020), Nov. 2020.（Correspondence author）
+[53] S. Wang, R. Wang, Q. Hao, Y. Wu, H. Poor, “Learning centric power allocation for edge intelligence,” in Proc. IEEE International Conference on Communications (ICC 2020), Jun. 2020. (best paper) (Cited 7)
+[52] D. Li, Y. Wu, B. Bai, Q. Hao, “Behavior and interaction-aware motion planning for autonomous driving vehicles based on hierarchical intention and motion prediction,” in Proc. IEEE Intelligent Transportation Systems Conference (ITSC 2020), Jun. 2020. (Correspondence author)
+[51] E Li, S. Wang, C. Li, D. Li, X. Wu, Q. Hao, “SUSTech POINTS: a portable 3d point cloud interactive annotation platform system,” in Proc. IEEE Intelligent Vehicles Symposium (IV), Feb. 2020. (Correspondence author)
+[50] Y. Sun, D. Li, X. Wu and Q. Hao, “Visual perception based situation analysis of traffic scenes for autonomous driving applications,” in Proc. IEEE Intelligent Transportation Systems Conference (ITSC 2020), May. 2020. (Correspondence author)
+[49] R. Han, S. Chen, Q. Hao, “Cooperative multi-robot navigation in dynamic environment with deep reinforcement learning,” in Proc. IEEE International Conference on Robotics and Automation (ICRA 2020), Paris, France, Jan. 2020. (Correspondence author)
+[48] F. Han, D. Li, Q. Hao, “Autonomous driving framework for bus transit systems towards operation safety and robustness,” in Proc. IEEE Intelligent Transportation Systems Conference (ITSC 2019), Auckland, Nov. 2019. (Correspondence author)
+[47] H. Xu, G. Lan, S. Wu, Q. Hao, “Online intelligent calibration of cameras and LiDARs for autonomous driving systems,” in Proc. IEEE Intelligent Transportation Systems Conference (ITSC 2019), Auckland, Oct. 2019. (Cited 1)
+[46] F. Jiang and Q. Hao, “Pavilion: bridging photo-realism and robotics,” in Proc. IEEE International Conference on Robotics and Automation (ICRA 2019), Montreal, QC, May, 2019. (Cited 1) (Correspondence author)
+[45] G. Liu, R. Ma, Q. Hao, “A reinforcement learning based design of compressive sensing systems for human activity recognition,” in Proc. IEEE Conference on Sensors, New Delhi, Oct. 2018 (best student paper 3rd prize). (Correspondence author)
+[44] S. Zhang, R. Han, W. Huang, S. Wang, Q. Hao, “Linear Bayesian filter based low-cost UWB systems for indoor mobile robot localization,” in Proc. IEEE Conference on Sensors, New Delhi, Oct. 2018. (Cited 1) (Correspondence author)
+[43] F. Navan, B. Zhang, R. Ma, Q. Hao, “Anomaly detection and condition monitoring of UAV motors and propellers”, in Proc. IEEE Conference on Sensors, New Delhi, Oct. 2018. (Cited 4) (Correspondence author)
+[42] F. Navan, B. Zhang, R. Ma, Q. Hao, “Non-intrusive human motion recognition using distributed sparse sensors and the genetic algorithm based neural network”, in Proc. IEEE Conference on Sensors, New Delhi, Oct. 2018. (Cited 10) (Correspondence author)
+[41] R. Ma, G. Liu, Q. Hao, and C. Wang ,”Design of compressive imaging masks for human activity perception based on binary convolutional neural network”, in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2017), Daegu, Nov. 2017. (Cited 10) (Correspondence author)
+[40] Z. Luo, S. Wang, Q. Hao, and Z. Li, “Autonomous 3D modeling for robot arm based scanning,” in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2017), Daegu, Nov. 2017. (Cited 1) (Correspondence author)
+[39] S. Zhang, S. Wang, C. Li, G. Liu, and Q. Hao, “An integrated UAV navigation system based on geo-registered 3D point cloud,” in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2017), Daegu, Nov. 2017. (Cited 1) (Correspondence author)
+[38] R. Ma, Q. Hao, and C. Wang, “Smart microphone array design for speech enhancement in financial VR and AR,” in Proc. IEEE Conference on Sensors, Glasgow, Nov. 2017. (Cited 1) (Correspondence author)
+[37] G. Lan, J. Liang, and Q. Hao, “Development of a smart floor for target localization with bayesian binary sensing,” in Proc. IEEE Conference on Advanced Information Networking and Applications (AINA 2017), Taipei, Mar.2017. (Cited 4) (Correspondence author)
+[36] G. Liu, J. Liang, G. Lan, Q. Hao, “Convolution neutral network enhanced binary sensor network for human activity recognition,” in Proc. IEEE Conference on Sensors, Orlando, Nov. 2016. (Cited 11) (Correspondence author)
+[35] G. Lan, Z. Luo, and Q. Hao, “Development of a virtual reality teleconference system using distributed depth sensors,” in Proc. IEEE Conference on Computer and Communications (ICC 2016), Chengdu, Oct. 2016. (Cited 7) (Correspondence author)
+[34] T. Xiang, F. Jiang, J. Sun, G. Liu, G. Lan, Q. Hao, and C. Wang, “UAV based target tracking and recognition,” in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2016), Baden-Baden, Nov. 2016 (Finalist for the best paper). (Cited 7) (Correspondence author)
+[33] T. Xiang, F. Jiang, Q. Hao, and C. Wang, “Adaptive flight control for quadrotor UAVs with dynamic inversion and neural networks,” in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2016), Baden-Baden, Nov. 2016 (Finalist for the best paper). (Cited 5) (Correspondence author)
+[32] G. Lan, J. Sun, C. Li, Z. Ou, Z. Luo, J. Liang, and Q. Hao, “Development of UAV based virtual reality systems,” in Proc. IEEE Conference on Multi-Sensor Fusion and Integration (MFI 2016), Baden-Baden, Nov. 2016. (Cited 5) (Correspondence author)
+[31] G. Lan, Y. Bu, J. Liang, and Q. Hao, “Action synchronization between human and UAV robotic arms for remote operation,” in Proc. IEEE Conference on Mechatronics and Automation (ICMA 2016), Harbin, Sept. 2016. (Cited 5) (Correspondence author)
+[30] G. Lan, Q. Hao, X. Hu, “A Bayesian approach for target localization with binary sensor networks,” in Proc. International Symposium on Computational Intelligence and Design (ISCID 2015), Hangzhou, Nov. 2015. (Cited 6) (Correspondence author)
+[29] Q. Hao, “Binary sensing and perception for human behavior study,” in Proc. IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP 2015), Chengdu, Jul. 2015.
+[28] R. Ma, Q. Hao, and X. Li, “Active sensing of indoor human scenarios through mobile pyroelectric infrared sensors,” in Proc. IEEE Conference on Sensors, Baltimore, MD, Oct. 2013. (Cited 2) (Correspondence author)
+[27] J. Lu, J. Gong, Q. Hao, and F. Hu, “Multi-agent based wireless pyroelectric infrared sensor networks for multi-human tracking and self-calibration,” in Proc. IEEE Conference on Sensors, Baltimore, MD, Oct. 2013 (best student paper). (Cited 16) (Correspondence author)
+[26] R. Ma and Q. Hao, “A wireless laser sensor web for human gait disorder recognition based on the Buon’s needle model,” in Proc. IEEE Conference on Sensors, Baltimore, MD, Oct. 2013. (Cited 1) (Correspondence author)
+[25] Q. Sun, R. Ma, Q. Hao, and F. Hu, “Space encoding based human activity modeling and situation perception,” in Proc. IEEE Conference on Cognitive Methods in Situation Awareness and Decision Support, pp. 186-189, San Diego, CA, Mar. 2013 (CogSIMA). (Cited 9) (Correspondence author)
+[24] Q. Hao “Cognitive sensing for distributed behavioral biometrics,” in Proc. IEEE Conference on Cognitive Methods in Situation Awareness and Decision Support, pp. 101-104, San Diego, CA, Mar. 2013. (Cited 9) (Correspondence author)
+[23] Q. Hao, “An integral and differential geometric approach to behavioral information acquisition and integration via binary sensor networks,” in Proc. IEEE Conference on Sensors (CogSIMA 2012), pp. 834-837, Taipei, Oct. 2012. (Cited 9) (Correspondence author)
+[22] J. Gong, L. Zhao, Q. Hao, F. Hu, and X. Hong, “A reconfigurable hardware platform for cognitive sensor networks towards behavioral biometrics,” in Proc. IEEE Conference on Sensors, pp. 838-841, Taipei, Oct. 2012, (Cited 4) (Correspondence author)
+[21] R. Ma and Q. Hao, “Buffon’s needle model based walker recognition with distributed binary sensor networks,” in Proc. IEEE Conference on Multiple Sensor Fusion and Integration (MFI 2012), pp. 120-125, Hamburg, Sep. 2012, (Cited 14) (Correspondence author)
+[20] J. Lu, J. Gong, Q. Hao, and F. Hu，”Space encoding based compressive multiple human tracking with distributed binary pyroelectric infrared sensor networks,” in Proc. IEEE Conference on Multiple Sensor Fusion and Integration (MFI 2012), Sep. 2012, pp. 180-185 (Finalist of the best paper). (Cited 32) (Correspondence author)
+[19] T. Yue, Q. Hao, and D. Brady, “Distributed binary geometric sensor arrays for low-data-throughput human gait biometrics,” in Proc. IEEE Workshop on Sensor Array Multichannel Signal Processing (SAM 2012), pp. 465-468, Hoboken, NJ, June, 2012. (Cited 10) (Correspondence author)
+[18] F. Hu, Q. Hao, and D. McCallum, “Multi-dimensional tele-healthcare engineering undergraduate education via Building-Block-based medical sensor labs,” in Proc. Annual Conference and Exposition, Conference Proceedings (ASEE 2011), June, 2011.
+[17] K. Vu, R. Zheng, and Q. Hao, “Multi-target tracking in distributed active sensor networks,” in Proc. IEEE Military Communications Conference (MILCOM 2010), pp. 1044-1049, San Jose, CA, Nov. 2010. (Cited 10)
+[16] Q. Hao and F. Hu, “A design of compressive EEG sensors,” in Proc. IEEE Conference on Sensors, Nov. 2010, pp. 318-322.
+[15] Q. Hao, F. Hu, and J. Lu, “Distributed multiple human tracking with wireless binary pyroelectric (PIR) sensor networks,” in Proc. IEEE Conference on Sensors, pp. 946-950, Kona, HI, Nov. 2010. (Cited 39)
+[14] F. Hu, Q. Sun, and Q. Hao, “Mobile targets region-of-interest via distributed pyroelectric sensor network: towards a robust, real-time context reasoning,” in Proc. IEEE Conference on Sensor, pp. 1832-1836, Kona, HI, Nov. 2010. (Cited 14)
+[13] X, Zhou, Q. Hao, and F. Hu, “1-bit walker recognition with distributed binary pyroelectric sensors,” in Proc. IEEE Conference on Multiple Sensor Fusion and Integration (MFI 2010), pp. 156-161, Salt Lake City, UT, Sept. 2010. (Cited 14) (Correspondence author)
+[12] Q. Sun, F. Hu, and Q. Hao, “Context awareness emergence for distributed binary pyroelectric sensors,” in Proc. IEEE Conference on Multiple Sensor Fusion and Integration (MFI 2010), pp. 150-155, Salt Lake City, UT, Sept. 2010. (Cited 27)
+[11] F. Hu, Y. Wu, and Q. Hao, “Primate-teaming-inspired mobile sensor network topology auto-formation modeling,” in Proc. the 1st International Conference on Sensor Networks and Their Applications (SNA), pp. 142-147, San Francisco, California.
+[10] Y. Wang, Q. Hao, A. Fatehpuria, L. G. Hassebrook, and D. L. Lau, “Data acquisition and quality analysis of 3-dimensional ngerprints,” in Proc. the 1st IEEE Conference on Biometrics (SNA 2009), Identity, and Security, pp. 1-9, Tampa, FL, Sep. 2009. (Cited 30)
+[9] C. Li, Q. Hao, W. Guo, and F. Hu, “A hybrid approach for compressive neural activity detection with functional MR images,” in Proc. the 31th IEEE Conference on Engineering in Medicine and Biology Society (EMBC), pp. 4787-4790, Minneapolis, MN. (Cited 4)
+[8] F. Hu, Q. Hao, M. Qiu and Y. Wu, “Low-power electroencephalography sensing data RF transmission: hardware architecture and test,” in Proc. The 1st ACM International Workshop on Medical-grade Wireless Networks (WiMD 2009), pp. 57–62, New Orleans Louisiana, April 2009. (Cited 7)
+[7] N. Li and Q. Hao, “Multiple human tracking with wireless distributed pyroelectric sensors,” in Proc. SPIE Defense and Security, pp. 694033(1-12), Orlando, Florida, Mar. 2008. (Cited 14) (Correspondence author)
+[6] N. Li and Q. Hao, “Multiple walker recognition with wireless distributed pyroelectric sensors,” in Proc. SPIE Defense and Security, pp. 694034(1-12), Orlando, Florida, Mar. 2008. (Cited 5) (Correspondence author)
+[5] Y. Wang, K. Liu, Q. Hao, D. L. Lau, and L. G. Hasserbrook, “Multicamera phase measuring profilometry for accurate depth measurement,” in Proc. SPIE Sensors and Systems for Space Applications, pp. 655509(1-12), Orlando, Florida, May. 2007. (Cited 22)
+[4] Q. Hao and etc., “A self-tuning robust control for sampled-data HDD servo systems,” in Proc American Contr. Conference, pp. 3843-3848, Arlington, VA, June. 2001. (Cited 4)
+[3] G. Guo, Q. Hao, and T.-S. Low, “Access system requirement for high track per inch hard disk drives,” in Proc. Asia-Pacic Magn. Recording Conference, TA1/1-TA1/2, Tokyo, Nov. 2000. (Cited 7)
+[2] Q. Hao and etc., “An optimal multirate control design with robustness specication for sampled-data HDD servo systems,” in Proc. the 39th IEEE Conference on Decision and Control (CDC 2000), pp. 3100-3105, Sydney, NSW, Dec. 2000. (Cited 7)
+[1] Q. Hao and etc., “TMR online optimization using quasi-newton method for HDD servo systems,” in Proc. American Contr. Conference, pp. 3412-3416, Chicago, IL, June 2000. (Cited 7)
+编写著作
+[1] F. Hu and Q. Hao (Editors), “Intelligent sensor networks: the integration of sensor networks, signal processing and machine learning,” CRC Press, 2012.
+Copyright © 2017-2022 haoqi

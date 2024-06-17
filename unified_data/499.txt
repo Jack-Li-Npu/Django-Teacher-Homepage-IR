@@ -1,0 +1,27 @@
+曹志强
+
+一、教育经历
+2015/09-2019/05香港科技大学，统计学，PhD in Mathematics
+2012/09-2015/06北京师范大学，概率论与数理统计，理学硕士
+2008/09-2012/06重庆大学，统计学（金融与精算方向），理学学士
+
+二、工作经历
+2020/10-至今 深圳技术大学大数据与互联网学院，助理教授
+2019/06-2020/09 华为技术有限公司算法与技术开发部，高级工程师
+
+三、主要研究领域
+生物医学统计，测量误差模型，时间序列分析，统计学习
+
+四、主要成果及荣誉
+（1）Zhiqiang Cao, Man-Yu Wong. Approximate maximum likelihood estimation for logistic model with covariate measurement error [J]. Biometrical Journal, 2021, 63(1), 27-45.
+（2）Zhiqiang Cao, L.L.Hui, Man-Yu Wong. New approaches to obtaining individual peak height velocity and age at peak height velocity from the SITARmodel [J].Computer Methods and Programs in Biomedicine,2018, 163,79-85.
+（3）Hui Li, Zhiqiang Cao, Guosheng Yin. Varying-association copula models for multivariate survival data [J]. Canadian Journal of Statistics, 2018, 46(4), 556-576.
+（4）曹志强，王杨，李卫. 半参数与非参数可加风险模型对于达菲和中药治疗
+H1N1 流感效果的比较[J]. 中国卫生统计, 2015, 32(1):22-25.
+（5）深圳市孔雀计划C类人才，2020.03
+
+E-mail:caozhiqiang@sztu.edu.cn
+
+
+上一篇：柯笑
+下一篇：王洪

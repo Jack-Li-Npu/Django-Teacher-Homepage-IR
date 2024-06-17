@@ -1,0 +1,70 @@
+罗智泉
+校长学勤讲座教授
+香港中文大学（深圳）副校长（学术）
+教育背景
+博士（麻省理工学院）
+学士（北京大学）
+研究领域
+大数据分析的最优化方法、信号处理中的算法设计与复杂性分析、数据通信
+电子邮箱
+pengyanni@cuhk.edu.cn
+办公室
+行政楼620
+个人简介
+
+罗智泉教授是中国工程院外籍院士、加拿大皇家科学院院士、香港中文大学（深圳）副校长、深圳市大数据研究院院长、香港中文大学（深圳）—深圳市大数据研究院—华为未来网络系统优化创新实验室主任、广东省大数据计算基础理论与方法重点实验室主任。他于1984年获北京大学数学系学士学位，1989年获美国麻省理工学院电子工程与计算机科学系运筹学博士学位。他是SIAM 会士和IEEE 会士以及IEEE信号处理期刊主编（2012-2014）。
+罗智泉教授的学术成果包括无线通信的收发机优化设计、最优鲁棒波束成形设计、动态频谱管理等，相关论文分别获得2004年、2009年、2011年和2015年IEEE信号处理学会、2011年国际通信大会、欧洲信号处理学会以及2020年世界华人数学家联盟最佳论文奖；因在优化理论方面的杰出贡献，2010年被美国运筹和管理科学协会授予Farkas奖，2018年被国际数学优化学会授予Tseng纪念奖，2022年被中国工业与应用数学学会授予第一届王选应用数学奖。
+2020年，挑战网络效能最大化的难题，他首次提出了数据驱动的现实网络统计模拟技术，研究建立了大规模4/5G异构网络参数最优化模型，突破了求解超大规模混合整数优化模型的算法瓶颈，从无到有建立了网络性能的数学模型和算法框架；2021年6月被认证为CSIAM应用数学落地成果；2021年9月，研究成果入围2021年世界计算大会计算创新与数字赋能专题展。2021年，他入选全球计算机研究领域的领先门户网站Guide2Research全球前1000位计算机科学和电子领域顶级科学家榜单。
+  工作经历
+2018-现在  香港中文大学（深圳）-腾讯 AI LAB 机器智能联合实验室 主任
+2015-现在  深圳市大数据研究院 院长
+2014-现在  香港中文大学（深圳） 副校长（学术）， 校长讲席教授
+2003-2014  美国明尼苏达大学电子与计算机工程系 教授 （2014起离职）
+2003-2013  美国明尼苏达大学电子与计算机工程系 ADC讲席教授 Digital Technology
+2001-2004  加拿大麦克马斯特大学电子与计算机工程系 加拿大国家科研讲席教授
+2000-2003  加拿大麦克马斯特大学电子与计算机工程系 系主任
+1998-2005  加拿大麦克马斯特大学电子与计算机工程系 正教授
+1992-2003  加拿大麦克马斯特大计算机与软件工程系 联系成员
+1993-1998  加拿大麦克马斯特大学电子与计算机工程系 终身副教授
+1989-1993  加拿大麦克马斯特大学电子与计算机工程系 预备终身助理教授
+  研究团队
+罗智泉教授研究团队研究经费充足，是国内大数据分析，机器学习的优势学术团队，不仅与政府部门和科研院所联系紧密，和腾讯，华为，京东等公司均有良好的合作。欢迎对大数据分析的最优化方法，数字信号和数据通信以及机器学习有兴趣的同学加入。
+在读博士:
+张佳伟，梁豪，箫建聪，任舒仪，张天建，刘晔，陈淙靓，李英儒，李凯，李颖，孟庆晏，刘良琦，张雨舜
+联系人：
+彭燕妮（行政）：pengyanni@cuhk.edu.cn
+舒娆（学术）：shurao@cuhk.edu.cn
+李奕瑶（科研）：yiyaoli@cuhk.edu.cn
+    学术著作
+部分学术著作：
+F. Yin, L. Pan, T. Chen, S. Theodoridis, Zhi-Quan Luo and A. M. Zoubir, "Linear Multiple Low-Rank Kernel Based Stationary Gaussian Processes Regression for Time Series," in IEEE Transactions on Signal Processing, vol. 68, pp. 5260-5275, 2020.
+Mingyi Hong, Tsung-Hui Chang, Xiangfeng Wang, Meisam Razaviyayn, Shiqian Ma, Zhi-Quan Luo, “A block successive upper bound minimization method of multipliers for linearly constrained convex optimization”, MATHEMATICS OF OPERATIONS RESEARCH, Vol. 68, pp. 2244–2255, June. 2020
+Y. Huang, S. A. Vorobyov and Z. Luo, "Quadratic Matrix Inequality Approach to Robust Adaptive Beamforming for General-Rank Signal Model," in IEEE Transactions on Signal Processing, vol. 68, pp. 2244-2255, Jan. 2020
+Y. Yang, M. Pesavento, Z. Luo and B. Ottersten, "Inexact Block Coordinate Descent Algorithms for Nonsmooth Nonconvex Optimization," in IEEE Transactions on Signal Processing, vol. 68, pp. 947-961, Dec. 2019
+Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye, “On the Efficiency of Random Permutation for ADMM and Coordinate Descent”, MATHEMATICS OF OPERATIONS RESEARCH, Vol. 45, pp. 233–271, Nov. 2019.
+Nicholas Moehle, Xinyue Shen, Zhi-Quan Luo, Stephen Boyd , “A Distributed Method for Optimal Capacity Reservation”, Journal of Optimization Theory and Applications, Vol. 182, pp. 1130–1149, September 2019.
+Z. Lin, W. Pu and Z. Luo, "Minimax Design of Constant Modulus MIMO Waveforms for Active Sensing," in IEEE Signal Processing Letters, vol. 26, no. 10, pp. 1531-1535, Oct. 2019.
+Meisam Razaviyayn, Mingyi Hong, Navid Reyhanian, Zhi-Quan Luo, “A linearly convergent doubly stochastic Gauss–Seidel algorithm for solving linear equations and a certain class of over-parameterized optimization problems”, Mathematical Programming, Vol. 176, pp. 465–496, July 2019.
+W. Liu, R. Sun and Zhi-Quan Luo, " Globally Optimal Joint Uplink Base Station Association and Beamforming," in IEEE Transactions on Communications, May.2, 2019.
+A. Aubry, A. De Maio, A. Zappone, M. Razaviyayn and Z. Luo, "A New Sequential Optimization Procedure and Its Applications to Resource Allocation for Wireless Systems," in IEEE Transactions on Signal Processing, vol. 66, no. 24, pp. 6518-6533, 15 Dec.15, 2018.
+F. Shang, J. Cheng, Y. Liu, Z. Luo and Z. Lin, "Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, no. 9, pp. 2066-2080, 1 Sept. 2018.
+Ghasem MIRJALILY and Z. Luo, " Optimal Network Function Virtualization and Service Function Chaining: A Survey." Chinese Journal of Electronics, vol. 27, Issue 4, pp. 704 – 717, July 2018.
+W. Liao, M. Hong, H. Farmanbar and Z. Luo, "A Distributed Semiasynchronous Algorithm for Network Traffic Engineering." IEEE Transactions on Signal and Information Processing over Networks, vol. 4, no. 3, pp. 436-450, Sept. 2018.
+Wenqiang Pu, Ya Feng Liu, Junkun Yan, Hongwei Liu, Zhi-Quan Luo, “Optimal estimation of sensor biases for asynchronous multi-sensor data fusion”, Mathematical Programming, Vol. 170, pp. 357–386, July 2018.
+Wenqiang Pu, Jinjun Xiao, Tao Zhang, Zhi-Quan Luo, “An optimization model for electroencephalography-assisted binaural beamforming”, The Journal of the Acoustical Society of America, vol. 143, issue 3, pp. 1744-1744, Mar. 2018.
+Mingyi Hong and Zhi-Quan Luo, “On the Linear Convergence of The Alternating Direction Method of Multipliers”, Mathematical Programming, Vol. 162, pp. 165–199, March 2017.
+Mingyi Hong and Zhi-Quan Luo, “Iteration complexity analysis of block coordinate descent methods”, Mathematical Programming, Vol. 163, pp. 85–114, May 2017.
+M. Locatelli and Z. Luo, "On the Complexity of Optimal Power Allocation in a Multi-Tone Multiuser Communication System," IEEE Transactions on Information Theory, vol. 63, pp. 6622-6627, Oct. 2017.
+F. Shang, J. Cheng, Y. Liu, Z. Luo and Z. Lin, "Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017. (Early Access)
+N. Zhang, Z. Yao, Y. Liu, S. P. Boyd and Z. Luo, "Dynamic Resource Allocation for Energy Efficient Transmission in Digital Subscriber Lines," IEEE Transactions on Signal Processing, vol. 65, pp. 4353-4366, Aug. 2017.
+N. Zhang, Y. Liu, H. Farmanbar, T. Chang, M. Hong and Z. Luo, "Network Slicing for Service-Oriented Networks Under Resource Constraints," IEEE Journal on Selected Areas in Communications, vol. 35, pp. 2512-2521, Nov. 2017.
+YUN-BIN ZHAO∗, HOUYUAN JIANG †,Zhi-Quan Luo, “Weak Stability of l1-minimization Methods in Sparse Data Reconstruction”, IEEE Transactions on Signal and Information, Processing over Networks, Nov. 2017.
+Yun-Bin Zhao, Zhi-Quan Luo, “Constructing New Weighted ℓ1-Algorithms for the Sparsest Points of Polyhedral Sets”, Mathematics of Operations Research, Vol. 42, pp. 1-276, 2017.
+R. Sun and Z. Luo, "Guaranteed Matrix Completion via Non-Convex Factorization," in IEEE Transactions on Information Theory, vol. 62, no. 11, pp. 6535-6579, Nov. 2016.
+Q. Shi, M. Razaviyayn, M. Hong and Z. Luo, "SINR Constrained Beamforming for a MIMO Multi-User Downlink System: Algorithms and Convergence Analysis," in IEEE Transactions on Signal Processing, vol. 64, no. 11, pp. 2920-2933, June, 2016.
+Razaviyayn, M., Sanjabi, M. and Luo, ZQ. , “A Stochastic Successive Minimization Method for Nonsmooth Nonconvex Optimization with Applications to Transceiver Design in Wireless Communication Networks”, Mathematical Programming, Vol. 157, pp. 515–545, June 2016.
+Mingyi Hong, Zhi-Quan Luo, and Meisam Razaviyayn, “Convergence Analysis of Alternating Direction Method of Multipliers for a Family of Nonconvex Problems”, SIAM J. OPTIM., Vol. 26, No.1, pp. 337–364, 2016.
+M. Hong, M. Razaviyayn, Z. Luo and J. Pang, "A Unified Algorithmic Framework for Block-Structured Optimization Involving Big Data: With applications in machine learning and signal processing," in IEEE Signal Processing Magazine, vol. 33, no. 1, pp. 57-77, Jan. 2016.
+R. Sun, M. Hong and Z. Luo, "Joint Downlink Base Station Association and Power Control for Max-Min Fairness: Computation and Complexity," in IEEE Journal on Selected Areas in Communications, vol. 33, no. 6, pp. 1040-1054, June 2015.
+R. Sun and Z. Luo, "Interference Alignment Using Finite and Dependent Channel Extensions: The Single Beam Case," in IEEE Transactions on Information Theory, vol. 61, no. 1, pp. 239-255, Jan. 2015.
+   

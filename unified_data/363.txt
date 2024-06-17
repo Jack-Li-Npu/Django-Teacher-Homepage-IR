@@ -1,0 +1,24 @@
+个人简介 Personal Profile
+王轩，男，教授，博士生导师，哈深资产公司董事长，鹏城国家实验室研究员&AI赋能重大项目负责人。中国人工智能学会常务理事，广东省计算机学会副理事长，深圳市计算机学会理事长，广东省安全智能新技术重点实验室主任，广东省决策智能重点实验室主任，哈工大决策智能研究所所长，计算机应用研究中心主任，粤港澳大湾区互联网联盟理事长，平安-哈工大粤港澳智慧金融研究中心主任，理光-哈工大联合实验室主任。研究领域包括人工智能和网络空间安全，主持或参与国家科技重大专项、国家重点研发计划、国家自然科学(重点)、国家科技计划重点项目以及来自华为、中兴、微软、平安等企业项目百余项，获国家教育部一等奖、国家航天部二等奖、广东省科技进步一等奖，黑龙江省发明一等奖、深圳市科技进步奖，获得国家发明专利40余项，发表学术论文(SCI /EI检索)300余篇，专著三部。在人工智能的智能人机交互方向，是微软拼音（Microsoft PY）主要发明人之一，提出的最少元素中文语句级智能输入技术是远东地区信息处理的首创性解决方案，分别授权给美国微软、日本佳能等，用户数亿计。在人工智能博弈决策方向，具有超过20年的研究积累，在非完全信息博弈决策的建模理论、信息度量、策略求解等方面具有开创性贡献，其研究成果在政治、经济和军事领域具有重要的应用价值。在网络空间安全方向，王轩教授围绕网络空间的管辖权、防卫权、独立权和平等权四个方向展开研究。作为鹏城国家实验室AI赋能重大项目负责人，积极致力于推进智能交通、智慧医疗、智慧健康和智慧金融等方向的核心技术的研发与应用，取得了显著的经济和社会效益。
+招生信息：每年招收1-2名博士研究生，3名硕士研究生，研究方向：人工智能、网络安全、量子计算。
+相关链接：哈工大深圳计算机应用研究中心 ，广东省安全智能新技术重点实验室
+Prof. Xuan Wang, male, born in August 1969, Professor, PhD. doctoral supervisor. researcher of Peng Cheng Laboratory (National Laboratory), director of AI empowerment key project in Peng Cheng National Laboratory. He is the executive director of the China Artificial Intelligence Society, the vice chairman of Guangdong Computer Society, the director of Guangdong Key Laboratory of Security Intelligence New Technology, the chairman of Shenzhen Computer Society, the director of Shenzhen Mobile Internet Application Security Industry Public Service Platform, the director of Ping An-Harbin Institute of Technology Guangdong Hong Kong and Macao Smart Finance Research Center, and the director of Ricoh-Harbin Institute of Technology Joint Laboratory. His research interests include Cyber Security and Artificial Intelligence. He has supervised or participated in hundreds of research projects, including National Key Research and Development Programs, National Natural Science, Chinese National Programs for High Technology Research and Development, CMC science and Technology Commission Program, Key Projects of General Equipment Department, and enterprise projects from Huawei, ZTE, Microsoft, Ping An, etc. He has obtained the first prize issued by Chinese Ministry of Education, the second prize issued by the Ministry of Space, the first prize of provincial technical invention, Shenzhen Science and Technology Progress Award. He obtained more than 40 national invention patents, published more than 300 academic papers (SCI / EI indexed), and written 3 academic books. In the direction of intelligent human-computer interaction in artificial intelligence, he is one of the main inventors of Microsoft PY. As the key technology of Microsoft PY, Intelligent Input Technology on Minimum Element Chinese Sentence Level proposed by him is the first solution for information processing in the Far East area. The technology is authorized to famous companies such as Microsoft in the US and Canon of Japan, and served billions of users. He has accumulated over 20 years of research in the field of artificial intelligence game decision making, and has made pioneering contributions in modeling theory, information metrics and strategy solving for non-complete information game decision making, and his research results have important applications in the political, economic and military fields. In the direction of cyberspace security, Professor Wang Xuan's research revolves around the four directions of jurisdiction, defence, independence and equality in cyberspace. As the head of the AI-enabled major project of PNCL, he is actively committed to promoting the development and application of core technologies in the direction of intelligent transportation, smart healthcare, smart health and smart finance, which have achieved significant economic and social benefits.
+
+教育经历 Education
+1994年-1997年，获工学博士学位（专业：计算机应用），哈尔滨工业大学
+1991年-1994年，获工学硕士学位（专业：计算机科学与技术），哈尔滨工业大学
+1987年-1991年，获工学学士学位（专业：计算机科学与技术），哈尔滨理工大学
+1994-1997 D.E. in Computer Application, Harbin Institute of Technology
+1991-1994 M.E. in Computer Science and Technology, Harbin Institute of Technology
+1987-1991 B.E. in Computer Science and Technology, Harbin University of Science and Technology
+
+
+工作经历 Employment
+2018.05-至今，哈尔滨工业大学（深圳），计算机科学与技术学院教授
+2018.05-2022.05，哈尔滨工业大学（深圳），计算机科学与技术学院教授、执行院长
+2006.11-2018.04，哈尔滨工业大学深圳研究生院，计算机科学与技术学院教授、院长
+2003.05-2006.10，哈尔滨工业大学深圳研究生院，计算机科学与技术学院副教授
+2018.05- present. Harbin Institute of Technology, Shenzhen, School of Computer Science and Technology, Professor.
+2018.05-2022.05, Harbin Institute of Technology, Shenzhen, School of Computer Science and Technology, Professor, Executive dean.
+2006.11-2018.04, Harbin Institute of Technology Shenzhen Graduate School, School of Computer Science and Technology, Professor, Dean.
+2003.05-2006.10, Harbin Institute of Technology Shenzhen Graduate School, School of Computer Science and Technology, Associate professor

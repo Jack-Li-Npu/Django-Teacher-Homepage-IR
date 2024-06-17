@@ -1,0 +1,31 @@
+陈海鹏
+
+一、教育经历
+2019/09-2020/09 苏格兰圣安德鲁斯大学，联合培养博士研究生（国家留学基金委资助）
+2015/09-2020/12 华南理工大学，应用数学，博士（硕博连读）
+2011/09-2015/06 华南理工大学，数学与应用数学（创新班），学士
+
+二、工作经历
+2021/01-至今 深圳技术大学，大数据与互联网学院，助理教授
+
+三、主要研究领域
+研究领域：分形几何、几何测度论、动力系统与遍历理论、数论
+具体内容：分形集的Assouad型维数，以及若干分形维数谱研究。
+
+四、主要成果及荣誉
+(1) H. Chen, J. M. Fraser, H. Yu, Dimensions on the popcorn graph, arXiv:2007.08407., 2020.
+(2) H. Chen, J. M. Fraser, On Hölder maps and prime gaps, arXiv:2006.09947., 2020.
+(3) H. Chen, M. Wu, Y. Chang, Lower Assouad-type dimensions of uniformly perfect sets in doubling metric spaces, Fractals, 28(2), 2050039, 2020.
+(4) H. Chen, M. Wu, C. Wei,Lower dimensions of some fractal sets, J. Math. Anal. Appl., 455(2), 1022-1036, 2017.
+(5) H. Chen, Y. Du, C. Wei,Quasi-lower and quasi-Lipschitz mapping,Fractals,25(3), 1750034, 2017.
+
+五、其他信息
+Google site:
+https://sites.google.com/view/hpchen0703/clarence-chens-personal-homepage
+ResearchGate site:
+https://www.researchgate.net/profile/Haipeng-Chen-5
+
+E-mail: chenhaipeng@sztu.edu.cn
+
+上一篇：刘羽朦
+下一篇：蔡元哲

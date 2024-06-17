@@ -1,0 +1,30 @@
+谭章熹
+兼职教授联系信息
+邮箱： xtan@cs.berkeley.edu
+个人简历
+教学
+研究领域
+研究成果
+奖励荣誉
+概况
+http://www.cs.berkeley.edu/~xtan
+教育经历
+2013.7 – 2013.10 Computer Science Division, University of California, Berkeley, CA 94720
+  Postdoc Researcher in the ASPIRE lab (aspire.eecs.berkeley.edu)
+  2005.8 – 2013.7 Computer Science Division, University of California, Berkeley, CA 94720
+  PhD in Computer Science, minor in Management of Technology
+  Thesis: Using FPGAs to Simulate Novel Data center Network Architectures at Scale
+  Advisor: David Patterson and Krste Asanovi？
+  2002.9 – 2005.1 Department of Computer Science and Technology,Tsinghua University, China
+  Master in Computer Science
+  1998.9 – 2002.7 Department of Electronic Engineering,Tsinghua University, China
+
+工作经历
+2018.12– Now Adjunct Assistant Professor, Tsinghua-Berkeley Shenzhen Institute (tbsi.berkeley.edu)
+  Co-Director of the RISC-V International Open-Source Laboratory (RIOS)
+  2017.2– Now Founder and CEO of OURS Technology Inc (www.ours-tech.com)
+  OURS is a VC-backed startup in Silicon Valley working on energy-efficient microprocessor designs with the open RISC-V instruction set and silicon photonics applications for self-driving cars and IoT. I lead a group of highly-motivated multinational engineers mostly Berkeley PhD graduates and industry chip design veterans. We have been successfully taping out multiple chips within the first year of funding.  OURS (睿思芯科) has been a leading company in promoting RISC-V in China.
+  2013.9–2017.2 Founding Engineer of Pure Storage (NYSE: PSTG)
+  First chip designer hired by Pure
+  Flash Blade TM lead designer (founding member)
+  2017 AIconics Best Innovation award in AI Hardware (AI Summit 2017, San Francisco) ; customers  include Tesla, Mercedes F1 racing team, Riot Games.

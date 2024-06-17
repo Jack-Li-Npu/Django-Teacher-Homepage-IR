@@ -1,0 +1,26 @@
+何志坚
+一、教育经历
+2014/01-2019/03 香港理工大学，计算机，博士
+2010/09-2013/06 吉林大学，电路与系统，硕士
+2005/09-2009/06 吉林大学，电子信息工程，学士
+
+二、工作经历
+2023/09-now   深圳技术大学大数据与互联网学院，助理教授
+2020/12-2023/09  香港科技大学，Research Associate
+2018/12-2020/12  华为技术有限公司，高级工程师
+
+三、主要研究领域
+自动驾驶、LLM、机器人感知SLAM、AIGC等
+
+四、主要成果及荣誉
+（1）He, Zhijian, Bohuan Xue, Xiangcheng Hu, Zhaoyan Shen, Xiangyue Zeng, and Ming Liu. "Robust Embedded Autonomous Driving Positioning System Fusing LiDAR and Inertial Sensors." ACM Transactions on Embedded Computing Systems （TECS）23, no. 1 (2024): 1-26.（CCF B）；
+（2）He, Zhijian, Xueli Fan, Yun Peng, Zhaoyan Shen, Jianhao Jiao, and Ming Liu. "Empointmovseg: sparse tensor-based moving-object segmentation in 3-d lidar point clouds for autonomous driving-embedded system." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems （TCAD）  42, no. 1 (2022): 41-53. （CCF A）；
+（3）He, Zhijian, Yao Chen, Enyan Huang, Qixin Wang, Yu Pei, and Haidong Yuan. "A system identification based oracle for control-cps software fault localization." In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), pp. 116-127. IEEE, 2019. （CCF A）；
+（4）He, Zhijian, Yao Chen, and Zhaoyan Shen. "Attitude fusion of inertial and magnetic sensor under different magnetic filed distortions." ACM Transactions on Embedded Computing Systems (TECS) 17, no. 2 (2018): 1-22. （CCF B）.
+（5）深圳市孔雀计划C类人才，2021年7月；
+（6）香港第一张无人驾驶牌照团队主要成员。
+
+E-mail:hezhijian@sztu.edu.cn
+
+上一篇：池也
+下一篇：张广怡

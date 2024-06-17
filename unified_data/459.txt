@@ -1,0 +1,36 @@
+彭小江
+一、简介
+计算机应用技术博士、深圳技术大学教授、深圳大学硕导，是深圳技术大学-浙江大华计算机视觉与AI联合实验室主任，深圳市电子学会新一代人工智能专委会联席秘书长。2015.3至2017.10分别在瑞士洛桑理工Idiap研究所、法国信息自动化研究所（INRIA）任博士后研究员。2017.10至2020.10在中国科学院深圳先进技术研究院任副研究员。主要从事计算机视觉、视频行为识别、AIGC、情感计算等人工智能方面的研究。在包括IEEE TIP, PR, CVPR, ICCV, ECCV, ACMM, AAAI,IJCAI等顶级期刊和会议发表论文70余篇，谷歌学术引用超过5000次，是国际领域顶级期刊和会议T-PAMI, IJCV, TIP, CVPR等期刊会议审稿人。申请发明专利20余项，授权专利7项。主持包括国自然基金面上项目、国防快响项目等10余项，累计科研经费超过1000万。曾获得广东省科技进步技术发明一等奖，中国人工智能学会吴文俊人工智能科技进步二等奖、深圳市科技进步奖二等奖、中国自动化学会科技进步奖二等奖、中国仪器仪表学会科学技术进步奖三等奖。2022、2023年入学斯坦福大学发布的全球前2%科学家榜单，获得2022年度深圳技术大学“优秀科研工作者”，是深圳市孔雀计划B类人才。2022年初联合创办了广州会试智能科技有限公司，兼任CTO。
+主页：https://pengxj.github.io/index.html，E-mail:pengxiaojiang@sztu.edu.cn
+
+二、工作经历
+2024/1- 至今 深圳技术大学大数据与互联网学院，长聘教授
+2020/11- 2023/12 深圳技术大学大数据与互联网学院，预聘长聘副教授
+2017/10-2020/10 中国科学院深圳先进技术研究院，副研究员
+2016/08-2017/09 瑞士Idiap研究所，博士后研究员
+2015/03-2016/07 法国信息自动化研究所INRIA，博士后研究员
+
+三、主要研究领域
+计算机视觉、人工智能、情感计算、深度学习理论
+
+四、代表性项目及荣誉
+（1）开放场景中真实世界的面部表情分析关键技术与应用, 国家自然基金面上项目，2022.1-2025.12，57万，负责人
+（2）基于红外图像的目标检测算法, 中科院横向项目，2022.9-2023.4，8万，负责人
+（3）深圳技术大学新引进高端人才财政补助科研启动经费：多模态情绪分析及应用，270万元，2022/01—2024/12，负责人
+（5）广东省科学进步奖技术发明一等奖: 视频的深度表征与识别技术及应用, 2019.
+（6）中国人工智能学会吴文俊人工智能科技进步二等奖: 视频序列的深度表征与理解技术及应用, 2019.
+（7）中国自动化学会科技进步奖二等奖：数字化智能建造监控平台关键技术及应用，2021.
+
+五、代表性论文
+1. Semi-Supervised Multimodal Emotion Recognition with Expression MAE, ACM MM, 2023. Zebang Cheng, Yuxiang Lin, Zhaoru Chen, Xiang Li, Shuyi Mao, Fan Zhang, Daijun Ding, Bowen Zhang, Xiaojiang Peng.
+2. Unsupervised person re-identification with multi-label learning guided self-paced clustering. Pattern Recognition, 2022. Qing Li, Xiaojiang Peng, Yu Qiao, Hao Qi.
+3. Suppressing Mislabeled Data via Grouping and Self-Attention. ECCV, 2020. Xiaojiang Peng*, Kai Wang*, Zhaoyang Zeng*, Qing Li, Jianfei Yang, Yu Qiao.
+4. Suppressing Uncertainties for Large-Scale Facial Expression Recognition. CVPR, 2020. Kai Wang*,Xiaojiang Peng*, Jianfei Yang, Shijian LV, Yu Qiao.
+5. Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition. IEEE Transactions on Image Processing, 2020. Kai Wang*,Xiaojiang Peng*, Jianfei Yang, Debin Meng, Yu Qiao.
+6. Mutual Component Convolutional Neural Networks for Heterogeneous Face Recognition. IEEE Transactions on Image Processing, 2019. Zhongying Deng*,Xiaojiang Peng*, Yu Qiao.
+7. DF2Net: A Dense-Fine-Finer Network for Detailed 3D Face Reconstruction. ICCV, 2019. Xiaoxing Zeng*,Xiaojiang Peng*, Yu Qiao.
+8. Residual Compensation Networks for Heterogeneous Face Recognition. AAAI, 2019. Zhongying Deng*,Xiaojiang Peng*, Yu Qiao.
+9. Frankenstein: Learning Deep Face Representations using Small Data. IEEE Transactions on Image Processing, 2018. Guosheng Hu, Xiaojiang Peng, Yongxin Yang, Timothy Hospedales, Jakob Verbeek.
+10. Multi-region two-stream R-CNN for action detection. ECCV, 2016. Xiaojiang Peng, Cordelia Schmid.
+上一篇：李强
+下一篇：刘宏伟

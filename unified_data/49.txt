@@ -1,0 +1,26 @@
+李兆媛
+助理教授
+教育背景
+博士（香港大学）
+硕士（中国人民大学）
+学士（西安交通大学）
+研究领域
+高维统计、随机矩阵、统计方法应用、机器学习、金融科技
+科目分类
+Youth Scholars Colloquium
+个人网站
+http://www.lizhaoyuan.com
+电子邮箱
+lizhaoyuan@cuhk.edu.cn
+办公室
+道远楼505a
+个人简介
+李兆媛教授2010年毕业于西安交通大学，后保送中国人民大学攻读硕士学位，2016年获得香港大学统计学博士学位，2016-2018年在香港大学经济及工商管理学院从事博士后工作并任职兼职讲师。 她的研究兴趣包括随机矩阵，高维统计，机器学习和金融科技。她以通讯作者身份在统计学顶级期刊JRSSB发表学术文章，以平行第一作者身份在生物化学顶级期刊NAR发表学术文章。
+学术著作
+[1] D. Passemier, Z. Y. Li and J. Yao, “On estimation of the noise variance in high-dimensional probabilistic principal component analysis,” Journal of the Royal Statistical Society Series B (Statistical Methodology), 79(1), 51-67, 2017.
+[2] Z. Y. Li and J. Yao, “Testing for heteroscedasticity in high dimensional regressions,” accepted at Econometrics and Statistics, 2018.
+[3] Z. Y. Li and M. Tian, “A new method for dynamic clustering based on spectral analysis,” Computational Economics, 50(3), 373-392, 2017.
+[4] Z. Y. Li and J. Yao, “On two simple and effective procedures for high-dimensional classification of general populations,” Statistical Papers, 57(2), 381-405, 2016.
+[5] H. Yalamanchili, Z. Y. Li, P. Wang, M. Wong, J. Yao and J. Wang, “SpliceNet: recovering splicing isoform specific differential gene networks from RNA-Seq data of normal and diseased samples,” Nucleic Acids Research, 42(15), e121, 2014.
+[6] Z. Y. Li, S. Liu and M. Tian, “Momentum effect differs across stock performances: Chinese evidence,” Acta Mathematicae Applicatae Sinica, English Series, 30(2), 279-288, 2014.
+   

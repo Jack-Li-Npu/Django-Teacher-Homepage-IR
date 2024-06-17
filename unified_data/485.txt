@@ -1,0 +1,20 @@
+张炜
+基本信息
+姓名：张炜
+所在系所：数据科学与大数据系
+邮箱：zhangwei1@sztu.edu.cn
+电话：13919869888
+办公地址：深圳技术大学大数据与互联网学院C1-1604
+
+科研简介
+深圳技术大学副教授，博士，硕士研究生导师。师从IEEE Fellow四川大学章毅教授，长期从事人工智能与医疗健康交叉领域的教学研究工作，研究方向为人工智能与智能医学，涵盖深度神经网络、多模态医学图像处理和人工智能辅助疾病诊断等。主持国家自然科学基金项目和甘肃省自然科学基金各1项，参与国家科技部重大专项、国家自然科学基金重点项目、国家自然科学基金项目等国家级项目多项，参与研发的多个智能医学产品已陆续落地应用。发表高水平学术论文20余篇，申请国家发明专利/实用新型专利/软著多项，长期担任担多个人工智能领域国际期刊的审稿人。
+
+代表论文
+1. Wei Zhang; Jie Zhong; Shijun Yang; Zhentao Gao; Junjie Hu; Yuanyuan Chen; Zhang Yi. Automated identification and grading system of diabetic retinopathy using deep neural networks. Knowledge-Based Systems. 2019(175), 12-25.
+2. Wei Zhang; Xiujuan Zhao; Yuanyuan Chen; Jie Zhong; Zhang Yi. DeepUWF: An Automated Ultra-wide-field Fundus Screening System via Deep Learning. Journal of Biomedical and Health Informatics. 2020.12
+3. Wei Zhang; Yan Dai; Miao Liu; Yuanyuan Chen; Jie Zhong; Zhang Yi. DeepUWF-Plus: An Automatic Fundus Identification and Diagnosis System Based on Ultra-wide-field Fundus Imaging. Applied Intelligence. 2021.03
+4. Haonan Qin; Zhang Wei* ; Xiujuan Zhao; Dong Zhicheng; Automatic screening of pathological myopia using deep learning, The 29th International Conference on Mechatronics and Machine Vision in Practice, Queenstown, New Zealand , 2023.
+5. Jixiang Guo; Xiang Li; Wei Zhang; Jie Zhong; Sanmei Liu; Validation of automatic diabetic retinopathyscreening and diagnosis via deep neural networkson multi-modal retinal fundus image datasets, 2023 International Annual Conference on Complex Systems and Intelligent Science, Shenzhen, China, 2023.
+
+上一篇：陈寅
+下一篇：曾媛

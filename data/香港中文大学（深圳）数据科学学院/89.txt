@@ -1,0 +1,28 @@
+张瑞茂
+研究助理教授
+教育背景
+博士（中山大学）
+学士（中山大学）
+研究领域
+计算机视觉、深度学习
+个人网站
+http://www.zhangruimao.site
+电子邮箱
+zhangruimao@cuhk.edu.cn
+办公室
+道远楼517
+个人简介
+张瑞茂教授现为香港中文大学（深圳）数据科学学院的研究助理教授。张教授分别于2011年和2016年在中山大学数据科学与计算机学院获得学士与博士学位。2013年到2014年间以访问生的身份赴香港理工大学电子计算学系从事计算机视觉相关领域的研究。在2017年到2019年间，张教授在香港中文大学多媒体实验室担任博士后研究员。他于2019年加入商汤科技研究院，任高级研究员。目前，张教授也作为研究科学家，于深圳市大数据研究院进行医疗影像数据的分析研究。
+张教授的研究领域主要集中在计算机视觉、深度学习以及相关的多媒体应用上。场景理解分析与推理、弱监督与自监督学习、神经网络归一化技术、深度特征表达等。其著作多次被计算机视觉与模式识别领域顶级期刊和会议收录。
+学术著作
+1. Ping Luo, Ruimao Zhang*, Jiamin Ren, Zhanglin Peng, Jingyu Li, "Differentiable Learning-to-Normalize via Switchable Normalization", IEEE Transactions on Pattern Analysis and Machine Intelligence ( T-PAMI ), 43(2):712-728, 2021 ( IF:17.73 )
+2. Ruimao Zhang, Liang Lin, Guangrun Wang, Meng Wang, Wangmeng Zuo, “Hierarchical Scene Parsing by Weakly Supervised Learning with Image Descriptions”, IEEE Transactions on Pattern Analysis and Machine Intelligence ( T-PAMI ), 41(3):596 - 610, 2019 ( IF:17.73 )
+3. Ruimao Zhang, Jingyu Li, Hongbin Sun, Yuying Ge, Ping Luo, Xiaogang Wang, Liang Lin, “SCAN: Self-and-Collaborative Attention Network for Video Person Re-identification”, IEEE Transactions on Image Processing ( T-IP ), 28(10):4870-4882, 2019
+4. Ruimao Zhang, Wei Yang, Zhanglin Peng, Pengxu Wei, Xiaogang Wang, Liang Lin, “Progressively Diffused Networks for Semantic Visual Parsing”, Pattern Recognition ( PR ), 90:78-86, 2019
+5. Di Lin, Ruimao Zhang, Yuanfeng Ji, Ping Li, Hui Huang, “SCN: Switchable Context Network for Semantic Segmentation of RGB-D Images”, IEEE Transactions on Cybernetics ( T-CYB ), 50(3):1120-1131, 2020
+6. Ruimao Zhang, Liang Lin, Rui Zhang, Wangmeng Zuo, Lei Zhang “Bit-Scalable Deep Hashing with Regularized Similarity Learning for Image Retrieval and Person Re-identification” IEEE Transactions on Image Processing ( T-IP ), 24(12):4766-4779, 2015 ( ESI Highly Cited Paper )
+7. Ruimao Zhang, Zhanglin Peng, Lingyun Wu, Zhen Li, Ping Luo, " Exemplar Normalization for Learning Deep Representation ", Proc. of IEEE International Conference on Computer Vision and Pattern Recognition ( CVPR ), 2020
+8. Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo, "Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content", Proc. of IEEE International Conference on Computer Vision and Pattern Recognition ( CVPR ), 2020
+9. Yuanfeng Ji, Ruimao Zhang, Zhen Li, Jiamin Ren, Shaoting Zhang, Ping Luo, "UXNet: Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation" Proc. of Medical Image Computing and Computer-Assisted Interventions ( MICCAI ), 2020 ( Oral )
+10. Yuying Ge, Ruimao Zhang, Xiaogang Wang, Xiaoou Tang, Ping Luo, “DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images”, in Proc. of IEEE International Conference on Computer Vision and Pattern Recognition ( CVPR ), 2019 ( Recommended by LeCun on Twitter )
+ 

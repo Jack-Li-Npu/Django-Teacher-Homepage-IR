@@ -1,0 +1,50 @@
+陈天石
+教授
+教育背景
+香港中文大学博士
+哈尔滨工业大学工学硕士
+哈尔滨工业大学工学学士
+研究领域
+系统辨识、自动控制及其应用
+电子邮箱
+tschen@cuhk.edu.cn
+办公室
+综合楼C702
+个人简介
+陈天石于2008年12月获香港中文大学自动化与计算机辅助工程博士学位。在2009年4月至2015年12月期间，他在瑞典林雪平大学电气工程系自动控制组工作，先任博士后，后任（自2011年4月开始）助理教授。他现在是香港中文大学（深圳）的教授。
+他的研究兴趣包括系统辨识、自动控制及其应用。他发表了近100篇论文，包括IFAC自动化学报（IFAC Automatica）和IEEE自动控制汇刊（IEEE Transactions on Automatic Control）上的32篇论文，其中包含1篇综述论文和16篇regular/full类型的论文。他在瑞典、欧洲和中国参与了若干科研项目，作为项目负责人，他迄今为止获得的研究资助总额为1000万元人民币+360万瑞典克朗。
+他担任了若干期刊和会议的编委，包括：
+IFAC 自动化学报（IFAC Automatica）的编委（2017年1月至今），
+IEEE自动控制汇刊（IEEE Transactions on Automatic Control）的编委（2023年10月至2026年12月），
+系统与控制快报（Systems & Control Letters）的编委（2017年1月至2020年12月），
+IEEE自动控制系统协会会议编委会（IEEE CSS Conference Editorial Board）的编委（2016年7月至2019年8月）。
+他获得了多项研究和教学奖项，包括：
+2015年入选中国海外高层次青年人才计划，
+2020年香港中文大学（深圳）校长学者奖，
+2021年世界前2%顶尖科学家，
+2021年香港中文大学（深圳）校长模范教学奖，
+2022年广东省一流本科课程，
+2022年深圳市优秀教师奖。
+他是2021年在意大利帕多瓦举行的第19届IFAC系统辨识会议的四位大会报告人之一，是正则化系统辨识第一本专著《正则化系统辨识-从数据中学习动态模型》一书的合著者。
+学术著作
+[B1] Gianluigi Pillonetto, Tianshi Chen, Alessandro Chiuso, Giuseppe De Nicolao, and Lennart Ljung, “Regularized System Identification – Learning Dynamic Models from Data”, Springer, May 26, 2022.
+[P1] Xiaozhu Fang and Tianshi Chen, “On Kernel Design for Regularized Non-Causal System Identification”, Automatica, submitted on August 30, 2022, provisionally accepted, June 24, 2023.
+[P2] Biqiang Mu, Lennart Ljung and Tianshi Chen, “When cannot regularization be used to improve the least squares estimate in the regularized system identification”, Automatica, submitted on May 27, 2022, provisionally accepted on May 20, 2023.
+[P3] Yue Ju, Biqiang Mu, Lennart Ljung, and Tianshi Chen, “Asymptotic Theory for Regularized System Identification Part I: Empirical Bayes Hyper-parameter Estimator”, IEEE Transactions on Automatic Control, March 21, 2023.
+[P4] Xian Yu, Xiaozhu Fang, Biqiang Mu, and Tianshi Chen, “Kernel-based Regularized Iterative Learning Control of Repetitive Linear Time-varying Systems”, Automatica, vol. 154, pp. 111047, 2023.
+[P5] Junpeng Zhang, Yue Ju, Biqiang Mu, Renxin Zhong, and Tianshi Chen, “An Efficient Implementation for Spatial-Temporal Gaussian Process Regression and Its Applications”, Automatica, vol. 147, pp. 110679, 2022.
+[P6] Tianshi Chen and Martin S. Andersen, “On Semiseparable Kernels and Efficient Implementation of Regularized System Identification and Function Estimation”, Automatica, vol. 132, pp. 109682, 2021.
+[P7] Martin Lindfors, and Tianshi Chen. “Regularized System Identification in the Presence
+of Outliers: a Variational EM Approach”, Automatica, vol. 121, pp. 109152, 2020. 
+[P8] Lennart Ljung, Tianshi Chen, and Biqiang Mu. “A Shift in Paradigm for System Identification”,
+International Journal of Control, vol. 93(2), pp. 173–180, 2020.
+[P9] Tianshi Chen. “Continuous-time DC kernel — a stable generalized first-order spline kernel,” IEEE Transactions on Automatic Control, vol. 63. no. 12, pp. 4442–4447, 2018.
+[P10] Biqiang Mu, and Tianshi Chen. “On input design for regularized LTI system identification: Power-constrained inputs,” Automatica, vol. 97, pp. 327–338, 2018.
+[P11] Tianshi Chen and Gianluigi Pillonetto. “On the stability of reproducing kernel Hilbert spaces of discrete-time impulse responses,” Automatica, vol. 95, pp. 529–533, 2018.
+[P12] Biqiang Mu, Tianshi Chen and Lennart Ljung. “On Asymptotic Properties of Hyperparameter Estimators for Kernel-based Regularization Methods,” Automatica, vol. 94, pp. 381–395, 2018.
+[P13] Tianshi Chen. “On kernel design for regularized LTI system identification,” Automatica, vol. 90, pp. 109-122, 2018.
+[P14] John Lataire and Tianshi Chen. “Transfer function and transient estimation by Gaussian process regression in the frequency domain,” Automatica, Vol. 72. pp. 217–229, 2016.
+[P15] Tianshi Chen, Martin Andersen, Lennart Ljung, Alessandro Chiuso, and Gianluigi Pillonetto, “System identification via sparse multiple kernel-based regularization using sequential convex optimization techniques,” IEEE Transactions on Automatic Control, Vol.59, No. 11, pp. 2933–2945, 2014.
+[P16] Gianluigi Pillonetto, Francesco Dinuzzo, Tianshi Chen, Giuseppe De Nicolao, and Lennart Ljung, “Kernel Methods in System Identification, Machine Learning and Function Estimation: A Survey,” Automatica, Vol.50, No. 3, pp.657–682, 2014.
+[P17] Tianshi Chen, and Lennart Ljung, “Implementation of algorithms for tuning parameters in regularized least squares problems in system identification,” Automatica, no.8 pp. 1525–1535, 2013.
+[P18] Tianshi Chen, Henrik Ohlsson, and Lennart Ljung, “On the estimation of transfer functions, Regularizations and Gaussian processes - revisited,” Automatica, no. 8, pp. 1525–1535, 2012.

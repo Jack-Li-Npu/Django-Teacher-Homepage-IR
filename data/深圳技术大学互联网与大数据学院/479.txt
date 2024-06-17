@@ -1,0 +1,76 @@
+周小林
+周小林，博士、副教授，硕士研究生导师，广东省医疗器械质量监督检验所广东省医疗器械标准化技术委员会委员，深圳市医院管理者协会常委委员，国家自然科学基金委员会项目评审专家， 中国科学院大学研究生学位论文评审专家，深圳市工信局项目评审专家。
+2011年获日本会津大学计算机科学与工程博士学位（师从日本工程院外籍院士、校荣誉教授魏大名先生）。2011年6月回国全职加入中国科学院深圳先进技术研究院，先后担任助理研究员、副研究员、中国科学院大学硕士研究生导师和中科院孵化企业技术研发负责人等职务。2022年12月加入深圳技术大学大数据与互联网学院。
+主要从事计算机科学技术、统计学、电子信息等学科与生物医学工程交叉融合的应用基础研究，具体涉及人工智能在生物医学工程中的应用、探究可穿戴及非接触生命体征参数传感及算法融合在心血管疾病自动诊断上的应用、医学信号处理与健康大数据分析技术研究等。
+作为主持人承担国家自然科学基金（青年基金）项目，省部级及市级项目多项，参与了包括科技部973项目、863重点攻关项目、中科院“百人计划”项目、中科院知识创新工程、中科院对外合作项目、中科院战略先导科技专项和广东省科技厅及深圳市项目多项。
+发表学术论文四十余篇，SCI论文十余篇，Google Scholar引用1500余次。申请专利近二十项。提出了广义香农熵公式，收到了较多的国内外同行的来信交流（包括约翰·霍普金斯大学，纽约大学、约克大学、曼切斯特大学、澳大利亚南威尔士大学、雅盖隆大学、哈尔滨工业大学、北京理工大学等和北美医疗仪器公司等），相关论文被Nature Medicine（斯坦福大学计算机系吴恩达教授团队发表的基于人工智能自动化医学诊断方面的论文引用）和PhysioNet（国际公共医学大数据库）引用。留学期间，获日本政府和企业财团法人奖学金数项，参与了日本某大型医疗仪器公司心电及床边监护仪算法研发。带领团队多次参加各类创新创业、创客大赛并获奖及资助。数项计算机自动诊断技术相关科研成果实现产业化转化，先后参与创立和创立两家科技公司。团队及科研成果被国家主流媒体报道，包括CCTV（新闻联播2次，CCTV13新闻1次）、BTV、CTV、SZTV、顺德电视台等地方电视台数次。获得了广东省科学技术奖（二等奖）、国家科学技术部中国科技成果推广等团队及个人荣誉近二十项。以第二导师身份指导研究生获得国际学术会议Best Poster Award （First prize）奖，中科院深圳先进院院长特别奖和优秀奖等。
+可教授课程包括： 算法设计与分析、软件工程、计算机伦理学、程序设计基础（C）、高级语言程序设计(C++, Java, Dart, VB)、人工智能、模式识别、神经网络、最优化理论与应用、运筹学、数字信号处理、生物医学信号处理、Matlab信号处理与工程应用等。
+
+主持和参与的主要项目：
+1. 国家自然科学基金（青年基金）项目：基于人工智能的睡眠呼吸暂停综合症检测方法与相关机理研究，2015/01-2017/12，已结题；
+2. 深圳市发改委：基于Fuzzy 逻辑的睡眠呼吸暂停综合症，2016/01-2017/10，已结题；
+3. 深圳市外国专家局：基于人工智能的居家心脑血管健康风险早期预警系统研发，2018/01-2019/12，已结题；
+4. 深圳市科创委：一种非接触式生命体征测量与健康管理系统研发，2018/07- 2021/07，已结题；
+5. 中国科学院与荷兰健康科学创新基金重点国际科技合作计划项目：适用于老年人的智能化穿戴式心血管健康家庭监测医疗仪器，2013/01- 2015/12，已结题；
+6. 中国科学院国际合作项目：“中国~克罗地亚” 国际合作项目，2011/01-2013/12，已结题；
+7. 国家自然科学基金（青年基金）项目：医护环境下多变量生理趋势信号的伪差检测和信号估计，2011/01-2013/12，已结题；
+8. 广东省科技厅项目：低成本健康技术创新团队，2011/01-2015/08，已结题；
+9. 深圳市科创委：心脑血管疾病的异构数据整合性预警建模技术，2013/01-2014/12，已结题；
+10. 科技部973项目：心脑血管易损斑块的高分辨成像识别与风险评估预警体系重大问题的基础研究，2010/01-2014/08，已结题（结题优秀，优秀率26/83）；
+11. 广东省科技厅：心脑血管疾病的异构数据整合性预警建模技术，2013/01-2015/12，已结题；
+12. 深圳市科创委：心脑血管疾病的异构数据整合性预警建模技术，2015/10-2017/09，已结题；
+13. 广东省科技厅：穿戴式睡眠监测与夜间心脑血管事件预警系统，2016/01-2018/12，已结题；
+14. 深圳市科创委：可穿戴用血氧与脉率监测关键技术研发，2016/01- 2017/12，已结题；
+15. 国家自然科学基金（青年基金）项目：基于生存树的急性心肌梗死早期预警及其多生理参数建模，2016/01-2018/12，已结题；
+
+主要期刊论文：
+1. Lan, Ronghua; Zhang, Jinyong; Chen, Jing; Tang, Wei; Wu, Qingyang; 2hou, Xiaolin: Kang, Xiaoyang; Wang, Jue; Wang, Hongbo,Li, Hui，“High-Sensitivity Flexible Capacitive Pressure Sensors Based on Biomimetic Hibiscus Flower Microstructures”,  ACS Omega, 9(12), pp 13704–13713, 2024 (DOI: 10.1021/acsomega.3c08044);
+2. Xiaolin Zhou*, Hongxia Ding, Benjamin Ung, Emma Pickwell-MacPherson and Yuanting Zhang*, “Automatic online detection of atrial fibrillation based on symbolic dynamics and Shannon entropy”, BioMedical Engineering OnLine, 13(18), pp 1–18, 2014 (DOI: 10.1186/1475-925X-13-18);
+3. Xiaolin Zhou*, Hongxia Ding,Wanqing Wu*,Yuanting Zhang. “A Real-time Atrial Fibrillation Detection Algorithm Based on the Instantaneous State of Heart Rate”, PLOS ONE, 10(9), pp 1–16, 2015(DOI: 10.1371/journal.pone.0136544) ;
+4. Xiaolin Zhou*, and Yuanting Zhang, “A hybrid approach to the simultaneous eliminating of power-line interference and associated ringing artifacts in electrocardiograms”, BioMedical Engineering OnLine, 12(42), pp 1–27, 2013 (DOI: 10.1186/1475-925X-12-42);
+5. Xiaolin Zhou*, Rongchao Peng, Hongxia Ding, Ningling Zhang, and Pan Li, “Validation of new and existing decision rules for the estimation of beat-to-beat pulse transit time”, BioMed Research International, 2015, pp 1–13, 2015(DOI: 10.1155/2015/306934);
+6. Xiaolin Zhou, and Daming Wei*, “A Multidifferentiator-based approach to the reliable determination of t-wave offset in electrocardiograms”, Journal of Electrocardiology, 44, pp 330–339, 2011 (DOI: 10.1016/j.jelectrocard.2010.11.003)；
+7. Rong-Chao Peng, Xiaolin Zhou*, Wan-Hua Lin, and Yuan-Ting Zhang*. “Extraction of heart rate variability from smartphone photoplethysmograms”, Computational and Mathematical Methods in Medicine, 2015, pp 1 – 11, 2015 (DOI: 10.1155/2015/516826);
+8. Rong-Chao Peng, Wen-Rong Yan, Xiaolin Zhou*, Ning-Ling Zhang, Wan-Hua Lin, and Yuan-Ting Zhang* “Time-frequency analysis of heart rate variability during the cold pressor test using a time-varying autoregressive model”, Physiological Measurement, 36(3), pp 441 – 452, 2015 (DOI: 10.1088/0967-3334/36/3/441);
+9. Rong-Chao Peng, Wen-Rong Yan, Ning-Ling Zhang, Wan-Hua Lin, Xiaolin Zhou*, Yuan-Ting Zhang. “Cuffless and continuous blood pressure estimation from the heart sound acquired by a smartphone”, Sensors, 15(9), 23653-23666, 2015(DOI: 10.3390/s150923653);
+10. Rong-Chao Peng, Wen-Rong Yan, Ning-Ling Zhang, Wan-Hua Lin, Xiaolin Zhou* and Yuan-Ting Zhang, “Investigation of five algorithms for selection of the optimal region of interest in smartphone photoplethysmography” ( 2016, Journal of Sensors; DOI: 10.1155/2016/6830152);
+11. Zigang Dong, Xiaolin Zhou*, and Yuanting Zhang, “A Novel Differential Log-Companding Amplifier for Biosignal Sensing” ( 2016, Journal of Sensors; DOI: 10.1155/2016/5358963);
+12. Yali Zheng, Xiaorong Ding, Carmen Chung Yan Poon, Benny Ping Lai Lo, Heye Zhang, Xiaolin Zhou, Guangzhong Yang and Yuanting Zhang*, “Unobtrusive sensing and wearable devices for health informatics”. IEEE Transactions on Biomedical Engineering, 61(5), pp 1538 – 1554, 2014 (DOI:  10.1109/TBME.2014.2309951);
+13. YuanTing Zhang*, Yali Zheng, Wanhua Lin, Heye Zhang, and Xiaolin Zhou, “Challenges and opportunities in cardiovascular health informatics”, IEEE Transactions on Biomedical Engineering, 60(3), pp 633–642, 2013 (DOI: 10.1109/TBME.2013.2244892);
+14. 周小林、孙东松、钟志庆、王帮新、夏海云，“Levenberg-Marquardt算法在测风激光雷达中的应用”，《红外与激光工程》， Vol. 36（4）, 500-504, 2007;
+15. 周小林、孙东松、钟志庆、王邦新、夏海云，“基于多尺度EMD的激光雷达信号分段去噪”,《红外与激光工程》, Vol. 35(Suppl.), 477-482, 2006;
+16. 周小林、孙东松、钟志庆、王帮新、夏海云，“多普勒测风激光雷达研究进展”，《大气与环境光学学报》，Vol. 2（3）, 161-168，2007;
+17. 夏海云、孙东松、沈法华、董晶晶、钟志庆、王邦新、周小林、李颖颖, “基于双F-P标准具的直接探测测风激光雷达”,《红外与激光工程》, Vol.35(z3), 273-278, 2006;
+18. 夏海云、孙东松、钟志庆、王邦新、董晶晶、沈法华、陈敏、周小林，“应用于测风激光雷达的多普勒校准仪的研究”，《中国激光》, Vol.33(10), 1412-1416, 2006;
+19. 李颖颖、孙东松、王珍珠、沈法华、周小林、董晶晶，“云的多次散射对激光雷达测量结果影响的研究”，《激光技术》，Vol 6, 611-613, 2008;
+20. 李颖颖、孙东松、沈法华、周小林、董晶晶，“多次散射的激光雷达消光系数反演方法研究”，《红外与激光工程》，Vol 37(Suppl.) , 176-179, 2007；
+21. 董晶晶、孙东松、夏海云、沈法华、钟志庆、王邦新、周小林、李颖颖，“直接测风激光雷达中FP标准具的频率动态锁定”，《红外与激光工程》, Vol 35(Suppl.), 279-283, 2006;
+22. 孙东松、钟志庆、王邦新、夏海云、董晶晶、周小林、周军，“基于FP标准具的直接探测多普勒测风激光雷达”，《量子电子学报》， Vol 3, 303-306, 2006;
+23. 沈法华、孙东松、陈敏、夏海云、董晶晶、王邦新、钟志庆、周小林，“影响Fizeau干涉仪测风激光雷达测量精度因素分析”，《 大气与环境光学学报》, Vol 1, 53-58, 2006;
+24. 沈法华、孙东松、钟志庆、陈敏、夏海云、王邦新、董晶晶、周小林，“基于菲佐干涉仪测风激光雷达的误差分析”，《 光学学报》，Vol 26(12), 1761-1765, 2006;
+25. 沈法华、孙东松、陈敏、夏海云、董晶晶、王邦新、钟志庆、周小林，“利用Fizeau干涉仪进行激光风速测量的原理分析”，《量子电子学报》，Vol23(3), pp330-333, 2006;
+26. 钟志庆、孙东松、王邦新、周小林、沈法华、刘东、周军， “探测低对流层大气风场的多普勒测风激光雷达”， 长三角光子科技创新论坛暨2006年安徽博士科技论坛, 39-393;
+27. 钟志庆、孙东松、王邦新、夏海云、董晶晶、周小林、周军，“基于Fabry-Perot标准具的多普勒测风激光雷达”，《红外与激光工程》， Vol35 (6), pp687-690, 2006;
+28. 王邦新、沈法华、孙东松、钟志庆、夏海云、刘东、周小林、董晶晶、李颖颖，“直接探测多普勒激光雷达的光束扫描和风场测量”，《红外与激光工程》， Vol36(1), 69-72, 2006;
+29. 王邦新、孙东松、钟志庆、夏海云、沈法华、周小林、董晶晶，“多普勒测风激光雷达数据处理方法分析”，《红外与激光工程》， Vol36(3), 373-376, 2007;
+
+主要专利：
+1. 周小林、吴丹、张元亭，呼吸信息检测方法及系统, 发明，专利号码：CN103690169A；
+2. 周小林、吴丹、张元亭，阻塞型睡眠呼吸暂停综合征检测方法及系统, 发明，专利号码：CN103690168A；
+3. 周小林、丁红霞、董子刚，一种基于图心的提取脉搏波时标点的新方法,发明，专利号码：CN104622440A；
+4. 周小林，基于CPC的非接触式睡眠评估方法及装置，发明，专利号码：CN108175382B；
+5. 周小林、谢爱珍，一种振动信息测量装置，实用新型，专利号码：202121441669.6；
+6. 周小林、谢爱珍，体振信息测量装置，外观设计，专利号码：ZL 2020 3 0533716.4；
+7. 董子刚、周小林、张元亭，一种基于对数域非线性传输函数的低电压低功耗放大器，发明，专利号码：CN104579207B；
+8. 董子刚、周小林、张元亭，一种基于对数域非线性传输函数的低电压低功耗放大器，实用新型，专利号码：CN204392194U；
+9. 董子刚、周小林，一种低功耗带隙基准源，发明，专利号码：CN105468077A；
+10. 董子刚、周小林、吴丹，一种比较器及模数转化器，实用新型，专利号码：CN206524828U
+11. 董子刚、周小林、吴丹，一种比较器及模数转化器，发明，专利号码：CN106612119A；
+12. 孙东松、周小林、沈法华、王邦新、夏海云、董晶晶、李颖颖，基于经验模式分解的激光雷达信号处理方法，发明，专利号码：CN101017201A；
+13. 陆云、董子刚、周小林、吴万庆、张元亭，一种用于光电容积描记信号的光电流处理模拟前端电路，发明，专利号码：CN104545873B；
+14. 彭荣超、严文荣、周小林，一种基于心音信号的无创连续血压测量方法、装置及系统，发明，专利号码：CN105105734B；
+15. 孙东松、钟志庆、王邦新、董晶晶、夏海云、周小林、刘东、戚福弟、范爱媛、周军， 基于F-P标准具的多普勒测风激光雷达的结构及其探测方法，发明，专利号码：CN100543493C；
+
+E-mail: zhouxiaolin@sztu.edu.cn
+上一篇：宁磊
+下一篇：沈小乐

@@ -1,0 +1,23 @@
+李彤欣
+助理教授
+教育背景
+加州理工学院博士
+香港中文大学硕士
+香港中文大学学士
+研究领域
+可信机器学习、在线学习、智能电网、电力系统与控制
+个人网站
+https://tongxin.me/
+电子邮箱
+litongxin@cuhk.edu.cn
+办公室
+综合楼C608
+个人简介
+李彤欣博士现为香港中文大学（深圳）数据科学学院的助理教授。他于2022年获得加州理工学院计算机与数学科学博士学位。在此之前，他于香港中文大学取得数学与信息工程双学位及哲学硕士学位。
+李彤欣教授目前的研究方向包括机器学习、控制、以及优化等交叉学科以及在电力系统与可持续低碳清洁能源领域的应用。研究兴趣包括探索研发可信人工智能从而改进智能电网的可持续性、鲁棒性、可拓展性、隐私安全以及可适应性。李彤欣教授多次获邀参加国际会议报告，在国际顶尖期刊与会议发表文章。李彤欣教授在产研结合方面拥有丰富经验。他曾两次在亚马逊云计算安全组担任实习应用科学家。他曾参与可再生能源实验室、帕萨迪纳市水电局以及加州理工学院能源设施中心合作的多个电力系统优化设计项目。他参与的智能电网项目曾获Resnick可持续发展中心2021影响力资助奖。
+学术著作
+1. Li, Tongxin, Ruixiao Yang, Guannan Qu, Guanya Shi, Chenkai Yu, Adam Wierman, and Steven Low. "Robustness and consistency in linear quadratic control with untrusted predictions." Proceedings of the ACM on Measurement and Analysis of Computing Systems 6, no. 1 (2022): 1-35.
+2. Li, Tongxin, Yue Chen, Bo Sun, Adam Wierman, and Steven Low. "Information aggregation for constrained online control." ACM SIGMETRICS Performance Evaluation Review 49, no. 1 (2021): 7-8.
+3. Li, Tongxin, Bo Sun, Yue Chen, Zixin Ye, Steven H. Low, and Adam Wierman. "Learning-based Predictive Control via Real-time Aggregate Flexibility." IEEE Transactions on Smart Grid 12, no. 6 (2021): 4897-4913.
+4. Li, Tongxin, Lucien Werner, and Steven H. Low. "Learning graphs from linear measurements: Fundamental trade-offs and applications." IEEE Transactions on Signal and Information Processing over Networks 6 (2020): 163-178.
+5. Chen, Yue, Tongxin Li, Changhong Zhao, and Wei Wei. "Decentralized provision of renewable predictions within a virtual power plant." IEEE Transactions on Power Systems 36, no. 3 (2020): 2652-2662.

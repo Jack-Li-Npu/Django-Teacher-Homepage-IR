@@ -1,0 +1,45 @@
+傅向华
+一、简介
+深圳技术大学教授，大数据与互联网学院副院长，“鹏城孔雀计划”特聘岗位C类人才，大数据系统计算技术国家工程实验室智能物联大数据研究中心副主任，全国高等院校计算机基础教育研究会新工科专业委员会副主任。于2005年12月在西安交通大学获计算机科学与技术博士学位，2005年12月至2018年11月在深圳大学信息工程学院/计算机与软件学院工作，历任计算机学科讲师、副教授，2015年12月晋升计算机科学与技术学科教授。曾担任深圳大学计算机与软件学院大数据与网络工程系系主任、计算机系副系主任，大数据应用与技术研究所文本大数据研究团队负责人；曾联合创办深大云伴健康科技有限公司，历任CTO、董事长等职。2018年12月，从深圳大学转入深圳技术大学。
+已主持完成国家自然科学基金面上项目“面向大规模社会媒体的动态舆情内容安全监测关键技术研究”，广东省自然科学基金项目“半监督流形学习算法及其在Web挖掘中的应用”，广东省教育厅特色创新项目“结合知识推理的弱监督混合式智能问答关键技术研究”，以及深圳市基础研究计划项目4项；主持完成包括华为公司横向项目“电子装联加工大数据挖掘能力探索”在内的企业项目多项，参与国家自然科学基金重点项目、广东省重大科技专项等项目多项。目前在研项目包括广东省教育厅重点建设学科项目“基于云边协同的多模态感知服务型人机交互系统关键技术研究”，深圳市高校稳定支持计划项目“基于多模态知识感知的混合式特定域智能问答模型与方法研究”等。在国内外重要期刊以及国际会议上发表论文80余篇，参与编写教材5本，作为负责人获批省级校企联合实验室——“腾讯云与安全联合实验室”，建设省级一流课程1门，参与完成省级精品课程、省级优质资源课程多门，获省级教学成果一等奖1次，深圳市科技进步奖2次，已申请专利14项，软件著作权7项。
+
+二、工作经历
+2018/11-至今    深圳技术大学大数据与互联网学院，教授
+2015/12-2018/10   深圳大学计算机与软件学院，教授
+2009/01-2015/12   深圳大学计算机与软件学院，副教授
+2007/12-2008/12   深圳大学信息工程学院计算机系，副教授
+2005/12-2007/12   深圳大学信息工程学院计算机系，讲师
+
+三、主要研究领域
+自然语言处理，信息检索，机器学习，数据挖掘，大数据处理
+
+四、主要项目及成果
+（1）国家自然科学基金面上项目，面向大规模社会媒体的动态舆情内容安全监测关键技术研究(61472258)，2015.01-2018.12，82万元，主持
+（2）广东省教育厅重点建设学科科研能力提升项目，基于云边协同的多模态感知服务型人机交互系统关键技术研究(2022ZDJS112)，2023.1-2025.12, 80万，主持
+（3）深圳市高校稳定支持计划项目，基于多模态知识感知的混合式特定域智能问答模型与方法研究(SZWD2021011)，2020.09-2023.12，30万，主持
+（4）广东省教育厅特色创新项目，结合知识推理的弱监督混合式智能问答关键技术研究(2019KTSCX204)，2020.01-2021.12，10万，主持
+（5）华为公司横向项目，电子装联加工大数据挖掘能力探索项目(YBN2017050066)，2017.06-2018.05，40万，主持
+（6）广东省教育厅教学改革项目，新工科背景下应用技术型大学计算机基础课程建设研究(20201056020007)，2021.01-2022.12，10万，主持
+（7）多维立体式计算机创新人才培养体系的构建与实践, 广东省教育教学成果奖一等奖，2014.6
+（8）基于物联网的多维健康数据平台关键技术研究与应用, 深圳市科技进步奖二等奖，2019.10
+（9）程序设计基础，广东省一流本科课程，2023.12，负责人
+（10）腾讯云与安全联合实验室，广东省校企联合实验室，2024.1，负责人
+
+五、部分论文
+[1] Bowen Zhang, Xianghua Fu*, Chuyao Luo, Yuming Ye, Xutao Li and Liwen Jing, Cross-Domain Aspect-based Sentiment Classification by Exploiting Domain-Invariant Semantic-primary Feature, IEEE Transactions on Affective Computing, 2023, (99):3106-3119 (JCR Q1, IF 11.2)
+[2] Bowen Zhang, Xu Huang, Zhichao Huang, Hu Huang, Baoquan Zhang, Xianghua Fu*, Liwen Jing*: Sentiment Interpretable Logic Tensor Network for Aspect-Term Sentiment Analysis. COLING 2022: 6705-6714  (CCF B类会议, NLP领域顶会)
+[3] WentingWang, ShijieShi, XianghuaFu*. The subnetwork investigation of scale-free networks based on the self-similarity. Chaos, Solitons & Fractals, 2022, 161, 112140 (JCR Q1, IF7.8)
+[4] Yu Lu, Xi Zhang, Liwen Jing, Xiaoqing Li, Xianghua Fu*: Estimation of the foetal heart rate baseline based on singular spectrum analysis and empirical mode decomposition. Future Generation Computer Systems. 2020, 112: 126-135 (JCR Q1, IF7.5)
+[5] Yu Lu, Yingjian Qi, Xianghua Fu*. A framework for intelligent analysis of digital cardiotocographic signals from IoMT-based foetal monitoring, Future Generation Computer Systems, 2019, 101, 1130-1141.(JCR Q1, IF7.5)
+[6] Xianghua Fu, Yanzhi Wei, Fan Xu, Ting Wang, Yu Lu, et al, Semi-supervised Aspect-level Sentiment Classification Model Based on Variational Autoencoder. Knowledge-based Systems. 2019, 171, 81-92 ( JCR Q1, 中科院JCR1区，IF 5.863 )
+[7] Xianghua Fu, Xudong Sun, Haiying Wu, Laizhong Cui*. Weakly Supervised Topic Sentiment Joint Model with Word Embeddings. Knowledge-Based Systems, 147, 2018, 43-54  (JCR Q1, 中科院JCR2区, IF 4.529)
+[8] Xianghua Fu, Wangwang Liu, Yingying Xu, Laizhong Cui*. Combine HowNet lexicon to train phrase recursive autoencoder for sentence-level sentiment analysis, Neurocomputing, 241(7), 2017, 18-27 (JCR Q1, 中科院JCR2区, IF 3.317)
+[9] Xianghua Fu, Jianqiang Li, Kun Yang, Laizhong Cui*, Lei Yang. Dynamic Online HDP model for discovering evolutionary topics from Chinese social texts, Neurocomputing, 171, 2016, 412-424  (JCR Q1, 中科院JCR2区, IF 2.392)
+[10] Jianqiang Li, Jing Li, Xianghua Fu*, M.A. Masud, Joshua Zhexue Huang. Learning distributed word representation with multi-contextual mixed embedding. Knowledge-Based Systems 106, 2016, 220-230 (JCR Q1, 中科院JCR 2区, IF3.325)
+[11] Xianghua Fu, Kun Yang, Joshua Zhexue Huang, Laizhong Cui*. Dynamic non-parametric joint sentiment topic mixture model, Knowledge-Based Systems, 82, 2015, 102-114 (JCR Q1, 中科院JCR 2区, IF 3.325)
+[12] Laizhong Cui, Genghui Li, Xianghua Fu*, Nan Lu. CPPStreaming: a Cloud-assisted Peer-to-Peer Live Streaming System, HPCC 2015 (CCF B类会议)
+[13] Xianghua Fu, Liandong Liu, Chao Wang. Detection of community overlap according to belief propagation and conflict. Physica A: Statistical Mechanics and its Applications. 2013, 392(4). (JCR Q2, IF 3.3)
+[14] Xianghua Fu, Guo Liu, Yanyan Guo, Zhiqiang Wang: Multi-aspect sentiment analysis for Chinese online social reviews based on topic modeling and HowNet lexicon. Knowledge-Based System.2013, 37: 186-195 (JCR Q1, IF 4.396)
+
+E-mail: fuxianghua@sztu.edu.cn
+下一篇： 叶建华

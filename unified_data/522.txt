@@ -1,0 +1,24 @@
+敖勇
+一、教育经历
+2012/09-2018/07 清华大学 基础数学 博士
+2008/09-2012/06 华中科技大学 数学与应用数学 学士
+
+二、工作经历
+2023/07-至今 深圳技术大学大数据与互联网学院 助理教授
+2021/06-2023/05 华为技术有限公司 博士后
+2018/07-2021/05 中国矿业大学数学学院 讲师
+
+三、主要研究领域
+椭圆型偏微分方程与变分法
+
+四、主要成果及荣誉
+(1)Yong Ao, Jiaqi Wang, Wenming Zou: On the existence and regularity of vector solutions for quasilinear systems with linear coupling, SCIENCE CHINA Mathematics, 2019.
+(2)Yong Ao, Wenming Zou: Ground states for a class of quasilinear elliptic systems with critical exponent, Nonlinear Analysis, 2019.
+(3)Yong Ao: Existence of solutions for a class of nonlinear Choquard equations with critical growth, Applicable Analysis, 2021.
+(4)Yong Ao, Xin Zhao, Wenming Zou: Normalized solutions for nonlinear Choquard equations with general nonlocal term. J. Fixed Point Theory Appl., 2023.
+
+E-mail:aoyong@sztu.edu.cn
+
+
+上一篇：孟幻
+下一篇：赵天鸿

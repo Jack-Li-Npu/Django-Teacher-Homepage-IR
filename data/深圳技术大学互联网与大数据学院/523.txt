@@ -1,0 +1,22 @@
+赵天鸿
+赵天鸿，深圳技术大学大数据与互联网学院讲师。研究兴趣是时空预测模型、时空大数据挖掘、城市计算与智慧城市。相关研究成果发表论文30余篇，其中以第一作者在中科院一区期刊TITS、CEUS期刊，地理信息科学旗舰期刊IJGIS发表论文4篇。欢迎对智慧城市、交通大数据、地理信息系统感兴趣的同学加入研究组。邮箱:zhaotianhong@sztu.edu.cn。
+
+一、教育经历
+2019/09 - 2023/06，深圳大学，博士
+2021/09 - 2022/09，新加坡国立大学，联合培养博士
+
+二、工作经历
+2023/07 - 至今，深圳技术大学大数据与互联网学院，讲师
+2021/06 - 2021/09，腾讯科技，数据挖掘实习生
+
+三、主要研究领域
+时空预测模型，时空大数据挖掘，城市计算，智慧城市
+
+四、主要成果
+[1]Zhao T, Tu W, Fang Z, et al. Optimizing living material delivery during the COVID-19 outbreak[J]. IEEE Transactions on Intelligent Transportation Systems, 2022, 23(7): 6709–6719.
+[2] Zhao T, Huang Z, Tu W, et al. Coupling graph deep learning and spatial-temporal influence of built environment for short-term bus travel demand prediction[J]. Computers, Environment and Urban Systems, 2022, 94: 101776.
+[3] Zhao T, Huang Z, Tu W, et al. Developing a multiview spatiotemporal model based on deep graph neural networks to predict the travel demand by bus[J]. International Journal of Geographical Information Science, 2023, 37(7): 1555-1581.
+[4] Zhao T, Liang X, Tu W, et al. Sensing urban soundscapes from street view imagery[J]. Computers, Environment and Urban Systems, 2023, 99: 101915.
+[5]Tu W, Zhao T, Zhou B, et al. OCD: Online crowdsourced delivery for on-demand food[J]. IEEE Internet of Things Journal, 2020, 7(8): 6842–6854.
+上一篇：敖勇
+下一篇：安晓欣

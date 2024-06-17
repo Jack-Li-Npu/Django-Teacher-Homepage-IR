@@ -1,0 +1,27 @@
+谢李岩
+助理教授
+教育背景
+博士（佐治亚理工学院）
+学士（中国科学技术大学）
+研究领域
+基于传感器网络及卫生保健的数据科学研究、序贯变化检测、鲁棒优化
+个人网站
+https://liyanxie.github.io/
+电子邮箱
+xieliyan@cuhk.edu.cn
+办公室
+道远楼420d
+个人简介
+谢李岩教授于2021年夏季加入香港中文大学（深圳）任助理教授一职。谢教授于2016年获中国科学技术大学统计学理学学士学位。其后前往美国佐治亚理工学院攻读，并于2021年获得工业工程博士学位。她是多个顶级会议的受邀审稿人，如AAAI, ICML, Neurips, AISTATS, ICLR。谢教授的研究方向主要为基于传感器网络及卫生保健的数据科学研究，序贯变化检测和鲁棒优化。
+学术著作
+Journal Articles (published or submitted)
+Liyan Xie, George V. Moustakides, and Yao Xie. “Sequential Subspace Changepoint Detection.” Sequential Analysis, vol. 39, no. 3, pp. 307-335, 2020. (Finalist of INFORMS QSR Best Student Paper Award 2019.)
+Yang Cao, Liyan Xie, Yao Xie, and Huan Xu. “Sequential Change-Point Detection via Online Convex Optimization.” Entropy, vol. 20, no. 2, pp. 108, 2018.
+Anatoli Juditsky, Arkadi Nemirovski, Liyan Xie, and Yao Xie. “Convex Parameter Recovery for Interacting Marked Processes.” IEEE Journal on Selected Areas in Information Theory, vol. 1, no. 3, pp. 799-813, 2020.
+Liyan Xie and Yao Xie. “Sequential Change Detection by Optimal Weighted l2 Divergence.” arXiv:2010.11285. Submitted.
+Liyan Xie, Shaofeng Zou, Yao Xie, and Venugopal V. Veeravalli. “Sequential Change Detection: Classical Results and New Directions.” Survey paper. To appear in 2021, IEEE Journal on Selected Areas in Information Theory.
+  Preprints and Working Paper
+Xi He, Liyan Xie, Yao Xie, and Pinar Keskinocak. “Graph Based Variable Selection For Survival Analysis.” Working paper.
+Liyan Xie, Rui Gao, and Yao Xie. “Data-driven Robust Hypothesis Testing with Wasserstein Uncertainty Sets.” Working paper. (Runner up for INFORMS Computing Society Student Paper Prize 2019.)
+Shixiang Zhu, Alexander Bukharin, Liyan Xie, Mauricio Santillana, Shihao Yang, and Yao Xie. “High-Resolution Spatio-Temporal Model for County-level COVID-19 Activity in the US.” arXiv:2009.07356, 2020. Under revision.
+Shixiang Zhu, Liyan Xie, Minghe Zhang, Rui Gao, and Yao Xie. “Distributionally Robust k-Nearest Neighbors for Few-Shot Learning.” arXiv:2006.04004, 2020.

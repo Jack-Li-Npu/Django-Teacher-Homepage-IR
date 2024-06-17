@@ -1,0 +1,14 @@
+魏林川（将在2025年春季加入）
+助理教授
+教育背景
+西北大学博士
+滑铁卢大学学士
+研究领域
+整数规划、组合优化、统计学习、供应链管理
+个人简介
+魏林川教授2024年于美国西北大学获工业工程及管理科学博士学位。当前的研究领域为：整数规划，非线性优化，组合优化，及其在供应链管理与数据科学方面的应用。
+学术著作
+Journal articles
+1. L. Wei, A. Gómez, S. Küçükyavuz. (2022) “Ideal formulations for constrained convex optimization problems with indicator variables,” Mathematical Programming, 192, 57-88
+2. L. Wei, A. Atamtürk, A. Gómez, S. Küçükyavuz. (2024) “On the convex hull of convex quadratic optimization problems with indicators,” Mathematical Programming, 204, 703-737
+3. S. Küçükyavuz, A. Shojaie, H. Manzour, L. Wei, H. Wu. (2023) “Consistent Second-order Conic Integer Programming for Learning Bayesian Networks,” Journal of Machine Learning Research 24(322), 1-38

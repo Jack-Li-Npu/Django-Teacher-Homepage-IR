@@ -1,0 +1,23 @@
+个人简介
+王京华，哈尔滨工业大学（深圳）计算机科学与技术学院&国际人工智能研究院副教授，博士生导师，深圳市海外高层次人才。2005年获山东大学学士学位，2009年获哈尔滨工业大学（深圳）硕士学位，2013年获香港理工大学博士学位。曾在南洋理工大学和华为2012实验室等单位从事研究工作。
+
+研究方向为计算机视觉，模式识别，迁移学习，零样本学习等。在国际著名学术会议和期刊上共发表论文30余篇，其中包括IEEE TPAMI、IEEE TIP等一流期刊和CVPR、ICCV、ECCV等顶级会议。曾获广东省计算机学会优秀论文一等奖，省级优秀硕士毕业生等荣誉，指导学生获得全球人工智能技术创新大赛（算法挑战赛）决赛第五名。担任国际学术期刊《International Journal of Image and Graphics》的编委，担任CCF推荐会议的Session Chair，并担任多个著名国际会议及期刊的审稿人。
+
+Jinghua Wang is an associate professor at the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China. He received the bachelor degree from Shandong University, the master degree from the Harbin Institute of Technology, and the Ph.D. degree from the Hong Kong Polytechnic University. From 2014 to 2016, he was research fellow at Nanyang Technological University. From 2016 to 2017, he was a Senior Algorithm Engineer at Huawei. From 2017 to 2021, he was a research associate professor at Shenzhen University. He has published over 40 technical papers at some international journals and conferences, including TPAMI TIP, TMM, TNNLS, TCSVT, PR, CVPR, ICCV, ECCV, etc. His research interests include computer vision, domain adaptation, transfer learning and unsupervised learning.
+
+
+课题组欢迎对计算机视觉、人工智能感兴趣的本科生、硕士生、博士生加入，请通过邮件联系我。
+Email：wangjh2012@foxmail.com
+
+讲授课程：
+本科生课程（秋季学期）：编译原理，主讲
+硕士研究生课程（秋季学期）：高级计算机视觉，主讲
+博士研究生课程（春季学期）：先进机器学习理论与方法，主讲
+
+
+代表性论文：
+Jinghua Wang and Jianmin Jiang, "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 44(10): 6264-6279 (2022). (TOP 期刊，CCF A, 中科院一区, IF: 16.389)
+Jinghua Wang, Ming-Ming Cheng and Jianmin Jiang, “Domain Shift Preserving for Zero-shot Domain Adaptation”, IEEE Transactions on Image Processing (TIP), 2021. (TOP期刊, CCF A, 中科院一区，IF: 10.856)
+Jinghua Wang, Jianmin Jiang, “Conditional Coupled Generative Adversarial Networks for Zero-shot Domain Adaptation”, IEEE International Conference on Computer Vision (ICCV), 2019. (计算机视觉TOP会议，CCF A )
+Jinghua Wang and Jianmin Jiang, “Adversarial Learning for Zero-shot Domain Adaptation”, European Conference on Computer Vision (ECCV), 2020. (计算机视觉TOP会议，CS Rankings会议 )
+Jinghua Wang, Zhenhua Wang, Dacheng Tao, Simon See, Gang Wang, “Learning Common and Specific Features for RGBD Semantic Segmentation with Deconvolutional Nets”, European Conference on Computer Vision (ECCV), 2016. (计算机视觉TOP会议，CS Rankings会议)

@@ -1,0 +1,22 @@
+个人简介
+堵宏伟，哈尔滨工业大学（深圳）计算机科学与技术学院教授 （博士生导师）。2008年于香港城市大学计算机科学学院获得博士学位，并获得香港城市大学杰出研究毕业论文奖。毕业后，先后在香港城市大学、美国伊利诺理工大学（IIT)、加拿大爱德华王子岛大学（UPEI）从事研究工作。2010年12月任职哈尔滨工业大学（深圳）。研究方向为无线多跳网络（传感网络等）、移动边缘计算、社交网络分析等。在相关领域发表论文100多篇，主要发表IEEE TPDS、IEEE TON、IEEE T CLOUD COMPUT、IEEE IOT等国际期刊和IEEE INFOCOM等国际顶级会议上。2015-2016年，获得了教育部自然科学一等奖和陕西省科学技术一等奖。任职于哈工大至今，一直主持着国家自然科学基金面上和青年项目，以及深圳市项目，参与了国家重大研究计划等项目。是IEEE/中国计算机学会高级会员，中国物联网专委会委员，深圳市地方领军人才和海外高层次人才。
+
+招生信息
+
+每年计划招收研究生3-4 名左右，博士生 1-2 名左右，同时也欢迎校内本科生加入课题组从事科研。具体要求：
+表现优秀者将被推荐至美国、加拿大和中国香港等地继续深造。
+有意加入本课题组的学生请联系：hwdu@hit.edu.cn。
+
+近3年代表性论文
+Zhihang Li, Hongwei Du*, Xiang Li: Topic-Aware Information Coverage Maximization in Social Networks, IEEE Transactions on Computational Social Systems, 10.1109/TCSS.2023.3243936, 2023.
+Qiang He, Hongwei Du*, Ziwei Liang: Positive Influence Maximization in Signed Networks Within a Limited Time. IEEE Transactions on Computational Social Systems 10(5): 2624-2635 (2023).
+Ziwei Liang, Qiang He, Hongwei Du*, Wen Xu: Targeted influence maximization in competitive social networks. Information Sciences 619: 390-405 (2023).
+Zichen Wang, Hongwei Du*: Collaborative coalitions-based joint service caching and task offloading for edge networks. Theoretical Computer Science 940(Part): 52-65 (2023).
+Rui Mao, Hongwei Du*: DPMA: a distributed profit-based placement scheme for multi-sp mobile edge computing. J. Comb. Optim. 44(5): 3294-3309 (2022).
+Chen Zhang, Hongwei Du*: DMORA: Decentralized Multi-SP Online Resource Allocation Scheme for Mobile Edge Computing. IEEE Trans. Cloud Comput. 10(4): 2497-2507 (2022).
+Chuang Liu and Hongwei Du*:t, K-Sweep Coverage with Mobile Sensor Nodes in Wireless Sensor Networks, IEEE Internet of Things, 8(18): 13888-13899 (2021).
+Zixiong Nie, Hongwei Du*: An approximation algorithm for General Energy Restricted Sweep Coverage problem.Theoretical Computer Science, 864: 70-79 (2021).
+Hongwei Du*, Qiang Ye, Zhipeng Sun, Chuang Liu and Wen Xu:FAST-ODT: A Lightweight Outlier Detection Scheme for Categorical Data Sets, IEEE Transactions on Network Science and Engineering，8(1)，pp 13-24, March 2021.
+Chuang Liu, Hongwei Du*, Qiang Ye and Wen Xu: Group Sweep Coverage with Guaranteed Approximation Ratio, Theoretical Computer Science, 836, pp 1-15, Oct. 2020.
+Hongwei Du*, Caiwei Yuan, He Yuan, Shanshan Wei and Wen Xu: Identify Connected Positive Influence Dominating Set in Social Networks Using Two-Hop Coverage. IEEE Transaction on Computational Social System 6(5): 956-967 (2019).
+发表文章目录：https://scholar.google.com/citations?user=sObwxHAAAAAJ&hl=en&oi=ao

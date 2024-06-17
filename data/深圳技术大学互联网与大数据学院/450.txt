@@ -1,0 +1,24 @@
+吴庆阳
+
+一、教育经历
+2003/09-2006/07，四川大学，电子信息学院，光学专业，理学博士
+2000/09-2003/07，四川大学，制造学院，机械设计及理论专业，工学硕士
+1992/09-1996/07，重庆大学，光电精密仪器及机械系，精密仪器专业，工学学士
+
+二、工作经历
+2017/05-至今，深圳技术大学，大数据与互联网学院，教授
+2007/11-2017/05，深圳大学，电子科学与技术学院，副教授
+2006/09-2007/11，深圳大学，电子科学与技术学院，讲师
+
+三、主要研究领域
+计算机视觉、数字图像处理，三维传感技术，光学测量技术
+
+四、主要成果及荣誉
+（1）Xiaoting lu, Qingyang Wu*, Haotao Huang, Calibration based on ray-tracing for multi-line structured light projection system, OPTICS EXPRESS, Vol. 27, No. 24, 35884, 25 November 2019.
+（2）Qingyang Wu*, Baichun Zhang, Haixin Lin, Xiangjun Zeng, Zeng Zeng，Flexible 3D reconstruction method based on phase-matching in multi-sensor system, OPTICS EXPRESS, Vol. 24, No. 7, 7299, 4 Apr 2016.
+（3）Qingyang Wu*, Baichun Zhang, Haixin Lin, Xiangjun Zeng, Zeng Zeng, A novel three-dimensional shape measurement method with lower occlusion for the bottom of cavity, Chinese Optics Letter, vol 14,issue 1,2016.
+（4）Qingyang Wu,Bin Hui, Xiangdong Gong, Jinzhen Li,Jianpang Zhai,INTRA-ORAL SCANNER FOR DIGITAL IMPRESSION AND REAL-TIME RECONSTRUCTION SYSTEM FOR INNER SURFACE TOPOGRAPHIC IMAGE OF ORAL CAVITY，20151006，美国，专利号：US9,149,348 B2.
+（5）2017年立项，基于共聚焦的口内三维扫描技术研究，深圳技术大学校企合作项目，主持。
+  E-mail:wuqingyang@sztu.edu.cn
+  上一篇：许强华
+下一篇：李发君

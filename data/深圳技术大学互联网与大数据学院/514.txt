@@ -1,0 +1,32 @@
+姜婧妍
+姜婧妍，深圳技术大学大数据与互联网学院助理教授。曾在清华大学深圳国际研究生院从事博士后研究。在吉林大学大学先后获得计算机科学与技术专业学士（2012）和博士学位（2020）。研究兴趣为物联网/边缘计算等场景下大规模机器学习模型在有限资源模式下的训练、优化、部署、和安全问题。相关研究成果以第一作者或通讯作者发表在实时系统领域旗舰会议IEEE RTSS（CCF A）、中科院一区期刊Information Processing & Management等顶级期刊和会议，其中SCI期刊论文4篇，CCF A类会议1篇。发表高水平论文十余篇，Google Scholar被引380+次，发明专利10项。
+
+一、教育经历
+2014/09-2020/00，吉林大学，计算机系统结构，工学博士
+2017/09-2020/09，清华大学国际研究生院，访问博士
+2008/09-2012/09，吉林大学，计算机科学与技术，理学学士
+
+二、工作经历
+2022/09-至今，深圳技术大学大数据与互联网学院，助理教授
+2020/09-2022/08，清华大学, 国际研究生院，博士后
+2020/07-2022/08，深信服科技股份有限公司，高级研发专家
+2019/10-2020/06，腾讯科技，算法实习生
+
+三、主要研究领域
+物联网/边缘计算等场景下大规模机器学习模型在有限资源模式下的训练、优化、部署、和安全问题。
+
+四、主要成果及荣誉
+[1]. Song S, Fang Z, Jiang J*. Fast-DRD: Fast decentralized reinforcement distillation for deadline-aware edge computing[J]. Information processing & management, 2022, 59(2): 102850. (通讯作者，SCI，中科院一区)
+[2]. Jiang J, Luo Z, Hu C, et al. Joint model and data adaptation for cloud inference serving[C]//2021 IEEE Real-Time Systems Symposium (RTSS). IEEE, 2021: 279-289. (第一作者，CCF A类)
+[3]. Jiang J, Hu L. Decentralised federated learning with adaptive partial gradient aggregation[J]. CAAI Transactions on Intelligence Technology, 2020, 5(3): 230-236. （第一作者，SCI，JCR Q1）
+[4]. Jiang J, Hu L, Hao P, et al. Q-FDBA: improving QoE fairness for video streaming[J]. Multimedia Tools and Applications, 2018, 77: 10787-10806. （第一作者，SCI，CCF C类）
+[5]. 面向边缘智能的深度模型推理问题研究，2023-2025，出站博士后科研资助，主持.
+[6]. 基于云边协同的多模态感知服务型人机交互系统关键技术研究，2023-2025，广东省教育厅2022年度广东高校科研平台和科研项目，参与.
+[7]. 中国商业联合会，科技进步一等奖
+
+联系方式：
+欢迎感兴趣的同学加入研究组，有意请发简历到邮箱。
+E-mail:jiangjingyan@sztu.edu.cn
+个人网站：www.jiangjingyan.com
+上一篇：张彻
+下一篇：王小航

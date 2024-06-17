@@ -1,0 +1,31 @@
+个人简介
+苏敬勇，哈尔滨工业大学（深圳）计算机科学与技术学院教授/博导，哈尔滨工业大学（深圳）国际人工智能研究院研究员，鹏城实验室双聘研究员。鹏城孔雀特聘教授，哈工大青年拔尖教授，计算机学院CPS研究中心副主任，深圳市视觉目标检测与判识重点实验室副主任。分别于2006年和2008年在哈尔滨工业大学自动化测试与控制系获得工学学士和硕士学位，2013年获得美国佛罗里达州立大学统计学博士学位，2013到2019年于美国德州理工大学数学与统计系任教（助理、副教授），2019年初获得终身教职。2019年秋全职回国。主要研究方向包括计算机视觉、大数据、医学图像和流形统计学等。已在国际顶级期刊和会议（IEEE TPAMI、IJCV、TMI、TKDE、CVPR、ICCV、AAAI和KDD等）发表60余篇论文。曾获得ICPR最佳科学论文，佛罗里达州立大学杰出毕业生，德州理工大学优秀科研与教学奖，华为火花奖等。主持和参与了多项美国自然科学基金项目，现主持多项国家和省市级重点项目，与华为、中国电子、浪潮云、天祥集团和河钢集团等产学研合作课题，申请专利20余项。现为鹏城实验室视觉大模型和多模态大模型数据负责人，CCF数字医学分会执行委员，广东省图像图形学会理事，Pattern Recognition Letters编委。
+
+现有硕士和博士20余名，主要包括3个研究领域：
+计算机视觉和多模态学习
+以数据为中心的人工智能
+医学图像分析（脑科学与类脑智能、生理信号分析与理解）
+
+课题组每年招收博士生2-3名，硕士生4-5名，欢迎积极向上、自信乐观的同学申请，请邮件联系 sujingyong@hit.edu.cn。详情请参考计算机学院CPS研究中心 http://cps.hitsz.edu.cn/ 。
+
+相关代表作：
+Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection. AAAI, 2024.
+Semi-supervised Medical Image Segmentation via Feature-perturbed Consistenc. BIBM, 2023.
+Cross-Scale Guided Fusion Transformer for Disaster Assessment Using Satellite Imagery. IEEE Trans. on Geoscience and Remote Sensing, 2023.
+Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction. ICCV, 2023.
+Hierarchical Dense Correlation Distillation for Few-Shot Segmentation. CVPR (Spotlight), 2023.
+Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory. IEEE Trans. on Knowledge and Data Engineering, 2023.
+A Riemannian Framework for Structurally Curated Functional Clustering of Brain White Matter Fibers. IEEE Trans. on Medical Imaging, 2023.
+Two-person Graph Convolutional Network for Skeleton-based Human Interaction Recognition. IEEE Transactions on Circuits and Systems for Video Technolony, 2022.
+A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling. ACM SIGKDD, 2022.
+A BERT based Method for Continuous Estimation of Cross-subject Hand Kinematics from Surface Electromyographic Signals. IEEE Trans. on Neural Systems and Rehabilitation Engineering, 2022.
+MVDRNet: Multi-view Diabetic Retinopathy Detection by Combining DCNNs and Attention Mechanisms. Pattern Recognition, 2021.
+A Labeling Method for Financial Time Series Prediction based on Trends. Entropy, 2020.
+Rate-invariant Analysis of Covariance Trajectories. Journal of Mathematical Imaging and Vision, 2018.
+Elastic Functional Coding of Riemannian Trajectories. IEEE Trans. on Pattern Analysis and Machine Intelligence, 2017.
+Spatially Coherent Interpretations of Videos Using Pattern Theory. International Journal of Computer Vision, 2017.
+Action Recognition Using Rate-Invariant Analysis of Skeletal Shape Trajectories. IEEE Trans. on Pattern Analysis and Machine Intelligence, 2016.
+Temporally Coherent Interpretations for Long Videos Using Pattern Theory. CVPR, 2015.
+Exploring the Latent Functional Space of Trajectories on Riemannian Manifolds with Applications to Human Actions. CVPR, 2015.
+Rate-Invariant Analysis of Trajectories on Riemannian Manifolds with Application in Visual Speech Recognition. CVPR (Oral), 2014.
+Statistical Analysis of Trajectories on Riemannian Manifolds: Bird Migration, Hurricane Tracking and Video Surveillance. Annals of Applied Statistics, 2014.

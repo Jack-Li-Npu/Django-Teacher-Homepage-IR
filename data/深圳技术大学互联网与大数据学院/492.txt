@@ -1,0 +1,25 @@
+杨晓杏
+ 
+一、教育经历
+2007/09-2013/05中国科学技术大学，计算机科学与技术，博士
+2003/09-2007/06中国科学技术大学，计算机科学与技术，学士
+
+二、工作经历
+2019/09-至今 深圳技术大学大数据与互联网学院，助理教授
+2016/02-2019/08中山大学数据科学与计算机学院，副研究员
+2013/07-2016/01 四川航天技术研究院，总体设计师
+
+三、主要研究领域
+软件缺陷预测、机器学习、智能计算等
+
+四、主要成果及荣誉
+（1）国家自然科学基金项目：软件缺陷预测的度量元有效性及建模算法研究,61602534,20万元（直接经费），2017/01—2019/12，项目负责人。
+（2）X. Yang and W. Wen, Ridge and Lasso Regression Models for Cross-Version Defect Prediction, IEEE Transaction on Reliability, Vol.67, No.3, pp.885-896,2018.
+（3）X. Yang, K. Tang, and X. Yao, A Learning-to-Rank Approach to Software Defect Prediction, IEEE Transaction on Reliability, Vol. 64, No.1, pp.234-246, 2015.
+（4）X. Li, X. Yang*, J. Su and W. Wen,A Multi-Objective Learning Method for BuildingSparse Defect Prediction Models. 2020 IEEE 20th International Conference on Software Quality, Reliability and Security (QRS 2020), pp204-211,2020.
+（5）X. Yang*, X. Li, W. Wen, and J. Su, An Investigation of Ensemble Approaches to Cross-Version Defect Prediction, 31st International Conference on Software Engineering and Knowledge Engineering (SEKE 2019), pp.437-442, 2019.
+
+E-mail:yangxiaoxing@sztu.edu.cn
+
+  上一篇：王文婷
+下一篇：王书鑫

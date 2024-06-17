@@ -1,0 +1,18 @@
+宋方达
+助理教授（定期聘任）
+教育背景
+香港中文大学博士
+浙江大学学士
+研究领域
+贝叶斯统计、统计基因组学、统计计算和大数据分析
+个人网站
+https://sites.google.com/view/fangda-songs-website/home
+电子邮箱
+songfangda@cuhk.edu.cn
+办公室
+道远楼519
+个人简介
+宋方达博士于2021年8月加入香港中文大学（深圳）数据科学学院并担任助理教授。他于2016年获得浙江大学统计学专业理学学士学位。之后，他于2020年获得香港中文大学统计学博士学位，师承魏颖颖教授。在博士学习期间，他于2018年访问耶鲁大学生物统计系马双鸽教授。他的主要研究兴趣在于通过提出新的统计模型，开发高效算法并提供理论证明来分析各种前沿科学领域中的数据，这些数据分别来自基因组学，社交网络和在线学习。
+学术著作
+1. Fangda Song, Ga Ming Chan and Yingying Wei (2020). Flexible Experimental Designs for Valid Single-cell RNA-sequencing Experiments Allowing Batch Effects Correction. Nature Communications, 11(1), 1-15.
+2. Wang, Ran, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man Hon Wong, Kwong Sak Leung, and Lixin Cheng (2022). Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia. Briefings in Bioinformatics, 23(2). 

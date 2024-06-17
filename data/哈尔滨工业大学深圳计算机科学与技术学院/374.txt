@@ -1,0 +1,15 @@
+基本信息
+张民，现任哈工大（深圳）特聘校长助理，计算与智能研究院院长。国家杰出青年科学基金获得者，“国家百千万人才工程”入选者，国家有突出贡献中青年专家，享受国务院政府特殊津贴。“鹏城孔雀计划”特聘A岗位，江苏省“双创人才计划”获得者，江苏省“双创团队”领军人才。
+长期从事自然语言处理和人工智能研究。1997年于哈尔滨工业大学博士毕业后，长期在海外学术界和产业界从事研发和管理工作逾20年。已发表CCF A/B类会议和期刊论文150余篇，出版Springer专著2部，主编英文论著（论文集）16本，获部级科技进步奖3项。主持国家自然科学基金杰青、重点、科技部重点研发计划课题、大型产业界项目多项。曾任和现任IEEE/ACM T-ASLP、CL、NLE、SCIENTIA SINICA Informationis、JCST、MIR、《中国科学：信息科学》、《软件学报》和《自动化学报》编委。担任国内外学术会议大会主席、程序委员会主席、特邀报告讲者50余次。
+
+教育经历
+1994/04-1997/10：哈尔滨工业大学，计算机科学与技术系，工学博士
+1991/09-1994/03：哈尔滨工业大学，计算机科学与技术系，工学硕士
+1987/09-1991/07：哈尔滨工业大学，计算机科学与技术系，工学学士
+科研与学术工作经历
+2021/09至今： 哈尔滨工业大学（深圳），教授，博士生导师，特聘校长助理，计算与智能研究院院长
+2012/10-2021/09： 苏州大学，特聘教授，博士生导师，计算机科学与技术学院副院长、院长，人类语言技术研究所所长，人工智能研究院副院长
+2003/12-2012/10： 新加坡资讯通信技术研究院，研究员，统计机器翻译实验室主任 (Institute for Infocomm Research，A-STAR，Singapore，Research Staff，Head of SMT Lab)
+2001/02-2003/12： Infotalk Technology Pte. Ltd，Singapore，Senior Research Manager (高级研究主管)
+1999/09-2001/01： Lernout and Hauspie (L&H) Asia Pacific，Singapore (now as part of Nuance, www.nuance.com)，Research Staff (研究员)
+1997/12-1999/09： 韩国科学技术大学，计算机系，博士后 (Department of Computer Science, Korean Advanced Institute of Science and Technology, KAIST, Postdoctoral Researcher)

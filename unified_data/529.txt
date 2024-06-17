@@ -1,0 +1,42 @@
+谭金凯
+一、教育背景
+2016/09-2020/06  华东师范大学，自然地理学，博士
+2018/09-2019/09  哥伦比亚大学，应用数学，联合培养博士
+2013/09-2016/06  南宁师范大学，概论论与数理统计，硕士
+2008/09-2012/06  南宁师范大学，信息与计算科学，本科
+
+二、工作经历
+2024/04至今  深圳技术大学，大数据与互联网学院，助理教授
+2020/07-2023/08 中山大学，大气科学，博士后
+
+三、研究兴趣
+将地学大数据（卫星、雷达、模式、观测等）、先验物理知识、人工智能技术等充分融合，采用新型理论驱动和数据驱动的建模范式，研发‘数据—知识’耦合的气象预报模型，重点关注短临降水预报、台风预报、生态农业等具体应用。
+
+四、科研项目
+[1] 中国博士后科学基金面上基金《融合深度学习与注意力机制的台风强度预报技术》，已结题，主持
+[2] 广东省基础与应用基础研究基金《基于人工智能的台风路径与强度预报技术研究》，已结题，主持
+[3] 中央高校基本科研业务费青年教师团队项目《基于人工智能的台风预报技术及前期引导气流定量贡献》，已结题，主持
+[4] 国家重点研发计划《海洋大气多尺度动力过程的数值模拟与评估》，在研，参与
+
+五、主要成果及荣誉
+学术论文（一作/通讯）
+[1] Intelligent Reconstruction of Radar Composite Reflectivity Based on Satellite Observations and Deep Learning (2024). Remote Sensing.https://doi.org/10.3390/rs16020275
+[2] Deep learning model based on multi-scale feature fusion for precipitation nowcasting (2024). Geoscientific Model Development. https://doi.org/10.5194/gmd-17-53-2024
+[3] TSRC: A Deep Learning Model for Precipitation Short-Term Forecasting over China Using Radar Echo Data (2023). Remote Sensing. https://doi.org/10.3390/rs15010142
+[4] Tropical Cyclone Intensity Estimation Using Himawari-8 Satellite Cloud Products and Deep Learning (2022). Remote Sensing. https://doi.org/10.3390/rs14040812
+[5] Projected changes of typhoon intensity in a regional climate model: Development of a machine learning bias correction scheme (2021). International Journal of Climatology.https://doi.org/10.1002/joc.6987
+[6] Western North Pacific tropical cyclone track forecasts by a machine learning model (2020). Stochastic Environmental Research and Risk Assessment.https://doi.org/10.1007/s00477-020-01930-w
+[7] A prediction scheme of tropical cyclone frequency based on lasso and random forest (2018). Theoretical and applied climatology. https://doi.org/10.1007/s00704-017-2233-3s
+
+国家发明专利
+[1] 谭金凯. 一种基于点云体素的台风定强方法,系统,设备及介质: CN114049545A[P]. 2022.
+[2] 谭金凯, 陈生. 一种台风中心位置偏移量生成方法及台风中心定位方法: CN114550007A[P]. 2022.
+[2] 谭金凯. 基于变分自编码的台风云图外推方法、系统、设备和介质: CN115661277B[P]. 2023.
+
+主要荣誉
+[1] 第十届“华为杯”全国研究生数学建模竞赛二等奖
+[2] 2011年“互动出版杯”数学中国数学建模挑战赛全国一等奖
+
+Email:tanjinkai@sztu.edu.cn
+
+上一篇：张广怡

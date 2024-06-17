@@ -1,0 +1,22 @@
+李肖
+助理教授
+教育背景
+博士（香港中文大学）
+学士（浙江工业大学）
+研究领域
+数学优化（非光滑、非凸以及随机优化）、机器学习、信号处理
+个人网站
+https://xiao-li.org
+电子邮箱
+lixiao@cuhk.edu.cn
+办公室
+道远楼506a
+个人简介
+李肖教授现为香港中文大学（深圳）助理教授。李教授于2016年获得浙江工业大学通信工程学士学位，于2020年获得香港中文大学电子工程博士学位。李教授曾于 2018年10月至2019年4月，作为访问学者在南加利福尼亚大学学习。
+李教授的研究方向包括数据科学、计算成像、机器学习、数学优化等领域。他曾多次参与国际性学术会议，多篇论文被国际会议收录；在2019年神经信息处理系统大会（NeurIPS）中其著作被收录为 Spotlight 论文（排名前3%），在2020年国际学习表征会议（ICLR）中其著作被收录为 Oral 论文（排名前1.85%）。除此之外，李教授曾多次在国际性学术刊物上发表研究成果，如《SIAM优化期刊》（SIAM Journal on Optimization），《SIAM成像科学期刊》（SIAM Journal on Imaging Science），《IEEE图像处理汇刊》（IEEE Transactions on Image Processing）等等。
+学术著作
+1. Qijun Luo, Xiao Li (2023). Finite-Time Analysis of Decentralized Single-Timescale Actor-Critic. Transactions on Machine Learning Research.
+2. Xiao Li, Andre Milzarek, Junwen Qiu (2023). Convergence of Random Reshuffling Under The Kurdyka-Lojasiewicz Inequality. SIAM Journal on Optimization.
+3. Xiao Li, Andre Milzarek (2022). A Unified Convergence Theorem for Stochastic Optimization Methods. Neural Information Processing Systems (NeurIPS).
+4. Xiao Li, Shixiang Chen, Zengde Deng, Qing Qu, Zhihui Zhu, and Anthony Man-Cho So (2021). Weakly convex optimization over Stiefel manifold using Riemannian subgradient-type methods. SIAM Journal on Optimization.
+5. Xiao Li, Zhihui Zhu, Anthony Man-Cho So, Rene Vidal (2020). Nonconvex Robust Low-rank Matrix Recovery. SIAM Journal on Optimization.

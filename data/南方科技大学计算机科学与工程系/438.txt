@@ -1,0 +1,44 @@
+Shan Chen's Homepage
+Home
+Publications
+Contact
+Shan Chen
+Tenure-Track Associate Professor
+Department of Computer Science and Engineering
+Southern University of Science and Technology
+Biography
+In August 2022, I joined the Southern University of Science and Technology (SUSTech), Shenzhen, China, as a tenure-track assistant professor. I obtained my Ph.D. degree from Georgia Tech under the supervision of Alexandra (Sasha) Boldyreva in 2020. Then, I did my postdoc in the Cryptoplexity group led by Marc Fischlin at TU Darmstadt.
+My research interests lie in cryptography and information security, and my current focus is on real-world cryptography. I am most passionate about analyzing deployed or soon-to-be-deployed security protocols and developing provably secure and practically efficient cryptographic solutions.
+I am seeking self-motivated students and postdocs for our Applied Cryptography Group. Please feel free to contact me if you are interested in working with me.
+* If you are interested in pursuing a graduate degree with me and wonder what you would expect from that, this article about the Ph.D. experience might be very helpful and you can regard the master’s experience as a simplified version of that.
+Interests
+Cryptography
+Information Security
+Education
+PhD in Computer Science, 2020
+Georgia Institute of Technology
+MEng in Computer Science and Technology
+Tsinghua University
+BSc in Mathematics and Applied Mathematics
+Beijing Normal University
+Recent Publications
+Quickly discover relevant content by filtering publications.
+Shan Chen, Marc Fischlin (2024). Integrating Causality in Messaging Channels. In EUROCRYPT 2024 (to appear).
+PDF
+Manuel Barbosa, Alexandra Boldyreva, Shan Chen, Bogdan Warinschi (2021). Provable Security Analysis of FIDO2. In CRYPTO 2021.
+PDF Cite Video
+Shan Chen, Samuel Jero, Matthew Jagielski, Alexandra Boldyreva, Cristina Nita-Rotaru (2021). Secure Communication Channel Establishment: TLS 1.3 (over TCP Fast Open) versus QUIC. In Journal of Cryptology 2021.
+PDF Cite
+Shan Chen, Samuel Jero, Matthew Jagielski, Alexandra Boldyreva, Cristina Nita-Rotaru (2019). Secure Communication Channel Establishment: TLS 1.3 (over TCP Fast Open) vs. QUIC. In ESORICS 2019.
+PDF Cite
+Shan Chen, Rodolphe Lampe, Jooyoung Lee, Yannick Seurin, John Steinberger (2018). Minimizing the Two-Round Even–Mansour Cipher. In Journal of Cryptology 2018.
+PDF Cite
+SEE ALL PUBLICATIONS
+Service
+Program Committee: PKC 2023
+Contact
+chens3@sustech.edu.cn
+1088 Xueyuan Blvd, Shenzhen, Guangdong 518055
+Enter South Tower of CoE Building and take the stairs to Office 614 on Floor 6
+© 2024 Me. This work is licensed under CC BY NC ND 4.0
+Published with Hugo Blox Builder — the free, open source website builder that empowers creators.

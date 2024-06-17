@@ -1,0 +1,28 @@
+戴建岗
+康奈尔大学Leon C. Welch讲座教授
+院长
+教育背景
+斯坦福大学数学博士，1985-1990
+南京大学数学硕士，1982-1985
+南京大学数学学士，1978-1982
+研究领域
+应用概率、流体模型、扩散模型、随机过程和强化学习、随机处理网络中的动态资源分配和优化及在半导体晶圆生产线、通信网络、数据中心、服务系统（客户呼叫中心、打车平台、航空公司、医院等）的应用
+个人网站
+https://myweb.cuhk.edu.cn/jimdai/Home/Index
+电子邮箱
+jimdai@cuhk.edu.cn
+办公室
+道远楼606
+个人简介
+戴建岗教授现任美国康奈尔大学运筹学与信息工程学院Leon C. Welch讲座教授、香港中文大学（深圳）数据科学学院院长。戴教授于2012年加入康奈尔大学，此前他于1990年加入乔治亚理工学院，并于2007年受聘为Edenfield讲座教授。他曾于2002年至2018年7月任职清华大学经济管理学院特聘教授组，2009至2011年任新加坡国立大学James Riley杰出访问教授。戴建岗教授是国际运筹学研究的引领学者，他培养的大多数博士研究生毕业后都在世界知名大学任教。戴教授曾获诸多荣誉，包括1994年美国国家科学基金会的青年科学家奖（Young Investigator Award，其前身是美国总统青年科学家奖）、1998年INFORMS应用概率学会Erlang奖、1997年和2017年两次荣获INFORMS应用概率学会的最佳论文奖。他是迄今为止唯一获得过两次INFORMS最佳论文奖的学者。戴教授也是迄今为止唯一获得ACM SIGMETRICS成就奖（2018年）的华人。戴教授还曾于2012年至2019年长期担任运筹学顶尖杂志《运筹学数学》的主编。
+学术著作
+已出版代表著作
+1. Book: J. G. Dai and Michael J. Harrison, Processing Networks Fluid Models and Stability: https://spnbook.org/ (Order from Amazon: https://www.amazon.com/-/zh/dp/1108488897 ）
+2. J.G. Dai and Pengyi Shi, Inpatient Overflow: An Approximate Dynamic Programming Approach, Manufacturing & Service Operations Management, Vol. 21, No. 4, 2019.
+3. A Braverman, J.G. Dai, X Liu, and L Ying, Empty-car routing in ridesharing system, Operations Research 67 (5), 1437-1452, 2019.
+4. Anton Braverman, J.G. Dai and Jiekun Feng, Stein's method for steady-state diffusion approximations: an introduction through the Erlang-A and Erlang-C models, Stochastic Systems, 6, 301-366, 2016.
+5. J.G. Dai and Wuqin Lin, Maximum Pressure Policies in Stochastic Processing Networks, Operations Research, Vol. 53, 197-218, 2005.
+6. J.G. Dai and B Prabhakar, The throughput of data switches with and without speedup, Proceedings IEEE INFOCOM 2000. Conference on Computer Communications, 2000.
+7. J.G. Dai, On positive Harris recurrence of multiclass queueing networks: a unified approach via fluid limit models, Annals of Applied Probability, 5, 49-77, 1995.
+8. J.G. Dai and J. M. Harrison, Reflected Brownian motion in an orthant: numerical methods for steady-state analysis, Annals of Applied Probability, 2, 65-86, 1992.
+更多已出版著作，请点击ORCID.

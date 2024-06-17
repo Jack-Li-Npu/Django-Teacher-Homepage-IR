@@ -1,0 +1,27 @@
+刘羽朦
+一、工作经历
+2021/01-至今   深圳技术大学大数据与互联网学院，讲师
+
+二、学习经历
+2014/09-2020/10 哈尔滨工业大学，计算机应用技术，博士（硕博连读）
+2009/09-2013/07  哈尔滨师范大学，计算机工程与应用，学士
+
+三、主要研究领域
+生物信息学、人工智能算法在蛋白质组学研究中的应用、人工智能辅助药物设计
+
+四、代表性成果
+（1）Yumeng Liu, Xiaolong Wang, Bin Liu*, RFPR-IDP: reduce the false positive rates for intrinsically disordered protein and region prediction by incorporating both fully ordered proteins and disordered proteins. Briefings in Bioinformatics, 2021,22(2),2000-2011.（第一作者）
+（2）Yang, Zequan#, Yumeng Liu#, Xiaopeng Jin*, Xiaoling Luo*, et al. 2024. "BDIDA-IoT: A Blockchain-Based Decentralized Identity Architecture Enhances the Efficiency of IoT Data Flow" Applied Sciences 14, no. 5: 1807. https://doi.org/10.3390/app14051807.（共同一作）
+（3） Yumeng Liu, Xiaolong Wang, Bin Liu*. A comprehensive review and comparison of existing computational methods for intrinsically disordered protein and region prediction. Briefings in Bioinformatics, 2019, 20(1), 330-346. （第一作者）
+（4）Yumeng Liu, Shengyu Chen, Xiaolong Wang*, Bin Liu*. Identification of intrinsically disordered proteins/regions by length-dependent predictors based on conditional random fields. Molecular Therapy-Nucleic Acids, 2019, 17:396-404. （第一作者）
+（5）Yumeng Liu, Xiaolong Wang, Bin Liu*. IDP-CRF: Intrinsically Disordered Protein/Region Identification Based on Conditional Random Fields. International Journal of Molecular Sciences, 2018, 19:2483. （第一作者）
+
+五、主持科研项目
+[1] 国家自然科学基金青年项目，基于序列信息的固有无序蛋白质结构和功能预测方法研究，2024.01-2026.12，30万，在研，主持
+[2] 深圳市高端人才引进项目，基于多元序列信息的无序脂质结合区域识别方法研究，2024.01-2016.12，300万，在研，主持
+[3] 博士基础研究启动项目，面向药物设计的固有无序蛋白结合位点预测方法研究2023.04-2025.04，30万，在研，主持
+[4] 深圳市高等院校稳定支持计划项目，基于深度学习去噪和匹配的远同源蛋白质序列搜索方法研究，2022.10-2025.09，19.6万，在研，主持
+
+E-mail:liuyumeng@sztu.edu.cn
+上一篇：王洪
+下一篇：陈海鹏

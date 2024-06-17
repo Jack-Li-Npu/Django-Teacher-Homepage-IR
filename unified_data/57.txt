@@ -1,0 +1,25 @@
+缪一铭
+研究助理教授
+教育背景
+博士（华中科技大学）
+学士（青海大学)
+研究领域
+数据驱动的通信、边缘计算和物联网
+个人网站
+https://myweb.cuhk.edu.cn/miaoyiming
+电子邮箱
+miaoyiming@cuhk.edu.cn
+办公室
+道远楼520
+个人简介
+缪一铭教授于2021年7月加入香港中文大学（深圳）数据科学学院任研究助理教授。她于2021年在华中科技大学计算机科学与技术学院获得博士学位，于2016年在青海大学计算机科学与技术专业获得学士学位。她一直致力于数据驱动的通信、边缘计算与物联网的研究，成果以第一作者或通信作者发表在国际顶级期刊IEEE Transactions on Intelligent Transportation System、IEEE Transactions on Network Science and Engineering、IEEE Transactions on Cognitive Communications and Networking、IEEE Wireless Communications Magazine、 IEEE Network，Future Generation Computer Systems等。此外，缪一铭教授多次担任国际顶级期刊IEEE WCM、IEEE Network、IEEE TITS、FGCS、Journal of Circuits, Systems, and Computers (JCSC)、ACM Computing Surveys (CSUR)的审稿人，以及国际会议IWCMC 2022、2021的研讨会主席，TRIDENTCOM 2017的网络主席和CloudComp 2016的本地主席。
+  学术著作
+Selected Publications:
+Yiming Miao, Jinfeng Xu, Min Chen, Kai Hwang, "Drone enabled Smart Air-Agent for 6G Network", The 2022 IEEE International Conference on Communications (IEEE ICC), Seoul, South Korea, 16-20 May 2022. (CCF-C)
+Wenjing Xiao, Yiming Miao, Giancarlo Fortino, Di Wu, Min Chen, Kai Hwang, "Collaborative Cloud-Edge Service Cognition Framework for DNN Configuration Toward Smart IIoT," IEEE Trans. Industrial Informatics, 2021, doi: 10.1109/TII.2021.3105399. (Q1 Journal, IF=10.215)
+Yiming Miao, Yixue Hao, Min Chen, Hamid Gharavi, Kai Hwang, Intelligent Task Caching in Edge Cloud via Bandit Learning, IEEE Trans. Network Science and Engineering, Vol. 8, No. 1, 625-637, 1 Jan.-March 2021. (Q1 Journal, IF=3.894)
+Gaoxiang Wu, Yiming Miao, Bander Alzahrani, Ahmed Barnawi, A. Alhindi, M. Chen, "Adaptive Edge Caching in UAV-assisted 5G Network", IEEE Global Communications Conference (GLOBECOM), 2021, pp. 1-6, doi: 10.1109/GLOBECOM46510.2021.9685985. (CCF-C)
+Yiming Miao, Yuan Tang, Bander Alzahrani, Ahmed Barnawi, Tarik Alafif, Long Hu, Airborne LiDAR assisted Obstacle Recognition and Intrusion Detection towards Unmanned Aerial Vehicle: Architecture, Modelling and Evaluation, IEEE Trans. Intelligent Transportation System, Vol. 22, No. 7, 4531-4540, Oct. 2020 (Q1 Journal, IF=6.492)
+Yiming Miao, Ming Zhou, Ahmed Ghoneim, Blockchain and AI based Natural Gas Industrial IoT System: Architecture and Design Issues, IEEE Network, Vol. 34, No. 5, 84-90, 2020. (Q1 Journal, IF=10.693)
+Yiming Miao, Yuanwen Tian, Jingjing Cheng, M Shamim Hossain, Ahmed Ghoneim, "RADB: Random Access with Differentiated Barring for Latency-Constrained Applications in NB-IoT Network", Wireless Communications and Mobile Computing, Article ID 6210408, 2018. (CCF C, IF=2.336)
+Junfeng Wang, Yiming Miao, Ping Zhou, M Shamim Hossain, Sk Md Mizanur Rahman, "A Software Defined Network Routing in Wireless Multihop Network", Journal of Network and Computer Applications, Vol. 85, pp. 76-83, 2017. (Q1 Journal, IF=6.281)

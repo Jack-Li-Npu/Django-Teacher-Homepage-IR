@@ -1,0 +1,27 @@
+李经宇
+
+一、教育经历
+2015/09-2019/10香港城市大学，计算机科学，哲学博士
+2010/09-2014/07天津大学，计算机科学与技术，工学学士
+
+二、工作经历
+2019/07-至今 深圳技术大学大数据与互联网学院，讲师
+2015/03-2015/09 香港浸会大学，科研助理
+2013/12月-2014/12：华大基因，科技服务部
+
+三、主要研究领域
+生物信息学，机器学习
+
+四、主要成果及荣誉
+1. Dan WANG, Jingyu LI, Lusheng WANG. Comprehensive Study of Instable Regions in Pseudomonas aeruginosa and Mycobacterium tuberculosis, 2018, BMC-BEO.
+2. Dan WANG, Jingyu LI, Lusheng WANG. Comprehensive Study of Instable Regions in Pseudomonas aeruginosa, 2017, IWBBIO conference.
+3. Zhi-Zhong Chen, Shohei Ueta, Jingyu Li, Lusheng Wang. Finding a Center Tree of Phylogenetic Trees via Leaf Removal, 2018, BIBM conference.
+4. Zhi-Zhong Chen, Shohei Ueta, Jingyu Li and Lusheng Wang. Computing a Consensus Phylogeny via Leaf Removal, 2019, ISBRA conference.
+5. Wang, D., Ma, K., Deng, W., Li, J., Xiang, S., Zhang, Y., ... & Huang, B. (2021). Development and Analytical Validation of a Targeted Next-Generation Sequencing Panel to Detect Actionable Mutations for Targeted Therapy. OncoTargets and therapy, 14, 2423.
+6. Social Features of Online Discussion Networks: Exploring the Formation of the Cyber-crowd in Chinese Social Media, accepted for presentation at SocInfo Annual Convention.
+7. 新引进高端人才财政补助科研项目：数字医学影像的零样本问题研究，20221061010034，180万元，2022/01—2024/12。
+
+E-mail:sheverleo@gmail.com
+
+上一篇：张金勇
+下一篇：王文婷

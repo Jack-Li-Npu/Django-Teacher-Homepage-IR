@@ -1,0 +1,22 @@
+李青
+一、教育经历
+2013.9-2020.7 西南交通大学 计算机科学与技术 博士
+2015.11-2017.11 美国乔治梅森大学 计算机科学与技术 联合培养博士研究生
+2010.9-2013.6 西南交通大学 交通信息工程及控制 硕士
+2005.9-2009.6 西南交通大学 计算机科学与技术 学士
+  二、工作经历
+2022.12-今 深圳技术大学 大数据与互联网学院 助理教授
+2020.11-2022.12 南方科技大学 计算机信息与工程系 博士后
+  三、主要研究领域
+计算机视觉、图像处理、3D点云
+  四、主要成果及荣誉
+1. Qing Li, Xiaojiang Peng, Yu Qiao, Qi Hao. Unsupervised person re-identification with multi-label learning guided self-paced clustering. Pattern Recognition, 2022, 125: 108521.
+2. Qing Li, Xiaojiang Peng, Yu Qiao, Qiang Peng. Learning Label Correlations for Multi-Label Image Recognition with Graph Networks. Accepted, Pattern Recognition Letters,2020.
+3. Qing Li, Xiaojiang Peng, Liangliang Cao, Wenbin Du, Hao Xing, Yu Qiao, Qiang Peng. Product Image Recognition with Guidance Learning and Noisy Supervision. Computer Vision and Image Understanding. 2020: 102963.
+4. Qing Li, Qiang Peng, and Chuan Yan. Multiple VLAD encoding of CNNs for image classification. Computing in Science & Engineering. 20.2 (2018): 52-63.
+5. Kang You, Pan Gao, Qing Li. IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression. Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis. 2022: 1-10.
+6. Xiaojiang Peng, KaiWang, Zhaoyang Zeng, Qing Li, Jianfei Yang, Yu Qiao. Suppressing Mislabeled Data via Grouping and Self-Attention. European Conference on Computer Vision, 2020.
+
+E-mail: liqing@sztu.edu.cn 
+上一篇：潘毅
+下一篇：董丽

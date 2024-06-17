@@ -1,0 +1,26 @@
+孟幻
+一、教育经历
+2015/04-2019/08 香港中文大学，电子工程，哲学博士（PhD）
+2010/09-2012/08 香港中文大学，电子工程，工学硕士(Mphil)
+2005/09-2010/06 香港理工大学，电子信息工程，工学学士(一等荣誉)
+
+二、工作经历
+2023/04-至今 深圳技术大学，大数据与互联网学院，助理教授
+2019/09-2023/03 迈微思(深圳)科技有限公司，首席算法工程师
+2014/08-2015/03 香港中文大学，微波实验室，助理研究员
+2013/08-2014/06 美国亚利桑那大学，毫米波天线实验室，助理研究员
+2012/09-2013/03 香港中文大学，微波实验室，助理研究员
+
+三、主要研究领域
+适用于无线通信基站的复杂滤波器网络的综合，设计与计算机辅助调试；适用于移动终端的多天线系统的解耦网络设计；无线通信终端收发天线的性能测试与评估。
+
+四、主要成果及荣誉
+1. Yan Zhang, Huan Meng and K.-L. Wu, “Direct synthesis and design of dispersive waveguide bandpass filters”,IEEE Trans. Microwave Theory Tech., Vol.68, No.5, pp.1678-1687, 2020.
+2. H. Meng and K.-L. Wu，“An LC decoupling network for two antennas working at low frequencies”, IEEE Trans. Microwave Theory Tech., Vol.65, No.7, pp.2321-2329, July 2017.
+3. H. Meng, P. Zhao, K.-L. Wu and G. Macchiarella， “Direct synthesis of complex loaded Chebyshev filters in a complex filtering network”，IEEE Trans. Microwave Theory Tech., Vol.64, No.12, pp.4455-4462, Dec. 2016.
+4. H. Meng and K.-L. Wu, “Direct optimal synthesis of a microwave bandpass filter with general loading effect”,IEEE Trans. Microwave Theory Tech., Vol.61, No.7, pp.2566-2573, July 2013.)
+
+E-mail:menghuan@sztu.edu.cn
+
+上一篇：戴戈南
+下一篇：敖勇

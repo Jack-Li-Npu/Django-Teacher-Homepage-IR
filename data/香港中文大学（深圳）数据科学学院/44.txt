@@ -1,0 +1,25 @@
+李海洲
+校长学勤讲座教授
+执行院长
+教育背景
+华南理工大学博士
+华南理工大学硕士
+华南理工大学学士
+研究领域
+语音信息处理、自然语言处理、类脑计算、人机交互
+个人网站
+https://colips.org/~eleliha/
+电子邮箱
+haizhouli@cuhk.edu.cn
+办公室
+道远楼512
+个人简介
+李海洲教授现任香港中文大学（深圳）数据科学学院执行院长、校长学勤讲座教授，同时他也是新加坡国立大学客座教授和德国不来梅大学卓越讲座教授。此前，他曾于2006年至2016年分别担任新加坡南洋理工大学和新加坡国立大学教授，于2009年担任东芬兰大学客座教授，于2011年至2016年任澳洲新南威尔士大学客座教授，于2003年至2016年担任新加坡科技研究局通信与资讯研究院首席科学家和研究总监。
+李教授曾任顶级期刊IEEE/ACM Transactions on Audio、Speech and Language Processing主编 (2015-2018年）；目前任Computer Speech and Language副主编 (2012-2022年)、Springer International Journal of Social Robotics副主编 (2008-2022年)。李教授也曾担任多个学术委员会委员：IEEE语音与语言处理技术委员会委员 (2013-2015年)、IEEE信号处理学会出版委员会委员(2015-2018年)；目前任IEEE 信号处理学会奖励委员会委员(2021-2023年)。李教授也曾是多个学会主席：国际语音通信学会主席 (ISCA, 2015-2017年)、亚太信号与信息处理协会主席 (APSIPA, 2015-2016年)、亚洲自然语言处理联合会主席 (AFNLP, 2017-2018年)。此外，他还担任过ACL 2012、INTERSPEECH 2014等多个大型学术会议的主席，他也是IEEE声学、语音与信号处理国际会议 （ICASSP 2022）的主席。
+李教授享誉国际，他不仅在语音识别和自然语言处理研究领域有着突出贡献，还领导研发了多项知名的语音产品，如1996年苹果电脑公司为Macintosh发行的中文听写套件、1999年Lernout & Hauspie公司为亚洲语言发行的Speech-Pen-Keyboard文本输入解决方案。他是一系列重大技术项目的架构师，项目包括2001年为新加坡樟宜国际机场研发的具有多语种语音识别功能的TELEFIQS自动呼叫中心、2012年为联想A586智能手机研发的声纹识别引擎、2013年为百度音乐研发的听歌识曲引擎。
+学术著作
+1. Chenglin Xu, Wei Rao, Eng Siong Chng and Haizhou Li, SpEx: Multi-Scale Time Domain Speaker Extraction Network, IEEE/ACM Transaction on Audio, Speech, and Language Processing, vol. 28, pp. 1370-1384, 2020.
+2. Chong Zhang, Kay Chen Tan, Haizhou Li, Geok Soon Hong, A Cost-Sensitive Deep Belief Network for Imbalanced Classification, IEEE Transactions on Neural Networks and Learning Systems, vol 30, issue 1, pp. 109-122, 2019.
+3. Tomi Kinnunen, Haizhou Li, “An overview of text-independent speaker recognition: From features to supervectors”, Speech Communication, Vol. 52, No. 1, pp. 12-40, 2010.
+4. Haizhou Li, Bin Ma and Chin-Hui Lee, "A Vector Space Modeling Approach to Spoken Language Identification", IEEE Transactions on Audio, Speech and Language Processing, Vol 15, No. 1, 2007, pp. 271 – 284.
+5. Haizhou Li, Kong Aik Lee, and Bin Ma, “Spoken Language Recognition: From Fundamentals to Practice”, Proceedings of the IEEE, vol. 101, no. 5, pp. 1136-1159, May 2013.

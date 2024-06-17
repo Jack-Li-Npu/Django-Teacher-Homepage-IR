@@ -1,0 +1,18 @@
+NESTEROV, Yurii
+教授（短期特邀）
+教育背景
+苏联控制科学研究所博士 1980年-1984年
+莫斯科国立大学硕士 1972年-1977年
+研究领域
+非线性优化理论与方法、运筹学模型、优化在控制理论中的应用
+个人网站
+https://en.wikipedia.org/wiki/Yurii_Nesterov
+个人简介
+Yurii Nesterov教授于1977至1992年间在莫斯科中央经济与数学研究所拥有研究职位。此后，在1993年到2023年期间，他在比利时法语鲁汶大学运筹学与计量经济学中心担任教授。
+他的研究兴趣涉及复杂性问题和解决各种优化问题的有效方法，主要成果获得在凸优化的不同领域：平滑问题的优化方法、多项式时间内点方法、结构优化的平滑技术、二阶方法的复杂性理论、大规模问题的优化方法、可实现张量方法。
+学术著作
+书籍（部分示例）：
+Yurii Nesterov. Lectures on Convex Optimization. Springer (2018), 589pp. Winner of Lanchester Prize 2022 (INFORMS). Translated to Chinese.
+文章（部分示例）：
+1. Yurii Nesterov. Efficiency of coordinate-descent methods on huge-scale optimization problems. SIOPT, 22(2), 341-362 (2012). Winner of SIAM Best Paper Award 2014.
+2.Yurii Nesterov. Rounding of convex sets and efficient gradient methods for linear programming problems. Optimization Methods and Software, 23(1), 109-128 (2009). Winner of Charles Broyden Award 2009 for the best paper in the journal.

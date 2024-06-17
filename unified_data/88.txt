@@ -1,0 +1,14 @@
+张经纬
+助理教授
+教育背景
+杜克大学博士
+新加坡国立大学学士
+研究领域
+近似动态规划、随机模型
+办公室
+道远楼317a
+个人简介
+张经纬教授现任香港中文大学（深圳）数据科学学院助理教授。张教授于2018年获得新加坡国立大学理学及社会科学学士学位，之后获得杜克大学决策科学博士学位。张教授的研究兴趣包括近似动态规划的理论及应用。
+学术著作
+Brown, D.B., J. Zhang. 2022. On the strength of relaxations of weakly coupled stochastic dynamic programs. Operations Research, to appear.
+Brown, D.B., J. Zhang. 2021. Dynamic programs with shared resources and signals: dynamic fluid policies and asymptotic optimality. Operations Research, to appear.

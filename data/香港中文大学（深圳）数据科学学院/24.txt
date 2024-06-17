@@ -1,0 +1,35 @@
+方堃
+助理教授
+教育背景
+悉尼科技大学量子信息博士 2015-2018
+武汉大学数学学士 2011-2015
+研究领域
+量子信息、量子计算、量子网络、量子资源理论、量子体系结构、量子熵、优化理论
+个人网站
+https://kunfang.gitee.io/
+电子邮箱
+kunfang@cuhk.edu.cn
+办公室
+综合楼C614
+个人简介
+方堃教授现任香港中文大学（深圳）数据科学学院助理教授。此前，方教授于2020至2023年担任百度量子计算研究所资深研究员，2018 至2020 年分别在英国剑桥大学和加拿大滑铁卢大学担任博士后研究员。方教授于2018 年获得悉尼科技大学量子信息方向博士学位，于2015年获得武汉大学数学学士学位。
+方教授于2022年入选北京市高层次留学人才回国资助项目，2023年受邀成为国际顶级量子信息会议AQIS程序委员会成员。截至目前，方教授在 Physical Review Letters，PRX Quantum，Communications in Mathematical Physics，IEEE Transactions on Information Theory，Mathematical Programming 等物理、数学、计算机以及运筹优化领域的国际顶级学术期刊和会议发表论文二十余篇，在 QIP，TQC，AQIS，ISIT，ICCOPT 等国际顶级学术会议上完成正式报告二十余次。自2021年起，方教授完成六十余项国内外技术专利申请，其中四十余项已获得授权。
+学术著作
+1. Kun Fang and Zi-Wen Liu. No-go theorems for quantum resource purification. Physical Review Letters, 125(6):060405, 2020.
+2. Kun Fang and Zi-Wen Liu. No-go theorems for quantum resource purification: new approach and channel theory. PRX Quantum 3, 010337, 2022.
+3. Kun Fang, Xin Wang, Marco Tomamichel, and Runyao Duan. Non-asymptotic entanglement distillation. IEEE Transactions on Information Theory, 65(10):6454-6465, 2019.
+4. Kun Fang, Xin Wang, Ludovico Lami, Bartosz Regula, and Gerardo Adesso. Probabilistic distillation of quantum coherence. Physical Review Letters, 121(7): 070404, 2018.
+5. Kun Fang and Hamza Fawzi. Geometric Rényi divergence and its applications in quantum channel capacities. Communications in Mathematical Physics, 384(3):1615-1677, 2021.
+6. Kun Fang, Xin Wang, Marco Tomamichel, and Mario Berta. Quantum channel simulation and the channel’s smooth max-information. IEEE Transactions on Information Theory, 66(4):2129-2140, 2019.
+7. Kun Fang, Omar Fawzi, Renato Renner, and David Sutter. Chain rule for the quantum relative entropy. Physical Review Letters, 124(10):100501, 2020.
+8. Kun Fang and Hamza Fawzi. The sum-of-squares hierarchy on the sphere and applications in quantum information theory. Mathematical Programming, 190(1): 331-360, 2021.
+9. Kun Fang, Jingtian Zhao, Xiufan Li, Yifei Li, Runyao Duan. Quantum NETwork: from theory to practice. SCIENCE CHINA Information Sciences 66: 180509, 2023.
+10. Bartosz Regula, Kun Fang, Xin Wang, and Gerardo Adesso. One-shot coherence distillation. Physical Review Letters, 121(1):010401, 2018.
+11. Masahito Hayashi, Kun Fang, and Kun Wang. Finite block length analysis on quantum coherence distillation and incoherent randomness extraction. IEEE Transactions on Information Theory, 67(6): 3926-3944, 2021.
+12. Xin Wang, Kun Fang, and Marco Tomamichel. On converse bounds for classical communication over quantum channels. IEEE Transactions on Information Theory, 65(7): 4609-4619, 2019.
+13. Xin Wang, Kun Fang, and Runyao Duan. Semidefinite programming converse bounds for quantum communication. IEEE Transactions on Information Theory, 65(4): 2583-2592, 2018.
+14. Bartosz Regula, Kun Fang, Xin Wang, and Mile Gu. One-shot entanglement distillation beyond local operations and classical communication. New Journal of Physics, 21(10):103017, 2019.
+15. María García Díaz, Kun Fang, Xin Wang, Matteo Rosati, Michalis Skotiniotis, John Calsamiglia, and Andreas Winter. Using and reusing coherence to realize quantum processes. Quantum, 2(100), 2018.
+更多已出版著作，请点击：
+https://scholar.google.com.au/citations?user=YlfYNwcAAAAJ&hl=en 
+查看

@@ -1,0 +1,38 @@
+蔡小强
+校长讲座教授
+香港中文大学（深圳）协理副校长
+教育背景
+清华大学博士
+清华大学硕士
+哈尔滨船舶工程学院学士
+研究领域
+工业与系统工程、运筹学、供应链与物流管理
+电子邮箱
+xqcai@cuhk.edu.cn
+办公室
+行政楼622
+个人简介
+蔡小强教授1988年获清华大学博士学位。1989-1991年在英国剑桥大学及贝尔法斯特女皇大学从事博士后研究。1991-1993年受聘任教西澳大利亚大学。1993年应聘加入香港中文大学系统工程及工程管理学系，2000年起任教授。他曾于1996-2003年担任香港中文大学系统工程与工程管理学系的系主任，2009-2012年任研究生学部主任，2010-2014年任香港中文大学和声书院首任通识教育主任。2014-2017担任香港中文大学（深圳）理工学院院长，2016起担任协理副校长，2018年起任校长讲席教授。 
+蔡教授的研究主要集中在工业与系统工程、运筹学、供应链与物流管理等领域。他于国际学术刊物、专著、及会议发表论文300多篇，其中包括主流学术刊物（如Management Science、Operations Research、SIAM Journal on Control and Optimization、Naval Research Logistics、Production and Operations Management、IIE Transactions、IEEE Transactions、 Transportation Science、Transportation Research等）论文100多篇。他曾担任多个学术会议主席、国际顾问委员会委员、程序委员会委员和组织委员会委员，及多个学术刊物主编、副主编、编委。他于2021年获IEOM学会物流与供应链杰出教授奖。  
+他是国家杰出青年科学基金（海外类）获得者，香港工程师学会Fellow, 亚太人工智能学会(AAIA) Fellow, 国际系统与控制科学院院士。
+学术著作
+1. M.H. Lai, X.Q. Cai*, N.G. Hall, Cost allocation for less-than-truckload collaboration via shipper consortium.  Transportation Science. Published online on 04 Nov 2021.
+2. P.Y. Yan, X.Q. Cai, F. Chu, D.B. Ni, and H. He, An incentive mechanism for private parking-sharing programs in incomplete information setting. Service Science. Forthcoming, 2022.
+3. X. Li, X.Q. Cai, and J. Chen, Quality and private label encroachment strategy.  Production and Operations Management. 31, No. 1, pp. 374–390, January 2022.
+4. W.Q. Bao, X.Q. Cai*, and X.Y. Wu, Multi-armed bandits with constrained arm switches. SIAM Journal on Control and Optimization.  59, No. 6, pp. 4666–4688, December 2021.
+5. M.H. Lai, X.Q. Cai, and Q. Hu, Market design for commute-driven private parking lot sharing.  Transportation Research Part C: Emerging Technologies. 124, 102915, March 2021. 
+6. X.L. Xu, X.Q. Cai, and L.M. Zhang, Optimal purchasing policy for fresh products from multiple sources with considerations of random delivery times, risk and information. Decision Sciences. 51, Issue 6, pp. 1377-1410, December 2020.
+7. Y.L. Zeng, L.M. Zhang, X.Q. Cai, and J. Li, Cost sharing for capacity transfer in cooperating queueing systems, Production and Operations Management. 27, Issue 4, pp. 644-662, April 2018.
+8. M.H. Lai, X.Q. Cai, and X. Li, Mechanism design for collaborative production-distribution planning with shipment consolidation. Transportation Research Part E: Logistics and Transportation Review. 106，pp. 137-159, Oct 2017.
+9. M.H. Lai, X.Q. Cai, and Q. Hu, An iterative auction for carrier collaboration in truckload pickup and delivery. Transportation Research Part E: Logistics and Transportation Review. 107，pp. 60-80, Nov 2017.
+10. X. Li, Y.J. Li, X.Q. Cai, and J. Shan, Service channel choice for supply chain: who is better off by undertaking the service?, Production and Operations Management,  25, pp. 516–534, Mar 2016.
+11. X.Q. Cai, L.M. Wen, X.Y. Wu, and X. Zhou, Credibility estimation of distribution functions with applications to experience rating in general insurance. North American Actuarial Journal. 19, pp.311-335.  Oct 2015.
+12. X.Q. Cai and X. Zhou, Optimal policies for perishable products when transportation to export market is disrupted, Production and Operations Management, 23, pp. 907–923, May 2014.
+13. X. Cai, and G.L. Vairaktarakis, “Coordination of outsourced operations at a third-party facility subject to booking, overtime, and tardiness costs”, Operations Research, 60, pp. 1436-1450, Dec 2012.
+14. X. Cai, J. Chen, Y.B. Xiao, and X.L. Xu, “Optimization and Coordination of Fresh Product Supply Chains with Freshness-Keeping Effort”, Production and Operations Management, 19, pp. 261-278, 2010.
+15. X. Cai, X.Y. Wu, and X. Zhou, “Stochastic scheduling subject to preemptive-repeat breakdowns with incomplete information”, Operations Research, 57, pp. 1236-1249, 2009.
+16. X. Cai, X.Q. Sun, and X. Zhou, “Stochastic Scheduling Subject to Machine Breakdowns: The Preemptive-Repeat Model with Discounted Reward and Other Criteria”, Naval Research Logistics, 51, pp. 800-817, 2004.
+17. X. Cai, K.L. Teo, X.Q. Yang, and X.Y. Zhou, “Portfolio Optimization under a Minimax Rule”, Management Science, 46, pp. 957-972, 2000.
+18. X. Cai, C.-Y. Lee, and T.L. Wong, “Multi-Processor Task Scheduling to Minimize the Maximum Tardiness and the Total Completion Time”. IEEE Transactions on Robotics and Automation, 16, pp. 824-830, 2000.
+19. X. Cai and S. Zhou, “Stochastic Scheduling on Parallel Machines Subject to Random Breakdowns to Minimize Expected Costs for Earliness and Tardy Jobs”, Operations Research, 47, pp. 422-437, 1999.
+20. X.Q. Cai, T. Kloks and C.K. Wong, Time-varying shortest path problems with constraints.  Networks.  29,  pp. 141-149. 1997. 

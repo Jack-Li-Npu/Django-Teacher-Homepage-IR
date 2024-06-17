@@ -1,0 +1,73 @@
+个人简介
+罗文坚，博士，教授，博士生导师，广东省珠江人才计划领军人才，深圳市鹏城孔雀计划特聘岗位，网络空间安全研究中心副主任，广东省安全智能新技术重点实验室副主任，鹏城实验室访问研究员，中国计算机学会（CCF）杰出会员，IEEE/ACM/CAAI高级会员。本科和博士（硕博连读）均毕业于中国科学技术大学计算机科学技术系。
+
+作为项目负责人承担了国家重点研发计划项目课题、国家自然科学基金重点项目子课题、国家自然科学基金面上项目、深圳市自然科学基金重点项目等二十多项国家、省部级、市级以及企业合作项目。曾获省级优秀教学成果二等奖2项（均排序3），省级科学技术奖三等奖1项（排序4）。目前担任Information Sciences、Swarm and Evolutionary Computation、Journal of Information Security and Applications、Applied Soft Computing、Complex & Intelligent Systems、Systems and Soft Computing、《重庆邮电大学学报（自然科学版）》等期刊的副编辑或编委，IEEE CIS Evolutionary Computation Technical Committee委员，IEEE CIS NNTC Task Force on Secure Learning委员；曾任《Frontiers of Computer Science》青年编委，IEEE Transactions on Emerging Topics in Computational Intelligence、IEEE Transactions on Artificial Intelligence等期刊客座编辑，曾任IEEE CIS ECTC Task Force on Artificial Immune Systems主席、中国人工智能学会自然计算与数字智能城市专业委员会副秘书长；曾任包括ICSI 2023大会主席、CCF B类会议PPSN 2020宣传主席、CCF C类会议IJCNN 2021讲座主席等在内的20多个国际国内学术会议程序委员会和组织委员会的各类主席。获授权专利5项，已申请专利10多项。在国内外重要学术期刊和会议上发表论文100多篇，其中IEEE/ACM Transactions和JCR一区期刊论文及CCF A类会议论文60多篇。
+
+研究方向
+研究方向为人工智能与安全。主要围绕安全智能系统，开展机器学习、免疫计算、群体智能等相关基础理论和方法研究，包括人工智能安全、隐私计算、大数据分析、目标识别、动态优化和多目标优化等。
+
+招生招聘
+每年招收1-2名博士生，3-4名硕士生。博士毕业生大多任职于国内知名院校和IT企业，硕士毕业生大多任职于知名IT企业。欢迎联系我攻读硕士和博士学位。希望学生具有较为扎实的理论基础和实践动手能力，以及一定的独立思考能力。参加本研究小组线上/线下面试的硕士生和博士生，请通过电邮（luowenjian@hit.edu.cn）预约面试时间，在面试时带上能够反映学业及学术水平的所有电子材料，并针对自己的学习和研究经历准备一个5分钟的PPT在面试时进行演讲。
+
+课题组招收人工智能与安全相关研究方向的博士后。欢迎联系我申请博士后职位。
+
+期刊兼职
+Information Sciences (Elsevier), Associate Editor (2021.1-)
+Complex & Intelligent Systems (Springer), Editorial Board Member (2020.7-)
+Systems and Soft Computing (Elsevier), Editorial Board Member (2019.8-)
+Swarm and Evolutionary Computation (Elsevier), Associate Editor (2019.1-)
+Journal of Information Security and Applications (Elsevier), Associate Editor (2018.8-)
+Applied Soft Computing (Elsevier), Editorial Board Member (2018.7-)
+Frontiers of Computer Science (Higher Education Press and Springer), Young Associate Editor (2013.7-2018.12)
+重庆邮电大学学报（自然科学版）》第四届编委会委员（2022.7-2026.7）
+
+获奖情况
+2023年：第14届国际群体智能大会最佳专题论文奖
+2023年：第六届智能优化与调度学术会议优秀硕士学位论文奖（指导老师）
+2022年：广东省计算机学会优秀论文二等奖
+2021年：第十二届国际群体智能大会（ICSI 2021）最佳论文奖
+2015年：第六届国际群体智能大会（ICSI 2015）最佳学生论文奖（指导老师）
+2012年：第二届“华为杯”全国大学生智能设计竞赛二等奖（指导老师）
+2010年：安徽省优秀教学成果二等奖（排序3）
+2005年：安徽省优秀教学成果二等奖（排序3）
+2003年：安徽省科学技术奖（科技进步类）三等奖（排序4）
+
+主要论著
+Li Ni, Rui Ye, Wenjian Luo, and Yiwen Zhang. Local Community Detection in Multiple Private Networks. ACM Transactions on Knowledge Discovery from Data, accepted
+Zipeng Ye, Wenjian Luo, Ruizhuo Zhang, Hongwei Zhang, Yuhui Shi, and Yan Jia. An Evolutionary Attack for Revealing Training Data of DNNs with Higher Fidelity. IEEE Transactions on Dependable and Secure Computing, accepted
+Zipeng Ye, Wenjian Luo, Muhammad Luqman Naseem, Xiangkai Yang, Yuhui Shi, and Yan Jia. C2FMI: Corse-to-Fine Black-box Model Inversion Attack. IEEE Transactions on Dependable and Secure Computing, accepted
+Kesheng Chen, Wenjian Luo, Xin Lin, Zhen Song, Yatong Chang. Evolutionary Biparty Multiobjective UAV Path Planning: Problems and Empirical Comparisons. IEEE Transactions on Emerging Topics in Computational Intelligence, accepted
+Li Ni, Qiuyu Li, Yiwen Zhang, Wenjian Luo, and Victor S. Sheng. LSADEN: Local Spatial-aware Community Detection in Evolving Geo-social Networks. IEEE Transactions on Knowledge and Data Engineering, accepted
+Li Ni, Junnan Ge, Yiwen Zhang, Wenjian Luo, and Victor S. Sheng. Semi-Supervised Local Community Detection. IEEE Transactions on Knowledge and Data Engineering, accepted
+Wenjian Luo, Licai Zhang, Yulin Wu, Chuanyi Liu, Peiyi Han, and Rongfei Zhuang. Capacity Abuse Attack of Deep Learning Models Without Need of Label Encodings. IEEE Transactions on Artificial Intelligence, accepted
+Li Ni, Hefei Xu, Yiwen Zhang, Wenjian Luo, Yingying Huang, and Victor S. Sheng. Local Overlapping Spatial-aware Community Detection. ACM Transactions on Knowledge Discovery from Data, Volume 18, Issue 3, Article No.: 59, pp 1–21, January, 2024
+Peilan Xu, Wenjian Luo, Xin Lin, Yatong Chang, and Ke Tang. Difficulty and Contribution Based Cooperative Coevolution for Large-Scale Optimization. IEEE Transactions on Evolutionary Computation, 27(5): 1355-1369, October, 2023
+Linghao Kong, Wenjian Luo, Hongwei Zhang, Yang Liu, and Yuhui Shi. Evolutionary Multi-label Adversarial Examples: An Effective Black-box Attack. IEEE Transactions on Artificial Intelligence, 4 (3), 2691-4581, June, 2023
+Li Ni, Hefei Xu, Yiwen Zhang, and Wenjian Luo. Spatial-Aware Local Community Detection Guided by Dominance Relation. IEEE Transactions on Computational Social Systems, 10(2): 686-699, April, 2023
+Chenyang Bu, Fei Liu, Zhiyong Cao, Lei Li, Yuhong Zhang, Xuegang Hu, and Wenjian Luo. Cognitive Diagnostic Model Made More Practical by Genetic Algorithm. IEEE Transactions on Emerging Topics in Computational Intelligence, 7(2): 447-461, April, 2023
+Wenjian Luo, Licai Zhang, Peiyi Han, Chuanyi Liu, and Rongfei Zhuang. Taking away both Model and Data: Remember Training Data by Weight Combinations. IEEE Transactions on Emerging Topics in Computational Intelligence, 6(6): 1427-1437, December, 2022
+Wenjian Luo, Yingying Qiao, Xin Lin, Peilan Xu, and Mike Preuss. Hybridizing Niching, Particle Swarm Optimization and Evolution Strategy for Multimodal Optimization. IEEE Transactions on Cybernetics, 52(7): 6707-6720, July 2022
+Wenjian Luo, Binyao Duan, Li Ni, and Yang Liu. Collaborative Detection of Community Structure in Multiple Private Networks. IEEE Transactions on Computational Social Systems, 9(2): 612-623, April, 2022
+Li Ni, Wenjian Luo, Tao Zhu, and Peilan Xu. On Followers Search. IEEE Transactions on Computational Social Systems, 8(5): 1068-1082, October, 2021
+Peilan Xu, Wenjian Luo, Xin Lin, Jiajia Zhang, Yingying Qiao, and Xuan Wang. Constraint-Objective Cooperative Coevolution for Large-Scale Constrained Optimization. ACM Transactions on Evolutionary Learning and Optimization, 1(3), Article No.: 12, pp. 1-26, September, 2021
+Wenjian Luo, Wenjie Zhu, Li Ni, Yingying Qiao, and Yigui Yuan. SCA2: Novel Efficient Swarm Clustering Algorithm. IEEE Transactions on Emerging Topics in Computational Intelligence, 5(3): 442-456, June, 2021
+Wenjian Luo, Daofu Zhang, Li Ni, and Nannan Lu. Multiscale Local Community Detection in Social Networks. IEEE Transactions on Knowledge and Data Engineering, 33(3): 1102 – 1112, March, 2021
+Xin Lin, Wenjian Luo, and Peilan Xu. Differential Evolution for Multimodal Optimization with Species by Nearest-Better Clustering. IEEE Transactions on Cybernetics, 51(2): 970-983, February, 2021
+Chenyang Bu, Wenjian Luo, Tao Zhu, Ruikang Yi, and Bin Yang. A Species and Memory Enhanced Differential Evolution for Optimal Power Flow Under Double-Sided Uncertainties. IEEE Transactions on Sustainable Computing, 5(3): 403-415, July, 2020
+Wenjian Luo, Binyao Duan, Hao Jiang, and Li Ni. Time-Evolving Social Networks Generator Based on Modularity: TESNG-M. IEEE Transactions on Computational Social Systems, 7(3): 610-620, June 2020
+Wenjian Luo, Zhenglong Yan, Chenyang Bu and Daofu Zhang. Community Detection by Fuzzy Relations. IEEE Transactions on Emerging Topics in Computing, 8(2): 478-492, June, 2020
+Li Ni, Wenjian Luo, Nannan Lu, and Wenjie Zhu. Mining the Local Dependency Itemset in a Products Network. ACM Transactions on Management Information Systems, 11(1), Article No.: 3, pp 1–31, April, 2020
+Li Ni, Wenjian Luo, Wenjie Zhu and Bei Hua. Local Overlapping Communities Detection. ACM Transactions on Knowledge Discovery from Data, 14 (1), Article No.: 3, December, 2019
+Hao Jiang and Wenjian Luo. On Consistency in Multiquestion Negative Surveys with Application to Healthcare Data Collection. IEEE Transactions on Industrial Informatics, 15(12): 6395-6406, December, 2019
+Wenjian Luo, Ruikang Yi, Bin Yang, and Peilan Xu. Surrogate-Assisted Evolutionary Framework for Data-Driven Dynamic Optimization. IEEE Transactions on Emerging Topics in Computational Intelligence, 3(2): 137-150, April, 2019
+Wenjian Luo, Yamin Hu, Hao Jiang, and Junteng Wang. Authentication by Encrypted Negative Password. IEEE Transactions on Information Forensics and Security, 14(1): 114 – 128, January, 2019
+Wenjian Luo, Ran Liu, Hao Jiang, Dongdong Zhao, and Linli Wu. Three Branches of Negative Representation of Information: A Survey. IEEE Transactions on Emerging Topics in Computational Intelligence, 2(6): 411-425, December 2018
+Wenjian Luo, Daofu Zhang, Hao Jiang, Li Ni, and Yamin Hu. Local Community Detection with the Dynamic Membership Function. IEEE Transactions on Fuzzy Systems, 26(5): 3136-3150, October, 2018
+Hao Jiang, Wenjian Luo, and Dongdong Zhao. A Novel Negative Location Collecting Method for Finding Aggregated Locations. IEEE Transactions on Intelligent Transport Systems, 19(6): 1741-1753, June 2018
+Dongdong Zhao, Wenjian Luo, Ran Liu and Lihua Yue. Negative Iris Recognition. IEEE Transactions on Dependable and Secure Computing, 15(1): 112 - 125, January, 2018
+Wenjian Luo, Hao Jiang and Dongdong Zhao. Rating Credits of Online Merchants Using Negative Ranks. IEEE Transactions on Emerging Topics in Computational Intelligence, 1(5): 354 - 365, October, 2017
+Hao Jiang, Wenjian Luo, Li Ni, and Bei Hua. On the Reconstruction Method of Negative Surveys with Application to Education Surveys. IEEE Transactions on Emerging Topics in Computational Intelligence, 1(4): 259 - 269, August, 2017
+Wenjian Luo, Yihui Lu, Dongdong Zhao and Hao Jiang. On Location and Trace Privacy of the Moving Object Using the Negative Survey. IEEE Transactions on Emerging Topics in Computational Intelligence, 1(2): 125 - 134, April, 2017
+Chenyang Bu, Wenjian Luo and Lihua Yue. Continuous Dynamic Constrained Optimization with Ensemble of Locating and Tracking Feasible Regions Strategies. IEEE Transactions on Evolutionary Computation, 21(1): 14-33, February, 2017
+Tao Zhu, Wenjian Luo, Chenyang Bu and Lihua Yue. Accelerate Population-based Stochastic Search Algorithms with Memory for Optima Tracking on Dynamic Power Systems. IEEE Transactions on Power Systems, 31(1): 268-277, January, 2016
+Zhifang Li, Wenjian Luo, Lihua Yue and Xufa Wang. On the Completeness of the Polymorphic Gate Set. ACM Transactions on Design Automation of Electronic Systems, Vol. 15, No. 4, Article 32, September, 2010

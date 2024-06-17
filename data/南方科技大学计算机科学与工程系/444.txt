@@ -1,0 +1,38 @@
+Qi WANG @ CSE, SUSTech
+Home
+Publications
+Members
+Activities
+[ News, Biography, Research Interests, Teaching, Links ]
+Qi WANG, Ph.D.
+Associate Professor
+Department of Computer Science and Engineering
+Southern University of Science and Technology
+Office: Room413, South Tower, College of Engineering
+Email: wangqi (at) sustech.edu.cn
+[ Google Scholar, DBLP ]
+We are recruiting self-motivated Ph.D. students and postdocs, working in cryptography or coding theory. Please refer to CoCrypto Lab for more information. Email me if you are interested.
+News
+2024/04/05: Our paper "On the size distribution of the fixed-length Levenshtein balls with radius one" was published online at DCC.
+2024/03/10: Our paper "PrivShape: Extracting Shapes in Time Series under User-Level Local Differential Privacy" was accepted by ICDE2024.
+2023/11/15: Our paper "Utility-Aware Time Series Data Release with Anomalies under TLDP" was published online at IEEE TMC.
+2023/08/25: Our paper "Robust Publicly Verifiable Covert Security: Limited Information Leakage and Guaranteed Correctness with Low Overhead" was accepted by Asiacrypt2023.
+Short Bio
+Qi WANG received the B.Eng. degree in information security from Unversity of Science and Technology (USTC) in 2007, and the Ph.D. degree in computer science and engineering from The Hong Kong University of Science and Technology (HKUST) in 2011, supervised by Professor Cunsheng Ding. From October 2011 to September 2013, he was an Alexander von Humboldt Fellow at Otto-von-Guericke University Magdeburg (OvGU), Germany, hosted by Professor Alexander Pott. From October 2013 to September 2014, he was a research associate at HKUST. He has been with the Department of Computer Science and Engieering (CSE), Southern University of Science and Technology (SUSTech) since 2014, where he is currently a tenured associate professor.
+Research Interests
+Coding theory (classical error-correcting codes, codes for storage)
+Cryptography (highly nonlinear functions, multi-party computation, applications in privacy preserving, blockchain)
+Combinatorics (combinatorial designs, extremal combinatorics, the probabilistic method)
+Teaching
+CSE5014/CS403: Cryptography and Network Security (23S, 20F, 19F, 18S)
+CS201: Discrete Math (21F, 20F, 20S, 19F, 19S, 18S, 17F, 16F, 16S)
+CS215: Discrete Math(H) (23F, 22F, 21F)
+CS315/EE364: Information Theory and Coding (16F, 15F)
+CS102: Basics of Computer Programming Design (17S, 15F, 14F)
+CS209: Computer System Design (15S)
+Links
+Colloquium on Combinatorial Designs
+MathSciNet
+The Mathmatics Genealogy Project
+IEEE Information Theory Society
+Mathworld

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f8f9fa;
+        }
+        .container {
+            min-width: 1000px; /* 设置最小宽度 */
+            max-width: 2000px; /* 设置最大宽度 */
+            width: 100%;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+        }
+        .header {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .search-container {
+            width: 100%;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .search-container form {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .search-container input[type="text"] {
+            width: 60%;
+            padding: 10px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        .search-container button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 16px;
+            margin-left: 10px;
+            cursor: pointer;
+            box-sizing: border-box;
+        }
+        .search-container button:hover {
+            background-color: #0056b3;
+        }
+        .suggestion {
+            margin-bottom: 20px;
+            font-size: 16px;
+            color: #555;
+        }
+        .results-info {
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+        .results-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .left, .right {
+            width: 48%;
+            box-sizing: border-box;
+        }
+        .right {
+            padding-left: 20px;
+            border-left: 1px solid #ddd;
+        }
+        .result-item {
+            margin-bottom: 20px;
+            margin-top: 20px;
+        }
+        .result-item a {
+            font-size: 22px;
+            color: #007bff;
+            text-decoration: none;
+            display: block; /* 确保 a 标签内容左对齐 */
+            text-align: left; /* 确保 a 标签内容左对齐 */
+        }
+        .result-item a:hover {
+            text-decoration: underline;
+        }
+        .result-item .snippet {
+            font-size: 12px;
+            color: #555;
+            display: -webkit-box;
+            -webkit-line-clamp: 4; /* 显示四行 */
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .wenxin-result-box {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+        @media (max-width: 1200px) {
+            .left, .right {
+                width: 100%;
+                padding: 0;
+                border: none;
+            }
+            .results-container {
+                flex-direction: column;
+                align-items: center;
+            }
+            .right {
+                padding-top: 20px;
+                border-top: 1px solid #ddd;
+            }
+        }
+    </style>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>面向教师个人主页的信息检索系统</h1>
+        </div>
+        <div class="search-container">
+            <form action="{% url 'search:results' %}" method="get">
+                <input type="text" name="query" value="{{ query }}" placeholder="输入要查询的内容">
+                <button type="submit">搜索</button>
+            </form>
+            {% if corrected_query and corrected_query != query %}
+            <div class="suggestion">您要找的是不是：<strong>{{ corrected_query }}</strong></div>
+            {% endif %}
+        </div>
+        <div class="results-info">
+            为您查询到 {{ result_count }} 个结果，用时 {{ query_time|floatformat:2 }} 秒。
+        </div>
+        <div class="results-container">
+            <div class="left">
+                <h2>搜索结果</h2>
+                <div class="content">
+                    <ul>
+                        {% for first_term_info, url, snippet in results %}
+                        <li class="result-item">
+                            <a href="{{ url }}" class="result-link">{{ first_term_info|safe }}</a><br>
+                            <div class="snippet">{{ snippet|safe }}</div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="right">
+                <h2>文心一言结果</h2>
+                <div id="wenxin_response" class="wenxin-result-box">
+                    <!-- 文心一言的结果将在这里显示 -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            const query = "{{ query }}";
+            if (query) {
+                const source = new EventSource("{% url 'search:wenxin_result' %}?query=" + query);
+                source.onmessage = function(event) {
+                    $('#wenxin_response').append("<p>" + event.data + "</p>");
+                };
+                source.onerror = function() {
+                    source.close();
+                };
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

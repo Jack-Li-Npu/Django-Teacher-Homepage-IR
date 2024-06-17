@@ -1,0 +1,248 @@
+教师主页
+团队成员
+宋轩
+Google Scholar
+研究员
+计算机科学与工程系
+宋轩博士，2010年在北京大学获得博士学位，2010-2019年在日本东京大学任职博士后研究员，特任助理教授，特任副教授和副教授。2019年入职南方科技大学，目前是国家重点研发计划项目负责人，日本国家卓越研究员，“南方科技大学-东京大学超智慧城市联合研究中心”执行主任。他的主要研究方向为人工智能相关领域，包括大数据分析、数据挖掘和城市计算等。基于在“城市智能化管理”的学术贡献，2022年获得了中华人民共和国驻日本国大使赏（自然科学领域成就奖，唯一获奖人）。在过去10年间，他在计算机领域知名的国际期刊和会议上发表各类论文130余篇，其中发表在JCR一区或中国计算机协会推荐的A类期刊会议论文90余篇，发表学术专著一部，申请国内国际专利90余项，获得中国发明创业奖（个人奖），中国发明创新奖二等奖，中国产学研合作促进会创新奖（个人奖）。过去10年间，作为项目负责人（PI）承担各类科研项目，合同总金额超过4000万元人民币，相关研究成果产生了巨大的社会和经济效益，帮助政府和社会减少了难以估算的经济财产损失和人员伤亡。他的研究成果也被联合国“全球脉动”、探索频道、学习强国平台、人民周刊、中国科学报、中国改革报、中国网、中华网、科技日报等重点报道，并被美国国防部2018年发布的项目征集指南重点引用。
+个人简介
+研究领域
+城市智能化管理；空间数据智能；人工智能；大数据分析；智慧城市
+学术成果
+查看更多
+发表学术论文列表
+[1]      Z. Zhang, H. Wang, Z. Fan, J. Chen, X. Song, and R. Shibasaki, “GOF-TTE: Generative Online Federated Learning Framework for Travel Time Estimation,” IEEE Internet of Things Journal, 2022.
+[2]      K. Zhang, X. Song, C. Zhang, and S. Yu, “Challenges and future directions of secure federated learning: a survey,” Frontiers of computer science, vol. 16, no. 5, pp. 1–8, 2022.
+[3]      H. Zhang, P. Li, Z. Zhang, W. Li, J. Chen, X. Song, R. Shibasaki, and J. Yan, “Epidemic versus economic performances of the COVID-19 lockdown: A big data driven analysis,” Cities, vol. 120, p. 103502, 2022.
+[4]      H. Zhang, J. Chen, Q. Chen, T. Xia, X. Wang, W. Li, X. Song, and R. Shibasaki, “A universal mobility-based indicator for regional health level,” Cities, vol. 120, p. 103452, 2022.
+[5]      D. Yin, R. Jiang, J. Deng, Y. Li, Y. Xie, Z. Wang, Y. Zhou, X. Song, and J. S. Shang, “MTMGNN: Multi-time multi-graph neural network for metro passenger flow prediction,” GeoInformatica, pp. 1–29, 2022.
+[6]      Y. Yao, H. Zhang, L. Lin, G. Lin, R. Shibasaki, X. Song, and K. Yu, “Internet of Things Positioning Technology Based Intelligent Delivery System,” IEEE Transactions on Intelligent Transportation Systems, 2022.
+[7]      Y. Yao, H. Zhang, F. Defan, J. Chen, W. Li, R. Shibasaki, and X. Song, “Modifiable Areal Unit Problem on Grided Mobile Crowd Sensing: Analysis and Restoration,” IEEE Transactions on Mobile Computing, 2022.
+[8]      C. Yang, Z. Zhang, Z. Fan, R. Jiang, Q. Chen, X. Song, and R. Shibasaki, “EpiMob: Interactive Visual Analytics of Citywide Human Mobility Restrictions for Epidemic Control,” IEEE Transactions on Visualization and Computer Graphics, 2022.
+[9]      H. Xie, X. Song, and H. Zhang, “MaaS and IoT: Concepts, methodologies, and applications,” Big Data and Mobility as a Service, pp. 229–243, 2022.
+[10]    Z. Wang, R. Jiang, H. Xue, F. D. Salim, X. Song, and R. Shibasaki, “Event-Aware Multimodal Mobility Nowcasting,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2022, vol. 36, no. 4, pp. 4228–4236.
+[11]    Y. Tao, C. Yang, T. Wang, E. Coltey, Y. Jin, Y. Liu, R. Jiang, Z. Fan, X. Song, R. Shibasaki, and others, “A Survey on Data-Driven COVID-19 and Future Pandemic Management,” ACM Computing Surveys (CSUR), 2022.
+[12]    W. Li, H. Zhang, J. Chen, P. Li, Y. Yao, X. Shi, M. Shibasaki, H. H. Kobayashi, X. Song, and R. Shibasaki, “Metagraph-based Life Pattern Clustering with Big Human Mobility Data,” IEEE Transactions on Big Data, 2022.
+[13]    P. Li, H. Zhang, W. Li, K. Yu, A. K. Bashir, A. A. Al Zubi, J. Chen, X. Song, and R. Shibasaki, “IIoT based Trustworthy Demographic Dynamics Tracking with Advanced Bayesian Learning,” IEEE Transactions on Network Science and Engineering, 2022.
+[14]    R. Jiang, Z. Cai, Z. Wang, C. Yang, Z. Fan, Q. Chen, X. Song, and R. Shibasaki, “Predicting Citywide Crowd Dynamics at Big Events: A Deep Learning System,” ACM Transactions on Intelligent Systems and Technology (TIST), vol. 13, no. 2, pp. 1–24, 2022.
+[15]    Z. Fan, C. Yang, Z. Zhang, X. Song, Y. Liu, R. Jiang, Q. Chen, and R. Shibasaki, “Human Mobility-based Individual-level Epidemic Simulation Platform,” ACM Transactions on Spatial Algorithms and Systems (TSAS), vol. 8, no. 3, pp. 1–16, 2022.
+[16]    Z. Chen, P. Li, Y. Jin, Y. Jin, J. Chen, W. Li, X. Song, R. Shibasaki, M. Chen, D. Yan, and others, “Using mobile phone big data to identify inequity of artificial light at night exposure: A case study in Tokyo,” Cities, vol. 128, p. 103803, 2022.
+[17]    J. Chen, Q. Zhang, N. Xu, W. Li, Y. Yao, P. Li, Q. Yu, C. Wen, X. Song, R. Shibasaki, and others, “Roadmap to hydrogen society of Tokyo: Locating priority of hydrogen facilities based on multiple big data fusion,” Applied Energy, vol. 313, p. 118688, 2022.
+[18]    S. Ao, T. Zhou, J. Jiang, G. Long, X. Song, and C. Zhang, “EAT-C: Environment-Adversarial sub-Task Curriculum for Efficient Reinforcement Learning,” in International Conference on Machine Learning, 2022, pp. 822–843.
+[19]    H. Zhang, J. Yan, Q. Yu, M. Obersteiner, W. Li, J. Chen, Q. Zhang, M. Jiang, F. Wallin, X. Song, and others, “1.6 Million transactions replicate distributed PV market slowdown by COVID-19 lockdown,” Applied Energy, vol. 283, p. 116341, 2021.
+[20]    H. Zhang, X. Song, and R. Shibasaki, “Big Data and Mobility as a Service.” Elsevier, 2021.
+[21]    H. Zhang, J. Chen, J. Yan, X. Song, R. Shibasaki, and J. Yan, “Urban power load profiles under ageing transition integrated with future EVs charging,” Advances in Applied Energy, vol. 1, p. 100007, 2021.
+[22]    Z. Wang, T. Xia, R. Jiang, X. Liu, K.-S. Kim, X. Song, and R. Shibasaki, “Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks,” in 2021 IEEE 37th International Conference on Data Engineering (ICDE), 2021, pp. 1751–1762.
+[23]    Z. Wang, R. Jiang, Z. Cai, Z. Fan, X. Liu, K.-S. Kim, X. Song, and R. Shibasaki, “Spatio-temporal-categorical graph neural networks for fine-grained multi-incident co-prediction,” in Proceedings of the 30th ACM international conference on information & knowledge management, 2021, pp. 2060–2069.
+[24]    Y. Tao, R. Jiang, E. Coltey, C. Yang, X. Song, R. Shibasaki, M.-L. Shyu, and S.-C. Chen, “Data-driven in-crisis community identification for disaster response and management,” in 2021 IEEE 7th International Conference on Collaboration and Internet Computing (CIC), 2021, pp. 96–104.
+[25]    Y. Liu, Z. Fan, X. Song, and R. Shibasaki, “FedVoting: A Cross-Silo Boosting Tree Construction Method for Privacy-Preserving Long-Term Human Mobility Prediction,” Sensors, vol. 21, no. 24, p. 8282, 2021.
+[26]    P. Li, H. Zhang, Z. Guo, S. Lyu, J. Chen, W. Li, X. Song, R. Shibasaki, and J. Yan, “Understanding rooftop PV panel semantic segmentation of satellite and aerial images for better using machine learning,” Advances in applied energy, vol. 4, p. 100057, 2021.
+[27]    W. Jiang, H. Zhang, Y. Long, J. Chen, Y. Sui, X. Song, R. Shibasaki, and Q. Yu, “GPS data in urban online ride-hailing: the technical potential analysis of demand prediction model,” Journal of Cleaner Production, vol. 279, p. 123706, 2021.
+[28]    R. Jiang, D. Yin, Z. Wang, Y. Wang, J. Deng, H. Liu, Z. Cai, J. Deng, X. Song, and R. Shibasaki, “Dl-traff: Survey and benchmark of deep learning models for urban traffic prediction,” in Proceedings of the 30th ACM international conference on information & knowledge management, 2021, pp. 4515–4525.
+[29]    R. Jiang, Z. Wang, Z. Cai, C. Yang, Z. Fan, T. Xia, G. Matsubara, H. Mizuseki, X. Song, and R. Shibasaki, “Countrywide origin-destination matrix prediction and its application for covid-19,” in Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2021, pp. 319–334.
+[30]    R. Jiang, X. Song, Z. Fan, T. Xia, Z. Wang, Q. Chen, Z. Cai, and R. Shibasaki, “Transfer urban human mobility via POI embedding over multiple cities,” ACM Transactions on Data Science, vol. 2, no. 1, pp. 1–26, 2021.
+[31]    R. Jiang, Z. Cai, Z. Wang, C. Yang, Z. Fan, Q. Chen, K. Tsubouchi, X. Song, and R. Shibasaki, “DeepCrowd: A deep model for large-scale citywide crowd density and flow prediction,” IEEE Transactions on Knowledge and Data Engineering, 2021.
+[32]    D. Feng, Y. Mo, Z. Tang, Q. Chen, H. Zhang, R. Akerkar, and X. Song, “Data-driven hospital personnel scheduling optimization through patients prediction,” CCF Transactions on Pervasive Computing and Interaction, vol. 3, no. 1, pp. 40–56, 2021.
+[33]    J. Deng, X. Chen, R. Jiang, X. Song, and I. W. Tsang, “St-norm: Spatial and temporal normalization for multi-variate time series forecasting,” in Proceedings of the 27th ACM SIGKDD conference on knowledge discovery & data mining, 2021, pp. 269–278.
+[34]    J. Deng, X. Chen, Z. Fan, R. Jiang, X. Song, and I. W. Tsang, “The pulse of urban transport: Exploring the co-evolving pattern for spatio-temporal forecasting,” ACM Transactions on Knowledge Discovery from Data (TKDD), vol. 15, no. 6, pp. 1–25, 2021.
+[35]    J. Chen, W. Li, H. Zhang, Z. Cai, Y. Sui, Y. Long, X. Song, and R. Shibasaki, “GPS data in urban online ride-hailing: A simulation method to evaluate impact of user scale on emission performance of system,” Journal of Cleaner Production, vol. 287, p. 125567, 2021.
+[36]    H. Zhang, J. Chen, W. Li, X. Song, and R. Shibasaki, “Mobile phone GPS data in urban ride-sharing: An assessment method for emission reduction potential,” Applied energy, vol. 269, p. 115038, 2020.
+[37]    Q. Yu, H. Zhang, W. Li, X. Song, D. Yang, and R. Shibasaki, “Mobile phone GPS data in urban customized bus: Dynamic line design and emission reduction potentials analysis,” Journal of Cleaner Production, vol. 272, p. 122471, 2020.
+[38]    Q. Yu, H. Zhang, W. Li, Y. Sui, X. Song, D. Yang, R. Shibasaki, and W. Jiang, “Mobile phone data in urban bicycle-sharing: Market-oriented sub-area division and spatial analysis on emission reduction potentials,” Journal of Cleaner Production, vol. 254, p. 119974, 2020.
+[39]    T. Xia, A. Jatowt, Z. Wang, R. Si, H. Zhang, X. Liu, R. Shibasaki, X. Song, and K. Kim, “CoolPath: an application for recommending pedestrian routes with reduced heatstroke risk,” in International Symposium on Web and Wireless Geographical Information Systems, 2020, pp. 14–23.
+[40]    Y. Wang, J. Chen, N. Xu, W. Li, Q. Yu, and X. Song, “GPS data in urban online Car-hailing: simulation on optimization and prediction in reducing void cruising distance,” Mathematical Problems in Engineering, vol. 2020, 2020.
+[41]    Y. Sui, H. Zhang, W. Shang, R. Sun, C. Wang, J. Ji, X. Song, and F. Shao, “Mining urban sustainable performance: Spatio-temporal emission potential changes of urban transit buses in post-COVID-19 future,” Applied Energy, vol. 280, p. 115966, 2020.
+[42]    X. Song, H. Zhang, R. A. Akerkar, H. Huang, S. Guo, L. Zhong, Y. Ji, A. L. Opdahl, H. Purohit, A. Skupin, and others, “Big data and emergency management: concepts, methodologies, and applications,” IEEE Transactions on Big Data, 2020.
+[43]    X. Song, R. Guo, T. Xia, Z. Guo, Y. Long, H. Zhang, X. Song, and S. Ryosuke, “Mining urban sustainable performance: Millions of GPS data reveal high-emission travel attraction in Tokyo,” Journal of Cleaner Production, vol. 242, p. 118396, 2020.
+[44]    V.-H. Nhu, P.-T. Thi Ngo, T. D. Pham, J. Dou, X. Song, N.-D. Hoang, D. A. Tran, D. P. Cao, I. B. Aydilek, M. Amiri, and others, “A new hybrid firefly–PSO optimized random subspace tree intelligence for torrential rainfall-induced flash flood susceptible mapping,” Remote Sensing, vol. 12, no. 17, p. 2688, 2020.
+[45]    X. Lian, W. Yuan, Z. Guo, Z. Cai, X. Song, and R. Shibasaki, “End-to-end building change detection model in aerial imagery and digital surface model based on neural networks,” The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. 43, pp. 1239–1246, 2020.
+[46]    R. Jiang, Q. Chen, Z. Cai, Z. Fan, X. Song, K. Tsubouchi, and R. Shibasaki, “Will you go where you search? a deep learning framework for estimating user search-and-go behavior,” Neurocomputing, 2020.
+[47]    Z. Fan, X. Song, and R. Shibasaki, “Big Data-Driven Citywide Human Mobility Modeling for Emergency Management,” in Big Data in Emergency Management: Exploitation Techniques for Social and Mobile Data, Springer, Cham, 2020, pp. 109–130.
+[48]    Z. Fan, X. Song, Q. Chen, R. Jiang, R. Shibasaki, and K. Tsubouchi, “Trajectory fingerprint: one-shot human trajectory identification using Siamese network,” CCF Transactions on Pervasive Computing and Interaction, vol. 2, no. 2, pp. 113–125, 2020.
+[49]    S. Dong, H. Wang, A. Mostafizi, and X. Song, “A network-of-networks percolation analysis of cascading failures in spatially co-located road-sewer infrastructure networks,” Physica A: Statistical Mechanics and its Applications, vol. 538, p. 122971, 2020.
+[50]    Q. Chen, R. Jiang, C. Yang, Z. Cai, Z. Fan, K. Tsubouchi, R. Shibasaki, and X. Song, “Dualsin: Dual sequential interaction network for human intentional mobility prediction,” in Proceedings of the 28th International Conference on Advances in Geographic Information Systems, 2020, pp. 283–292.
+[51]    J. Chen, W. Li, H. Zhang, W. Jiang, W. Li, Y. Sui, X. Song, and R. Shibasaki, “Mining urban sustainable performance: GPS data-based spatio-temporal analysis on on-road braking emission,” Journal of Cleaner Production, vol. 270, p. 122489, 2020.
+[52]    J. Zheng, H. Zhang, L. Yin, Y. Liang, B. Wang, Z. Li, X. Song, and Y. Zhang, “A voyage with minimal fuel consumption for cruise ships,” Journal of Cleaner Production, vol. 215, pp. 144–153, 2019.
+[53]    Q. Zhang, X. Song, Y. Yang, H. Ma, and R. Shibasaki, “Visual graph mining for graph matching,” Computer Vision and Image Understanding, vol. 178, pp. 16–29, 2019.
+[54]    H. Zhang, X. Song, X. Song, D. Huang, N. Xu, R. Shibasaki, and Y. Liang, “Ex-ante online risk assessment for building emergency evacuation through multimedia data,” Plos one, vol. 14, no. 4, p. e0215149, 2019.
+[55]    H. Zhang, X. Song, Y. Long, T. Xia, K. Fang, J. Zheng, D. Huang, R. Shibasaki, and Y. Liang, “Mobile phone GPS data in urban bicycle-sharing: Layout optimization and emissions reduction analysis,” Applied Energy, vol. 242, pp. 138–147, 2019.
+[56]    Y. Yan, H. Zhang, Y. Long, Y. Wang, Y. Liang, X. Song, and J. James, “Multi-objective design optimization of combined cooling, heating and power system for cruise ship application,” Journal of cleaner production, vol. 233, pp. 264–279, 2019.
+[57]    S. Xin, Y. Liang, X. Zhou, W. Li, J. Zhang, X. Song, C. Yu, and H. Zhang, “A two-stage strategy for the pump optimal scheduling of refined products pipelines,” Chemical Engineering Research and Design, vol. 152, pp. 1–19, 2019.
+[58]    T. Xia, X. Song, H. Zhang, X. Song, H. Kanasugi, and R. Shibasaki, “Measuring spatio-temporal accessibility to emergency medical services through big GPS data,” Health & place, vol. 56, pp. 53–62, 2019.
+[59]    T. Xia, X. Song, X. Song, M. Lu, S. Huang, R. Shibasaki, and K.-S. Kim, “From walkability to bikeability: A GIS based analysis of integrating bike sharing service in Tokyo TOD system.,” Abstracts of the ICA, vol. 1, p. NA-NA, 2019.
+[60]    T. Xia, S. Huang, X. Song, R. Si, X. Song, R. Shibasaki, and K.-S. Kim, “Evaluating transport time in emergency medical service via GIS: an observational study of Tokyo.,” Abstracts of the ICA, vol. 1, p. NA-NA, 2019.
+[61]    Y. Sui, H. Zhang, X. Song, F. Shao, X. Yu, R. Shibasaki, R. Sun, M. Yuan, C. Wang, S. Li, and others, “GPS data in urban online ride-hailing: A comparative analysis on fuel consumption and emissions,” Journal of Cleaner Production, vol. 227, pp. 495–505, 2019.
+[62]    A. Sudo, Y. Sekimoto, L. H. Chuin, X. Song, and T. Yabe, “Predictgis 2018 workshop report held in conjunction with ACM SIGSPATIAL 2018,” SIGSPATIAL Special, vol. 10, no. 3, pp. 26–27, 2019.
+[63]    X. Song, S. Guo, and H. Wang, “Guest editorial: special issue on big data for effective disaster management (In Memorial of Tao Li),” World Wide Web, vol. 22, no. 5, pp. 1889–1891, 2019.
+[64]    M. Shariati, M. S. Mafipour, P. Mehrabi, A. Bahadori, Y. Zandi, M. N. Salih, H. Nguyen, J. Dou, X. Song, and S. Poi-Ngian, “Application of a hybrid artificial neural network-particle swarm optimization (ANN-PSO) model in behavior prediction of channel shear connectors embedded in normal and high-strength concrete,” Applied Sciences, vol. 9, no. 24, p. 5534, 2019.
+[65]    S. Miyazawa, X. Song, T. Xia, R. Shibasaki, and H. Kaneda, “Integrating GPS trajectory and topics from Twitter stream for human mobility estimation,” Frontiers of Computer Science, vol. 13, no. 3, pp. 460–470, 2019.
+[66]    R. Jiang, X. Song, D. Huang, X. Song, T. Xia, Z. Cai, Z. Wang, K.-S. Kim, and R. Shibasaki, “Deepurbanevent: A system for predicting citywide crowd dynamics at big events,” in Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, 2019, pp. 2114–2122.
+[67]    D. Huang, X. Song, Z. Fan, R. Jiang, R. Shibasaki, Y. Zhang, H. Wang, and Y. Kato, “A variational autoencoder based generative model of urban human mobility,” in 2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2019, pp. 425–430.
+[68]    Z. Fan, X. Song, R. Jiang, Q. Chen, and R. Shibasaki, “Decentralized attention-based personalized human mobility prediction,” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol. 3, no. 4, pp. 1–26, 2019.
+[69]    Z. Fan, Q. Chen, R. Jiang, R. Shibasaki, X. Song, and K. Tsubouchi, “Deep multiple instance learning for human trajectory identification,” in Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2019, pp. 512–515.
+[70]    H. Zhang, X. Song, T. Xia, J. Zheng, D. Haung, R. Shibasaki, Y. Yan, and Y. Liang, “MaaS in bike-sharing: smart phone GPS data based layout optimization and emission reduction potential analysis,” Energy Procedia, vol. 152, pp. 649–654, 2018.
+[71]    H. Zhang, X. Song, T. Xia, M. Yuan, Z. Fan, R. Shibasaki, and Y. Liang, “Battery electric vehicles in Japan: Human mobile behavior based adoption potential analysis and policy target response,” Applied Energy, vol. 220, pp. 527–535, 2018.
+[72]    T. Xia, X. Song, Z. Fan, H. Kanasugi, Q. Chen, R. Jiang, and R. Shibasaki, “DeepRailway: a deep learning system for forecasting railway traffic,” in 2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2018, pp. 51–56.
+[73]    T. Li, X. Song, S.-C. Chen, R. Shibasaki, and R. Akerkar, “Editorial Introduction to the Special Issue on Multimedia Big Data for Extreme Events,” IEEE Transactions on Multimedia, vol. 20, no. 10, pp. 2547–2550, 2018.
+[74]    R. Jiang, X. Song, Z. Fan, T. Xia, Q. Chen, S. Miyazawa, and R. Shibasaki, “Deepurbanmomentum: An online deep-learning system for short-term urban mobility prediction,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2018, vol. 32, no. 1.
+[75]    R. Jiang, X. Song, Z. Fan, T. Xia, Q. Chen, Q. Chen, and R. Shibasaki, “Deep ROI-based modeling for urban human mobility prediction,” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol. 2, no. 1, pp. 1–29, 2018.
+[76]    Z. Fan, X. Song, T. Xia, R. Jiang, R. Shibasaki, and R. Sakuramachi, “Online deep ensemble learning for predicting citywide human mobility,” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol. 2, no. 3, pp. 1–21, 2018.
+[77]    Q. Chen, X. Song, Z. Fan, T. Xia, H. Yamada, and R. Shibasaki, “A context-aware nonnegative matrix factorization framework for traffic accident risk estimation via heterogeneous data,” in 2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2018, pp. 346–351.
+[78]    T. Xia, X. Song, D. Huang, S. Miyazawa, Z. Fan, R. Jiang, and R. Shibasaki, “Outbound behavior analysis through social network data: A case study of Chinese people in Japan,” in 2017 IEEE International Conference on Big Data (Big Data), 2017, pp. 2778–2786.
+[79]    X. Song, R. Shibasaki, N. J. Yuan, X. Xie, T. Li, and R. Adachi, “DeepMob: learning deep knowledge of human emergency behavior and mobility from big and heterogeneous data,” ACM Transactions on Information Systems (TOIS), vol. 35, no. 4, pp. 1–19, 2017.
+[80]    A. Sudo, T. Kashiyama, T. Yabe, H. Kanasugi, X. Song, T. Higuchi, S. Nakano, M. Saito, and Y. Sekimoto, “Particle filter for real-time human mobility prediction following unprecedented disaster,” in Proceedings of the 24th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2016, pp. 1–10.
+[81]    X. Song, Q. Zhang, Y. Sekimoto, R. Shibasaki, N. J. Yuan, and X. Xie, “Prediction and simulation of human mobility following natural disasters,” ACM Transactions on Intelligent Systems and Technology (TIST), vol. 8, no. 2, pp. 1–23, 2016.
+[82]    X. Song, H. Kanasugi, and R. Shibasaki, “Deeptransport: Prediction and simulation of human mobility and transportation mode at a citywide level,” in Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, 2016, pp. 2618–2624.
+[83]    Z. Fan, X. Song, R. Shibasaki, T. Li, and H. Kaneda, “CityCoupling: bridging intercity human mobility,” in Proceedings of the 2016 ACM international joint conference on pervasive and ubiquitous computing, 2016, pp. 718–728.
+[84]    Z. Fan, A. Arai, X. Song, A. Witayangkurn, H. Kanasugi, and R. Shibasaki, “A Collaborative Filtering Approach to Citywide Human Mobility Completion from Sparse Call Records.,” in IJCAI, 2016, pp. 2500–2506.
+[85]    Q. Chen, X. Song, H. Yamada, and R. Shibasaki, “Learning deep representation from big and heterogeneous data for traffic accident inference,” 2016.
+[86]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “Object discovery: Soft attributed graph mining,” IEEE transactions on pattern analysis and machine intelligence, vol. 38, no. 3, pp. 532–545, 2015.
+[87]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “From rgb-d images to rgb images: Single labeling for mining visual models,” ACM Transactions on Intelligent Systems and Technology (TIST), vol. 6, no. 2, pp. 1–29, 2015.
+[88]    X. Song, Q. Zhang, Y. Sekimoto, R. Shibasaki, N. J. Yuan, and X. Xie, “A simulator of human emergency mobility following disasters: Knowledge transfer from big disaster data,” 2015.
+[89]    Z. Fan, X. Song, R. Shibasaki, and R. Adachi, “Citymomentum: an online approach for crowd behavior prediction at a citywide level,” in Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2015, pp. 559–569.
+[90]    J. Dou, H. Yamagishi, H. R. Pourghasemi, A. P. Yunus, X. Song, Y. Xu, and Z. Zhu, “An integrated artificial neural network model for the landslide susceptibility assessment of Osado Island, Japan,” Natural Hazards, vol. 78, no. 3, pp. 1749–1776, 2015.
+[91]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “When 3D reconstruction meets ubiquitous RGB-D images,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2014, pp. 700–707.
+[92]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “Start from minimum labeling: Learning of 3d object models and point labeling from a large and complex environment,” in 2014 IEEE International Conference on Robotics and Automation (ICRA), 2014, pp. 3082–3089.
+[93]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “Attributed graph mining and matching: An attempt to define and extract soft attributed patterns,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2014, pp. 1394–1401.
+[94]    X. Song, Q. Zhang, Y. Sekimoto, and R. Shibasaki, “Prediction of human emergency behavior and their mobility following large-scale disaster,” in Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, 2014, pp. 5–14.
+[95]    X. Song, Q. Zhang, Y. Sekimoto, and R. Shibasaki, “Intelligent system for urban emergency management during large-scale disaster,” in Proceedings of the AAAI Conference on Artificial Intelligence, 2014, vol. 28, no. 1.
+[96]    Z. Fan, X. Song, and R. Shibasaki, “CitySpectrum: A non-negative tensor factorization approach,” in Proceedings of the 2014 ACM international joint conference on pervasive and ubiquitous computing, 2014, pp. 213–223.
+[97]    Q. Zhang, X. Song, X. Shao, R. Shibasaki, and H. Zhao, “Unsupervised skeleton extraction and motion capture from 3D deformable matching,” Neurocomputing, vol. 100, pp. 170–182, 2013.
+[98]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “Unsupervised 3D category discovery and point labeling from a large urban environment,” in 2013 IEEE International Conference on Robotics and Automation, 2013, pp. 2685–2692.
+[99]    Q. Zhang, X. Song, X. Shao, H. Zhao, and R. Shibasaki, “Learning graph matching: Oriented to category modeling from cluttered scenes,” in Proceedings of the IEEE International Conference on Computer Vision, 2013, pp. 1329–1336.
+[100]  Q. Zhang, X. Song, X. Shao, R. Shibasaki, and H. Zhao, “Category modeling from just a single labeling: Use depth information to guide the learning of 2d models,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2013, pp. 193–200.
+[101]  X. Song, H. Zhao, J. Cui, X. Shao, R. Shibasaki, and H. Zha, “An online system for multiple interacting targets tracking: Fusion of laser and vision, tracking and learning,” ACM Transactions on Intelligent Systems and Technology (TIST), vol. 4, no. 1, pp. 1–21, 2013.
+[102]  X. Song, Q. Zhang, Y. Sekimoto, T. Horanont, S. Ueyama, and R. Shibasaki, “Modeling and probabilistic reasoning of population evacuation during large-scale disaster,” in Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining, 2013, pp. 1231–1239.
+[103]  X. Song, Q. Zhang, Y. Sekimoto, T. Horanont, S. Ueyama, and R. Shibasaki, “Intelligent system for human behavior analysis and reasoning following large-scale disasters,” IEEE Intelligent Systems, vol. 28, no. 4, pp. 35–42, 2013.
+[104]  X. Song, X. Shao, Q. Zhang, R. Shibasaki, H. Zhao, and H. Zha, “A novel dynamic model for multiple pedestrians tracking in extremely crowded scenarios,” Information Fusion, vol. 14, no. 3, pp. 301–310, 2013.
+[105]  X. Song, X. Shao, Q. Zhang, R. Shibasaki, H. Zhao, J. Cui, and H. Zha, “A fully online and unsupervised system for large and high-density area surveillance: Tracking, semantic scene learning and abnormality detection,” ACM Transactions on Intelligent Systems and Technology (TIST), vol. 4, no. 2, pp. 1–21, 2013.
+[106]  X. Song, T. Horanont, S. Ueyama, Q. Zhang, Y. Sekimoto, and R. Shibasaki, “An intelligent system for large-scale disaster behavior analysis and reasoning,” IEEE Intelligent Systems, vol. 99, no. 1, p. 1, 2013.
+[107]  X. Song, J. Cui, H. Zhao, H. Zha, and R. Shibasaki, “Laser-based tracking of multiple interacting pedestrians via on-line learning,” Neurocomputing, vol. 115, pp. 92–105, 2013.
+[108]  X. Song, X. Shao, Q. Zhang, R. Shibasaki, H. Zhao, and H. Zha, “Laser-based intelligent surveillance and abnormality detection in extremely crowded scenarios,” in 2012 IEEE International Conference on Robotics and Automation, 2012, pp. 2170–2176.
+[109]  H. Zha, H. Zhao, J. Cui, X. Song, and X. Ying, “Combining laser-scanning data and images for target tracking and scene modeling,” in Robotics Research, Springer, Berlin, Heidelberg, 2011, pp. 573–587.
+[110]  X. Song, X. Shao, R. Shibasaki, H. Zhao, J. Cui, and H. Zha, “A novel laser-based system: Fully online detection of abnormal activity via an unsupervised method,” in 2011 IEEE International Conference on Robotics and Automation, 2011, pp. 1317–1322.
+[111]  X. Song, H. Zhao, J. Cui, X. Shao, R. Shibasaki, and H. Zha, “Fusion of laser and vision for multiple targets tracking via on-line learning,” in 2010 IEEE International Conference on Robotics and Automation, 2010, pp. 406–411.
+[112]  X. Song, X. Shao, H. Zhao, J. Cui, R. Shibasaki, and H. Zha, “An online approach: Learning-semantic-scene-by-tracking and tracking-by-learning-semantic-scene,” in 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2010, pp. 739–746.
+[113]  X. Song, B. Wen, J. Cui, H. Zhao, X. Shao, R. Shibasaki, and H. Zha, “A boosted JPDA-particle filter for multi-target tracking,” in Proc. Asian Workshop Sens. Vis. City-Human Interact.(AWSVCI), 2009, pp. 1–4.
+[114]  J. Cui, X. Song, H. Zhao, H. Zha, and R. Shibasaki, “Real-Time Detection and Tracking of Multiple People in Laser Scan Frames,” in Augmented Vision Perception in Infrared, Springer, London, 2009, pp. 405–439.
+[115]  X. Song, J. Cui, H. Zhao, and H. Zha, “Bayesian fusion of laser and vision for multiple people detection and tracking,” in 2008 SICE Annual Conference, 2008, pp. 3014–3019.
+[116]  X. Song, J. Cui, H. Zha, and H. Zhao, “Vision-based multiple interacting targets tracking via on-line supervised learning,” in European Conference on Computer Vision, 2008, pp. 642–655.
+[117]  X. Song, J. Cui, H. Zha, and H. Zhao, “Probabilistic Detection-based Particle Filter for Multi-target Tracking.,” in BMVC, 2008, vol. 8, pp. 223–232.
+[118]  X. Song, J. Cui, X. Wang, H. Zhao, and H. Zha, “Tracking interacting targets with laser scanner via on-line supervised learning,” in 2008 IEEE International Conference on Robotics and Automation, 2008, pp. 2271–2276.
+[119]  X. Song, J. Chi, H. Zhao, and H. Zha, “A Bayesian approach: Fusion of laser and vision for multiple pedestrians tracking,” Int. J. Adv. Comput. Eng, vol. 3, no. 1, pp. 1–9, 2008.
+[120] 宋轩，高云君，李勇，关庆锋，孟小峰/空间数据智能:概念、技术与挑战/计算机研究与发展/2022-01-17 (中文)
+    申请专利列表
+  中国专利
+宋轩,张浩然,黄立乔,柴崎亮介. 预测传染病的确诊人数的方法、装置、设备和存储介质. 发明. 实审. 中国. ZL 202010330942.1. 2020/4/24（受理）2022/7/6(授权). 南方科技大学
+宋轩,张浩然,黄立乔,徐宁,范子沛,柴崎亮介.救援计划的确定方法、装置、服务器和存储介质. 发明.中国. ZL 202010235312.6. 2020/3/30（受理）2022/8/22(授权). 南方科技大学
+宋轩,张浩然,徐宁,黄立乔,范子沛,柴崎亮介. 应急救助站的布局方法、装置、服务器及存储介质.发明.中国. ZL 202010263747.1 .2020/4/7（受理）2022/9/2(授权). 南方科技大学
+宋轩,蔡泽坤,姜仁河,连欣蕾,杨闯,王肇南,范子沛,陈全俊,柴崎亮介.人流转移预测方法、装置、设备及存储介质.发明.中国. ZL202110011553.7. 2021/1/6（受理）2022/4/12(授权) . 南方科技大学
+宋轩,范子沛,陈全俊,姜仁河,蔡泽坤,柴崎亮介.出行预测方法、装置、设备和存储介质. 发明.中国. ZL202010255483.5. 2020/4/2（受理）2022/06/28(授权) .南方科技大学
+宋轩,陈达寅,史小丹,张浩然. 基于众包的温度预测方法、装置、设备和存储介质.发明.
+中国. CN202110966275.0. 2021/8/23（受理）2021/11/16(授权) .南方科技大学
+宋轩,唐之遥,莫宇,冯德帆,陈全俊,张浩然. 医院门诊规划方法、装置、设备及存储介质. 发明.中国. ZL202011552305.5. 2020/12/24（受理）2022/4/29(授权) .南方科技大学
+宋轩,李永康,范子沛,尹渡,冯德帆,邓锦亮,王宏骏.本地事件检测方法、装置、设备和存储介质.发明.中国. ZL202111381988.7. 2021/11/22（受理）2022/03/08(授权) .南方科技大学
+宋轩,陈全俊,董正,崔俞崧,王宇辰.交通状态检测方法、装置、设备和存储介质. 发明.中国. ZL202111487737.7. 2021/12/8（受理）2022/03/08(授权) . 南方科技大学
+宋轩,颜秋阳,张浩然,陈达寅,赵奕丞,江亦凡 .好友添加方法、装置、设备及存储介质. 发明.中国. ZL202011614880.3. 2020/12/30（受理）2022/05/31 (授权) . 南方科技大学
+宋轩,李永康,范子沛,尹渡,邓锦亮. 好友推荐方法、装置、设备和存储介质.发明.中国. ZL202210490518.2. 2022/5/8（受理）2022/06/29(授权) . 南方科技大学
+宋轩,马浩原,舒家阳,姜仁河,欧阳晓东.景区疫情风险预测与限流方法、装置、设备和存储介质.发明.中国. ZL202111258913.X. 2021/10/28(受理)2022/07/08(授权) .南方科技大学
+13      宋轩,范子沛,张志文,杨闯,陈全俊,姜仁河,柴崎亮介. 用于电脑的疫情防控模拟可视化图形用户界面.外观设计.中国. ZL202030128454.3. 2020/3/31(受理)2020/8/7(授权). 南方科技大学
+14      宋轩,范子沛,姜仁河,陈全俊,杨闯,张志文,柴崎亮介.电脑的传染病防控政策可视化图形用户界面.外观设计.中国. ZL202030263392.7. 2020/5/9(受理)2021/3/12(授权).南方科技大学
+15      宋轩,张浩然,谢洪彬,舒家阳,赵奕丞,林贵旭,冯德帆,云沐晟. 显示屏幕面板的传染病防控的图形用户界面. 外观设计.中国. ZL202030762732.0. 2020/12/10(受理).2021/7/30(授权). 南方科技大学
+16   宋轩,谢洪彬,江亦凡,王宏俊,范子沛,陈林尧 .显示屏幕面板的交通流量预测图形用户界面. 
+外观设计.中国. ZL202130581214.3. 2021/9/3（受理）2022/04/26(授权) .南方科技大学
+17   宋轩,范子沛,江亦凡,王宏俊,陈林尧.显示屏幕面板的交通流预测的图形用户界面.外观设
+计.中国. ZL 202130098514.6. 2021/02/19（受理）2021/09/24(授权).南方科技大学
+18      宋轩,张浩然,谢洪彬,赵奕丞,林贵旭,舒家阳,邓锦亮,冯德帆,云沐晟. 防疫链IOS端软件. 软著.中国. ZL 2021SR0201005. 2020/12/18(授权). 南方科技大学
+19      宋轩,张浩然,谢洪彬,赵奕丞,林贵旭,舒家阳,邓锦亮,冯德帆,云沐晟. 防疫链安卓端软件. 软著.中国. ZL 2021SR0201006. 2020/12/18(授权). 南方科技大学
+20   基于大数据和模型可解释性的交通流量预测交互式可视化系统. 软著.中国.
+ZL 2021SR02053758. 2021/05/30 (授权). 南方科技大学
+21      宋轩,范子沛,张志文,杨闯,刘英豪,姜仁河,陈全俊,柴崎亮介.预测传染病传播的方法、装置、计算机设备和存储介质. 发明. 实审. 中国. ZL 202010242822.6. 2020/3/31（受理）. 南方科技大学
+22   宋轩,范子沛, 姜仁河 ,陈全俊, 杨闯, 张志文, 柴崎亮介. 传染病传播的评估方法、装置、计算机设备和存储介质. 发明. 实审. 中国. ZL 202010567188.3 . 2020/6/19（受理）. 南方科技大学
+23      宋轩,张浩然. 基于区块链的挖矿方法、装置、计算机设备及存储介质. 发明. 实审. 中国. ZL 202010478510.5 . 2020/5/29（受理）. 南方科技大学
+24      宋轩,蔡泽坤,姜仁河,杨闯,柴崎亮介. 城市人流监控方法、装置、电子设备及存储介质. 发明. 实审. 中国. ZL 202011553972.5. 2020/12/24（受理）. 南方科技大学
+25      宋轩,张浩然. 接触数据存储方法、装置、设备及存储介质. 发明. 实审. 中国. ZL 202110050250.6 . 2021/1/14（受理）. 南方科技大学
+26      宋轩,颜秋阳,张浩然,陈达寅,赵奕丞,江亦凡 . 好友添加方法、装置、设备及存储介质. 发明. 实审. 中国. ZL 202011614880.3 . 2020/12/30（受理）. 南方科技大学
+27      宋轩,颜秋阳,张浩然,陈达寅,赵奕丞,江亦凡 . 移动支付方法、装置、设备及存储介质.  发明.  实审.  中国. ZL 202011613572.9 . 2020/12/30（受理）. 南方科技大学
+28      宋轩,云沐晟,张浩然,林贵旭,庄湛.  基于区块链的数据处理方法、装置、电子设备及存储介质. 发明. 实审. 中国. ZL 202011613853.4 . 2020/12/30（受理）. 南方科技大学
+29      宋轩,赵奕丞,张浩然,陈达寅,颜秋阳,江亦凡 . 一种密切接触判断方法、装置、电子设备和介质. 发明.  实审.  中国. ZL 202011615582.6 . 2020/12/30（受理）. 南方科技大学
+30      宋轩,陈达寅,张浩然,赵奕丞,颜秋阳,江亦凡 . 密切接触处理方法、装置、电子设备及介质. 发明. 实审. 中国. ZL 202110024004.3 . 2021/1/8（受理）. 南方科技大学
+31      宋轩,莫宇,冯德帆,张浩然,唐之遥,云沐晟. 疫情防控方法、装置、设备和介质. 发明. 初审.  中国. ZL 202011615837.9. 2020/12/30（受理）. 南方科技大学
+32      宋轩,林贵旭,张浩然,云沐晟,庄湛. 区块链风险值管理方法、装置、电子设备及存储介质.  发明. 实审. 中国. ZL 202110018364.2 . 2021/1/7（受理）. 南方科技大学
+33      宋轩,江亦凡,张浩然,陈达寅,赵奕丞,颜秋阳. 密切接触者的确定方法、装置、设备和存储介质. 发明.实审. 中国. ZL 202011626835.X. 2020/12/31（受理）. 南方科技大学
+34      宋轩,谢洪彬,张浩然,云沐晟,陈宇. 用户匹配方法、装置、电子设备及介质. 发明. 实审. 中国. ZL 202110024003.9. 2021/1/8（受理）. 南方科技大学
+35      宋轩,陈宇,张浩然,谢洪彬,云沐晟. 一种游戏玩家的匹配方法、装置、设备及存储介质   . 发明. 实审. 中国. ZL 202011553247.8 . 2020/12/24（受理）. 南方科技大学
+36      宋轩,聂雨荷,张浩然,庄湛. 获取密接人员信息方法、装置、服务器和存储介质.  发明. 实审. 中国. ZL 202110077477.X .2021/1/20（受理）. 南方科技大学
+37      宋轩,夏楚洋,张浩然,全伊伦,杨智宇,云沐晟,谢洪彬. 一种密接数据验证方法、客户端、服务器及存储介质.发明.实审.中国. ZL 202110171155.1. 2021/2/8（受理）.南方科技大学
+38      宋轩,莫宇,张浩然,冯德帆,唐之遥. 密接人群识别方法、装置、电子设备及存储介质. 发明. 实审. 中国. ZL 202110315764.X. 2021/3/24（受理）. 南方科技大学
+39      宋轩,莫宇,张浩然,冯德帆,唐之遥. 密接人员感染风险评估方法、装置、电子设备及存储介质. 发明. 实审. 中国. ZL 202110315755.0 . 2021/3/24（受理）.南方科技大学
+40      宋轩,陈达寅,张浩然. 一种传染病防控方法、装置、计算机设备及存储介质.发明.实审.中国. ZL 202110410104.X. 2021/4/16（受理）. 南方科技大学
+41      宋轩,陈达寅,张浩然. 移动终端获取环境温度的方法、装置、移动终端及介质.发明. 实审. 中国. ZL 202011633454.4 . 2020/12/31（受理）. 南方科技大学
+42      宋轩,谢洪彬,张浩然,云沐晟,全伊伦,杨智宇,夏楚洋. 一种密接组队方法、装置、终端及存储介质.发明.实审. 中国. ZL 202110077474.6 .2021/1/20（受理）.南方科技大学
+43      宋轩,谢洪彬,张浩然,陈宇,杨佳宇,曾焓. 智能开锁方法、系统、服务器和存储介质.发明实审. 中国. ZL 202110075512.4 . 2021/1/20（受理）. 南方科技大学
+44      宋轩,杨佳雨,张浩然,陈宇,曾焓,谢洪彬. 一种智能家居控制系统. 发明. 实审. 中国. ZL 202110181641.1. 2021/2/8（受理）. 南方科技大学
+45      宋轩,庄湛,张浩然,云沐晟,林贵旭. 基于区块链的数据处理方法、装置、设备及存储介质. 发明. 实审. 中国. ZL 202011613850.0. 2020/12/30（受理）. 南方科技大学
+46   宋轩,庄湛,张浩然,邹若彤,聂雨荷,云沐晟,潘泰仰.基于区块链的挖矿方法、装置、计算机设备及存储介质.发明.实审. 中国. ZL 202110368143.8. 2021/4/6（受理）.南方科技大学
+47      宋轩,邹若彤,张浩然,庄湛,云沐晟,潘泰仰. 一种基于区块链的挖矿方法、装置、移动终端及存储介质.发明. 实审. 中国. ZL 2021105873945.0 .2021/5/27（受理）.南方科技大学
+48      宋轩,谢洪彬,张浩然,江宇辰,陈纪元,黄文杰 . 一种防走失监护系统. 发明.实审. 中国. ZL 202110077472.7 .2021/1/20（受理）. 南方科技大学
+49      宋轩,曾焓,张浩然,陈宇,杨佳雨,谢洪彬. 基于密接的游戏好友推荐方法、系统、服务器及存储介质. 发明. 实审. 中国. ZL 202110351722.1 .2021/3/31（受理）.南方科技大学
+50      宋轩,陈纪元,张浩然,江宇辰,黄文杰,谢洪彬 . 游戏互动方法、系统、服务器及存储介质. 发明. 实审. 中国. ZL202110402360.4 . 2021/4/14（受理）. 南方科技大学
+51      宋轩,江宇辰,张浩然,陈纪元,黄文杰,谢洪彬. 一种基于密接的游戏交互方法、系统、服务器及存储介质. 发明. 实审. 中国. ZL202110401310.4 . 2021/4/14（受理）.南方科技大学
+52   宋轩,李永康,许天淇,张骥霄,时邓珩,范子沛.一种好友和兴趣点推荐方法及终端. 发明. 初审. 中国.ZL202211068518.X. 2022/9/2(受理) .南方科技大学
+53   宋轩,朱世博,冯德帆,陈星宇,朱佳文.发车调度方法、装置、设备和存储介质. 发明. 初审.     
+中国. ZL202211095230.1. 2022/9/9(受理) .南方科技大学
+54   宋轩、谢洪彬、张浩然、赵奕丞、林贵旭、舒家阳、冯德帆、张家祺、陈林尧、彭金          
+全、宋歌. 用于电脑的制造管理图形用户界面.外观设计. 受理. 中国.ZL 202230241986.7. 2022/04/28（受理）. 南方科技大学
+55   宋轩、谢洪彬、张浩然、赵奕丞、林贵旭、舒家阳、徐宁、冯德帆.显示屏幕面板的紧  
+急救援大数据平台图形用户界面.外观设计.受理.中国.ZL202230543797.5. 2022/8/19（受理）. 南方科技大学    
+  PCT 国际专利
+  56      宋轩,陈达寅,史小丹,张浩然. 基于众包的温度预测方法、装置、设备和存储介质发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/121177.  2021/9/28 南方科技大学
+57      宋轩,江宇辰,张浩然,陈纪元,黄文杰,谢洪彬 . 一种基于密接的游戏交互方法、系统、服务器及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/117892 . 2021/9/13.  南方科技大学
+58      宋轩,陈纪元,张浩然,江宇辰,黄文),谢洪彬. 游戏互动方法、系统、服务器及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/120554. 2021/9/26. 南方科技大学
+59      宋轩,曾焓,张浩然,陈宇,杨佳雨,谢洪彬.  基于密接的游戏好友推荐方法、系统、服务器及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119643.  2021/9/22   . 南方科技大学
+60      宋轩,谢洪彬,张浩然,江宇辰,陈纪元,黄文杰 . 一种防走失监护系统. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119341. 2021/9/18. 南方科技大学
+61      宋轩,邹若彤,张浩然,庄湛,云沐晟,潘泰仰. 一种基于区块链的挖矿方法、装置、移动终端及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119096.  2021/9/17. 南方科技大学
+62      宋轩,庄湛,张浩然,邹若彤,聂雨荷,云沐晟,潘泰仰. 基于区块链的挖矿方法、装置、计算机设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/117928 2021/9/13 南方科技大学
+63      宋轩,杨佳雨,张浩然,陈宇,曾焓,谢洪彬. 一种智能家居控制系统. 发明. 受理世界知识产权组织（WO）. PCT/CN2021/117891 2021/9/13. 南方科技大学
+64      宋轩,谢洪彬,张浩然,陈宇,杨佳雨,曾焓. 智能开锁方法、系统、服务器和存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119619.  2021/9/22. 南方科技大学
+65      宋轩,谢洪彬,张浩然,云沐晟,全伊伦,杨智宇,夏楚洋. 一种密接组队方法、装置、终端及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119038. 2021/9/17. 南方科技大学
+66      宋轩,陈达寅,张浩然. 移动终端获取环境温度的方法、装置、移动终端及介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/118088.  2021/9/14. 南方科技大学
+67      宋轩,陈达寅,张浩然. 一种传染病防控方法、装置、计算机设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/118521.  2021/9/15. 南方科技大学
+68      宋轩,莫宇,张浩然,冯德帆,唐之遥. 密接人员感染风险评估方法、装置、电子设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119077 2021/9/17. 南方科技大学
+69      宋轩,莫宇,张浩然,冯德帆,唐之遥. 密接人群识别方法、装置、电子设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119616.  2021/9/22. 南方科技大学
+70      宋轩,夏楚洋,张浩然,全伊伦,杨智宇,云沐晟,谢洪彬. 一种密接数据验证方法、客户端、服务器及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119618. 2021/9/22. 南方科技大学
+71      宋轩,聂雨荷,张浩然,庄湛. 获取密接人员信息方法、装置、服务器和存储介质.发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/118087. 2021/9/14. 南方科技大学
+72      宋轩,陈宇,张浩然,谢洪彬,云沐晟. 一种游戏玩家的匹配方法、装置、设备及存储介质   . 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119078. 2021/9/17. 南方科技大学
+73      宋轩,谢洪彬,张浩然,云沐晟,陈宇. 用户匹配方法、装置、电子设备及介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/119366     . 2021/9/18. 南方科技大学
+74      宋轩,江亦凡,张浩然,陈达寅,赵奕丞,颜秋阳 . 密切接触者的确定方法、装置、设备和存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/118476. 2021/9/15. 南方科技大学
+75      宋轩,林贵旭,张浩然,云沐晟,庄湛. 区块链风险值管理方法、装置、电子设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/118089. 2021/9/14. 南方科技大学
+76      宋轩,莫宇,张浩然,冯德帆,唐之遥,云沐晟. 疫情防控方法、装置、设备和介质.   发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/117893.     2021/9/13. 南方科技大学
+77      宋轩,陈达寅,张浩然,赵奕丞,颜秋阳,江亦凡 . 密切接触处理方法、装置、电子设备及存储介质. 发明. 受理. 世界知识产权组织（WO）.PCT/CN2021/116618. 2021/9/6. 南方科技大学
+78      宋轩,赵奕丞,张浩然,陈达寅,颜秋阳,江亦凡 . 一种密切接触判断方法、装置、电子设备和介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/116604. 2021/9/6. 南方科技大学
+79      宋轩,云沐晟,张浩然,林贵旭,庄湛. 基于区块链的数据处理方法、装置、电子设备及存储介质. 发明. 受理. 世界知识产权组织（WO）.PCT/CN2021/116605. 2021/9/6. 南方科技大学
+80      宋轩,颜秋阳,张浩然,陈达寅,赵奕丞,江亦凡 . 移动支付方法、装置、设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/116603. 2021/9/6. 南方科技大学
+81      宋轩,颜秋阳,张浩然,陈达寅,赵奕丞,江亦凡 . 好友添加方法、装置、设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/115550. 2021/8/31. 南方科技大学
+82      宋轩,庄湛,张浩然,云沐晟,林贵旭. 基于区块链的数据处理方法、装置、设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/116248. 2021/9/2. 南方科技大学
+83      宋轩,张浩然. 接触数据存储方法、装置、设备及存储介质. 发明. 受理.      世界知识产权组织（WO）. PCT/CN2021/115369 . 2021/8/30. 南方科技大学
+84      宋轩,蔡泽坤,姜仁河,杨闯,柴崎亮介. 城市人流监控方法、装置、电子设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/115551. 2021/8/31. 南方科技大学
+85      宋轩,蔡泽坤,姜仁河,连欣蕾,杨闯,王肇南,范子沛,陈全俊,柴崎亮介.人流转移预测方法、装置、设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/115377.  2021/8/30. 南方科技大学
+86      宋轩,唐之遥,莫宇,冯德帆,陈全俊,张浩然. 医院门诊规划方法、装置、设备及存储介质. 发明. 受理. 世界知识产权组织（WO）. PCT/CN2021/115570. 2021/8/31. 南方科技大学
+  美国专利
+  87      Xuan Song, Zipei Fan, Zhiwen Zhang, Chuang Yang, Quanjun Chen, Renhe Jiang, and Ryosuke Shibas. Visual graphical user interface for computer-based epidemics prevention and control simulation.（US）. 29/747,086. 2020/4/09(Filing Date). 2022/2/6(Date Mailed). Southern University of Science and Technology
+88      Xuan Song, Zipei Fan, Quanjun Chen, Renhe Jiang, Zekun Cai, and Ryosuke Shibas.  Travel prediction method and apparatus, device, and storage medium.（US）. 16/931,757 . 2020/7/17. Southern University of Science and Technology
+89      Xuan Song, Zipei Fan, Zhiwen Zhang, Chuang Yang, Yinghao Liu, Renhe Jiang, Quanjun Chen, and Ryosuke Shibas. Method and apparatus for predicting transmission of an infectious disease, computer apparatus and storage medium..（US）. 16/928,689. 2020/7/14. Southern University of Science and Technology
+90      Xuan Song, Haoran Zhang. Liqiao Huang, and Ryosuke Shibas. Method and device for predicting a number of confirmed cases of an infectious disease, apparatus, and storage medium.（US）. 16/928,762. 2020/7/14. Southern University of Science and Technology
+91      Xuan Song, Haoran Zhang,Liqiao Huang, Ning Xu ,Zipei Fan, and Ryosuke Shibas. Method of determining a rescue plan and apparatus, server and storage medium.（US）. 17/217,301. 2020/9/30. Southern University of Science and Technology
+92      Xuan Song, Haoran Zhang. Ning Xu ,Liqiao Huang, Zipei Fan,and Ryosuke Shibas. Method and apparatus for arranging an emergency rescue station, server, and storage medium.（US）. 17/224,631. 2020/9/30. Southern University of Science and Technology
+93      Xuan Song, Haoran Zhang. Blockchain-based mining method,mining device,computer equipment and storage medium.（US）. 17/463,891.  2021/9/1. Southern University of Science and Technology
+94      Xuan Song, Zipei Fan, Renhe Jiang, Chuang Yang, Zhiwen Zhang, Quanjun Chen, and Ryosuke Shibas. Assessment method and device for infections disease transission computer equipment and storage medium.（US）. 17/488,792.  2021/9/29. Southern University of Science and Technology
+95      Xuan Song, Chuang Yang, Zipei Fan, Renhe Jiang, Zhiwen Zhang, Quanjun Chen and Ryosuke Shibasaki. Display screen with graphical user Interface.（US）. 29/812,355.  2021/10/20. Southern University of Science and Technology
+团队成员
+查看更多
+联系我们
+联系地址
+南方科技大学工学院大楼南栋315
+办公电话
+电子邮箱
+songx@sustech.edu.cn
+Copyright © 2018 All Rights Reserved.

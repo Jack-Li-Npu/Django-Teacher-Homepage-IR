@@ -1,0 +1,21 @@
+NAKAMURA, Satoshi
+教授
+教育背景
+京都大学博士
+研究领域
+人工智能、口语语言处理
+电子邮箱
+snakamura@cuhk.edu.cn
+办公室
+综合楼C704
+个人简介
+Satoshi Nakamura曾担任奈良先端科学技术大学院大学（NAIST）教授和卡尔斯鲁厄理工学院名誉教授。他是IEEE会士、ISCA会士、lnformation Processing Society of Japan会士、Advanced Telecommunications Research Institute International （ATR）会士，以及IEEE信号处理学会成员（https://signalprocessingsociety.org/newsletter/2021/09/member-highlights-satoshi-nakamura）。他在1981年获京都工艺纤维大学学士学位，1992年获京都大学博士学位，1994-2000年担任NAIST信息科学研究生院副教授。2000-2004年和2005-2008年期间，他分别担任ATR口语传播研究实验室的系主任和主任，在2007-2008年担任ATR副校长。2009-2010年，他曾担任Keihanna研究实验室主任和日本国立信息通信技术研究所知识创造传播研究中心执行主任。2011年，他以正教授的身份进入NAIST。他在NAIST建立了数据科学中心，并于2017年至2021年在此中心担任主任。他现在是NAIST信息科学系正教授。2017-2021年，他担任日本理化学研究所旅游信息分析团队的团队负责人。他的研究兴趣包括口语处理建模和系统、语音处理、口语翻译、口语对话系统、自然语言处理和数据科学。他是语音翻译研究的世界领军人物之一，并一直致力于各种语音翻译研究项目，包括C-Star, A-Star和国际口语机器翻译评测比赛。他目前是International Speech Communication Association Special Interest Group: Spoken Language Translation的主席。他也为International Telecommunication Union网络语音翻译的标准化做出了贡献。他还是IEEE SLTC 2016-2018委员会成员。2012年至2019年，他是ISCA当选的董事会成员。他于2012年获得Antonio Zampolli Award。
+学术著作
+1. Tagged End-to-End Simultaneous Speech Translation Training using Simultaneous Interpretation Data. SN Yuka Ko, Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Katsuhito Sudoh. International Conference on Spoken Language Translation, 2023
+2. NAIST Simultaneous Speech Translation System for IWSLT 2023. SN Ryo Fukuda, Yuta Nishikawa, Yasumasa Kano, Yuka Ko, Tomoya Yanagita ... International Conference on Spoken Language Translation
+3. Automatic evaluation-feedback system for automated social skills training. SN Takeshi Saga, Hiroki Tanaka, Yasuhiro Matsuda, Tsubasa Morimoto ... Scientific Reports 13, 6856, 2023
+4. Listening while speaking: Speech chain by deep learning. A Tjandra, S Sakti, S Nakamura. 2017 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU …
+5. The ATR multilingual speech-to-speech translation system. S Nakamura, K Markov, H Nakaiwa, G Kikui, H Kawai, T Jitsuhiro, ... IEEE Transactions on Audio, Speech, and Language Processing 14 (2), 365-376, 2006
+6. Acoustical Sound Database in Real Environments for Sound Scene Understanding and Hands-Free Speech Recognition. S Nakamura, K Hiyane, F Asano, T Nishiura, T Yamada. LREC, 965-968, 2000
+7. Lip movement synthesis from speech based on Hidden Markov Models. E Yamamoto, S Nakamura, K Shikano. Speech Communication 26 (1-2), 105-115, 1998
+8. Voice conversion through vector quantization. M Abe, S Nakamura, K Shikano, H Kuwabara. Journal of the Acoustical Society of Japan (E) 11 (2), 71-76, 1990

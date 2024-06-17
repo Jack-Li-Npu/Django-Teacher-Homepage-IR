@@ -1,0 +1,33 @@
+王鑫
+一、教育经历
+2014/08-2018/03 新南威尔士大学（悉尼），生物信息学，哲学博士（Ph.D.）
+2010/09-2013/06 温州医科大学，遗传学，理学硕士
+2005/09-2009/06 中山大学，化学，理学学士
+
+二、工作经历
+2021/12-至今  深圳技术大学，大数据与互联网学院，助理教授
+2021/11-2021/12 栈源（杭州）生物医药有限公司，首席技术官（CTO）
+2020/03-2021/08 哈佛大学哈佛医学院，生物医学信息学系，研究员（Research Fellow）
+2018/04-2020/02 美国西北大学Feinberg医学院，药理学系，博士后研究员
+2013/08-2014/06 葡萄牙Biocant 研究所，生物信息研究员
+2009/08-2010/07 广州华峰生物科技有限公司， 生物信息研究员
+
+三、主要研究领域
+计算生物学，机器学习与AI辅助制药，目前着力于抗体药特别是纳米体药物的计算机辅助设计研究。
+
+四、主要成果及荣誉
+(1) Shibo Liang, Ziquan Liang, Zecheng Wu, Feijuan Huang, Xu Wang, Yuanzhe Cai, Bingding Huang, Xin Wang. (2023). A benchmark study of protein folding algorithms on nanobodies. 2023 International Conference on Communications, Computing and Artificial Intelligence (CCCAI).
+(2) Blue B. Lake, Rajasree Menon, Seth Winfree, Qiwen Hu, Ricardo Melo Ferreira, Kian Kalhor, Daria Barwinska, Edgar A. Otto, Michael Ferkowicz, Dinh Diep, Nongluk Plongthongkum, Amanda Knoten, Sarah Urata, Laura H. Mariani, Abhijit S. Naik, Sean Eddy, Bo Zhang, Yan Wu, Diane Salamon, James C. Williams, Xin Wang, Karol S. Balderrama, Paul J. Hoover, Evan Murray, Jamie L. Marshall, Teia Noel, Anitha Vijayan, Austin Hartman, Fei Chen, Sushrut S. Waikar, Sylvia E. Rosas, Francis P. Wilson, Paul M. Palevsky, Krzysztof Kiryluk, John R. Sedor, Robert D. Toto, Chirag R. Parikh, Eric H. Kim, Rahul Satija, Anna Greka, Evan Z. Macosko, Peter V. Kharchenko, Joseph P. Gaut, Jeffrey B. Hodgin, KPMP Consortium, Michael T. Eadon, Pierre C. Dagher, Tarek M. El-Achkar, Kun Zhang, Matthias Kretzler & Sanjay Jain. (2023). An atlas of healthy and injured cell states and niches in the human kidney. Nature (619),585–594.
+(3) Jieren Liu, Dongna Huang, Yuanzhe Cai, Zhihua Cao, Zhiyu Liu, Shuo Zhang, Lin Zhao, Xin Wang, Yuchuan Wang, Feijuan Huang & Zhengzhi Wu. (2022). Saliva diagnostics: emerging techniques and biomarkers for salivaomics in cancer detection. Expert Review of Molecular Diagnostics 22 (12), 1077-1097.
+(4) Xin Wang, Jane Frederick, Hongbin Wang, Sheng Hui, Vadim Backman, Zhe Ji. (2021). Spike-in normalization for single-cell RNA-seq reveals dynamic global transcriptional activity mediating anti-cancer drug response. NAR Genomics and Bioinformatics, 3 (2), lqab054.
+(5) Fahmin Basher, Payal Dhar, Xin Wang, Derek A. Wainwright, Bin Zhang, Jeffrey Sosman, Zhe Ji & Jennifer D. Wu. (2020). Antibody targeting tumor-derived soluble NKG2D ligand sMIC reprograms NK cell homeostatic survival and function and enhances melanoma response to PDL1 block ade therapy. Journal of Hematology & Oncology 13 (1), 1-16.
+(6) Xin Wang, Peijie Lin, Joshua W. K. Ho (2018). Discovery of cell-type specific DNA motif grammar in cis-regulatory elements using Random Forest. BMC Genomics 19, 929.
+(7) Nie1 S*, Wang X*, Sivakumaran P*, Karnezis T, Bandara N, Takov K, Nowell C, Wilcox S, Shambrook M, Hill A, …, Ho J, Williamson N, Lim S. (2018). Biologically active constituents of the secretome of human W8B2+ cardiac stem cells. Scientific Reports, 8, 1579. * co-first authors
+
+五、其他信息
+个人网站：www.wanglab.fun
+实验室为进实验室同学提供办公位置，电脑及专业的各方面技能培训。优秀的同学可以参与或独立立项项目，按贡献取得authorship，对于主要贡献者给予第一作者或共同第一作者署名。提供面向国内外著名高校的硕博申请推荐信和深圳各大计算机/生物信息/互联网公司的工作推荐信。欢迎各位考生报考。
+
+E-mail:wangxin@sztu.edu.cn
+  上一篇：陈钒
+下一篇：曹劲舟

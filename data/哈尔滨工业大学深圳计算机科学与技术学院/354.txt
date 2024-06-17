@@ -1,0 +1,5 @@
+聂礼强，IAPR Fellow，AAIA Fellow，现任哈尔滨工业大学（深圳）计算机学院二级教授、博导、执行院长。西安交通大学本科，新加坡国立大学博士、博后。曾两次入选国家级人才计划。主持两项基金委重点项目、1*3基础加强项目、科技部重点研发课题、省杰青、两项千万级横向项目等。致力于多媒体内容分析与搜索的研究。发表CCF A类论文百余篇，出版中英文专著5部，授权国家发明型专利30余项，谷歌引用2.4万余次。任IEEE TKDE、IEEE TMM、IEEE TCSVT、ACM ToMM等汇刊编委；任ICME Steering Committee、ACM MM 2018-2024领域主席、NeurIPS/AAAI/KDD/IJCAI/ICPR等会议的AC或SPC等。近5年，获ACM中国新星奖 2019、SIGIR 2019/ACM MM 2019最佳论文提名奖、SIGMM Rising Star 2020、达摩院青橙奖 2020、MIT TR35 China 2020（麻省理工35岁以下35人）、SIGIR 2021最佳学生论文奖、省科技进步一等奖 2021（序1）、AI's 10 to Watch 2022、省青年科技奖 2022、ACM MM 2022最佳论文奖、省发明一等奖 2023（序1）等。成果在上市公司智洋、快手、阿里、华为等落地。
+
+个人主页：https://liqiangnie.github.io/index.html
+
+常年招收硕士、博士、博后以及青年教师，请电邮：nieliqiang@hit.edu.cn

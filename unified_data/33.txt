@@ -1,0 +1,29 @@
+贺品嘉
+助理教授
+教育背景
+香港中文大学计算机科学与技术博士，2013-2018
+华南理工大学计算机科学与技术学士，2010-2013
+研究领域
+软件工程、软件测试、软件安全、智能运维、可信人工智能、自然语言处理
+个人网站
+https://pinjiahe.github.io/
+电子邮箱
+hepinjia@cuhk.edu.cn
+办公室
+道远楼420b
+个人简介
+贺品嘉教授现为香港中文大学（深圳）助理教授。贺品嘉教授于2018年从香港中文大学获得博士学位，此后在苏黎世联邦理工学院从事学术研究工作三年。贺品嘉教授的研究方向为软件工程、软件测试、软件安全、智能运维、可信人工智能、自然语言处理等。
+近年来，他在ICSE, ESEC/FSE, ASE, ISSTA, OSDI, CSUR, TDSC等顶级会议期刊发表过学术论文30余篇。获得首届IEEE开源软件服务奖、ISSRE最有影响力论文奖、ISSRE 2022杰出审稿人奖。其Google Scholar引用超2600次，H-Index为20。贺教授主导的自动化日志分析开源项目LogPAI在GitHub上被star 3000余次，并被380多个学界业界组织下载8万余次。贺品嘉教授是ICSE, ESEC/FSE, SANER, ISSRE等会议的程序委员会成员，POPL, OOPSLA等会议的Artifact Evaluation委员会成员，TOSEM期刊的杰出审稿人。
+学术著作
+1. Pinjia He, Clara Meister, Zhendong Su, “Testing Machine Translation via Referential Transparency,” ICSE, 2021. (CCF-A)
+2. Shilin He, Pinjia He*, Zhuangbin Chen, Tianyi Yang, Yuxin Su, Michael R. Lyu, “A Survey on Automated Log Analysis for Reliability Engineering,” CSUR, 2021. (IF: 7.9)
+3. Shashij Gupta, Pinjia He*, Clara Meister, Zhendong Su, “Machine Translation Testing via Pathological Invariance,” ESEC/FSE, 2020. (CCF-A)
+4. Pinjia He, Clara Meister, Zhendong Su, “Structure-Invariant Testing for Machine Translation,” ICSE, 2020. (CCF-A)
+5. Jinyang Liu, Jieming Zhu, Shilin He, Pinjia He*, Zibin Zheng, Michael R. Lyu, “Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression,” ASE, 2019. (CCF-A)
+6. Pinjia He, Zhuangbin Chen, Shilin He, Michael R. Lyu, “Characterizing the Natural Language Descriptions in Software Logging Statements,” ASE, 2018. (CCF-A)
+7. Pinjia He, Jieming Zhu*, Shilin He, Jian Li, Michael R. Lyu, “Towards Automated Log Parsing for Large-Scale Log Data Analysis,” TDSC, 2018. (CCF-A, IF: 6.9)
+8. Jieming, Pinjia He*, Zibin Zheng*, Michael R. Lyu, “Online QoS Prediction for Runtime Service Adaptation via Adaptive Matrix Factorization,” TPDS, 2017. (CCF-A, IF: 2.6)
+9. Pinjia He, Jieming Zhu, Zibin Zheng, Michael R. Lyu, “Drain: An Online Log Parsing Approach with Fixed Depth Tree,” ICWS, 2017. (CCF-B, Adopted by IBM)
+10. Pinjia He, Jieming Zhu, Shilin He, Jian Li, Michael R. Lyu, “An Evaluation Study on Log Parsing and Its Use in Log Mining,” DSN, 2016. (CCF-B)
+11. Shilin He, Jieming Zhu, Pinjia He, Michael R. Lyu, “Experience Report: System Log Analysis for Anomaly Detection,” ISSRE, 2016. (CCF B, Most Influential Paper Award)
+12. Jieming Zhu, Pinjia He, Qiang Fu, Hongyu Zhang, Michael R. Lyu, Dongmei Zhang, “Learning to Log: Helping Developers Make Informed Logging Decisions,” ICSE, 2015. (CCF-A)

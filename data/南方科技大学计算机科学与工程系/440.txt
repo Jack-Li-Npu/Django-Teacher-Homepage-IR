@@ -1,0 +1,28 @@
+Yuxin Ma's Homepage
+Home
+Posts
+Contact
+Yuxin Ma
+Tenure-Track Associate Professor
+Department of Computer Science and Engineering, Southern University of Science and Technology
+Biography
+Yuxin Ma is a tenure-track Associate Professor in the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), China. He received B.Eng. and Ph.D. from Zhejiang University, China, supervised by Prof. Wei Chen. Before joining SUSTech, he worked as a Postdoctoral Research Associate in VADER Lab, CIDSE, Arizona State University.
+His primary research interests are in the areas of visualization and visual analytics, focusing on explainable AI, high-dimensional data, and spatiotemporal data. His work has been published in various top venues in visualization and human-computer interaction (IEEE TVCG, IEEE VIS, ACM CHI, etc.) and recognized through Honorable Mention Awards at ACM CHI (2022) and CVMJ (2018). He has served as a program committee member and reviewer for major conferences and journals in visualization, HCI, and artificial intelligence. He is a Young Advisory Board member of the Visual Informatics journal.
+For more information about his work, please see the CV.
+I am recruiting Ph.D. and Master's students, RAs, and Postdocs. Please refer to this post (written in Chinese) for more details.
+Interests
+Visual Analytics
+Information Visualization
+Explainable AI
+Education
+PhD in Computer Science, 2017
+Zhejiang University
+Recent Posts
+招收可视化与可视分析方向学生与研究人员
+南方科技大学计算机科学与工程系马昱欣老师课题组长期招收博士生、硕士生、研究助理及访问学生。
+马昱欣
+Last updated on May 31, 2023 1 min read
+Contact
+mayx [at] sustech.edu.cn
+1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong Province, China
+Published with Wowchemy — the free, open source website builder that empowers creators.

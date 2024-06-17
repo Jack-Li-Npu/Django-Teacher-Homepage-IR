@@ -1,0 +1,25 @@
+王洪
+
+一、教育经历
+2013/08-2017/03香港理工大学，运筹与优化，哲学博士
+2011/08-2013/07哈尔滨工业大学，计算数学，理学硕士
+2007/08-2011/07哈尔滨工业大学，信息与计算科学，理学学士
+
+二、工作经历
+2021/01-至今深圳技术大学大数据与互联网学院，助理教授
+2017/06-2020/12华为技术有限公司2012实验室，高级工程师
+2017/02-2017/04香港理工大学应用数学系，高级助理研究员
+
+三、主要研究领域
+最优化理论算法及其应用，稀疏优化，矩阵优化
+
+四、主要成果及荣誉
+（1）X. Chen, P. L. Toint, and H. Wang. Complexity of Partially Separable Convexly Constrained Optimization with Non-LipschitzianSingularites. SIAM Journal on Optimization, 29(1): 874-903, 2019.
+（2）H. Wang, X. Liu, X. Chen, and Y. Yuan. SNIG Property of Matrix Low-Rank Factorization Model. Journal of Computational Mathematics, 36(3): 374-390, 2018.
+（3）深圳市海外高层次人才C类.
+
+E-mail:wanghong@sztu.edu.cn
+
+
+上一篇：曹志强
+下一篇：刘羽朦

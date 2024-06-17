@@ -1,0 +1,32 @@
+马军超
+一、个人简介
+马军超，副教授，硕士生导师，鲲鹏（南山）创新人才基地特聘专家。2006年本科毕业于浙江大学自动化专业；2007年获得香港理工大学电子及资讯工程学硕士；2013年获得香港理工大学计算机专业博士。2013年-2020年，就职于华为技术有限公司，获得华为金牌团队奖，IT产品线总裁奖和海思战略攻关奖。目前已主持各类科研项目370余万，在国际期刊会议上发表论文40余篇，申请发明专利和PCT专利20多项，已授权国家发明专利9项，美国发明专利2项，欧专局发明专利1项。获深圳海外高层次人才“孔雀计划”C类，深龙英才，鲲鹏卓越工程师，鹏城生态优秀个人奖，ICPADS2016最佳论文奖。指导学生在国家级和省级竞赛中多次获奖，包括华为ICT大赛全球赛一等奖，全国赛奖项多项。
+
+二、教育经历
+2007/07-2013/10  香港理工大学，计算机，博士
+2006/09-2007/06  香港理工大学，电子及资讯工程学，硕士
+2002/10-2006/06  浙江大学，自动化，学士
+
+三、工作经历
+2020/06-至今 深圳技术大学大数据与互联网学院，副教授
+2013/12-2020/06  华为技术有限公司，高级工程师
+
+四、主要研究领域
+鲲鹏昇腾国产处理器生态、大数据、无线传感器网络、物联网、云计算等
+
+五、主要研究项目
+1. 深圳技术大学新引进高端人才财政补助科研启动经费：基于国产处理器的大数据性能优化及端云协同研究，270万元，项目负责人
+2. 深圳技术大学校企合作研发项目，基于实时数据仓库的异构数据集成事务处理及分析增强，42.5万，项目负责人
+3. 教育部协同育人项目，新工科背景下的大数据实验室建设，20万，负责人
+4. 教育部协同育人项目，基于华为鲲鹏云服务的教学实践，5万，负责人
+
+六、代表性论文
+1. Two-Factor Privacy Preserving Protocol for Efficient Authentication in Internet of Vehicles Networks，IEEE Internet of Things Journal，2024. (JCR Q1)
+2. Energy-aware concurrent data aggregation scheduling for wireless powered IoT leveraging hypergraph theory, IEEE Wireless Communications Letters, 2021.  (JCR Q1)
+3. Contiguous Link scheduling for data Aggregation in Wireless Sensor Networks, in IEEE Transactions on Parallel and Distributed Systems (TPDS),  2014.（CCF A类）
+4. Interference-aware Spatio-Temporal Link Scheduling for Long Delay Underwater Sensor Networks, in IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2011.（CCF B类）
+5. Energy Efficient TDMA Sleep Scheduling in Wireless Sensor Networks, in IEEE Conference on Computer Communications (INFOCOM), 2009. (CCF A类)
+  E-mail:majunchao@sztu.edu.cn
+
+上一篇：张红平
+下一篇：李蒙

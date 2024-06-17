@@ -1,0 +1,40 @@
+李爽
+助理教授
+教育背景
+博士（佐治亚理工学院）
+硕士（佐治亚理工学院）
+学士（中国科学技术大学）
+研究领域
+时序数据分析和决策的机器学习方法、及其在医疗保健、智慧城市和社交媒体中的应用
+个人网站
+https://shuangli01.github.io
+电子邮箱
+lishuang@cuhk.edu.cn
+办公室
+道远楼508b
+个人简介
+李爽于2011年获得中国科学技术大学学士学位，并分别于2014年和2019年获得佐治亚理工学院硕士和博士学位。
+在加入香港中文大学（深圳）之前，李爽在哈佛大学任博士后研究员，研究移动健康中的多智能体强化学习。她曾为哈佛大学序贯决策2021年春季课程提供课程材料。2014 年至 2019 年期间，她在佐治亚理工学院担任教学助理，曾负责机器学习、计算数据分析，和计算数据分析概要。2018年，她在谷歌进行了三个月的研究实习，研究推荐系统的用户行为建模。同年，李爽荣获INFORMS QSR最佳学生论文竞赛决赛入围奖和INFORMS社交媒体分析最佳学生论文竞赛决赛入围奖。2016年，获得 H. Milton Stewart 工业学院研究生贾维斯奖第二名。2011年至2012年，获得美国马萨诸塞大学阿默斯特分校工程学院的Hluchyj奖学金。2011年，获得中国科学技术大学自动化系优秀本科论文奖。她的研究领域包括用于序列数据分析和决策的机器学习、新序列模型、可靠高效的学习方法、有效推理程序、医疗保健、智慧城市和社交媒体。
+学术著作
+A. Conferences
+1. S. Li, L. Wang, R. Zhang, X. Chang, X. Liu, Y. Xie, Y. Qi, and L. Song. Temporal Logic Point Processes. International Conference on Machine Learning, 2020.
+2. S. Li, S. Xiao, S. Zhu, N. Du, Y. Xie, and L. Song.  Learning Temporal Point Processes via Reinforcement Learning. Neural Information Processing Systems, 2018. Spotlight
+3. S. Li, Y. Xie, H. Dai, and L. Song.  M-Statistic for Kernel Change-Point Detection. Neural Information Processing Systems, 2015.
+4. S. Li, Y. Cao, C. Leamon, Y. Xie, L. Shi, and W. Song. Online Seismic Event Picking Via Sequential Change-Point Detection. Allerton Conference on Control, Communications and Computing (Allerton), 2016.
+5. X. Chen, S. Li, H. Li, S. Jiang, Y. Qi, and L. Song. Generative Adversarial User Model for Reinforcement Learning Based Recommendation System. International Conference on Machine Learning, 2019.
+6. Y. Liu, S. Li, F. Li, L. Song, and J. Rehg. Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression. Neural Information Processing Systems, 2015.
+7. M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, S. Li, H. Zha, and L. Song. COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution. Neural Information Processing Systems, 2015. Oral
+8. H. Dai, B. Dai, Y. Zhang, S. Li, and L. Song. Recurrent Hidden Semi-Markov Model. International Conference on Learning Representations, 2017.
+9. M. Farajtabar, J. Yang, X. Ye, R. Trivedi, E. Khalil, S. Li, H. Xu, L. Song, and H. Zha. Fake News Mitigation via Point Processes Based Intervention. International Conference on Machine Learning, 2017.
+B. Journals
+1. S. Li, Y. Xie, H. Dai, and L. Song. Scan B-statistic for Kernel Change-point Detection. Sequential Analysis, 38(4):503-544, 2019.
+- Finalist, INFORMS Quality, Statistics, and Reliability (QSR) Best Student Paper Award, 2018
+2. S. Li, Y. Xie, M. Farajtabar, A. Verma, and L. Song. Detecting Changes in Dynamic Events over Networks. IEEE Transactions on Signal and Information Processing over Networks, Vol. 3, No. 2, June 2017.
+- Finalist, INFORMS Social Media Analytics Best Student Paper Award, 2018
+3. S. Li, A. Psihogios, E. McKelvey, A. Ahmed, M. Rabbi, and S. Murphy. Micro-Randomized Trials for Promoting Engagement in Mobile Health Data Collection: Adolescent/Young Adult Oral Chemotherapy Adherence as an Example. Current Opinion in Systems Biology, 2020
+4. M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, S. Li, H. Zha, and L. Song. COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Evolution. Journal of Machine Learning Research, 18(41):1-49, 2017.
+5. M. Farajtabar, Y. Wang, M. Gomez-Rodriguez, S. Li, H. Zha, and L. Song. COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Evolution. The Web Conference, Journal Track, 2018.
+6. S. Zhu, S. Li, Z. Peng, and Y. Xie. Reinforcement Learning of Spatio-Temporal Point Processes. IEEE Transactions on Knowledge and Data Engineering, 2021.
+C. Book Chapters
+1. Y. Liu, A. Moreno, S. Li, F. Li, L. Song, and J. Rehg. Learning Continuous-Time Hidden Markov Models for Event Data. Mobile Health, Springer, 2017.
+A complete list of publications can be found at https://scholar.google.com/citations?user=HxCZsCUAAAAJ&hl=en

@@ -1,0 +1,24 @@
+杨柳莎
+一、教育经历
+2012/09-2018/08 香港科技大学 电子与计算机工程系 哲学博士
+2008/09-2012/07 北京邮电大学 通信工程 工学学士
+
+二、工作经历
+2022/10-至今 深圳技术大学 助理教授
+2018/12-2022/10 深圳市大数据研究院 研究科学家
+
+三、主要研究领域
+高维统计信号处理，随机矩阵论，机器学习算法分析，统计金融
+
+四、主要成果及荣誉
+1. Liusha Yang, Matthew R. McKay, Xun Wang. Hypothesis Test Procedures for Detecting Leakage Signals in Water Pipeline Channels, IEEE TRANSACTIONS ON SIGNAL PROCESSING, 2023, 71: 4353-4368.
+2. Liusha Yang, Matthew R. McKay, Romain Couillet. High-Dimensional MVDR Beamforming: Optimized Solutions Based on Spiked Random Matrix Models, IEEE TRANSACTIONS ON SIGNAL PROCESSING, 2018,66(7): 1933-1947.
+3. Liusha Yang, Romain Couillet, Matthew R. McKay. A Robust Statistics Approach to Minimum Variance Portfolio Optimization, IEEE TRANSACTIONS ON SIGNAL PROCESSING, 2015, 63(24): 6684-6697.
+4. 成都博普云达横向项目，鲁棒性数据降维与分类技术，项目负责人, 2023.12-2024/10
+5. 华为横向项目：概念漂移检测与时序模式识别，项目负责人,  2019.10-2020/10
+6. 深圳市海外高层次C类人才
+
+ E-mail: yangliusha@sztu.edu.cn
+
+上一篇：王小航
+下一篇：潘毅

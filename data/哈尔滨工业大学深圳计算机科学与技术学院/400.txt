@@ -1,0 +1,13 @@
+个人简介
+张正，副教授，博士生导师，广东省青年珠江学者，深圳市优青，校首批青年拔尖人才，深圳市视觉目标检测与判识重点实验室副主任，全球前2%顶尖科学家，IEEE/CCF高级会员。曾在中国科学院自动化所模式识别国家重点实验室访问研究，香港理工大学任助理研究员，并在澳大利亚昆士兰大学任博士后研究员。博士毕业于哈尔滨工业大学，荣获中国电子学会优秀博士学位论文奖、华为火花奖、中国人工智能学会优秀博士论文全国提名和哈尔滨工业大学优秀博士学位论文奖等奖项。指导学生入选中国电子学会硕士学位论文激励计划、哈工大点子基金、春晖创新成果奖、哈工大优秀毕业论文奖以及国家奖学金、方滨兴奖学金等荣誉。
+主要从事高效能多媒体内容理解的研究，近年来专注于高效与可信多模态大模型，出版中英文学术专著/编著5部，发表IEEE/ACM汇刊和CCF A类会议论文100余篇 (谷歌引用8000余次)，获得3项国际会议论文奖，获评ESI高被引论文13篇，热点论文3篇，申请/授权中美专利20余项。主持国家级和省部级自然科学基金、深圳市科技创新优秀人才培养计划、深圳市技术攻关重点基金、深圳市科技创新基金及企业横向等科研项目10余项。
+受邀担任IEEE T-AC、IEEE J-BHI、INS、IP&M、Information Fusion等权威期刊编委，国产期刊《自动化学报(英文版)》(CCF T1顶刊)首届青年编委，以组织委员会成员成功举办了多个CCF推荐的国际会议，受邀担任ICML、NeurIPS、CVPR、ACM MM等多个CCF A类顶级学术会议的领域主席，长期担任20余个IEEE/ACM汇刊的评审。
+
+Openings: I continuously seek highly motivated Ph.D. students and postdoctoral researchers to work on multimedia retrieval, multi-modal learning, and big data analysis. Please send me your CV if interested. I can supervise Ph.D. students affiliated with the Harbin Institute of Technology and Peng Cheng Laboratory (鹏城实验室).
+
+如感兴趣可发邮件垂询：
+教学/招生事务: zhengzhang@hit.edu.cn (teaching/admission)
+科研/个人事务: darrenzz219@gmail.com (research/personal)
+研究小组主页 : 大媒体智能小组
+--------------
+更多最新消息，可关注我的个人主页和Google Scholar。

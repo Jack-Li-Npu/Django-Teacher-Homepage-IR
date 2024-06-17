@@ -1,0 +1,44 @@
+李阳
+副教授，博士生导师联系信息
+邮箱： yangli@sz.tsinghua.edu.cn
+个人简历
+教学
+研究领域
+研究成果
+奖励荣誉
+教育经历
+Ph.D. in Computer Science, Stanford University, 2011 - 2017.
+Dissertation: Exploiting Shared Structures in Large GPS Trajectory Datasets under Uncertainty
+Advisor: Leonidas J. Guibas
+B.A. Double major in Computer Science and Mathematics, Smith College, 2007 - 2011.
+Honors Thesis: Inverse Kinematics Methods for the Protein Loop Closure Problem
+Advisor: Ileana Streinu
+工作经历
+Assistant Professor October 2019 - Present
+Data Science and Information Technology Research Center, Tsinghua-Berkeley Shenzhen Institute.
+IoT and Cyber-Physical System Lab, Tsinghua-Berkeley Shenzhen Institute.
+Principal Investigator: Lin Zhang
+Graduate Research Assistant July 2012 - December 2016
+Geometric Computing Lab, Stanford University.
+Advisor: Leonidas J. Guibas
+
+Graduate Research Assistant April 2011 - June 2011
+First Year Research Rotation Program, Computer Science Department, Stanford University.
+Advisor: Kenneth Salisbury
+
+Graduate Research Assistant September 2011 - March 2011
+First Year Research Rotation Program, Computer Science Department, Stanford University.
+Advisor: Leonidas J. Guibas
+
+Summer Intern May - August 2011
+Linkage Lab, Smith College
+
+Undergraduate Fellow May 2009 - April 2011
+Mellon Mays Undergraduate Research Fellowship Program, Smith College
+Faculty mentor: Ileana Streinu
+
+Research Assistant November 2007 - May 2009
+Ileana Streinu, Computer Science Department, Smith College
+
+Undergraduate Researcher May - August 2008
+Women in Science Summer Research Fellows Program, Clark Science Center, Smith College

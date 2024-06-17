@@ -1,0 +1,26 @@
+个人简介
+陈斌，博士，计算机科学与技术学院副教授，博士生导师，哈工大”青年拔尖人才计划”，“鹏城孔雀计划”特聘岗位，广东汕头人。2021年毕业于清华大学计算机科学与技术专业并获得博士学位（导师：夏树涛教授）。曾在加拿大滑铁卢大学计算机与电子工程系任访问学生，在清华大学深圳国际研究生院担任博士后研究员。
+
+主要从事信息论与编码理论、多媒体压缩与检索、人工智能安全与隐私等方向的教学与科研工作。在人工智能/信息论/通信顶级期刊如IEEE Transactions on Patttern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Theory (TIT), International Journal of Computer Vision (IJCV), IEEE Transactions on Communications (TCOM), Designs, Codes and Cryptography (DCC)和CVPR/ICCV/ECCV/MM/AAAI/IJCAI/WWW/DAC/INFOCOM/ISIT/ICC/ICASSP等相关领域顶级会议上发表论文50余篇，并担任多个顶级期刊和会议的审稿人。
+
+English Homepage ：https://binchen2021.github.io
+Google Scholar：：https://scholar.google.com.hk/citations?user=Yl0wv7AAAAAJ&hl=zh-CN
+
+
+研究方向介绍（理论与应用相结合，“做前沿研究，不忘初心！”）：
+机器学习/深度学习算法及其应用：
+图像/视频压缩：点对点/分布式/多视角场景的有损/无损图像/视频压缩、数据集蒸馏与压缩；
+图像/视频/多模态检索：基于哈希/乘积量化的快速检索算法、多模态/跨模态/细粒度图像/视频检索/检索增强及其应用；
+人工智能安全：对抗机器学习、联邦学习/AIGC/基础模型（Foundation Models)隐私与安全；
+
+信息论与编码理论：
+编码理论：分布式存储纠删编码理论与应用，基于深度学习的信道编译码算法；
+信息论：深度压缩感知及逆问题，信息度量及应用；
+招生信息（“亦师亦友，教学相长！”）
+欢迎具有数学/计算机/通信背景的优秀本科生（大三或以上）提前联系，参与课题组研究（由哈深/清华/南开硕博组成），每年招博士生1名，硕士生2名，欢迎本校与外校相关专业优秀本科生提前联系参加课题组面试与科研实习。
+实习期间表现优秀且排名年级前5%可优先推荐至清华大学深圳国际研究生院（夏树涛教授课题组）/清华大学计算机系/上海交通大学计算机系/新加坡国立大学/南洋理工大学/香港科技大学/香港城市大学/滑铁卢大学等读研深造。
+课题组优秀本科实习生升学情况：
+2023届：已推荐2名哈深本科生推免至清华大学深圳国际研究生院
+方豪同学本科毕设论文成果被ICCV-23（CCF : A类会议）收录，深圳校区本科生首次在该顶级会议发文
+2024届：已推荐4名哈深本科生推免至清华大学深圳国际研究生院
+联系方式：chenbin2021@hit.edu.cn; cb17@tsinghua.org.cn

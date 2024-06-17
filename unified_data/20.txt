@@ -1,0 +1,28 @@
+代忠祥（将在2024年秋季加入）
+助理教授
+教育背景
+新加坡国立大学计算机科学博士，2017-2021
+新加坡国立大学电气工程学士，2011-2015
+研究领域
+机器学习、多臂老虎机、贝叶斯优化、数据高效的大语言模型、大语言模型的提示优化
+个人网站
+https://daizhongxiang.github.io
+个人简介
+代忠祥博士现于香港中文大学（深圳）数据科学学院担任助理教授。他于2024年在麻省理工学院担任博士后研究员，并在2021年至2023年期间在新加坡国立大学担任博士后研究员。他于2015年获得新加坡国立大学电气工程学士学位（一等荣誉），并于2021年获得新加坡国立大学计算机科学博士学位。在新加坡国立大学计算机学院攻读博士学位期间，代博士获得了院长研究生研究卓越奖和多次研究成就奖。
+代博士的研究兴趣涵盖了机器学习的理论和应用。在理论方面，他专注于多臂老虎机和贝叶斯优化的理论研究。在应用方面，他致力于利用多臂老虎机和贝叶斯优化来（1）解决实际应用中的黑盒优化问题（例如自动机器学习和AI4Science），以及（2）实现数据中心的人工智能，如数据高效的大语言模型提示优化、数据高效的基于人类反馈的强化学习（RLHF）等。代博士已在顶级人工智能会议和期刊上发表了25篇以上的论文，其中包括在ICML、NeurIPS和ICLR（人工智能三大会议）上发表的20多篇论文。他常年担任顶级人工智能会议和期刊的程序委员会成员和审稿人，如ICML、NeurIPS、ICLR、AAAI、TPAMI等。此外，他还担任了IJCAI 2021的高级程序委员会成员。
+学术著作
+Selected Publications (# corresponding author, * equal contribution):
+1. X. Lin, Z. Dai#, A. Verma, S. K. Ng, P. Jaillet and B. K. H. Low, “Prompt optimization with human feedback,” arXiv preprint 2024.
+2. X. Lin*, Z. Wu*, Z. Dai#, W. Hu, Y. Shu, S. K. Ng, P. Jaillet and B. K. H. Low, “Use Your INSTINCT: INSTruction optimization for LLMs usIng Neural bandits Coupled with Transformers,” in ICML 2024.
+3. Z. Dai*, G. K. R. Lau*, A. Verma, Y. Shu, B. K. H. Low and P. Jaillet, “Quantum Bayesian optimization,” In NeurIPS 2023.
+4. Z. Dai, Q. P. Nguyen, S. S. Tay, D. Urano, R. Leong, B. K. H. Low and P. Jaillet, “Batch Bayesian optimization for replicable experimental design,” In NeurIPS 2023.
+5. A. Hemachandra, Z. Dai#, J. Singh, S. K. Ng and B. K. H. Low, “Training-free neural active learning with initialization-robustness guarantees,” in ICML 2023.
+6. Z. Dai, Y. Shu, A. Verma, F. X. Fan, B. K. H. Low and P. Jaillet, “Federated neural bandits,” In ICLR 2023.
+7. Y. Shu*, Z. Dai*, W. Sng, A. Verma, P. Jaillet and B. K. H. Low, “Zeroth-order optimization with trajectory-informed derivative estimation,” In ICLR 2023.
+8. Z. Dai, Y. Shu, B. K. H. Low and P. Jaillet, “Sample-then-optimize batch neural Thompson sampling,” In NeurIPS 2022.
+9. A. Verma*, Z. Dai* and B. K. H. Low, “Bayesian optimization under stochastic delayed feedback,” In ICML 2022.
+10. Z. Dai, B. K. H. Low and P. Jaillet, “Differentially private federated Bayesian optimization with distributed exploration,” In NeurIPS 2021.
+11. Z. Dai, B. K. H. Low and P. Jaillet, “Federated Bayesian optimization via Thompson sampling,” In NeurIPS 2020.
+12. Z. Dai, Y. Chen, B. K. H. Low, P. Jaillet and T.-H. Ho, “R2-B2: Recursive Reasoning-Based Bayesian optimization for no-regret learning in games,” In ICML 2020.
+13. Z. Dai, H. Yu, B. K. H. Low and P. Jaillet, “Bayesian optimization meets Bayesian optimal stopping,” In ICML 2019.
+  更多已出版著作，请点击https://daizhongxiang.github.io 查看

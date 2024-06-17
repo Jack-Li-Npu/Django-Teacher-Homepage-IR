@@ -1,0 +1,75 @@
+黄建华
+校长讲座教授
+副院长（教员事务及学院战略发展运营）
+教育背景
+加州大学伯克利分校博士
+北京大学硕士
+北京大学学士
+研究领域
+统计学习、大数据分析及计算、非参数和半参数统计模型及推断、函数型数据和纵向数据分析、时空数据分析、贝叶斯统计、统计学与自然科学、社会科学、工程、商业等领域的交叉科学研究
+电子邮箱
+jhuang@cuhk.edu.cn
+办公室
+道远楼605
+个人简介
+曾为美国宾州大学沃顿商学院助理教授，原德州A&M大学副教授、教授，并于2017年被命名为德州A&M大学理学院Arseven/Mitchell Astronomical Statistics讲席教授。曾任Texas A&M University统计系研究生项目主任、理学院代理副院长、统计系代理系主任、数据科学研究所副所长等职务。黄教授已培养博士20余人。在国际学术期刊发表学术论文100余篇，并入选全球前2%高引用统计学家榜单。以项目负责人或共同负责人身份主持过多项美国国家自然科学基金项目。曾任Journal of American Statistical Association, STAT (The ISI's Journal for the Rapid Dissemination of Statistics Research), Journal of Multivariate Analysis, and Chemometrics and Intelligent Laboratory Systems等国际期刊编委。
+学术著作
+A.统计学渐进理论 (Asymptotic theory)
+1.Huang, J. Z. (1998). Projection estimation in multiple regression with application to functional ANOVA models. Annals of Statistics, 26, 242-272.
+2.Huang, J. Z., Kooperberg C., Stone, C. J. and Truong, Y. K. (2000). Functional ANOVA modeling for proportional hazards regression. Annals of Statistics, 28, 960-999.
+3.Huang, J. Z. (2001). Concave extended linear modeling: A theoretical synthesis. Statistica Sinica, 11, 173-197.
+4.Huang, J. Z. (2003). Local asymptotics for polynomial spline regression. Annals of Statistics, 31, 1600-1635.
+5.Xu, G. and Huang, J.Z. (2012). Asymptotic optimality and efficient computation of the leave-one-subject-out cross-validation. Annals of Statistics, 40, 2765-3175.
+6.Huang, J.Z. and Su, Ya (2021). Asymptotic properties of penalized spline estimators in concave extended linear models: rates of convergence. Annals of Statistics, to appear.
+B.函数型数据方法 （Functional data analysis）
+1.Zhou, L., Huang, J.Z. and Carroll, R. J. (2008). Joint modeling of paired sparse functional data using principal components. Biometrika, 95, 601-619.
+2.Huang, J.Z., Shen, H. and Buja, A. (2009). The analysis of two-way functional data using two-way regularized singular value decompositions. Journal of American Statistical Association, 104, 1609-1620.
+3.Zhou, L., Huang, J.Z., Martinez, J.G., Maity, A., Baladandayuthapani, V. and Carroll, R. J. (2010). Reduced rank mixed effects models for spatially correlated hierarchical functional data. Journal of American Statistical Association, 105, 390-400.
+4.Maadooliat, M., Zhou, L., Najibi S.M., Gao, X. and Huang, J.Z. (2016). Collective estimation of multiple bivariate density functions with application to angular-sampling-based protein loop modeling. Journal of the American Statistical Association, 111, 43-56.
+5.Li, G., Shen H., and Huang, J.Z. (2016). Supervised sparse and functional principal component analysis. Journal of Computational and Graphical Statistics, 25, 859-878.
+6.Li, G., Huang J.Z., Shen H. (2018). Exponential family functional data analysis via a low-rank model. Biometrics, 2018, 1301-1310.
+C.高斯过程及平滑样条方法（Gaussian process and smoothing splines）
+1.Ma, P., Huang, J.Z. and Zhang, N. (2015). Efficient computation of smoothing splines via adaptive basis sampling. Biometrika, 102 (3), 631--645.
+2.Park, C. and Huang, J.Z. (2016). Efficient computation of Gaussian process regression for large spatial datasets by patching local Gaussian processes. Journal of Machine Learning Research, 17(174), 1-29.
+3.Zhang, N., Ma, P., Zhong, W. and Huang, J.Z. (2017). Adaptive basis selection for exponential family smoothing splines with application in joint modeling of multiple sequencing samples. Statistica Sinica, 27, 1757-1777.
+D.纵向数据分析（Longitudinal data analysis）
+1.Huang, J. Z., Liu, N., Pourahmadi, M., and Liu, L. (2006). Covariance selection and estimation via penalised normal likelihood. Biometrika, 93, 85-98.
+2.Huang, J.Z., Wu., C.O., Zhou, L. (2002). Varying coefficient models and basis function approximations for the analysis of repeated measurements. Biometrika, 89, 111-128.
+3.Huang, J. Z., Wu, C. O. and Zhou, L. (2004). Polynomial spline estimation and inference for varying coefficient models with longitudinal data. Statistica Sinica, 14, 747-772.
+4.Wang L., Li, H. and Huang, J.Z. (2008). Variable selection in nonparametric varying-coefficient models for analysis of repeated measurements. Journal of American Statistical Association, 103, 1556-1569.
+E.多元统计及统计学习（Multivariate analysis and statistical learning）
+1.Shen, H. and Huang, J.Z. (2008). Sparse principal component analysis via regularized low rank matrix approximation. Journal of Multivariate Analysis, 99, 1015-1034.
+2.Lee, S., Huang, J.Z. and Hu, J. (2010). Sparse logistic principal components analysis for binary data.  Annals of Applied Statistics, 4, 1579--1601.
+3.Lee, M., Shen, H., Huang, J. Z. and Marron J. S. (2010). Biclustering via sparse singular value decomposition. Biometrics, 66, 1087-1095.
+4.Chen, L. and Huang, J.Z. (2012). Sparse reduced-rank regression for simultaneous dimension reduction and variable selection. Journal of American Statistical Association, 107, 1533-1545.
+5.L. Zhang, H. Shen, and J. Z. Huang (2013). Robust regularized singular value decomposition with application to mortality data. Annals of Applied Statistics, 7, 540-1561.
+6.He, K., Lian, H., Ma, S. and Huang, J.Z. (2018). Dimensionality reduction and variable selection in multivariate varying-coefficient models with a large number of covariates. Journal of American Statistical Association, 113, 746--754.
+F.半参数统计推断（Semiparametric inference）
+1.Huang, J.Z., Zhang, L. and Zhou. L. (2007). Efficient estimation in marginal partially linear models for longitudinal/clustered data using splines. Scandinavian Journal of Statistics, 34, 451-477.
+2.Cheng G. and Huang, J.Z. (2010). Bootstrap consistency for general semiparametric M-estimation. The Annals of Statistics, 38, 2884—2915.
+G.空间统计（Spatial statistics）
+1.Huiyan Sang, Mykyoung Jun, Jianhua Z. Huang (2011). Covariance approximation for large multivariate spatial datasets with an application to multiple climate model errors. Annals of Applied Statistics, 5, 2519--2548.
+2.Huiyan Sang and Jianhua Z. Huang (2012). A full-scale approximation of covariance functions for large spatial data sets. Journal of Royal Statistical Society, Series B, 74, 111-132.
+3.Bohai Zhang, Huiyan Sang, Jianhua Z. Huang (2015). Full-scale approximations of spatio-temporal covariance models for large datasets. Statistica Sinica, 25, 99-114.
+4.Bohai Zhang, Huiyan Sang, Jianhua Z. Huang (2019). Smoothed full-scale approximation of Gaussian process models for computation of large spatial datasets. Statistica Sinica, 29, 1711-1737.
+H.统计与天文学（Statistics and astronomy）
+1.S. He, W. Yuan, J.Z. Huang, J. Long and L.M. Macri (2016). Period estimation for sparsely-sampled quasi-periodic light curves applied to Miras. The Astronomical Journal, 152(6), 164.
+2.Shiyuan He, Lifan Wang, Jianhua Z. Huang (2018). Characterization of Type Ia Supernova Light Curves Using Principal Component Analysis of Sparse Functional Data. The Astrophysical Journal, 857(2), 110.
+3.Shiyuan He, Zhenfeng Lin, Wenlong Yuan, Lucas Macri, Jianhua Z. Huang (2021). Simultaneous inference of periods and period-luminosity relations for Mira variable stars. Annals of Applied Statistics, to appear.
+I.统计与经管（Statistics and business）
+1.Shen, H. and Huang, J.Z. (2005). Analysis of call center data using singular value decomposition. Applied Stochastic Models in Business and Industry, 21, 251-263.
+2.Shen, H. and Huang, J.Z. (2008). Interday forecasting and intraday updating of call center arrivals. Manufacturing & Service Operations Management, 10, 391-410.
+3.Shen, H. and Huang, J.Z. (2008). Forecasting of inhomogeneous Poisson processes with applications to call center workforce management. The Annals of Applied Statistics, 2, 601-623.       
+4.G. Li, J.Z. Huang, H. Shen (2018). To Wait or Not to Wait: Two-way Functional Hazards Model for Understanding Waiting in Call Centers. Journal of American Statistical Association, 113, 1503-1514.
+J.统计与工程（Statistics and engineering）
+1.Park, C., Huang, J. Z., Huitink, D., Kundu, S., Mallick, B., Liang, H. and Ding, Y. (2012) A Multi-stage, Semi-automated procedure for analyzing the morphology of nanoparticles. IIE Transactions, Special issue on Nanomanufacturing, 44, 507-522. Best Application Paper for IIE Transactions (Quality/Reliability Engineering Focus Issue).
+2.Park, C., Huang, J.Z., Ji, J. and Ding, Y. (2012). Segmenting, inference and classification of partially overlapping nanoparticles. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44, 507-522.
+3.Qian, Y., Huang, J.Z., Li, X. and Ding, Y. (2016). Robust nanoparticles detection from noisy background by fusing complementary image information. IEEE Transactions on Image Processing, 25(12), 5713-5726.
+4.Pourhabib, A., Huang, J. Z. and Ding, Y. (2016). Short-term wind speed forecast using measurements from multiple turbines in a wind farm. Technometrics, 58(1), 138-147.
+5.Qian, Y., Huang, J.Z. and Ding, Y. (2017). Identifying Multi-stage Nanocrystal Growth Using in-situ TEM Video. IISE Transactions, 49, 532-543.
+6.Y. Qian, J.Z. Huang, C. Park, Y. Ding (2019). Fast dynamic nonparametric distribution tracking in electron microscopic data. Annals of Applied Statistics, 1537-1563.
+K.时间序列（Time series）
+1.Huang, J.Z. and Yang, L. (2004). Identification of nonlinear additive autoregressive models.  Journal of Royal Statistical Society, Series B, 66, 463-477.
+2.Huang, J.Z. and Shen, H. (2004). Functional coefficient regression models for nonlinear time series: a polynomial spline approach. Scandinavian Journal of Statistics, 31, 515-534.
+3.Hays, S., Shen, H. and Huang, J.Z. (2012). Functional dynamic factor models with application to yield curve forecasting. Annals of Applied Statistics, 6, 870-894.
+4.W. Lin, T.S. McElroy, J.Z. Huang (2019). Time series seasonal adjustment using regularized singular value decomposition. Journal of Business & Economic Statistics, 1-23.

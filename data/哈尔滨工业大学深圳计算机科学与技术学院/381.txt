@@ -1,0 +1,50 @@
+个人简介
+陈勇勇，博士，哈尔滨工业大学(深圳) 计算机科学与技术学院 生物计算中心 助理教授，硕士生导师。迅策科技-哈尔滨工业大学（深圳）联合实验室副主任。曾在南京大学算机软件新技术国家重点实验室学习交流。深圳市海外高层次人才。澳门大学获得博士学位。现为中国计算机学会会员、中国人工智能协会会员、IEEE会员、中国人工智能学会模式识别专委会委员。《Big Data Mining and Analytics》期刊青年编委（中科院一区，ESCI，影响因子：13.6）。
+研究兴趣包括：机器学习、模式识别、计算机视觉等应用，已在International Journal of Computer Vision、IEEE Transactions on Image Processing、IEEE Transactions on Knowledge and Data Engineering、IEEE Transactions on Information Forensics and Security、IEEE Transactions on Dependable and Secure Computing、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Multimedia、IEEE Transactions on Circuits and Systems for Video Technology、IEEE Transactions on Geoscience and Remote Sensing、IEEE Transactions on Computational Imaging等顶级期刊和IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)、AAAI Conference on Artificial Intelligence (AAAI)、International Joint Conference on Artificial Intelligence (IJCAI)、ACM Multimedia等顶级会议发表60余篇论文。并且担任多个期刊、会议审稿人。
+招生信息
+招收2025年入学博士1~2名。
+招收2024保送研究生[2025年入学]
+同时欢迎本科生参与课题组学术交流。
+
+如果感兴趣申请博士、硕士，请邮件联系，请附件个人简历！！！
+邮箱：cyy2020@hit.edu.cn
+YongyongChen.cn@gmail.com
+
+本科生培养：
+张煊旗 （19级）：ACM Transactions KDD 一作（接收，IF: 3.6，CCF B，数据挖掘TOP期刊）；IEEE TMM 论文在投；获得2023届优秀本科毕业论文；University of Waterloo攻读硕士
+陈柳汉 （20级）：ACM MM 2023 一作（接收，CCF A，多媒体领域TOP会议）；荣获 2023年度本科国家奖学金；保送推免北京大学深圳研究院攻读硕士
+覃 浩 （20级）：IEEE TGRS 一作（接收，IF: 8.2，CCF B，遥感图像处理TOP期刊）；保送推免哈尔滨工业大学（深圳）攻读硕士
+王湘铭（20级）：IEEE TGRS 一作在投；保送推免哈尔滨工业大学（深圳）攻读硕士
+梁天海（20级）：辅修计算机专业，ACM TKDD 一作；保送推免清华大学攻读硕士
+李雄略（20级）：保送推免哈尔滨工业大学（深圳）-大疆攻读硕士
+吴林思（20级）：IEEE TNNLS 一作在投；考取北京大学硕士
+朱志斌（20级）：IEEE TITS 一作在投；保送推免哈尔滨工业大学（深圳）攻读硕士
+王以柔（20级）：ACM MM 2023 二作（接收，CCF A，多媒体领域TOP会议）；荣获 2023年度本科国家奖学金；香港城市大学攻读博士
+
+
+数学建模
+欢迎本科生参加“高教社杯全国大学生数学建模竞赛”和“美国大学生数学建模竞赛（MCM/ICM）”
+1、高教社杯全国大学生数学建模竞赛官网 http://www.mcm.edu.cn/
+2、美国大学生数学建模竞赛（MCM/ICM）官网 https://www.comap.com/contests/mcm-icm
+
+基本要求：
+1、每队最多三位同学，专业不限，需同一学校
+2、具有一定数学基础，掌握《高等数学》《线性代数》《概率论与数理统计》等数学课程
+3、具有一定编程能力，建议Python、C语言等等
+4、一定的论文写作能力，建议使用LaTeX书写数学建模论文，国赛LaTeX模板地址：https://github.com/latexstudio/CUMCMThesis
+5、美国数学建模比赛需要一定的英文论文写作能力
+
+2022年高教社杯全国大学生数学建模竞赛的成绩：
+（1）石冀、郑心锐、仇博宇(20级) 国家一等奖 （指导老师：陈勇勇）
+（2）李忠浩、贾棠惠、刘名扬 (20级) 国家一等奖 （指导老师：陈勇勇）
+（3）王华杰、高子烽、张铃森 (21级) 国家一等奖 （指导老师：陈勇勇）
+（4）高明瀚、邵昊昱、宜盈盈(20级) 国家二等奖 （指导老师：陈勇勇）
+
+2023年高教社杯全国大学生数学建模竞赛的成绩：
+（1）刘沛权、周锐皆、陈佳锐 (22级) 国家一等奖 （指导老师：陈勇勇）
+（2）于哲浩、黄锦鹏、章 懿 (21级) 国家一等奖 （指导老师：陈勇勇）
+（3）黄奕翔、黎 俊、 羊柯伍 (22级) 国家一等奖 （指导老师：陈勇勇）
+（4）陈 然、 谭皓文、黄薄豪 (22级) 国家一等奖 （指导老师：陈勇勇）
+（5）余泓垚、葛铭吉、周海洋(21级) 国家二等奖 （指导老师：陈勇勇）
+（6）林蕴祺、石浩甫、毛翰翔 (21级) 国家二等奖 （指导老师：陈勇勇）
+如果感兴趣数学建模，可以直接给我发邮件：YongyongChen.cn@gmail.com

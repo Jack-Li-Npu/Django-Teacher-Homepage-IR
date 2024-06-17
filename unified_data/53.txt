@@ -1,0 +1,23 @@
+鲁家琦
+助理教授
+教育背景
+哥伦比亚大学博士
+哥伦比亚大学硕士
+清华大学学士
+研究领域
+匹配市场设计、供应链管理、客户关系管理
+个人网站
+https://www.sites.google.com/view/jiaqilu
+电子邮箱
+lujiaqi@cuhk.edu.cn
+办公室
+道远楼508a
+个人简介
+鲁家琦教授现为香港中文大学（深圳）助理教授。鲁教授于2013年获清华大学工业工程及英语双学士学位。之后，她前往哥伦比亚大学深造，并于2015年获得哥伦比亚大学管理科学与工程硕士学位；于2021年获得决策风险及运营博士学位。她的研究使用随机建模，优化理论，统计物理学以及计算机科学中的工具来解决企业和社会中的复杂运营问题。具体方向包括匹配市场的分析、优化和设计，供应链管理以及客户关系管理。
+学术著作
+1. Nicole Immorlica, Yash Kanoria and Jiaqi Lu, In Which Matching Markets do Costly Compatibility Inspections Lead to a Deadlock?, to be submitted soon (short version accepted by WINE 2021)
+2. Ilan Lobel, Yash Kanoria and Jiaqi Lu, Managing Customer Churn via Service Mode Control, R&R at Mathematics of Operations Research
+3. Awi Federgruen, Zhe Liu and Jiaqi Lu, Sourcing under Volatility: Offshoring, Onshoring or Both?, R&R at Operations Research
+4. Awi Federgruen, Zhe Liu and Jiaqi Lu, Combined Pricing and Inventory Control with Multiple Unreliable Suppliers, major revision at Operations Research Letters
+5. Awi Federgruen, Zhe Liu and Jiaqi Lu, Sourcing with Uncertain Demand Updates, working paper
+6. Jiaqi Lu, On the Design of Efficient Emission Permit Allocation Mechanisms, working paper

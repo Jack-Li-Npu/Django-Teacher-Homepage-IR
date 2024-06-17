@@ -1,0 +1,147 @@
+中   |   EN
+教师主页
+团队成员
+学术成果
+新闻动态
+加入我们
+张建国
+Google Scholar
+教授
+计算机科学与工程系
+张建国，南方科技大学计算机科学与工程系教授。张建国1996年于山东工业大学（现山东大学）获得学士学位，1999年于山东工业大学（现山东大学）获得硕士学位，2002年于中科院北京自动化所模式识别国家重点实验室获得博士学位。2002年至2003年在新加坡南洋理工大学任博士后研究员，2003年至2005年在法国国家信息与自动化研究院（INRIA）任博士后研究员，2005年至2007年在英国伦敦大学玛利亚女王学院计算机系任博士后研究员，2007年至2010年在英国贝尔法斯特女王大学计算机系担任讲师，2010年至2015年在英国邓迪大学科学与工程学院计算机系任高级讲师，2015年至2019年在英国邓迪大学科学与工程学院计算机系担任Reader和计算机系国际合作主任，2019年至今在南方科技大学计算机科学与工程系任教授。他的主要研究方向为计算机视觉、医学图像及信息处理、机器学习、人工智能等。
+个人简介
+研究领域
+计算机视觉、医学图像及信息处理、机器学习、人工智能
+教学
+研究方法（研究生一年级）
+Deep Learning（本科生）
+Artificial Intelligence B（本科生）
+学术成果
+查看更多
+1. Chen, Jingkun, Jianguo Zhang, Kurt Debattista, and Jungong Han. Semi-supervised Unpaired Medical Image Segmentation Through Task-affinity Consistency. IEEE Transactions on Medical Imaging (2022).
+2. Hu JF, Zheng WS, Ma LY, Wang G, Lai JH, and Zhang J, Early Action Prediction by Soft Regression, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019 .
+3. Hongwei Li, Gongfa Jiang, Ruixuan Wang, Jianguo Zhang, Zhaolei Wang, Wei-Shi Zheng, BjoernMenze, Fully Convolutional Network Ensembles for White Matter Hyperintensities Segmentation in MR Images, NeuroImage, 2018 (Winning method for the International challenge on brain White Matter Hyperintensities (WMH) segmentation, MICCAI-2017).
+4. S. Bano, T. Suveges, J Zhang, S McKenna (2018), Multimodal, Egocentric Analysis of Focused Interactions, IEEE Access, 2018.
+5. Sotirios Bisdas, Haocheng Shen, Steffi Thust, VasileiosKatsaros, George Stranjalis, Christos Boskos, Sebastian Brandner, and Jianguo Zhang, (2018) Texture analysis- and support vector machine-assisted diffusional kurtosis imaging may allow in vivo gliomas grading and IDH-mutation status prediction: a preliminary study, Scientific Report, Nature (Winning Methods for the Olea Innovators Contest prize for technology transfer).
+6. Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang, Mixed Supervised Object Detection with Robust Objectness Transfer, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018.
+7. Daniel R Morales, Rob Flynn, Jianguo Zhang, Emmanuel Trucco, Jennifer K Quint, Kris Zutis (2018) External validation of ADO, DOSE, COTE and CODEX at predicting death in primary care patients with COPD using standard and machine learning approaches, Respiratory Medicine, Vol. 138, pp.150-155.
+8. Siyamalan Manivannan, Wenqi Li, Jianguo Zhang, Emanuele Trucco, Stephen McKenna (2017), Structure Prediction for Gland Segmentation with Hand-Crafted and Deep Convolutional Features, IEEE Trans. on Medical Imaging, 2017, DOI: 10.1109/TMI.2017.2750210.
+9. Shaofan Lai, Weishi Zheng, Jiangfang Hu, Jianguo Zhang, Global-Local Temporal Saliency Action Prediction, IEEE Transactions on Image Processing, 2017.
+10. J. Hu, W. Zheng, J. Lai, J Zhang, Jointly Learning Heterogeneous Features for RGB-D Activity Recognition, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol.39 (11), 2017, pp.2186-2200.
+新闻动态
+更多新闻
+宇宙不重启，科研不停止
+2020-02-28
+Reading Group Meeting - 1
+2019-11-01
+深圳MICCAI会议
+2019-10-13
+团队成员
+查看更多
+加入团队
+南方科技大学计算机视觉和图像处理团队长期招聘研究助理教授/博士后研究员
+招聘岗位
+
+博士后研究员
+研究助理教授
+
+招聘条件
+
+
+博士后研究员
+
+
+
+对科研有热情、具有自主研发能力，诚实可信；
+计算机/应用数学/信息相关专业博士或即将博士毕业，机器学习/计算机视觉/医学图像处理等研究方向优先；
+具有优秀的英文文献阅读/写作能力；
+在计算机视觉和人工智能相关领域，发表过国际顶级会议或期刊论文（包括如CVPR，ICCV，MICCAI，AAAI，IJCAI， IEEE PAMI 等）优先。
+
+
+
+研究助理教授
+
+
+
+乐于沟通、尊重他人、诚实守信；
+计算机/应用数学/信息相关专业博士或即将博士毕业，机器学习/计算机视觉/数据挖掘等研究方向优先；
+具有优秀的英文文献阅读/写作能力；
+在计算机视觉和人工智能相关领域，发表过国际顶级会议或期刊论文（包括如CVPR，ICCV，MICCAI，AAAI，IJCAI， IEEE PAMI 等）优先。
+
+主要职责
+
+
+博士后研究员
+
+
+
+进行计算机视觉，医学图像处理，机器学习等领域科研工作/撰写英文论文；
+指导并带领硕士生/本科生进行科学研究和论文撰写；
+申报（或协助申报）科研课题和承担部分实验室管理工作。
+
+
+
+研究助理教授
+
+
+
+进行计算机视觉，医学图像处理，机器学习等领域科研工作/撰写英文论文；
+带领硕士生/本科生进行科研训练/撰写英文论文/系统搭建；
+协助申报科研课题及承担相应的实验室管理工作。
+
+相关待遇
+
+
+博士后研究员
+
+
+
+聘期两年，年薪 33.5 万元；含深圳市生活补助 6 万元（税后，共 2 年）及广东省补助 15 万元/年（税前，今年入站，明年发，延后一年，共2年），并按深圳市有关规定参加社会保险及住房公积金。博士后福利费参照学校员额内教职工标准发放；
+特别优秀者可以申请校长卓越博士后，年薪可达 41.5 万元（含广东省及深圳市补助）；
+博士后出站选择留深从事科研工作，且与本市企事业单位签订 3 年以上劳动（聘用）合同的，可以申请深圳市博士后留深来深科研资助。深圳市政府给予每人每年 10 万元科研资助，共资助 3 年；
+对于符合最新《深圳市新引进人才租房和生活补贴》相关政策要求的博士后，落户深圳后，可协助申请深圳市一次性租房和生活补贴 3 万元（免税，自主网上申请）；
+依据自身符合的条件情况，在站或出站留深博士后可申请"深圳市孔雀计划 C 类人才"或者"深圳市后备级人才"，享受 5 年 160 万的奖励津贴（免税）（以深圳市最新相关人才申报要求为准）；
+对于优秀的出站博士后将积极推荐协助其申请南方科技大学研究助理教授，研究副教授等岗位。
+
+
+
+研究助理教授
+
+
+
+年薪35-40万/年；
+其他社保及福利：按规定购买社会保险和住房公积金、餐费、过节费、高温补贴等其他福利参照教职工标准；
+优秀者可申请深圳市孔雀计划C类。
+
+联系方式
+张建国教授 <zhangjg@sustech.edu.cn>
+
+南方科技大学 - 中科龙智联合招聘实习生
+公司信息
+关于深圳中科龙智数字技术有限公司，请访问http://www.isinosmart.com。
+岗位方向
+医学图像处理、深度学习、三维重建、人脸分析与识别、SLAM、三维点云识别与处理(PCL)、红外图像识别、车辆图像检索等相关方向。
+相关要求
+
+本科及以上学历；数学、电子、自动化、计算机等相关专业；
+熟悉常用深度学习算法及计算机视觉算法，能够熟练阅读外文专业文献;
+具有扎实的 Python/C/C++ 编程能力, 至少掌握 PyTorch、Tensorflow、Caffe、MXNet 中的一个框架。
+
+具有以下经验者优先考虑
+
+参加过 ACM-ICPC 竞赛，MCM/ICM 竞赛并获奖的选手优先；
+在 ICCV, CVPR, ECCV, AAAI, NIPS, SIGGRAPH, TIP, TPAMI, TMM 等发表过相关论文者优先；
+参加过各类机器人、无人机、AI 大赛、Kaggle 竞赛并获奖的选手优先。
+
+联系方式
+张建国教授 <zhangjg@sustech.edu.cn>
+张伟伟博士 <wwzhang@isinosmart.com>
+查看更多
+联系我们
+联系地址
+南方科技大学工学院南楼313室
+办公电话
+Email me first, please
+电子邮箱
+zhangjg@sustech.edu.cn
+Copyright © 2018 All Rights Reserved.

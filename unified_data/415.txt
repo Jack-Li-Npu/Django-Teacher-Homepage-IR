@@ -1,0 +1,41 @@
+基本信息
+王强，哈尔滨工业大学（深圳）计算机科学与技术学院助理教授。2014年于华南理工大学计算机科学与工程学院取得工学学士学位，2020年于香港浸会大学计算机系取得博士学位，期间获得香港博士政府奖学金HKPFS资助。2020年～2022年曾于香港浸会大学计算机系担任研究助理教授（RAP）。主要研究方向为GPU计算、节能计算、分布式并行计算、高效深度学习等。
+
+English Home Page: https://blackjack2015.github.io/
+
+欢迎对以下方向感兴趣的同学联系我！
+GPU并行计算（性能/能效建模和优化）
+分布式计算（任务调度和资源分配）
+3D视觉（双目视觉、多视图重建、神经渲染）
+工作经历
+2022.05-至今 哈尔滨工业大学（深圳） 计算机科学与技术学院 助理教授
+2022.01-2022.05 腾讯科技（深圳）有限公司 TEG高级工程师
+2020.09-2022.01 香港浸会大学 计算机系 研究助理教授（RAP）
+2019.12-2020.08 香港浸会大学 计算机系 研究助理（RA）
+2014.10-2015.08 香港浸会大学 计算机系 研究助理（RA）
+教育经历
+2015-2020 香港浸会大学 计算机系 博士学位
+2010-2014 华南理工大学 计算机科学与技术 学士学位
+代表性论文
+Please refer to Google Scholar for the complete list。
+Highlights: TPDS*3, EuroSys*2, IPDPS*1, IWQoS*2, ICML*1, AAAI*2, ECCV*1, ICRA*1
+# Equal Contribution, * Corresponding Author
+期刊论文
+Qiang Wang, Xinxin Mei, Xiaowen Chu, Hai Liu, Yiu Wing Leung, and Zongpeng Li, “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters,” IEEE Transactions on Parallel and Distributed Systems, 2022. (CCF A)
+Qiang Wang and Xiaowen Chu, “GPGPU Performance Estimation with Core and Memory Frequency Scaling,” IEEE Transactions on Parallel and Distributed Systems, Vol. 31, No. 12, pages 2865-2881, Dec 2020. (CCF A)
+Chengjian Liu#, Qiang Wang# and Xiaowen Chu, “ESetStore: an Erasure-coded Storage System with Fast Data Recovery,” IEEE Transactions on Parallel and Distributed Systems. 2020. (CCF A)
+
+会议论文
+Qiang Wang, Laiyi Li, Weile Luo, Yijia Zhang, Bingqiang Wang, "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information," IEEE IWQoS, 2024. (CCF B)
+Yizhou Luo, Qiang Wang*, Shaohuai Shi, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," IEEE IWQoS, 2024. (CCF B)
+Peijie Dong, Lujun Li, Zhenheng Tang, Xiang Liu, Xinglin Pan, Qiang Wang*, Xiaowen Chu, "Pruner-Zero: Evolving Symbolic Pruning Metric from scratch for Large Language Models", International Conference on Machine Learning (ICML), 2024. (CCF A)
+Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Qiang Wang*, Xiaowen Chu, "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2024. (CCF B)
+Qingsong Yan, Qiang Wang*, Kaiyong Zhao, Jie Chen, Bo Li, Xiaowen Chu, Fei Deng, “CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning”, AAAI Conference on Artificial Intelligence (AAAI), 2024. (CCF A)
+Yijia Zhang, Qiang Wang*, Zhe Lin, Pengxiang Xu, Bingqiang Wang, "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance", The European Conference on Computer Systems (EuroSys), 2024. (CCF A)
+Shaohuai Shi, Xinglin Pan, Qiang Wang*, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, “ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling,” EuroSys 2024, Athens, Greece, April 22-25, 2024. (CCF A)
+Qingsong Yan#, Qiang Wang#, Kaiyong Zhao, Bo Li, Xiaowen Chu, Fei Deng, "Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity", AAAI Conference on Artificial Intelligence (AAAI), 2023. (CCF A)
+Qiang Wang, Shaohuai Shi, Kaiyong Zhao and Xiaowen Chu, "EASNet:Searching Elastic and Accurate Network Architecture for Stereo Matching," European Conference on Computer Vision (ECCV), 2022. (清华推荐分区A类, CCF B)
+Qiang Wang, Shizhen Zheng, Qingsong Yan, Fei Deng, Kaiyong Zhao, and Xiaowen Chu, “IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation”, IEEE International Conference on Multimedia and Expo (ICME) 2021. (CCF B)
+Qiang Wang, Shaohuai Shi, Shizhen Zheng, Kaiyong Zhao, and Xiaowen Chu, “FADNet: A Fast and Accurate Network for Disparity Estimation”. 2020 International Conference on Robotics and Automation (ICRA). IEEE, 2020. (清华推荐分区A类, CCF B)
+Qiang Wang and Xiaowen Chu, “GPGPU Performance Estimation with Core and Memory Frequency Scaling,” IEEE International Conference on Parallel and Distributed Systems (ICPADS), Singapore, Dec 2018. (CCF C)
+Qiang Wang, Pengfei Xu, Yatao Zhang, and Xiaowen Chu, “EPPMiner: An Extended Benchmark Suite for Energy, Power and Performance Characterization of Heterogeneous Architecture,” ACM e-Energy 2017, Hong Kong, May 2017. (ACM SIG Energy顶会，Best Paper Award Candidates)

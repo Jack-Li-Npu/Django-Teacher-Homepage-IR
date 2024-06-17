@@ -1,0 +1,34 @@
+徐慰中
+教授
+教育背景
+威斯康辛大学计算机科学博士
+研究领域
+优化编译器、动态二进制翻译和优化、虚拟化技巧和虚拟机、高性能计算机架构
+电子邮箱
+hsuweichung@cuhk.edu.cn
+办公室
+Room 509a, Daoyuan Building
+个人简介
+徐慰中于1987年在威斯康星大学麦迪逊分校获得计算机科学博士学位。在加入香港中文大学（深圳）SDS之前，他曾在美国英特尔公司工作。2021年至2022年，他曾担任晶心科技顾问。 2013年至2021年，他在台湾大学计算机科学与信息工程系担任教授。 2009年至2013年在中国台湾交通大学担任教授、主任。1999年至2009年，他是美国明尼苏达大学双城分校计算机科学与工程系教授。1997 年至1999 年，他在美国惠普公司(HP)加州语言实验室担任动态优化架构师。1993 年至1997 年间，他担任编译器团队的技术主管，该团队为 HP PA-8000 系统开发并发布了优化编译器。 在加入 HP 之前，他是位于威斯康星州 Chippewa Falls 的 Cray Research 的高级架构师。
+学术著作
+Selected Conference Papers
+Yi You, Pangfeng Liu, Ding-Yong Hong, Jan-Jan Wu and Wei-Chung Hsu “Accelerating Convolutional Neural Networks via Inter-operator Scheduling”, IEEE ICPADS, 2022, (Best Paper runner up).
+Yu-Ping Liu, Ding-Yong Hong, Jan-Jan Wu, Sheng-Yu Fu, and Wei-Chung Hsu, “Exploiting Asymmetric SIMD Register Configurations in ARM-tox86 Dynamic Binary Translation”,26th IEEE International Conference on Parallel Architectures and Compilation Techniques (PACT), Portland, Oregon, USA, 2017
+Ding-Yong Hong, Sheng-Yu Fu, Yu-Ping Liu, Jan-Jan Wu, Wei-Chung Hsu, “Exploiting Longer SIMD Lanes in Dynamic Binary Translation”, IEEE ICPADS, 2016. (Best Paper Award).
+Yu-Ju Huang, Hsuan-Heng Wu, Yeh-Ching Chung, Wei Chung Hsu, “Building A KVM- based Hypervisor for A Heterogeneous System Architecture Compliant System”, ACM Virtual Execution Environment, VEE’2016, Atlanta, USA, 2016, (Outstanding Paper Award).
+James R. Goodman and Wei-Chung Hsu: ”Author retrospective for code scheduling and register allocation in large basic blocks”. the International Conference on Supercomputing, (ICS) 25th Anniversary 2014
+Ding-Yong Hong, Jan-Jan Wu, Pen-Chung Yew, Wei-Chung Hsu, Chun-Chen Hsu, Pangfeng Liu, Chien-Min Wang, and Yeh-Ching Chung,” HQEMU: A Multi-Threaded and Retargetable Dynamic Binary Translator on Multicores”, Proceedings of the Tenth Annual IEEE/ACM International Symposium on Code Generation and Optimization, (CGO-2012), Apr. 2012
+Jiun-Hung Ding, Po-Chun Chang, Wei-Chung Hsu, Yeh-Ching Chung, “PQEMU: A Parallel System Emulator Based on QEMU”,IEEE International Conference on Parallel and Distributed Systems, ICPADS 2011, Dec., 2011 (Best Paper Award)
+Yangchun Luo, Venkatesan Packirisamy, Nikhil Mungre, Ankit Tarkas, Antonia Zhai, and Wei Chung Hsu, “Dynamic Performance Tuning for Speculative Threads”, Proceedings of the International Symposium on Computer Architecture, (ISCA'09), June, 2009.
+Jiwei Lu, Abhinav Das, Wei-Chung Hsu, Khoa Ngyuan, Santosh Abraham, "Dynamic Helper Threaded Prefetching on the SUN Ultra SPARC CMP Processor", in Proceedings of the 38th Annual IEEE/ACM International Symposium on Microarchitecture, (MICRO-38) , 2005
+Jiwei Lu, Howard Chen, Rao Fu, Wei Hsu, Pen-Chung Yew, D. Chen "The Performance of Runtime Data Cache Prefetching in a Dynamic Optimization System" in Proceedings of the 36th Annual IEEE/ACM International Symposium on Microarchitecture, (MICRO-36), San Diego, California, Dec. 3-5, 2003
+Jin Lin,Tong Chen,Wei Hsu,Pen-Chung Yew,Roy Ju "A Compiler Framework for Speculative Analysis and Optimizations" In Proceedings of the SIGPLAN'03 Conference on Programming Language Design and Implementation (PLDI-2003), June, 2003
+Vatsa Santhenam, Eddie Gornish, and Wei Hsu, "Data Prefetch on the HP-PA8000", Proceedings of the International Symposium on Computer Architecture, (ISCA'97), June, 1997.
+Dave Dunn and Wei Hsu, "Instruction Scheduling for the HP-PA8000", Proceedings of the 29th Annual International Symposium on MicroArchitecture, (MICRO-29), Dec., 1996.
+Wei Hsu and Jim Smith, "Performance of Cached DRAM in Vector Supercomputers", Proceedings of the International Symposium on Computer Architecture (ISCA'93), 1993
+Sriram Vayapeyam and Wei Hsu, "On the Instruction-Level Characteristics of Inherently Scalar Code in Highly-Vectorized Scientific Applications", Proceedings of the 25th Annual International Symposium on MicroArchitecture, (MICRO-25), 1992
+Jim Smith and Wei Hsu, "Prefetching in Supercomputer Instruction Caches", Supercomputing, (SC'92), Nov., 1992.
+Sriram Vajapeyam, Wei Hsu and Guri Sohi, "An Empirical Study of the Cray Y-MP processor using the Perfect Club Benchmarks", Proceedings of the International Symposium on Computer Architecture, (ISCA'91), 1991.
+J. Goodman and Wei Chung Hsu, "Code Scheduling and Register Allocation in Large Basic Blocks" the International Conference on Supercomputing, (ICS'88), 1988.
+A. Pleszkun, J. Goodman, Wei Chung Hsu, ate. al., "WISQ: A Restartable Architecture Using Queues" Proceedings of the International Symposium on Computer Architectures, (ISCA'87), 1987.
+J. Goodman and Wei Chung Hsu, "On the Use of Registers vs. Cache to Minimize Memory Traffic", Proceedings of the International Symposium on Computer Architectures, (ISCA'86), 1986

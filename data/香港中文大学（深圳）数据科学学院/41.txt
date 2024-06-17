@@ -1,0 +1,36 @@
+蒋理
+助理教授
+教育背景
+香港中文大学博士
+哈尔滨工业大学学士
+研究领域
+计算机视觉、人工智能、机器学习
+个人网站
+https://llijiang.github.io/
+个人简介
+蒋理教授现为香港中文大学（深圳）数据科学学院助理教授。蒋教授于2021年获得香港中文大学博士学位，其后在马克斯·普朗克研究所担任博士后研究员。蒋教授的研究方向集中在计算机视觉、人工智能、和机器学习领域，如三维场景理解、自动驾驶、表征学习和多模态学习等。她的研究成果发表在CVPR、ICCV、ECCV、NeurIPS、TPAMI和IJCV等顶级会议和期刊中。其关于自动驾驶行为预测的研究在2022和2023年的Waymo Open Dataset Motion Prediction Challenge中均获得第一名。
+学术著作
+1. Li Jiang, Zetong Yang, Shaoshuai Shi, Vladislav Golyanik, Dengxin Dai, Bernt Schiele, “Self-supervised Pre-training with Masked Shape Prediction for 3D Scene Understanding”, CVPR 2023. (CCF-A)
+2. Zhuotao Tian, Jiequan Cui, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia, “Learning Context-aware Classifier for Semantic Segmentation”, AAAI 2023, Oral Presentation. (CCF-A)
+3. Xiaoyang Wu, Yixing Lao, Li Jiang, Xihui Liu, Hengshuang Zhao, “Point Transformer V2: Grouped Vector Attention and Partition-based Pooling”, NeurIPS 2022. (CCF-A)
+4. Shaoshuai Shi, Li Jiang, Dengxin Dai, Bernt Schiele, “Motion Transformer with Global Intention Localization and Local Movement Refinement”, NeurIPS 2022, Oral Presentation. (CCF-A)
+5. Shaoshuai Shi, Li Jiang, Jiajun Deng, Zhe Wang, Chaoxu Guo, Jianping Shi, Xiaogang Wang, Hongsheng Li, “PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection”, IJCV 2022. (CCF-A, IF: 11.541)
+6. Wu Zheng, Li Jiang, Fanbin Lu, Yangyang Ye, Chi-Wing Fu, “Boosting Single-Frame 3D Object Detection by Simulating Multi-Frame Point Clouds”, ACMMM 2022. (CCF-A)
+7. Runyu Ding*, Jihan Yang*, Li Jiang, Xiaojuan Qi, (*: equal contribution), “DODA: Data-oriented Sim-to-Real Domain Adaptation for 3D Semantic Segmentation”, ECCV 2022.
+8. Zetong Yang*, Li Jiang*, Yanan Sun, Bernt Schiele, Jiaya Jia, (*: equal contribution), “A Unified Query-based Paradigm for Point Cloud Understanding”, CVPR 2022. (CCF-A)
+9. Wu Zheng, Mingxuan Hong, Li Jiang, Chi-Wing Fu, “Boosting 3D Object Detection by Simulating Multimodality on Point Clouds”, CVPR 2022, Oral Presentation. (CCF-A)
+10. Zhuotao Tian, Xin Lai, Li Jiang, Michelle Shu, Hengshuang Zhao, Jiaya Jia, “Generalized Few-Shot Semantic Segmentation”, CVPR 2022. (CCF-A)
+11. Xin Lai*, Jianhui Liu*, Li Jiang, Liwei Wang, Hengshuang Zhao, Shu Liu, Xiaojuan Qi, Jiaya Jia, (*: equal contribution), “Stratified Transformer for 3D Point Cloud Segmentation”, CVPR 2022. (CCF-A)
+12. Zhuotao Tian, Pengguang Chen, Xin Lai, Li Jiang, Shu Liu, Hengshuang Zhao, Bei Yu, Ming-Chang Yang, Jiaya Jia, “Adaptive Perspective Distillation for Semantic Segmentation”, T-PAMI, 2022. (CCF-A, IF: 17.73)
+13. Li Jiang, Shaoshuai Shi, Zhuotao Tian, Xin Lai, Shu Liu, Chi-Wing Fu, Jiaya Jia, “Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation”, ICCV 2021. (CCF-A)
+14. Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun, “Point Transformer”, ICCV 2021. (CCF-A)
+15. Xin Lai*, Zhuotao Tian*, Li Jiang, Shu Liu, Hengshuang Zhao, Liwei Wang, Jiaya Jia, (*: equal contribution), “Semi-supervised Semantic Segmentation with Directional Context-aware Consistency”, CVPR 2021. (CCF-A)
+16. Wenbo Hu*, Hengshuang Zhao*, Li Jiang, Jiaya Jia, Tien-Tsin Wong, (*: equal contribution), “Bidirectional Projection Network for Cross Dimension Scene Understanding”, CVPR 2021, Oral Presentation. (CCF-A)
+17. Wu Zheng, Weiliang Tang, Li Jiang, Chi-Wing Fu, “SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud”, CVPR 2021. (CCF-A)
+18. Wu Zheng, Weiliang Tang, Sijin Chen, Li Jiang, Chi-Wing Fu, “CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud”, AAAI 2021. (CCF-A)
+19. Li Jiang, Hengshuang Zhao, Shaoshuai Shi, Shu Liu, Chi-Wing Fu, Jiaya Jia, “PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation”, CVPR 2020, Oral Presentation. (CCF-A)
+20. Shaoshuai Shi, Chaoxu Guo, Li Jiang, Zhe Wang, Jianping Shi, Xiaogang Wang, Hongsheng Li, “PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection”, CVPR 2020. (CCF-A)
+21. Li Jiang, Hengshuang Zhao, Shu Liu, Xiaoyong Shen, Chi-Wing Fu, Jiaya Jia, “Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation”, ICCV 2019. (CCF-A)
+22. Lu Qi, Li Jiang, Shu Liu, Xiaoyong Shen, Jiaya Jia, “Amodal Instance Segmentation through KINS Dataset”, CVPR 2019. (CCF-A)
+23. Hengshuang Zhao*, Li Jiang*, Chi-Wing Fu, Jiaya Jia, (*: equal contribution), “PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing”, CVPR 2019. (CCF-A)
+24. Li Jiang, Shaoshuai Shi, Xiaojuan Qi, Jiaya Jia, “GAL: Geometric Adversarial Loss for Single-View 3D-Object Reconstruction”, ECCV 2018, Oral Presentation.

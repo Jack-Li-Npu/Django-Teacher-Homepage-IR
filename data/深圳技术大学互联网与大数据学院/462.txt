@@ -1,0 +1,24 @@
+王树兰
+  一、教育经历
+2010/09-2016/06  深圳大学，信息与通信工程，博士（硕博连读）
+2008/09-2010/06 河南理工大学，电子信息工程，学士
+2005/09-2008/06 黄淮学院，应用电子技术
+
+二、工作经历
+2020/12--至今      深圳技术大学，大数据与互联网学院，副教授
+2017/09-2020/12  深圳技术大学，大数据与互联网学院，助理教授
+2016/07-2017/09   深圳技术大学 ，大数据与互联网学院，实验员
+
+三、主要研究领域
+网络与信息安全、云计算安全、访问控制、密文检索
+
+四、主要成果及荣誉
+(1) 国家自然科学基金项目：云计算环境下基于属性基加密的可搜索加密技术研究，61702341，25万元，2018/01—2020/12，项目负责人；
+(2) Shulan Wang, Haiyan Wang, Jianqiang Li, et. al. A Fast CP-ABE System for Cyber-Physical Security and Privacy in Mobile Healthcare Network [J]. IEEE Transactions on Industry Applications, 2020, 56(4), 4467-4477.
+(3) Jianqiang Li, Shulan Wang*, Yuan Li, et. al. An Efficient Attribute-Based Encryption Scheme with Policy Update and File Update in Cloud Computing [J]. IEEE Transactions on Industrial Informatics, 2019, 15(12), 6500-6509, 2019.
+(4) Shulan Wang*, Junwei Zhou, Jianping Yu, et. al. An Efficient File Hierarchy Attribute-Based Encryption Scheme in Cloud Computing [J]. IEEE Transactions on Information Forensics & Security, 2016, 11(6): 1265-1277.
+(5) Shulan Wang*, Kaitai Liang, Joseph K. Liu, et. al. Attribute-Based Data Sharing Scheme Revisited in Cloud Computing [J]. IEEE Transactions on Information Forensics & Security, 2016, 11(8): 1661-1673.
+  E-mail:wangshulan@sztu.edu.cn
+
+
+  下一篇：但炜

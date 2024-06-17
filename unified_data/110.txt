@@ -1,0 +1,30 @@
+丁文伯
+副教授，博士生导师
+学科：
+TBSI联系信息
+邮箱： ding.wenbo@sz.tsinghua.edu.cn
+地址： Information Building, SIGS campus
+个人简历
+教学
+研究领域
+研究成果
+奖励荣誉
+概况
+Research Area：Signal Processing, Robotics, Human-machine interface, Machine Learning
+Group Website: http://ssr-group.net/index.html
+
+
+教育经历
+2011 - 2016, Ph.D. in Electronic Engineering, Tsinghua University, China
+2007 - 2011, B. Eng. in Electronic Engineering, Tsinghua University, China
+
+工作经历
+2022 - Present, Associate Professor, Institute of Data and Information, Tsinghua Shenzhen International Graduate School, China
+2019 - 2022, Assistant Professor, Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School, China
+2016 - 2019, Postdoc, Georgia Institute of Technology, US.
+
+学术兼职
+1.     Associate Editor, Diginal Signal Processing: A Review Journal
+2.     Co-Chair, Ubicomp/ISWC’21 CPD Workshop
+3.     Workshop Co-Chair, IEEE SmartGridComm 2019
+4.     Reviewer for over 40 journals and conferences

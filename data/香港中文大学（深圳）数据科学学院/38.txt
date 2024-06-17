@@ -1,0 +1,26 @@
+JASRA, Ajay
+校长讲座教授
+教育背景
+帝国理工学院统计学博士，2005年
+牛津大学应用统计学硕士，2002年
+埃克塞特大学数学与统计学士，2001年
+研究领域
+贝叶斯统计、蒙特卡洛计算、马尔可夫链、数据科学中的随机算法分析
+个人网站
+https://sites.google.com/site/ajayjasra0/home
+电子邮箱
+ajayjasra@cuhk.edu.cn
+办公室
+道远楼510a
+个人简介
+Ajay Jasra生于英国布里斯托。他于2001年获得埃克塞特大学数学与统计学学士学位（一等荣誉），并于2002年获得牛津大学应用统计学硕士学位。2005年，他在伦敦帝国理工学院完成了统计学博士学位。Jasra教授曾多次担任博士后：牛津大学（2005年）、剑桥大学（2006年）、伦敦帝国理工学院查普曼数学研究员（2006年至2008年）以及日本统计数学研究所（2008年）。
+Jasra教授于2008年至2011年在伦敦帝国理工学院担任他的第一个教员职位，担任数学系统计学助理教授（讲师）。随后在2011年至2019年，他在新加坡国立大学（NUS）的统计和应用概率系（现为统计与数据科学系）担任副教授（终身教授）。在新加坡国立大学，他曾任院长席副教授及系副主任。在2019到2024年间，他在阿卜杜拉国王科技大学（KAUST）担任应用数学，计算科学及统计学的教授。在2021至2024年间，他在阿卜杜拉国王科技大学担任计算机，电子，数学科学和工程（CEMSE）学院副院长。自2024年1月起，他担任香港中文大学（深圳）数据科学学院大数据专业的客座教授。
+他的研究方向在于现代应用数学和统计的接口，包括蒙特卡洛、马尔可夫链及其在生物学和金融领域的应用。
+Jasra教授在同行评审期刊和会议上发表了100多篇文章。他的文章被引用逾7000次，H指数达到33。15多位博士生在他的指导下毕业，并且他向10多名博士后提供咨询，其中一些博士后在哈佛大学，爱丁堡大学，华威大学担任教职。Jasra教授是《统计与计算》（Statistics and Computing）的主编。Jasra教授是美国数学科学学会（AIMS）期刊：《数据科学基础》（Foundations of Data Science）的联合主编。同时他也是多家期刊的副主编，包括《应用概率年鉴》（Annals of Applied Probability）以及《SIAM/ASA不确定性量化期刊》（SIAM/ASA Journal of Uncertainty Quantification）
+学术著作
+(Shortlist):
+(2024) Law, KJH., Walton, N., Yang, S. & Jasra A. Multi-Index SMC for BIPs. Found. Comp. Math. (to appear).
+(2023) Ruzaqyat, H., Chada, N. & Jasra, A. Unbiased estimation using underdamped Langevin. SIAM J. Sci. Comp. 45, A3047-A3070.
+(2023) Del Moral, P., Horton, E. & Jasra A. On the stability of positive semigroups. Ann. Appl. Probab. 33, 4424-4490.
+(2023) Ruzaqyat, H., Beskos, A., Crisan, D., Jasra A. & Kantas, N. Unbiased estimation via diffusions. J. Comp. Phys. 472, 111643.
+(2022) Chada, N., Jasra, A., & Yu, F. ML ensemble Kalman-Bucy filters. SIAM/ASA JUQ, 10, 584-618.

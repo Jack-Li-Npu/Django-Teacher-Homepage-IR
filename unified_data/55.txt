@@ -1,0 +1,28 @@
+马晨昊
+助理教授
+教育背景
+香港大学博士
+山东大学学士
+  研究领域
+大规模数据管理和数据挖掘
+个人网站
+https://chenhao-ma.github.io/
+电子邮箱
+machenhao@cuhk.edu.cn
+办公室
+道远楼319b
+个人简介
+马晨昊现为香港中文大学（深圳）助理教授。此前，他曾于香港大学担任博士后研究员。他于2017年获得山东大学工学学士学位，2021年获得香港大学博士学位。他曾于2019年作为访问学者在新南威尔士大学学习。 他已在数据库和数据挖掘领域发表论文 10 余篇，其中大部分发表在顶级会议和期刊（例如SIGMOD、PVLDB 和 TODS）。其中一项代表性研究成果的论文被评为SIGMOD 2020会议的最佳论文之一（~4/458），并荣获2021 ACM SIGMOD Research Highlight Award。他曾担任多个顶级期刊（如 TKDE 和 VLDBJ）的审稿人。
+  学术著作
+1. Yixiang Fang, Wensheng Luo, Chenhao Ma. “Densest Subgraph Discovery on Large Graphs: Applications, Challenges, and Techniques”, Proceedings of the VLDB Endowment (PVLDB), 15.
+2. Chenhao Ma, Reynold Cheng, Laks V.S. Lakshmanan, Xiaolin Han. “Finding Locally Densest Subgraphs: A Convex Programming Approach”, Proceedings of the VLDB Endowment (PVLDB), 15.
+3. Yangqin Jiang, Yixiang Fang, Chenhao Ma, Xin Cao, Chunshan Li, “Effective Community Search over Large Star-Schema Heterogeneous Information Networks”, Proceedings of the VLDB Endowment (PVLDB), 15, 2022.
+4. Xiaolin Han, Reynold Cheng, Chenhao Ma* and Tobias Grubenmann. “DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection”, Proceedings of the VLDB Endowment (PVLDB), 15(7): 1493-1505, 2022.
+5. Chenhao Ma, Yixiang Fang, Reynold Cheng, Laks V.S. Lakshmanan, Xiaolin Han. “A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery”, ACM International Conference on Management of Data (SIGMOD), pages 845-859, 2022.
+6. Xiaolin Han, Reynold Cheng, Tobias Grubenmann, Silviu Maniu, Chenhao Ma*, Xiaodong Li. “Leveraging Contextual Graphs for Stochastic Weight Completion in Sparse Road Networks”, SIAM International Conference on Data Mining (SDM), pages 64-72, 2022.
+7. Reynold Cheng, Chenhao Ma, Xiaodong Li, Yixiang Fang, Ye Liuy, Victor Y.L. Wong, Esther Lee, Tai Hing Lam, Sai Yin Ho, Man Ping Wang, Weijie Gong, Wentao Ning, Ben Kao. “The Social Technology and Research (STAR) Lab in the University of Hong Kong”, ACM SIGMOD Record, 51, 2022.
+8. Chenhao Ma, Yixiang Fang, Reynold Cheng, Laks V.S. Lakshmanan, Wenjie Zhang, Xuemin Lin. “On Directed Densest Subgraph Discovery”, ACM Transactions on Database Systems (TODS), 46(4):1-45, 2021.
+9. Chenhao Ma, Yixiang Fang, Reynold Cheng, Laks V.S. Lakshmanan, Wenjie Zhang, Xuemin Lin. “Efficient Directed Densest Subgraph Discovery”, ACM SIGMOD Record, 50(1):33-40, 2021. (Accompanied by a technical perspective by Prof. Yufei Tao)
+10. Xiaodong Li, Reynold Cheng, Kevin Chen Chuan Chang, Caihua Shan, Chenhao Ma, Hongtai Cao, “On Analyzing Graphs with Motif-Paths”, Proceedings of the VLDB Endowment (PVLDB), 14(6): 1111-1123, 2021.
+11. Chenhao Ma, Yixiang Fang, Reynold Cheng, Laks V.S. Lakshmanan, Wenjie Zhang, Xuemin Lin. “Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs”, ACM International Conference on Management of Data (SIGMOD), pages 1051-1066, 2020. (One of four Best of SIGMOD 2020, rate: 4/458)
+12. Chenhao Ma, Reynold Cheng, Laks V.S. Lakshmanan, Tobias Grubenmann, Yixiang Fang, Xiaodong Li. “LINC: A Motif Counting Algorithm for Uncertain Graphs”, Proceedings of the VLDB Endowment (PVLDB), 13(2): 155-168, 2019.

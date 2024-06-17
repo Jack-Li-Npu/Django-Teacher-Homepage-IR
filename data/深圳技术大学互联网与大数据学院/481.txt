@@ -1,0 +1,27 @@
+史诗洁
+
+
+教育经历：
+2009.09-2013.06，华南理工大学数学学院 本科生；
+2013.09-2018.06，华南理工大学数学学院 博士研究生；
+
+工作经历：
+2024.01—至今  深圳技术大学大数据与互联网学院 副教授
+2018.07-2023.12 深圳技术大学 讲师
+
+教学领域：高等数学
+研究方向：非线性偏微分方程，生物趋化性
+
+科研项目：
+【1】 国家自然科学基金青年基金项目(11901400)：几类具有密度抑制的趋化性模型的定性研究，2020.1-2022.12，在研。
+发表论文：
+【1】 H. Y. Jin, Z. Liu, S. Shi and J. Xu*, Boundedness and stabilization in a two-species chemotaxis-competition system with signal-dependent diffusion and sensitivity. J. Differential Equations, 267: 494–524, 2019.
+【2】 J. Xu, Z. Liu and S. Shi*, Large time behavior of solutions for the attraction-repulsion Keller-Segel system with large initial data. Appl. Math. Lett., 87:13--19, 2019.
+【3】 H. Y. Jin, Z. Liu and S. Shi*, Global dynamics of a quasilinear chemotaxis model arising from tumor invasion. Nonlinear Anal. Real World Appl., 44: 18--39, 2018.
+【4】 S. Shi, Z. Liu and H. Y. Jin*, Boundedness and large time behavior of an attraction-repulsion chemotaxis model with logistic source. Kinet. Relat. Models, 10:855--878, 2017.
+【5】 S. Shi* and Z. Liu, Asymptotic nonlinear stability of a composite wave of two traveling waves to a chemotaxis model. Math. Meth. Appl. Sci., 40: 4892--4905, 2017.
+【6】 H. Tang, S. Shi and Z. Liu*, The dependences on initial data for the b-family equation in critical Besov space. Monatsh. Math.,177: 471--492, 2015.
+
+邮箱：shishijie@sztu.edu.cn
+上一篇：沈小乐
+下一篇：谷也

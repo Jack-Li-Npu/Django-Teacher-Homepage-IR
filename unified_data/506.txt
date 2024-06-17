@@ -1,0 +1,24 @@
+张妙
+一、教育经历
+2018/09-2021/08香港城市大学，计算机科学，博士
+2015/09-2018/06中国矿业大学，计算机应用技术，硕士
+2011/09-2015/06山东大学，软件工程，学士
+
+二、工作经历
+2021/09-至今 深圳技术大学 大数据与互联网学院，讲师
+
+三、主要研究领域
+软件工程、软件测试、人工智能在软件测试领域的应用
+
+四、主要成果及荣誉
+（1）M. Zhang, J. Keung, T. Y. Chen, Y. Xiao, “Validating class integration test order generation systems with metamorphic testing,” Information and Software Technology, 2021, vol. 132, p.106507.
+（2）M. Zhang, J. Keung, Y. Xiao, M. A. Kabir, “Evaluating the effects of similar-class combination on class integration test order generation,” Information and Software Technology, 2021, vol. 129, p.106438.
+（3）S. Jiang, M. Zhang, Y. Zhang, R. Wang, Q. Yu, J. Keung, “An integration test order strategy to consider control coupling,” IEEE Transactions on Software Engineering, 2021, vol. 47(7), pp. 1350-1367.
+（4）M. Zhang, S. Jiang, Y. Zhang, X. Wang, Q. Yu, “A multi-level feedback approach for the class integration and test order problem,” Journal of Systems and Software, 2017, vol. 133, pp. 54-67.
+
+E-mail:zhangmiao@sztu.edu.cn
+
+
+
+上一篇：谷淑婷
+下一篇：胡金萍

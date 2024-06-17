@@ -1,0 +1,27 @@
+郭振兴
+助理教授
+教育背景
+埃默里大学生物统计学博士，2017-2022
+中国科学院运筹学硕士，2014-2017
+湖南大学应用数学学士，2010-2014
+研究领域
+生物统计学、统计基因组学、计算生物学
+个人网站
+http://zhenxingguo.org/
+电子邮箱
+guozhenxing@cuhk.edu.cn
+办公室
+道远楼320a
+个人简介
+郭振兴教授现为香港中文大学（深圳）数据科学学院助理教授。她于2014年在湖南大学获得应用数学学士学位，于2017年在中科院数学与系统科学研究院获得运筹学硕士学位。随后，她前往美国埃默里大学生物统计与生物信系攻读博士，并于2022年7月获得生物统计博士学位。
+她的研究方向是开发用于分析生物医学数据，特别是组学数据的统计方法和工具。除此之外，她还热衷于跟临床医生以及生物学家进行合作。合作项目涉及哮喘、癌症以及阿尔兹海默症。
+学术著作
+A. Journal articles
+Z. Guo, A. M. Shafik, P. Jin, H. Wu (2022) Differential RNA Methylation Analysis for MeRIP-seq Data under General Experimental Design. Bioinformatics under revision.
+Z. Guo, A. M. Shafik, P. Jin, Z. Wu, H. Wu (2021) Detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing. Bioinformatics, 37(18): 2818–2824. https://doi.org/10.1093/bioinformatics/btab181
+Z Li, Z. Guo, Y Cheng, P Jin, H Wu. Robust partial reference-free cell composition estimation from tissue expression. Bioinformatics, (2020), 36(11): 3431-3438. https://academic.oup.com/bioinformatics/article/36/11/3431/5804977
+Z. Guo*, Y Cui*, X Shi, JA Birchler, I Albizua, SL Sherman, ZS Qin, T Ji (2020) An empirical bayesian approach for testing gene expression fold change and its application in detecting global dosage effects. NAR Genomics and Bioinformatics, 2(3):lqaa072. https://academic.oup.com/nargab/article/2/3/lqaa072/5908375
+Z. Guo, S Zhang (2020) Sparse deep nonnegative matrix factorization. Big Data Mining and Analytics, 3(1):13-28. https://ieeexplore.ieee.org/document/8935092
+B. Book chapters
+Z. Guo, A. Shafik, P. Jin, Z. Wu, H. Wu (2022) Analyzing mRNA epigenetic sequencing data with TRESS. Methods in Molecular Biology (Springer Nature), to present.
+A complete list of publications can be found at https://scholar.google.com.hk/citations?user=hm0mP4EAAAAJ&hl=zh-CN

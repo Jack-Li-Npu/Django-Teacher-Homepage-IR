@@ -1,0 +1,141 @@
+个人介绍
+刘圣鑫，哈尔滨工业大学（深圳）计算机科学与技术学院副教授，博士研究生导师。于香港城市大学计算机科学学院获得博士学位，随后在新加坡南洋理工数理科学学院从事博士后研究工作。研究领域为理论计算机科学（Theoretical Computer Science）和计算经济学（Computational Economics）。研究兴趣集中于计算社会选择与公平分配（Computational Social Choice and Fair Division），算法博弈论（Algorithmic Game Theory）以及算法设计和分析及其在计算机各领域的应用。所发表论文荣获CCF-A类会议 AAAI-20 唯一最佳学生论文奖（获奖论文比例：~2/7737）和理论计算机知名会议 FAW-20 最佳论文奖。
+
+个人主页：https://shengxin-liu.github.io/
+招生信息
+每年计划招收博士研究生1名、硕士研究生3名，同时也欢迎校内本科生加入课题组从事科研。具体要求：
+“大胆假设”：善于观察，充满想象力，乐于探索极致创新；
+“小心求证”：具备夯实的算法设计与分析以及编程基础（优先考虑有ICPC竞赛经验的学生）。
+或则，你觉得你足够优秀。
+
+表现优秀者将被推荐至欧洲、澳洲、新加坡和中国香港等地继续深造。
+
+本课题组现有大量不同方向和不同程度的课题，有意加入的学生请联系：sxliu@hit.edu.cn。
+
+代表性论文
+In publications marked with '**', authors are ordered alphabetically, as is a convention of theory papers (Wikipedia). In the other publications, authors are ordered by contribution.
+被**标记的发表论文，遵循理论计算机和数学等领域的国际惯例，作者署名根据姓氏字母排序。而其他发表论文，作者署名根据贡献排序。
+
+Working Papers:
+Shuohao Gao（20级本科生）, Kaiqiang Yu, Shengxin Liu, and Cheng Long.
+Maximum k-Plex Search: An Alternated Reduction-and-Bound Method.
+arXiv version
+
+Joint work with Xiaolin Bu, Zihao Li, Jiaxin Song, and Biaoshuai Tao.
+** On the Complexity of Maximizing Social Welfare within Fair Allocations of Indivisible Goods.
+arXiv version
+
+Joint work with Xiaolin Bu, Zihao Li, Jiaxin Song, and Biaoshuai Tao.
+** Fair Division of Indivisible Goods with Comparison-Based Queries.
+arXiv version
+
+Publications:
+Joint work with Bo Li, Zihao Li, and Zekai Wu（20级本科生）.
+** Allocating Mixed Goods with Customized Fairness and Indivisibility Ratio.
+In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2024.
+
+Shuohao Gao（20级本科生）, Kaiqiang Yu, Shengxin Liu, Cheng Long, and Zelong Qiu.
+On Searching Maximum Directed (k,l)-Plex.
+In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2024.
+
+Joint work with Zihao Li, Xinhang Lu, Biaoshuai Tao, and Yichen Tao.
+** A Complete Landscape for the Price of Envy-Freeness.
+In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024.
+
+Joint work with Xinhang Lu, Mashbat Suzuki, and Toby Walsh.
+** Mixed Fair Division: A Survey.
+In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Senior Member Track, 2024.
+
+Joint work with Xiaolin Bu, Zihao Li, Jiaxin Song, and Biaoshuai Tao.
+** Fair Division with Allocator's Preference.
+In Proceedings of the Conference on Web and Internet Economics (WINE), 2023.
+
+Joint work with Xiaohui Bei and Xinhang Lu.
+** Fair Division with Subjective Divisibility.
+In Proceedings of the Conference on Web and Internet Economics (WINE), 2023.
+
+Qifan Zhang and Shengxin Liu.
+Efficient Exact Minimum k-Core Search in Real-World Graphs.
+In Proceedings of the Conference on Information and Knowledge Management (CIKM), 2023.
+
+Joint work with Zihao Li, Xinhang Lu, and Biaoshuai Tao.
+** Truthful Fair Mechanisms for Allocating Mixed Divisible and Indivisible Goods.
+In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+
+Joint work with Xiaolin Bu, Zihao Li, Jiaxin Song, and Biaoshuai Tao.
+** Fair Division with Prioritized Agents.
+In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+Harry Kai-Ho Chan, Shengxin Liu, Cheng Long, and Raymond Chi-Wing Wong.
+Cost-Aware and Distance-Constrained Collective Spatial Keyword Query.
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 35(2): 1324-1336, 2023.
+
+Kaiqiang Yu, Cheng Long, Shengxin Liu, and Da Yan.
+Efficient Algorithms for Maximal $k$-Biplex Enumeration.
+In Proceedings of the ACM International Conference on Management of Data (SIGMOD), 2022.
+
+Joint work with Chung Keung Poon.
+** Greedy Algorithms for the Profit-Aware Social Team Formation Problem.
+Journal of Combinatorial Optimization (JOCO), 44(1): 94-118, 2022.
+
+Joint work with Xiaohui Bei, Chung Keung Poon, and Hongao Wang.
+** Candidate Selections with Proportional Fairness Constraints.
+Autonomous Agents and Multi-Agent Systems (JAAMAS), 36(1): 5, 2022.
+
+Joint work with Xiaohui Bei, Xinhang Lu, and Hongao Wang.
+** Maximin Fairness with Mixed Divisible and Indivisible Goods.
+Autonomous Agents and Multi-Agent Systems (JAAMAS), 35(2): 34, 2021.
+
+Joint work with Vincent Chau, Ken Fong, Elaine Yinling Wang, and Yong Zhang.
+** Minimizing Energy on Homogeneous Processors with Shared Memory.
+Theoretical Computer Science (TCS), 866:160-180, 2021.
+
+Joint work with Xiaohui Bei, Xinhang Lu, and Hongao Wang.
+** Maximin Fairness with Mixed Divisible and Indivisible Goods.
+In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021.
+
+Joint work with Xiaohui Bei, Zihao Li, Jinyan Liu, and Xinhang Lu.
+** Fair Division of Mixed Divisible and Indivisible Goods.
+Artificial Intelligence (AIJ), 293:103436, 2021. (Best papers of AAAI-20)
+
+Joint work with Xiaohui Bei, Zihao Li, Jinyan Liu, and Xinhang Lu.
+** Fair Division of Mixed Divisible and Indivisible Goods.
+In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020. (Invited to AIJ Fast Track)
+AAAI-20 Outstanding Student Paper Award
+
+Joint work with Xiaohui Bei, Chung Keung Poon, and Hongao Wang.
+** Candidate Selections with Proportional Fairness Constraints.
+In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. (Invited to JAAMAS Fast Track)
+
+Joint work with Vincent Chau, Ken Fong, Elaine Yinling Wang, and Yong Zhang.
+** Minimizing Energy on Homogeneous Processors with Shared Memory.
+In Proceedings of the International Frontiers of Algorithmics Workshop (FAW), 2020. (Invited to TCS Fast Track)
+FAW-20 Best Paper Award
+
+Shengxin Liu, Carlee Joe-Wong, Jiasi Chen, Christopher G. Brinton, Chee Wei Tan, and Liang Zheng.
+Economic Viability of a Virtual ISP.
+IEEE/ACM Transactions on Networking (TON), 28(2): 902-916, 2020.
+
+Xiao Zhang, Sheung-Hung Poon, Shengxin Liu, Minming Li, and Victor C. S. Lee.
+Consistent Dynamic Map Labeling with Fairness and Importance.
+Computer Aided Geometric Design (CAGD), 81:101892, 2020.
+
+Joint work with Minming Li, Hongyu Liang, Chung Keung Poon, and Hao Yuan.
+** Asymptotically Optimal Algorithms for Running Max and Min Filters on Random Inputs.
+IEEE Transactions on Signal Processing (TSP), 66(13): 3421-3435, 2018.
+
+Shengxin Liu and Chung Keung Poon.
+On Mining Approximate and Exact Fault-Tolerant Frequent Itemsets.
+Knowledge and Information Systems (KAIS), 55(2): 361-391, 2018.
+
+Joint work with Chung Keung Poon.
+** A Simple Greedy Algorithm for the Profit-Aware Social Team Formation Problem.
+In Proceedings of the International Conference on Combinatorial Optimization and Applications (COCOA), 2017.
+
+Joint work with Hongyu Liang and Hao Yuan.
+** Optimal Algorithms for Running Max and Min Filters on Random Inputs.
+In Proceedings of the International Computing and Combinatorics Conference (COCOON), 2015.
+
+Shengxin Liu and Chung Keung Poon.
+On Mining Proportional Fault-Tolerant Frequent Itemsets.
+In Proceedings of the International Conference on Database Systems for Advanced Applications (DASFAA), 2014.

@@ -1,0 +1,28 @@
+刘成健
+
+一、教育经历
+2013/09-2018/08 香港浸会大学，计算机技术，博士
+2010/09-2013/06 深圳大学，计算机软件与理论，硕士
+
+二、工作经历
+2021/12-至今 深圳技术大学大数据与互联网学院 副教授
+
+
+2018/09-2021/11 深圳技术大学大数据与互联网学院 助理教授
+
+
+三、主要研究领域
+大数据存储、分布式计算、分布式深度学习、区块链应用和物联网安全
+
+四、主要成果及荣誉
+（1）国家自然科学基金项目：基于纠删码分布式存储系统近似最优的节点数据恢复研究，62002240，24万元，2021/01—2023/12，项目负责人；
+（2）深圳大学、广东省普及型高性能计算机重点实验室、广东省国产高性能数据计算系统工程技术研究中心及深圳市服务计算与应用重点实验室开放课题：纠删码在分布式存储中恢复性能研究，SZU-GDPHPCL201902，5万元，2019/12—2021/12，项目负责人；
+（3）Chengjian Liu, Qiang Wang, Xiaowen Chu, Yiu-Wing Leung and Hai Liu. ESetStore: An Erasure-Coded Storage System With Fast Data Recovery. IEEE Transactions on Parallel and Distributed Systems, 2020, 31(9):2001-2016.
+（4）Chengjian Liu, Qiang Wang, Xiaowen Chu, and Yiu-Wing Leung. G-CRS: GPU Accelerated Cauchy Reed-Solomon Coding. IEEE Transactions on Parallel and Distributed Systems, 2018, 29(7):1484-1498.
+（5）Chengjian Liu, Kai Ouyang, Xiaowen Chu, Hai Liu, and Yiu-Wing Leung. R-Memcached: a Reliable In-Memory Cache System for Big Key-Value Stores. The 1st International Conference on Big Data Computing and Communications (BigCom), 2015. (获最佳论文奖，扩展发表于Tsinghua Science and Technology)
+
+E-mail:liuchengjian@sztu.edu.cn
+
+
+  上一篇：田卫忠
+下一篇：高武军

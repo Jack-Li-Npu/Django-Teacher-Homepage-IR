@@ -1,0 +1,24 @@
+武执政
+副教授
+教育背景
+南洋理工大学博士
+南开大学硕士
+杭州电子科技大学学士
+
+   研究领域
+语音交互、语音生成、音频鉴伪
+个人网站
+http://www.drwuz.com
+电子邮箱
+wuzhizheng@cuhk.edu.cn
+办公室
+综合楼C715
+个人简介
+武执政博士现任香港中文大学（深圳）副教授、入选国家级青年人才，连续多次入选斯坦福大学“全球前2％顶尖科学家”。于南洋理工大学博士学位，曾在Meta（原Facebook）、苹果、爱丁堡大学、微软亚洲研究院等机构从事学术研究和技术领导工作。武教授发起了开源系统Merlin与Amphion、第一届声纹识别欺骗检测国际评测、第一届语音转换国际评测，组织了2019年语音合成国际评测（Blizzard Challenge 2019）。多次获得最佳论文奖。武教授现为IEEE/ACM TASLP、SPL等语音领域权威期刊编委, 也是IEEE Spoken Language Technology Workshop 2024的大会主席。
+学术著作
+Zhizheng Wu, Junichi Yamagishi, Tomi Kinnunen, Cemal Hanilçi, Mohammed Sahidullah, Aleksandr Sizov, Nicholas Evans, Massimiliano Todisco, Hector Delgado, Asvspoof: The automatic speaker verification spoofing and countermeasures challenge, IEEE Journal of Selected Topics in Signal Processing, Vol.11, 588-604, 2017.
+Zhizheng Wu, Oliver Watts, Simon King, Merlin: An Open Source Neural Network Speech Synthesis System, SSW, 202-207, 2016.
+Zhizheng Wu, Cassia Valentini-Botinhao, Oliver Watts, Simon King, Deep Neural Networks Employing Multi-task Learning and Stacked Bottleneck Features for Speech Synthesis, ICASSP, 2015.
+Zhizheng Wu, Nicholas Evans, Tomi Kinnunen, Junichi Yamagishi, Federico Alegre, Haizhou Li, Spoofing and countermeasures for speaker verification: a survey, Speech Communication Vol. 66, 130-153, 2015.
+Zhizheng Wu, Tuomas Virtanen, Eng Siong Chng, Haizhou Li, Exemplar-based sparse representation with residual compensation for voice conversion, IEEE/ACM Transactions on Audio, Speech, and Language Processing, Vol. 22, 1506-1521, 2014.
+更多学术著作，请点击 https://scholar.google.com/citations?user=K6zhweAAAAAJ&hl=en 查看

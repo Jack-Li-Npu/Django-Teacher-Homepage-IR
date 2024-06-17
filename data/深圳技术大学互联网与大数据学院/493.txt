@@ -1,0 +1,22 @@
+王书鑫
+
+一、教育经历
+2010/09-2015/07中国科学院计算技术研究所，计算机软件与理论，工学博士（硕博连读，其中2014/5-2014/11月访问华为诺亚方舟实验室（香港））
+2004/09-2008/06中南大学，计算机科学与技术，工学学士
+  二、工作经历
+2020/03-至今 深圳技术大学大数据与互联网学院，助理教授
+2018/04-2020/02前海开源基金管理公司，TMT行业研究员（总监助理级）
+2015/09-2018/04深圳证券交易所，金融交叉学科博士后
+（其中2016/10-2018/04访问广发基金数据策略投资部）
+2008/07-2009/08网易公司，互动娱乐部研发工程师
+  三、主要研究领域
+信息检索、量化投资、金融科技
+  四、主要成果及荣誉
+（1）校级项目：基于人工智能的A股量化投资平台研究，20211063010011，20万元，2021/03—2023/12，项目负责人；
+（2）博士后基金项目：大数据时代下投资者情绪与股票市场异常波动研究，2016M602546,5万，2016/11-2018/04，项目负责人；
+（3）Shuxin Wang*, Xin Jiang, Hang Li, Jun Xu,Bin Wang, Incorporating Semantic Knowledge into Latent Matching Model in Search. The 12th Annual ACM AIRS Conference 2016；
+（4）Shuxin Wang*, Kai Lu, Xiao Lu, Bin Wang: Query Dependent Time-Sensitive Ranking Model for Microblog Search. Web Technologies and Applications 16th Asia-Pacific Web Conference, Changsha, China, September 5-7, 2014. Proceedings, LNCS, Springer, APWeb 2014: 644- 651；
+（5）王书鑫*，杨宗杭，网络信息辅助股价异常波动监控初探，股市事件检测、分析及监管启示，深圳证券交易所研究简报，2017，2018；
+  E-mail:wangshuxin@sztu.edu.cn
+    上一篇：杨晓杏
+下一篇：李瑞

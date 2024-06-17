@@ -1,0 +1,34 @@
+孙启霖
+助理教授
+教育背景
+阿卜杜拉国王科技大学计算视觉中心博士
+阿卜杜拉国王科技大学计算视觉中心硕士
+华中科技大学光学与电子信息学院学士
+研究领域
+端到端计算成像、水下成像、深度和超快速成像、低延时系统、门控成像、微纳与超表面
+个人网站
+https://www.x-mol.com/groups/sun_qilin_imaging
+电子邮箱
+sunqilin@cuhk.edu.cn
+办公室
+道远楼507a
+个人简介
+孙启霖，1992年生，九三学社社员，香港中文大学（深圳）助理教授点昀技术创始人。获得2022年度深圳市人工智能奖、春申金字塔杰出人才。研究领域集中于端到端计算成像相机设计、计算成像、光学、SPAD阵列成像、水下成像与散射介质激光雷达，博士期间发表多篇一作ACM TOG,S IGGRAPH，Siggraph Aisa, CVPR（oral）等并长期担任审稿人。担任CAAI青工委委员、3DV专委、智能无人系统建模与仿真专委、GAMES执行委员、FOE青年编委等。所创办的点昀技术致力于打造端到端计算光学平台，提供成像一体化解决方案。主持量产了面向实时三维重建的高速、高精度车规、工业级RGBD相机（100FPS软时钟多机对齐），实现了小面积低功耗全并行异构4KRAW域BM3D视频与超低延时ISP。
+  个人网站
+https://www.x-mol.com/groups/sun_qilin_imaging
+长期招收硕士、博士、博后、RA，详情请见网站如上。
+  公开课程
+GAMES204：计算成像
+https://games-cn.org/GAMES204/
+学术著作
+Haoyu Chen, Zhihua Wang, Yang Yang, Qilin Sun, Kede Ma “Learning a Deep Color Difference Metric for Photographic Images” In Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2023.
+Xiong Dun, Qiang Fu, Haotian Li, Tiancheng Sun, Jian Wang, Qilin Sun* “Recent progress in computational imaging” 《计算成像前沿进展》, 图像图形学发展年度报告，Journal of Image and Graphics, 2022
+Xuanyu Zhang, Yongbing Zhang, Ruiqin Xiong, Qilin Sun, Jian Zhang “Herosnet: Hyperspectral explicable reconstruction and optimal sampling deep network for snapshot compressive imaging”  In Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2022.
+Qilin Sun, C Wang, Q. Fu, X Dun, W Heidrich, “End-to-end Complex Lens Design with Differentiable Ray-Tracing” ACM Transactions on Graphics (Proc. SIGGRAPH), 2021
+Qilin Sun, E Tseng, Q. Fu, W Heidrich, F Heide “Learning Rank-1 Diffractive Optics for Single-shot High Dynamic Range Imaging” In Proc. Computer Vision and Pattern Recognition (CVPR oral), IEEE, 2020.
+Qilin Sun, J. Zhang, X. Dun, B. Ghanem, Y. Peng and W. Heidrich “ End-to-End Learned, Optically Coded Super- resolution SPAD Camera.” ACM Transactions on Graphics，2020
+Qilin Sun, X Dun, Y Peng, W Heidrich “Optical coding of SPAD array and its application in compressive depth and transient imaging” Optoelectronic Imaging and Multimedia Technology, 2019
+Y. Peng*, Qilin Sun*, X. Dun*, G. Wetzstein, W. Heidrich and F. Heide (*Joint first authors) “ Learned Large Field-of-View Imaging With Thin-Plate Optics.” ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 2019
+Qilin Sun, X. Dun, Y. Peng and W. Heidrich “Depth and Transient Imaging with Compressive SPAD Array Cameras.” In Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2018.
+Y. Peng, X. Dun, Qilin Sun, F. Heide and W. Heidrich “Focal sweep imaging with multi-focal diffractive optics.” Internal Conference on Computational Photography (ICCP), IEEE, 2018.
+Y. Peng, X. Dun, Qilin Sun and W. Heidrich “Mix-and-match holography.” ACM Transactions on Graphics (Proc.SIGGRAPH Asia), 2017.

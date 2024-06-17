@@ -1,0 +1,21 @@
+Home
+Publications
+Ming Tang
+  Associate Professor (研究员，博士生导师),
+Department of Computer Science and Engineering,
+Southern University of Science and Technology (SUSTech), Shenzhen, China
+
+E-mail: tangm3 [@] sustech [dot] edu [dot] cn
+
+CV (updated May 23, 2024)
+
+Our group has Postdoctoral Research Fellow openings. If you are interested, please send me your CV through email.
+
+I received the PhD degree in the Department of Information Engineering (IE) at The Chinese University of Hong Kong (CUHK) in September 2018, advised by Prof. Jianwei Huang. During November 2018 to January 2022, I was a postdoctoral research fellow in the Department of Electrical and Computer Engineering (ECE) at The University of British Columbia (UBC), advised by Prof. Vincent W.S. Wong.
+Research
+Distributed learning and crowd intelligence
+Mobile edge computing
+Mobile video streaming and live streaming
+Network games and economics
+News
+Our paper "Deep Reinforcement Learning for Task Offloading in Mobile Edge Computing Systems," has been awarded the 2022 Best Paper Award from IEEE Transactions on Mobile Computing (TMC).

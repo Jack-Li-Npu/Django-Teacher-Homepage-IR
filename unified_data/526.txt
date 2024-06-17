@@ -1,0 +1,23 @@
+池也
+一、教育经历
+2009/09-2013/06 电子科技大学 计算机科学与技术 工学学士
+2013/09-2016/06 华中科技大学 计算机软件与理论 工学硕士
+2019/09-2023/09 华中科技大学 计算机软件与理论 工学博士
+
+二、工作经历
+2023/11-至今 深圳技术大学 大数据与互联网学院 讲师
+
+三、主要研究领域
+异构内存系统、内存计算、高性能计算、新兴存储技术
+
+四、主要研究成果
+[1]. Ye Chi, Jianhui Yue, Xiaofei Liao, Haikun Liu, Hai Jin. A Hybrid Memory Architecture Supporting Fine-Grained Data Migration. Frontiers of Computer Science, 2024, 18(2): 182103（JCR Q2，CCF-B）
+
+[2]. Ye Chi, Rentong Guo, Xiaofei Liao, Haikun Liu, Jianhui Yue. P3DC: Reducing DRAM Cache Hit Latency by Hybrid Mappings.（Accepted by Journal of Computer Science and Technology ，doi：10.1007/s11390-023-2561-y，CCF-B）
+
+[3]. Ye Chi, Haikun Liu, Ganwei Peng, Xiaofei Liao, Hai Jin. Transformer: An OS-Supported Reconfigurable Hybrid Memory Architecture. Applied Sciences, 2022, 12(24): 12995
+
+Email: chiye@sztu.edu.cn
+
+上一篇：王维坤
+下一篇：何志坚

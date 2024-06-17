@@ -1,0 +1,29 @@
+何俊锋
+个人简介：
+何俊锋，副教授，深圳市高层次人才。硕士、博士毕业于首都师范大学应用数学专业。武汉大学-南方科技大学联合培养博士后。主要研究方向为以生态学、物理和化学为背景的非线性偏微分方程。近年来，主持国家自然科学基金青年基金、中国博士后面上项目以及深圳市博士后出站科研项目各一项，教改项目一项；科研项目主要聚焦于反应扩散方程的传播现象，例如种群的传播与入侵以及传染病的传播与消亡等，累计发表SCI学术论文10余篇，研究成果主要发表在Archive for Rational Mechanics and Analysis、Journal of Differential Equation、Nonlinear Analysis以及Zeitschrift für Angewandte Mathematik und Physik等国外著名SCI期刊。先后访问香港中文大学、剑桥大学、台湾大学理论科学研究中心以及加拿大纽芬兰纪念大学等名校。指导学生在国家级和省级学科竞赛中多次获奖，其中在第2022年高教杯全国大学生数学建模竞赛中指导学生获得全国一等奖(获奖率0.6%)，是我校参赛以来首次获得的最高奖项之一。
+
+工作经历：
+2024.1--至今，  深圳技术大学， 副教授
+2019.9--2023.12，  深圳技术大学， 助理教授
+2017.8--2019.8， 南方科技大学(与武汉大学联合培养) ，博士后  
+
+主要项目：
+1. 国家自然科学基金青年基金，几类带实效边界反应扩散方程的定性分析和渐近性态研究，30万元，主持，在研
+2. 深圳市科研项目，几类带有实效边界条件的反应扩散方程解的渐近行为，30万元，主持，在研
+3. 中国博士后科学基金，几类反应扩散方程的定性分析和传播性质，5万元，主持，结题
+
+主要科研论文：
+1. Xinfu Chen; Junfeng He;Xuefeng Wang. Asymptotic propagation speeds of the Fisher-KPP equation with an effective boundary condition on a road. Archive for Rational Mechanics and Analysis, 2023, 247(03): 1-35
+2. Junfeng He; Zhen-Hui Bu. Global stability of critical-speed pulsating fronts for degenerate monostable reactions. Communications in Nonlinear Science and Numerical Simulation, 2022, 118.
+3. Zhen-Hui Bu; Junfeng He*. Qualitative properties of pulsating fronts for reaction-advection-diffusion equations in periodic excitable media. Nonlinear Analysis. Real World Applications, 2021, 63.
+4. Junfeng He; Wei-Jian Bo. Propagation dynamics of degenerate monostable equations in space-time periodic media. Nonlinear Analysis. Theory, Methods & Applications, 2023, 232.
+5. Junfeng He; Yaping Wu. Spatial decay and stability of traveling fronts for degenerate Fisher type equations in cylinder. Journal of Differential Equations, 2018, 265(10): 5066-5114.
+6. Junfeng He*; Je-Chiang Tsai. Traveling waves in the Kermack-McKendrick epidemic model with latent period.Zeitschrift für Angewandte Mathematik und Physik., 2019, 70：23. 
+  主要荣誉：
+1. 深圳市高层次人才，2019年
+2. “高教社杯”全国大学生数学建模竞赛优秀指导教师，2022，2023年
+3. 深圳技术大学校级优秀班主任，2022年
+4. 深圳技术大学教学竞赛三等奖，2019，2023年
+
+上一篇：谷也
+下一篇：陈寅

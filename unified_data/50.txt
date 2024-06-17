@@ -1,0 +1,23 @@
+刘桂良
+助理教授
+教育背景
+西蒙菲莎大学博士
+华南理工大学学士
+  研究领域
+安全强化学习、逆强化学习以及具身智能相关任务
+个人网站
+http://guiliang.me/
+电子邮箱
+liuguiliang@cuhk.edu.cn
+办公室
+综合楼C611
+个人简介
+刘桂良教授曾于2020-2022年任加拿大滑铁卢大学博士后和维克特研究院的研究员。在此之前，他于2020年从加拿大西蒙菲莎大学取得博士学位，并且于2016年从华南理工大学取得学士学位。
+他曾经和多伦多大学机器学习组、百度研究院认知学习实验室以及华为诺亚研究院有紧密合作。他曾获MITACS学术训练奖和中国国家奖学金。他在国际一流计算机会议（包括NeurIPS、WWW、ICRL 和IJCAI）上发表过多篇文章。他目前也是多个国际著名人工智能会议（包括NeurIPS、ICML和ICLR）的审稿人。
+学术著作
+1. Guiliang Liu, Ashutosh Adhikari, Amir-massoud Farahmand, Pascal Poupart. Learning Object-Oriented Dynamics for Planning from Text. International Conference on Learning Representations (ICLR) 2022
+2. Yudong Luo, Guiliang Liu, Haonan Duan, Oliver Schulte, Pascal Poupart. Distributional Reinforcement Learning with Monotonic Splines. International Conference on Learning Representations (ICLR) 2022
+3. Guiliang Liu, Xiangyu Sun, Oliver Schulte, Pascal Poupart. Learning Tree Interpretation from Object Representation for Deep Reinforcement Learning. Advances in Neural Information Processing Systems (NeurIPS) 2021.
+4. Guiliang Liu, Oliver Schulte, Pascal Poupart, Mike Rudd, Mehrsan Javan. Learning Agent Representations for Ice Hockey. Advances in Neural Information Processing Systems (NeurIPS) 2020.
+5. Guiliang Liu, Xu Li, Jiakang Wang, Mingming Sun, Ping Li. Extracting Knowledge from Web Text with Monte Carlo Tree Search. The ACM Web Conference (WWW) 2020.
+6. Xiangyu Sun, Jack Davis, Oliver Schulte, Guiliang Liu. Cracking the Black Box: Distilling Deep Sports Analytics. SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2020.
