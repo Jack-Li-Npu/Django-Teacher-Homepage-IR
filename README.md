@@ -121,7 +121,7 @@
 
    以上步骤完成后，您可以在浏览器中访问 `http://127.0.0.1:8000/` 进行查询测试。
 
-![image]([https://gitee.com/LCZsecretspace/images/raw/master/202406170932681.png](https://github.com/Jack-Li-Npu/-Django-/blob/master/img/%E5%9B%BE%E7%89%873.png))
+![image](https://gitee.com/LCZsecretspace/images/raw/master/202406170932681.png)
 
 ![image](https://gitee.com/LCZsecretspace/images/raw/master/202406170932113.png)
 
@@ -135,9 +135,9 @@
 ### 文件结构
 
 
-|  data                         // 按院校进行分类的原始内容
-|  tokenized_data               // 按院校进行分类的分词内容
-|  unified_data                 // 统一索引的原始内容
+|  data                         // 按院校进行分类的原始内容  
+|  tokenized_data               // 按院校进行分类的分词内容  
+|  unified_data                 // 统一索引的原始内容  
 |  unified_tokenized_data       // 统一索引的分词内容和对应url
 │  doc_urls.json                // 存储文档ID和对应URL的JSON文件
 │  InvertedIndex.py             // 倒排索引的实现代码
