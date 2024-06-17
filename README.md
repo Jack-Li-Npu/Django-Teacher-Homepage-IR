@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# -Django-
-深圳大学信息检索大作业：搭建了一个基于Django框架的面向教师个人主页的信息检索系统，主要用于检索教师个人主页信息。系统实现了倒排索引、查询纠正、TF-IDF加权和余弦相似度计算等信息检索技术，并支持中文和英文的查询。项目包含网页抓取、分词处理、倒排索引构建、查询搜索、结果排序及展示等功能模块。
-=======
-## 项目说明
-
 ### 项目概述
 
 深圳大学信息检索大作业：搭建了一个基于Django框架的面向教师个人主页的信息检索系统，主要用于检索教师个人主页信息。系统实现了倒排索引、查询纠正、TF-IDF加权和余弦相似度计算等信息检索技术，并支持中文和英文的查询。项目包含网页抓取、分词处理、倒排索引构建、查询搜索、结果排序及展示等功能模块。
@@ -127,11 +121,11 @@
 
    以上步骤完成后，您可以在浏览器中访问 `http://127.0.0.1:8000/` 进行查询测试。
 
-![image-20240617093236605](https://gitee.com/LCZsecretspace/images/raw/master/202406170932681.png)
+![image]([https://gitee.com/LCZsecretspace/images/raw/master/202406170932681.png](https://github.com/Jack-Li-Npu/-Django-/blob/master/img/%E5%9B%BE%E7%89%873.png))
 
-![image-20240617093159989](https://gitee.com/LCZsecretspace/images/raw/master/202406170932113.png)
+![image](https://gitee.com/LCZsecretspace/images/raw/master/202406170932113.png)
 
-![image-20240617093209097](https://gitee.com/LCZsecretspace/images/raw/master/202406170932165.png)
+![image](https://gitee.com/LCZsecretspace/images/raw/master/202406170932165.png)
 
 
 
@@ -139,6 +133,8 @@
 
 
 ### 文件结构
+
+
 |  data                         // 按院校进行分类的原始内容
 |  tokenized_data               // 按院校进行分类的分词内容
 |  unified_data                 // 统一索引的原始内容
@@ -204,5 +200,3 @@
             index.html          // 搜索主页模板
             results.html        // 搜索结果页面模板
 
-​            
->>>>>>> e0ca796 (first commit)
